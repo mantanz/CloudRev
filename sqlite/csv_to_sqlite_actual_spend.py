@@ -3,12 +3,10 @@ import pandas as pd
 
 # Define database and table name
 db_name = "mydatabase.db"
-table_name = "aop_budget"
-#csv_file = "/Users/manishtaneja/Downloads/final_budget_data.csv"  # Replace with the actual CSV file path
-csv_file = "/Users/manishtaneja/Downloads/AOP-Apr24toMar25.csv"  # Replace with the actual CSV file path
-#csv_file = "/Users/manishtaneja/Downloads/actual_spend.csv"  # Replace with the actual CSV file path
+table_name = "actual_spend"
+csv_file = "/Users/manishtaneja/Downloads/actual_spend.csv"  # Replace with the actual CSV file path
 # Load CSV into Pandas DataFrame
-df = pd.read_csv(csv_file, parse_dates=["month"])  # Ensure 'month' is recognized as a date column
+df = pd.read_csv(csv_file, parse_dates=["date"])  # Ensure 'month' is recognized as a date column
 
 # Connect to SQLite database (it creates the database if it doesn't exist)
 conn = sqlite3.connect(db_name)
