@@ -8,6 +8,9 @@ csv_file = "/Users/manishtaneja/Downloads/AOP-Apr24toMar25-final.csv"  # Replace
 # Load CSV into Pandas DataFrame
 df = pd.read_csv(csv_file, parse_dates=["month"])  # Ensure 'month' is recognized as a date column
 
+# Format 'month' column to only contain date (YYYY-MM-DD)
+df["month"] = df["month"].dt.strftime("%Y-%m-%d")
+
 # Connect to SQLite database (it creates the database if it doesn't exist)
 conn = sqlite3.connect(db_name)
 
