@@ -46,7 +46,7 @@ account_id,account_name
 753168370952,hawkeye_ocl
 58264205572,cst-prod
 522974168642,chat_ocl
-381491835802,uth-prod ($)
+381491835802,uth-prod
 975050351452,ppsl-binary-prod
 767397827620,ppsl-oauth-prod
 767397730150,ppsl-mo-prod
@@ -64,7 +64,7 @@ account_id,account_name
 615069360012,merchant-ra-automation
 992382517474,ppsl-central-tools
 28914776520,edc_prod_ocl
-654654315008,ondc-analytics ($)
+654654315008,ondc-analytics
 252197745876,AWS InfoSec
 851725496687,pml-oauth-dr
 718893572916,AaaS-nonprod
@@ -75,11 +75,11 @@ account_id,account_name
 90436275138,Digital Channels
 474140895141,Enterprise SMS
 722152247093,central_app_tech_ocl
-302399626617,ROOTER-DEV ($)
+302399626617,ROOTER-DEV
 370214104985,AMC Platform
 529444375373,PIBPL Payer
 161115069565,infosec-soc
-746682193773,cds-clm ($)
+746682193773,cds-clm
 789596305652,regular_mf
 Equity DR,Equity DR
 608146213544,ppblmaquettepa-prod
@@ -124,16 +124,16 @@ New 1,<Place Holder for NOS Account>
 239666495852,health_ocl
 582604545400,pm-chat
 613255583734,PM-Equities-NonProd
-518628324662,rooter-production ($)
-620060638816,rooter-development ($)
-950209104383,rooter-production-transcoding ($)
+518628324662,rooter-production
+620060638816,rooter-development
+950209104383,rooter-production-transcoding
 New 2,<Place Holder for PSPL Gratification Account>
 976617403781,TicketNew Payer
 135329050410,CityBus
 658447621694,hrtech_ocl
 542832536672,Nearbuy Payer
 492902601864,ncmc_acquirer_ocl
-471112938013,tpap-oauth-dr ($)
+471112938013,tpap-oauth-dr
 745098155683,merchant_automation
 218943325897,devopscommon
 548411824430,pocketurmoney
@@ -141,7 +141,7 @@ New 2,<Place Holder for PSPL Gratification Account>
 320811487590,dev-projects
 798411736697,ncmc-acq-rupay-switch
 863780864233,CreditMate Payer
-919275210163,ROOTER-CLOUD-MANAGEMENT ($)
+919275210163,ROOTER-CLOUD-MANAGEMENT
 737499001343,call-centre-ivr
 367464822874,One97 IT
 453914767997,risk-monitoring
@@ -156,10 +156,10 @@ New 2,<Place Holder for PSPL Gratification Account>
 552801059456,Feed Personalization
 477815026673,Rooter Payer
 985226307906,Insider Payer
-695745283037,ROOTER-CLOUD-LOGS ($)
+695745283037,ROOTER-CLOUD-LOGS
 ,"TPAP UTH, Combination"
 ,TPAP Switch
-576349278157,ROOTER-CLOUD-SECURITY ($)
+576349278157,ROOTER-CLOUD-SECURITY
 ,OCIL Non-Prod - Risk
 ,OCIL Non-Prod - UPI Switch
 239937555916,oauthaws.cardservice
@@ -175,7 +175,7 @@ New 3,Confluent Kafka
 971131939842,VFQ-Bahrain
 383289569650,merchant-dms
 896760538,daas-acquired-apps
-271855570343,ROOTER-PROD-CDN ($)
+271855570343,ROOTER-PROD-CDN
 530442861152,DaaS Experiments
 854670157863,Digital-Entertainment
 9124235587,Payer1
@@ -190,7 +190,7 @@ New 3,Confluent Kafka
 24792762357,pplus2nonprod
 81656902703,pplus2prod
 121151806688,nongroup-insuranceds
-580053151223,ROOTER-PROD-TRANSCODING ($)
+580053151223,ROOTER-PROD-TRANSCODING
 388138748053,onboardingengine-ppsl
 442231926211,lending-vkyc
 433726475936,Hero AWS
@@ -200,8 +200,8 @@ New 3,Confluent Kafka
 973217647660,paytm-chat-sendbird
 968583546969,cdp-ppbl-gm
 223603485256,ppblpromo-prod
-285697138146,ppblriskpa-prod ($)
-973103936838,ROOTER-STAGE ($)
+285697138146,ppblriskpa-prod
+973103936838,ROOTER-STAGE
 755664431334,ocl-wealth-equity
 335470755647,lending-abfl
 82780300630,lending-hero
@@ -222,14 +222,14 @@ New 3,Confluent Kafka
 767397937234,ppsl-risk-prod
 532041146482,aml-ppsl-nonprod
 807119641913,pm-bigdata
-537598503159,ROOTER-PROD-ANALYTICS ($)
+537598503159,ROOTER-PROD-ANALYTICS
 494799526181,AWS_Paytm'Mloyal
-907058949943,ppbloe-prod ($)
+907058949943,ppbloe-prod
 678670235450,authoriser
 159245624542,leadsquared
 576218818919,tools-pa
 975049937880,mgc-sclp
-123964038738,ROOTER-PROD-APPS ($)
+123964038738,ROOTER-PROD-APPS
 590183673148,ppsl-rtdd-prod
 769263341944,hotels
 155772818492,Insider (Events)
@@ -246,7 +246,7 @@ New 3,Confluent Kafka
 984308723723,digital_saas_ocl
 625612021127,aoa-nonprod
 611670160261,emi-nonprod
-339712810712,tpap-nonprod ($)
+339712810712,tpap-nonprod
 758230397644,Mall Bangalore
 630307967658,dms-nonprod_ocl
 811134095225,AWS DaaS
@@ -254,15 +254,15 @@ New 3,Confluent Kafka
 251917288737,IT Production
 495419344110,incentive
 590183666588,ppsl-pg2-prod
-975049957371,tpap-dwh ($)
+975049957371,tpap-dwh
 419830208690,AaaS-prod
 761904723706,kyb
 628412515026,Datalake AWS
 755560366148,SAP-HANA
 475804058290,Payer9
-211125458732,tpap-prod ($)
-954976288980,tocom-aisensy ($)
-463470958933,New Gold ($)
-850995531967,cst-playground ($)
-905418240150,905418240150 - Redacted ($)
+211125458732,tpap-prod
+954976288980,tocom-aisensy
+463470958933,New Gold
+850995531967,cst-playground
+905418240150,905418240150 - Redacted
 337891198417,digital_cst

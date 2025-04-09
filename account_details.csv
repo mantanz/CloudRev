@@ -22,7 +22,7 @@ account_id,account_name,owner,entity
 11420223908,PM-DataLake,Vinay Singhal,PML
 116631508635,fastag_non prod_ocl,Mukesh Meena, OCL 
 121151806688,nongroup-insuranceds,,
-123964038738,ROOTER-PROD-APPS ($),Piyush Kumar (External),Rooter
+123964038738,ROOTER-PROD-APPS,Piyush Kumar (External),Rooter
 127247839315,Sysops AWS,Mukesh Meena, OCL 
 128131020113,pa-nonprod,Gagan Verma,PPSL
 130653941854,insurance-ds,Bhaskar Gopalan, PIBPL 
