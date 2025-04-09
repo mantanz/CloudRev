@@ -1,0 +1,120 @@
+account_id,account_name,owner
+352506242819,payments-platform_prod_ocl  ,Gagan Verma
+628412515026,Datalake AWS  ,Sunil Agrawal
+340077773684,Paytm Financial Services  ,Sunil Agrawal
+567423616371,parent account_ocl  ,Mukesh Meena
+968032760053,Fraud AWS  ,Bhaskar Gopalan
+002637409966,user-management-prod  ,Shrey Agarwal
+304016915943,payments-data-rtdd_prod_ocl  ,Gagan Verma
+424503791295,merchant-payments-api_prod_ocl  ,Gagan Verma
+899249751508,PayTm DaaS ML  ,Sunil Agrawal
+075790327284,cdp_growth marketing_ocl  ,Sunil Agrawal
+272415727726,Paytm Ads  ,Ajit Kumar
+211125458732,tpap-prod  ,Ajit Kumar
+381491835802,uth-prod  ,Ajit Kumar
+898496923608,games_pfg  ,Sudhanshu Gupta
+445736908015,recharge bill payments_ocl  ,Nipun Arora
+564188254156,Lending DataScience  ,Sunil Agrawal
+705108899578,daas-managed-services  ,Sunil Agrawal
+359716425895,Travel Aws  ,Anil Kundu
+811134095225,AWS DaaS  ,Sunil Agrawal
+755560366148,SAP-HANA  ,Saurabh Gupta
+901553615594,merchantdashboards  ,Abhinav Gupta
+003079193758,IOT Prod  ,Sunil Bansal
+210577074618,recon_prod_ocl  ,Shrey Agarwal
+423969094700,pai_push_ocl  ,Mukesh Meena
+479671683529,cdp risk_ocl  ,Sunil Agrawal
+746682193773,cds  ,Naveen Setia
+761904723706,kyb  ,Abhinav Gupta
+211125515568,risk-ocl-tpap  ,Bhaskar Gopalan
+647564693872,aml-prod  ,Akeshwar Jha
+752518464574,User Preferences System  ,Ajit Kumar
+929265682896,payment-non-prod  ,Gagan Verma
+182401677120,onboardingengine  ,Abhinav Gupta
+975049957371,tpap-dwh  ,Sunil Agrawal
+337891198417,digital_cst  ,Shrey Agarwal
+021891570382,risk-lending  ,Bhaskar Gopalan
+753168370952,hawkeye_ocl  ,Prashant Tiwari
+419830208690,AaaS-prod  ,Sunil Agrawal
+522974168642,paytmchat_ocl  ,Prashant Tiwari
+233815244996,payment-platform_nonprod_ocl  ,Gagan Verma
+161115069565,infosec-soc  ,Amit Malhotra
+028914776520,edc_prod_ocl  ,Sunil Bansal
+758230397644,Mall Bangalore  ,Mukesh Meena
+546818093346,verifierAWS  ,Bhaskar Gopalan
+252197745876,AWS InfoSec  ,Amit Malhotra
+251917288737,IT Production  ,Saurabh Gupta
+576293063887,digital_insurance  ,Sathyaseelan Murugesan
+072401294672,Oauth AWS  ,Abhinav Gupta
+789596305652,regular_mf  ,Varun Shridhar
+407648374860,IT_BACKUP  ,Saurabh Gupta
+474140895141,Enterprise SMS  ,Saurabh Gupta
+239103975135,QR  ,Gagan Verma
+885068115609,pai-sre  ,Bhaskar Gopalan
+495419344110,incentive  ,Abhinav Gupta
+340677782776,aoa-prod  ,Gagan Verma
+480732456233,dms-prod_ocl  ,Abhinav Gupta
+339712759199,feature-store-ocl  ,Bruno Meira
+984308723723,commonsaas_ocl  ,Mukesh Meena
+337158390682,dap_ocl  ,Mukesh Meena
+066548792077,IOT Core  ,Sunil Bansal
+339712810712,tpap-nonprod  ,Ajit Kumar
+318633126153,AWS SMS  ,Saurabh Gupta
+090436275138,Digital Channels  ,Mukesh Meena
+952840895893,User Management  ,Shrey Agarwal
+442447453008,Digital Gold  ,Mukesh Meena
+469795226344,billing account_ocl  ,Mukesh Meena
+685585466397,recon_nonprod_ocl  ,Shrey Agarwal
+471112958605,lending-dwh  ,Sunil Agrawal
+698979518480,central_pipeline_ocl  ,Mukesh Meena
+066636274316,webnmweb_ocl  ,Prashant Tiwari
+615069360012,merchant-ra-automation  ,Shrey Agarwal
+068930846606,emi-prod_ocl  ,Gagan Verma
+997924011427,ckyc  ,Abhinav Gupta
+064619502227,CentralToolsPlatform  ,Mukesh Meena
+131752971524,tocom-aws  ,Mukesh Meena
+562921704166,paytm-ups  ,Mukesh Meena
+097001033170,smartretail_ocl  ,Sunil Bansal
+848332057417,mloyal_prod  ,Sunil Bansal
+718893572916,AaaS-nonprod  ,Sunil Agrawal
+914516902729,finance_support_ocl  ,Dheerendra Mishra
+722152247093,paytm_app_ocl  ,Prashant Tiwari
+736384229724,cloudsecurity-logs  ,Amit Malhotra
+127247839315,Sysops AWS  ,Mukesh Meena
+664526282133,Paytm Labs  ,Otto Mok
+611670160261,emi-nonprod  ,Gagan Verma
+821240137883,edc_non prod_ocl  ,Sunil Bansal
+439726107081,risk-verifier-nonprod  ,Bhaskar Gopalan
+368920154232,central_app_tech_ocl  ,Prashant Tiwari
+135329050410,CityBus  ,Anil Kundu
+824873459626,miniapps_ocl  ,Prashant Tiwari
+054736913503,scp-mgv  ,Mukesh Meena
+625612021127,aoa-nonprod  ,Gagan Verma
+465354398947,aml-nonprod  ,Akeshwar Jha
+272968093320,legalapps  ,Urvashi Sahai
+494799526181,AWS_Paytm'Mloyal  ,Sunil Bansal
+153518195166,cdo-non-prod  ,Sunil Agrawal
+481935107677,DaaS-Apps  ,Sunil Agrawal
+389881277731,merchant-business  ,Abhinav Gupta
+017820698743,risk-devops-tools  ,Bhaskar Gopalan
+130653941854,insurance-ds  ,Anil Kundu
+630307967658,dms-nonprod_ocl  ,Abhinav Gupta
+745098155683,merchant_automation  ,Abhinav Gupta
+492902601864,ncmc_acquirer_ocl  ,Mukesh Meena
+505767364771,risk anomaly  ,Bhaskar Gopalan
+954976288980,tocom-aisensy  ,Mukesh Meena
+239666495852,paytmhealth_ocl  ,Prashant Tiwari
+510772292268,cdo-dre  ,Sunil Agrawal
+218943325897,devopscommon  ,Sunil Agrawal
+367464822874,One97 IT  ,Saurabh Gupta
+658447621694,hrtech_ocl  ,Upnivesh Bhardwaj
+541095382258,Card Tokenization  ,Gagan Verma
+548411824430,pocketurmoney  ,Abhinav Gupta
+576911611801,poc_infra_testing_ocl  ,Mukesh Meena
+320811487590,dev-projects  ,Mukesh Meena
+661338130494,telco-testing  ,Saurabh Gupta
+737499001343,call-centre-ivr  ,Lalit Mohan Pandey
+453914767997,risk-monitoring  ,Shakti Singh
+264522784930,AWS DNS  ,Amit Malhotra
+116631508635,fastag_non prod_ocl  ,Mukesh Meena
+841860372390,fastag issuer_prod_ocl  ,Mukesh Meena

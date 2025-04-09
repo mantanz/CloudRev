@@ -1,0 +1,268 @@
+account_id,account_name
+471112571211,ppsl-dwh-prod
+656952484900,Paytm Money
+659606126372,URJA MONEY PVT LTD
+352506242819,payments-platform_prod_ocl
+762730909359,PM-Equities
+968032760053,Fraud AWS
+906954799739,Nearbuy
+898496923608,games_pfg
+445736908015,recharge bill payments_ocl
+899249751508,PayTm DaaS ML
+546818093346,verifierAWS
+705108899578,daas-managed-services
+272415727726,Paytm Ads
+2637409966,user-management-prod
+65278587813,rooter-io
+11420223908,PM-DataLake
+21891570382,Risk-Lending(new)
+17820698743,risk-devops-tools
+567423616371,parent account_ocl
+479671683529,cdp risk_ocl
+423969094700,push_notifications_ocl
+3079193758,IOT Prod
+72401294672,DMS AWS
+564188254156,Lending DataScience
+128131020113,pa-nonprod
+654654208887,ppsl-recon-prod
+211125336551,pml-infosec
+851725259472,ppsl-app-sec
+562921704166,paytm-ups
+992382687474,pml-cst
+381492193378,pml-datalake
+647564693872,aml-prod
+736384229724,cloudsecurity-logs
+851725259328,ppsl-recon-nonprod
+339712912282,pml-core-poc
+304016915943,payments-data-rtdd_prod_ocl
+469795226344,billing account_ocl
+654654497161,ppsl-ump-prod
+359716425895,Travel Aws
+340077773684,Paytm Financial Services
+424503791295,merchant-payments-api_prod_ocl
+905418390117,ppsl-pg2-nonprod
+210577074618,recon_prod_ocl
+730335596554,ppsl-aml-prod
+753168370952,hawkeye_ocl
+58264205572,cst-prod
+522974168642,chat_ocl
+381491835802,uth-prod ($)
+975050351452,ppsl-binary-prod
+767397827620,ppsl-oauth-prod
+767397730150,ppsl-mo-prod
+211125515568,risk-ocl-tpap
+929265682896,payment-non-prod
+700271710604,labs-llm
+752518464574,User Preferences System
+75790327284,cdp_growth marketing_ocl
+576293063887,digital_insurance
+518207312579,cst-ai
+901553615594,merchantdashboards
+698979518480,bitbucket_ocl
+480732456233,dms-prod_ocl
+736121233725,Paytmmoney Ltd. Data Platform
+615069360012,merchant-ra-automation
+992382517474,ppsl-central-tools
+28914776520,edc_prod_ocl
+654654315008,ondc-analytics ($)
+252197745876,AWS InfoSec
+851725496687,pml-oauth-dr
+718893572916,AaaS-nonprod
+654654394550,oauth-nonprod
+885068115609,pai-sre
+538615689396,Pandora AWS
+340677782776,aoa-prod
+90436275138,Digital Channels
+474140895141,Enterprise SMS
+722152247093,central_app_tech_ocl
+302399626617,ROOTER-DEV ($)
+370214104985,AMC Platform
+529444375373,PIBPL Payer
+161115069565,infosec-soc
+746682193773,cds-clm ($)
+789596305652,regular_mf
+Equity DR,Equity DR
+608146213544,ppblmaquettepa-prod
+977469002159,ppsl-oe-prod
+131752971524,loyalitypoints
+339712993293,Insurance-Oauth
+New 1,<Place Holder for NOS Account>
+66636274316,central_app_tech_web_ocl
+233815244996,payment-platform_nonprod_ocl
+664526282133,Paytm Labs
+318633126153,AWS SMS
+510772292268,cdo-dre
+182401677120,onboardingengine
+23903256547,central tools
+685585466397,recon_nonprod_ocl
+439726107081,risk-verifier-nonprod
+97001033170,paytm_smart_retail_ocl
+952840895893,User Management
+337158390682,commoninfra_ocl
+848332057417,mloyal_prod
+541095382258,Card Tokenization
+64619502227,CentralToolsPlatform
+239103975135,QR
+54736913503,scp-mgv
+66548792077,IOT Core
+471112958605,lending-dwh
+841860372390,fastag issuer_prod_ocl
+15680176265,PPSL Payer
+824873459626,central_app_tech_mini_apps_ocl
+130653941854,insurance-ds
+339712759199,feature-store-ocl
+153518195166,cdo-non-prod
+272968093320,legalapps
+127247839315,Sysops AWS
+475919677060,paytm_digital_content_ocl
+914516902729,finance_support_ocl
+389881277731,merchant-business
+264522784930,AWS DNS
+269350686318,AWS Pan 2
+465354398947,aml-nonprod
+481935107677,DaaS-Apps
+239666495852,health_ocl
+582604545400,pm-chat
+613255583734,PM-Equities-NonProd
+518628324662,rooter-production ($)
+620060638816,rooter-development ($)
+950209104383,rooter-production-transcoding ($)
+New 2,<Place Holder for PSPL Gratification Account>
+976617403781,TicketNew Payer
+135329050410,CityBus
+658447621694,hrtech_ocl
+542832536672,Nearbuy Payer
+492902601864,ncmc_acquirer_ocl
+471112938013,tpap-oauth-dr ($)
+745098155683,merchant_automation
+218943325897,devopscommon
+548411824430,pocketurmoney
+576911611801,infra_experiment_non_prod_ocl
+320811487590,dev-projects
+798411736697,ncmc-acq-rupay-switch
+863780864233,CreditMate Payer
+919275210163,ROOTER-CLOUD-MANAGEMENT ($)
+737499001343,call-centre-ivr
+367464822874,One97 IT
+453914767997,risk-monitoring
+116631508635,fastag_non prod_ocl
+161282784430,cdp-ppbl-pa
+605458724602,content_ml_ocl
+913203018054,ppblpgpa-nonprod
+470060591194,edutech
+322263815270,PM-EduTech-Prod
+505767364771,Risk Anomaly
+663804405009,movies_ocl
+552801059456,Feed Personalization
+477815026673,Rooter Payer
+985226307906,Insider Payer
+695745283037,ROOTER-CLOUD-LOGS ($)
+,"TPAP UTH, Combination"
+,TPAP Switch
+576349278157,ROOTER-CLOUD-SECURITY ($)
+,OCIL Non-Prod - Risk
+,OCIL Non-Prod - UPI Switch
+239937555916,oauthaws.cardservice
+97267615780,hackathon
+176839215860,aws-omnicard-Prod
+253827618117,Payout CA
+DROCL,DR - overall (to align with new contract)
+New 3,Confluent Kafka
+471112548387,ppsl-affordability-prod
+567122392682,nlp-data-room-haptik
+875620713396,EDC Online Sales
+448905424764,AWS Saasforce
+971131939842,VFQ-Bahrain
+383289569650,merchant-dms
+896760538,daas-acquired-apps
+271855570343,ROOTER-PROD-CDN ($)
+530442861152,DaaS Experiments
+854670157863,Digital-Entertainment
+9124235587,Payer1
+423387369363,PML IT
+876285361116,PP Golden Race
+990686183829,inpg.identity
+477161539263,ticketnewprod (Ram)
+416485671007,inpg.saas
+220554634379,inpg.sandbox
+113209881612,inpg.stage
+257482651313,International PG
+24792762357,pplus2nonprod
+81656902703,pplus2prod
+121151806688,nongroup-insuranceds
+580053151223,ROOTER-PROD-TRANSCODING ($)
+388138748053,onboardingengine-ppsl
+442231926211,lending-vkyc
+433726475936,Hero AWS
+466739061204,ads-experiments
+58264391305,pml-storefront
+569146552653,ivr-bhr
+973217647660,paytm-chat-sendbird
+968583546969,cdp-ppbl-gm
+223603485256,ppblpromo-prod
+285697138146,ppblriskpa-prod ($)
+973103936838,ROOTER-STAGE ($)
+755664431334,ocl-wealth-equity
+335470755647,lending-abfl
+82780300630,lending-hero
+516248475246,lending-fullerton
+21434688839,ocl-wealth-mf
+521026337032,ppblpg2-nonprod
+273914427098,digital_transportation
+988889888907,postpaid-lender-services
+993403631306,mmi-onprem
+860971823470,Video KYC
+10840421276,ppblump-prod
+416222998094,businesslanding
+654654145181,pml-oauth-nonprod
+671767570661,ppblpg2-prod
+590183908249,pml-wiki-jira
+637732598760,lending_ocl
+797142548187,ppblpgpa-prod
+767397937234,ppsl-risk-prod
+532041146482,aml-ppsl-nonprod
+807119641913,pm-bigdata
+537598503159,ROOTER-PROD-ANALYTICS ($)
+494799526181,AWS_Paytm'Mloyal
+907058949943,ppbloe-prod ($)
+678670235450,authoriser
+159245624542,leadsquared
+576218818919,tools-pa
+975049937880,mgc-sclp
+123964038738,ROOTER-PROD-APPS ($)
+590183673148,ppsl-rtdd-prod
+769263341944,hotels
+155772818492,Insider (Events)
+637423614657,pml-oauth
+189893850600,pa-prod
+290310562512,Wallet-Nonprod
+185774682289,pml-chat-dev
+661338130494,Zamtel-Zambia
+821240137883,edc_non prod_ocl
+368920154232,central app tech_ocl
+997924011427,ckyc
+68930846606,emi-prod_ocl
+407648374860,IT_BACKUP
+984308723723,digital_saas_ocl
+625612021127,aoa-nonprod
+611670160261,emi-nonprod
+339712810712,tpap-nonprod ($)
+758230397644,Mall Bangalore
+630307967658,dms-nonprod_ocl
+811134095225,AWS DaaS
+442447453008,Digital Gold
+251917288737,IT Production
+495419344110,incentive
+590183666588,ppsl-pg2-prod
+975049957371,tpap-dwh ($)
+419830208690,AaaS-prod
+761904723706,kyb
+628412515026,Datalake AWS
+755560366148,SAP-HANA
+475804058290,Payer9
+211125458732,tpap-prod ($)
+954976288980,tocom-aisensy ($)
+463470958933,New Gold ($)
+850995531967,cst-playground ($)
+905418240150,905418240150 - Redacted ($)
+337891198417,digital_cst
