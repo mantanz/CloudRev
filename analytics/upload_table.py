@@ -5,7 +5,7 @@ import os
 # === CONFIGURABLE INPUTS ===
 csv_file = input("Enter full path to your CSV file: ").strip()
 table_name = input("Enter the SQLite table name to store data: ").strip()
-db_name = "mydatabase.db"  # Change if you want to use another DB file
+db_name = "../sqlite/mydatabase.db"  # Change if you want to use another DB file
 
 # === CHECK FILE EXISTS ===
 if not os.path.isfile(csv_file):
