@@ -1,0 +1,71 @@
+Analysis Summary (Generated on 2025-04-10)
+=====================================
+
+Original Data Overview
+--------------------
+File A (actual_spend_d.csv):
+- Total records: 2,544
+- Unique accounts: 212
+
+File B (transformed_aws_accountwise.csv):
+- Total records: 1,800
+- Unique accounts: 150
+
+Detailed Analysis Results
+------------------------
+
+1. Records Only in Actual Spend (A not in B)
+-------------------------------------------
+- Total records: 792
+- Unique accounts affected: 66
+- Coverage: All 12 months
+- These represent account-month combinations present in actual spend but missing in transformed data
+
+2. Records Only in Transformed Data (B not in A)
+----------------------------------------------
+- Total records: 48
+- Unique accounts affected: 4
+- Coverage: All 12 months
+- These represent account-month combinations present in transformed data but missing in actual spend
+
+3. Records with Different Spend Values
+------------------------------------
+- Total records with mismatched spend: 1,606
+- Unique accounts affected: 146
+- Coverage: All 12 months
+Spend Difference Statistics:
+- Minimum difference: -$1,471,342
+- Maximum difference: $715,500
+- Median difference: $1,503
+- 25th percentile: $213.52
+- 75th percentile: $8,437.36
+
+4. Accounts with Different Total Spend
+------------------------------------
+- Total accounts affected: 146
+- Monthly records affected: 1,752
+Total Spend Difference Statistics:
+- Minimum difference: -$12,326,620
+- Maximum difference: $4,511,238
+- Median difference: $13,640
+- 25th percentile: $2,107.71
+- 75th percentile: $92,338.75
+
+Key Insights
+-----------
+1. Account Coverage:
+   - Significant discrepancy in number of accounts (212 vs 150)
+   - Most accounts in transformed data (146 out of 150) show some spend discrepancy
+
+2. Spend Discrepancies:
+   - Wide range of differences, from small amounts to millions of dollars
+   - Both positive and negative differences observed
+   - Discrepancies spread across all months, suggesting systematic differences
+
+3. Data Completeness:
+   - All records accounted for in the analysis
+   - No records were missed
+   - Some records appear in multiple analyses (e.g., different spend and total spend differences)
+
+Validation Status: ✓ PASSED
+All records from both files were successfully analyzed and categorized.
