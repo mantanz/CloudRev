@@ -67,5 +67,3 @@ Key Insights
    - No records were missed
    - Some records appear in multiple analyses (e.g., different spend and total spend differences)
 
-Validation Status: ✓ PASSED
-All records from both files were successfully analyzed and categorized.
