@@ -36,6 +36,9 @@ def calculate_proportions():
         df['aop_amount'] = df['aop_amount'].round(2)
         df['aop_proportion_pct'] = df['aop_proportion_pct'].round(2)
         df['min_comm_proportion'] = df['min_comm_proportion'].round(2)
+
+        total_aop_pct_roundoff = df['aop_proportion_pct'].sum()
+        total_min_comm_roundoff = df['min_comm_proportion'].sum() 
         
         # Save the output
         df.to_csv(output_csv, index=False)
@@ -50,7 +53,11 @@ def calculate_proportions():
         print("\nTotal AOP amount:", total_aop)
         print("\nmin_comm_proportion_sum:", total_min_comm)
         print("\nTotal AOP proportion:", total_aop_pct)
-        
+        print("\nTotals after roundoff:")
+        print("-" * 80)
+        print("\nTotal AOP amount:", total_aop)
+        print("\nmin_comm_proportion_sum:", total_min_comm_roundoff)
+        print("\nTotal AOP proportion:", total_aop_pct_roundoff)
     except Exception as e:
         print(f"Error: {str(e)}")
 
