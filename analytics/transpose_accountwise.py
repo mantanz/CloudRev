@@ -31,6 +31,20 @@ def main():
                               var_name='month', value_name='spend')
     df_long = df_long.rename(columns={id_col: 'account_id'})
 
+    # Normalize month format from 'Apr-24' to 'Apr-2024'
+    def fix_month_format(m):
+        try:
+            if '-' in m:
+                month, year = m.split('-')
+                if len(year) == 2:
+                    year = '20' + year
+                return f"{month}-{year}"
+            else:
+                return m
+        except Exception:
+            return m
+    df_long['month'] = df_long['month'].apply(fix_month_format)
+
     # Normalize account_id to string and remove trailing .0 if present
     df_long['account_id'] = df_long['account_id'].astype(str).str.strip().str.replace(r'\.0$', '', regex=True)
     df_filtered[id_col] = df_filtered[id_col].astype(str).str.strip().str.replace(r'\.0$', '', regex=True)
