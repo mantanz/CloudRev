@@ -17,7 +17,7 @@ def calculate_proportions():
         output_csv = 'output_proportions.csv'
         
         # Read input CSV
-        input_csv = './data_files/aop_budget.csv'
+        input_csv = '../data_files/aop_budget.csv'
         df = pd.read_csv(input_csv)
         
         # Keep only the required columns
@@ -28,24 +28,23 @@ def calculate_proportions():
         print(total_aop)
         
         # Calculate AOP proportions percentage
-        df['aop_proportion_pct'] = ((df['aop_amount'] / total_aop) * 100)
-        total_aop_pct = df['aop_proportion_pct'].sum()
+        df['proportion_pct'] = ((df['aop_amount'] / total_aop) * 100)
+        total_aop_pct = df['proportion_pct'].sum()
         print(total_aop_pct)
         # Calculate minimum commitment shares
-        df['min_comm_proportion'] = ((df['aop_proportion_pct'] * min_commitment) / 100)
-        total_min_comm = df['min_comm_proportion'].sum()
+        df['minimum_commitment'] = ((df['proportion_pct'] * min_commitment) / 100)
+        total_min_comm = df['minimum_commitment'].sum()
         print(total_min_comm)
-        df['min_comm_proportion'] = df['min_comm_proportion'].round(2)
-        total_min_comm = df['min_comm_proportion'].sum()
+        df['minimum_commitment'] = df['minimum_commitment'].round(2)
+        total_min_comm = df['minimum_commitment'].sum()
         print(total_min_comm)
 
-        df['aop_proportion_pct'] = df['aop_proportion_pct'].round(3)
-        total_aop_pct = df['aop_proportion_pct'].sum()
+        df['proportion_pct'] = df['proportion_pct'].round(3)
+        total_aop_pct = df['proportion_pct'].sum()
         print(total_aop_pct)
-        
-
+        final_df = df[['account_id', 'month', 'proportion_pct', 'minimum_commitment']]
         # Save the output
-        df.to_csv(output_csv, index=False)
+        final_df.to_csv(output_csv, index=False)
         
         print(f"\nSuccessfully created output file: {output_csv}")
 
