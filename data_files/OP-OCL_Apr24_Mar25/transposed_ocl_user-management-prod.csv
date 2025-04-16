@@ -1,0 +1,433 @@
+account_id,Service,month,spend
+2637409966,EC2-Other,Apr-2024,75486.0
+2637409966,EC2-Instances,Apr-2024,53734.0
+2637409966,ElastiCache,Apr-2024,40008.0
+2637409966,S3,Apr-2024,7153.0
+2637409966,CloudWatch,Apr-2024,3091.0
+2637409966,Elastic Load Balancing,Apr-2024,2161.0
+2637409966,OpenSearch Service,Apr-2024,11270.0
+2637409966,VPC,Apr-2024,1701.0
+2637409966,Managed Streaming for Apache Kafka,Apr-2024,389.0
+2637409966,DynamoDB,Apr-2024,245.0
+2637409966,Relational Database Service,Apr-2024,146.0
+2637409966,Elastic Container Service for Kubernetes,Apr-2024,144.0
+2637409966,Direct Connect,Apr-2024,508.0
+2637409966,Lambda,Apr-2024,63.0
+2637409966,Elastic MapReduce,Apr-2024,101.0
+2637409966,Secrets Manager,Apr-2024,39.0
+2637409966,EC2 Container Registry (ECR),Apr-2024,24.0
+2637409966,Elastic File System,Apr-2024,13.0
+2637409966,Key Management Service,Apr-2024,4.0
+2637409966,Step Functions,Apr-2024,3.0
+2637409966,Cost Explorer,Apr-2024,1.0
+2637409966,Route 53,Apr-2024,0.0
+2637409966,Service Catalog,Apr-2024,0.0
+2637409966,SQS,Apr-2024,0.0
+2637409966,CloudWatch Events,Apr-2024,0.0
+2637409966,SNS,Apr-2024,0.0
+2637409966,Glue,Apr-2024,0.0
+2637409966,Location Service,Apr-2024,0.0
+2637409966,Simple Workflow Service,Apr-2024,0.0
+2637409966,Systems Manager,Apr-2024,0.0
+2637409966,CloudShell,Apr-2024,0.0
+2637409966,Glacier,Apr-2024,0.0
+2637409966,CloudTrail,Apr-2024,0.0
+2637409966,Migration Hub Refactor Spaces,Apr-2024,0.0
+2637409966,X-Ray,Apr-2024,0.0
+2637409966,CloudFormation,Apr-2024,0.0
+2637409966,EC2-Other,May-2024,74928.0
+2637409966,EC2-Instances,May-2024,52176.0
+2637409966,ElastiCache,May-2024,41353.0
+2637409966,S3,May-2024,7440.0
+2637409966,CloudWatch,May-2024,3114.0
+2637409966,Elastic Load Balancing,May-2024,2375.0
+2637409966,OpenSearch Service,May-2024,11539.0
+2637409966,VPC,May-2024,1749.0
+2637409966,Managed Streaming for Apache Kafka,May-2024,399.0
+2637409966,DynamoDB,May-2024,253.0
+2637409966,Relational Database Service,May-2024,148.0
+2637409966,Elastic Container Service for Kubernetes,May-2024,149.0
+2637409966,Direct Connect,May-2024,236.0
+2637409966,Lambda,May-2024,75.0
+2637409966,Elastic MapReduce,May-2024,104.0
+2637409966,Secrets Manager,May-2024,39.0
+2637409966,EC2 Container Registry (ECR),May-2024,27.0
+2637409966,Elastic File System,May-2024,13.0
+2637409966,Key Management Service,May-2024,4.0
+2637409966,Step Functions,May-2024,3.0
+2637409966,Cost Explorer,May-2024,1.0
+2637409966,Route 53,May-2024,0.0
+2637409966,Service Catalog,May-2024,0.0
+2637409966,SQS,May-2024,0.0
+2637409966,CloudWatch Events,May-2024,0.0
+2637409966,SNS,May-2024,0.0
+2637409966,Glue,May-2024,0.0
+2637409966,Location Service,May-2024,0.0
+2637409966,Simple Workflow Service,May-2024,0.0
+2637409966,Systems Manager,May-2024,0.0
+2637409966,CloudShell,May-2024,0.0
+2637409966,Glacier,May-2024,0.0
+2637409966,CloudTrail,May-2024,0.0
+2637409966,Migration Hub Refactor Spaces,May-2024,0.0
+2637409966,X-Ray,May-2024,0.0
+2637409966,CloudFormation,May-2024,0.0
+2637409966,EC2-Other,Jun-2024,76134.0
+2637409966,EC2-Instances,Jun-2024,53214.0
+2637409966,ElastiCache,Jun-2024,37325.0
+2637409966,S3,Jun-2024,9320.0
+2637409966,CloudWatch,Jun-2024,3368.0
+2637409966,Elastic Load Balancing,Jun-2024,2345.0
+2637409966,OpenSearch Service,Jun-2024,4735.0
+2637409966,VPC,Jun-2024,1691.0
+2637409966,Managed Streaming for Apache Kafka,Jun-2024,389.0
+2637409966,DynamoDB,Jun-2024,244.0
+2637409966,Relational Database Service,Jun-2024,153.0
+2637409966,Elastic Container Service for Kubernetes,Jun-2024,144.0
+2637409966,Direct Connect,Jun-2024,132.0
+2637409966,Lambda,Jun-2024,58.0
+2637409966,Elastic MapReduce,Jun-2024,146.0
+2637409966,Secrets Manager,Jun-2024,37.0
+2637409966,EC2 Container Registry (ECR),Jun-2024,32.0
+2637409966,Elastic File System,Jun-2024,13.0
+2637409966,Key Management Service,Jun-2024,4.0
+2637409966,Step Functions,Jun-2024,2.0
+2637409966,Cost Explorer,Jun-2024,1.0
+2637409966,Route 53,Jun-2024,1.0
+2637409966,Service Catalog,Jun-2024,0.0
+2637409966,SQS,Jun-2024,0.0
+2637409966,CloudWatch Events,Jun-2024,0.0
+2637409966,SNS,Jun-2024,0.0
+2637409966,Glue,Jun-2024,0.0
+2637409966,Location Service,Jun-2024,0.0
+2637409966,Simple Workflow Service,Jun-2024,0.0
+2637409966,Systems Manager,Jun-2024,0.0
+2637409966,CloudShell,Jun-2024,0.0
+2637409966,Glacier,Jun-2024,0.0
+2637409966,CloudTrail,Jun-2024,0.0
+2637409966,Migration Hub Refactor Spaces,Jun-2024,0.0
+2637409966,X-Ray,Jun-2024,0.0
+2637409966,CloudFormation,Jun-2024,0.0
+2637409966,EC2-Other,Jul-2024,77508.0
+2637409966,EC2-Instances,Jul-2024,54738.0
+2637409966,ElastiCache,Jul-2024,37078.0
+2637409966,S3,Jul-2024,6164.0
+2637409966,CloudWatch,Jul-2024,3220.0
+2637409966,Elastic Load Balancing,Jul-2024,2336.0
+2637409966,OpenSearch Service,Jul-2024,0.0
+2637409966,VPC,Jul-2024,1770.0
+2637409966,Managed Streaming for Apache Kafka,Jul-2024,399.0
+2637409966,DynamoDB,Jul-2024,253.0
+2637409966,Relational Database Service,Jul-2024,155.0
+2637409966,Elastic Container Service for Kubernetes,Jul-2024,149.0
+2637409966,Direct Connect,Jul-2024,46.0
+2637409966,Lambda,Jul-2024,63.0
+2637409966,Elastic MapReduce,Jul-2024,111.0
+2637409966,Secrets Manager,Jul-2024,41.0
+2637409966,EC2 Container Registry (ECR),Jul-2024,35.0
+2637409966,Elastic File System,Jul-2024,13.0
+2637409966,Key Management Service,Jul-2024,4.0
+2637409966,Step Functions,Jul-2024,2.0
+2637409966,Cost Explorer,Jul-2024,1.0
+2637409966,Route 53,Jul-2024,1.0
+2637409966,Service Catalog,Jul-2024,1.0
+2637409966,SQS,Jul-2024,0.0
+2637409966,CloudWatch Events,Jul-2024,0.0
+2637409966,SNS,Jul-2024,0.0
+2637409966,Glue,Jul-2024,0.0
+2637409966,Location Service,Jul-2024,0.0
+2637409966,Simple Workflow Service,Jul-2024,0.0
+2637409966,Systems Manager,Jul-2024,0.0
+2637409966,CloudShell,Jul-2024,0.0
+2637409966,Glacier,Jul-2024,0.0
+2637409966,CloudTrail,Jul-2024,0.0
+2637409966,Migration Hub Refactor Spaces,Jul-2024,0.0
+2637409966,X-Ray,Jul-2024,0.0
+2637409966,CloudFormation,Jul-2024,0.0
+2637409966,EC2-Other,Aug-2024,80479.0
+2637409966,EC2-Instances,Aug-2024,59547.0
+2637409966,ElastiCache,Aug-2024,36987.0
+2637409966,S3,Aug-2024,6216.0
+2637409966,CloudWatch,Aug-2024,3215.0
+2637409966,Elastic Load Balancing,Aug-2024,2398.0
+2637409966,OpenSearch Service,Aug-2024,0.0
+2637409966,VPC,Aug-2024,1765.0
+2637409966,Managed Streaming for Apache Kafka,Aug-2024,399.0
+2637409966,DynamoDB,Aug-2024,253.0
+2637409966,Relational Database Service,Aug-2024,155.0
+2637409966,Elastic Container Service for Kubernetes,Aug-2024,149.0
+2637409966,Direct Connect,Aug-2024,0.0
+2637409966,Lambda,Aug-2024,71.0
+2637409966,Elastic MapReduce,Aug-2024,38.0
+2637409966,Secrets Manager,Aug-2024,39.0
+2637409966,EC2 Container Registry (ECR),Aug-2024,36.0
+2637409966,Elastic File System,Aug-2024,13.0
+2637409966,Key Management Service,Aug-2024,4.0
+2637409966,Step Functions,Aug-2024,2.0
+2637409966,Cost Explorer,Aug-2024,0.0
+2637409966,Route 53,Aug-2024,1.0
+2637409966,Service Catalog,Aug-2024,1.0
+2637409966,SQS,Aug-2024,0.0
+2637409966,CloudWatch Events,Aug-2024,0.0
+2637409966,SNS,Aug-2024,0.0
+2637409966,Glue,Aug-2024,0.0
+2637409966,Location Service,Aug-2024,0.0
+2637409966,Simple Workflow Service,Aug-2024,0.0
+2637409966,Systems Manager,Aug-2024,0.0
+2637409966,CloudShell,Aug-2024,0.0
+2637409966,Glacier,Aug-2024,0.0
+2637409966,CloudTrail,Aug-2024,0.0
+2637409966,Migration Hub Refactor Spaces,Aug-2024,0.0
+2637409966,X-Ray,Aug-2024,0.0
+2637409966,CloudFormation,Aug-2024,0.0
+2637409966,EC2-Other,Sep-2024,80262.0
+2637409966,EC2-Instances,Sep-2024,54485.0
+2637409966,ElastiCache,Sep-2024,35856.0
+2637409966,S3,Sep-2024,5790.0
+2637409966,CloudWatch,Sep-2024,3100.0
+2637409966,Elastic Load Balancing,Sep-2024,2290.0
+2637409966,OpenSearch Service,Sep-2024,0.0
+2637409966,VPC,Sep-2024,1719.0
+2637409966,Managed Streaming for Apache Kafka,Sep-2024,388.0
+2637409966,DynamoDB,Sep-2024,245.0
+2637409966,Relational Database Service,Sep-2024,153.0
+2637409966,Elastic Container Service for Kubernetes,Sep-2024,144.0
+2637409966,Direct Connect,Sep-2024,0.0
+2637409966,Lambda,Sep-2024,68.0
+2637409966,Elastic MapReduce,Sep-2024,0.0
+2637409966,Secrets Manager,Sep-2024,38.0
+2637409966,EC2 Container Registry (ECR),Sep-2024,37.0
+2637409966,Elastic File System,Sep-2024,13.0
+2637409966,Key Management Service,Sep-2024,5.0
+2637409966,Step Functions,Sep-2024,2.0
+2637409966,Cost Explorer,Sep-2024,2.0
+2637409966,Route 53,Sep-2024,1.0
+2637409966,Service Catalog,Sep-2024,0.0
+2637409966,SQS,Sep-2024,0.0
+2637409966,CloudWatch Events,Sep-2024,0.0
+2637409966,SNS,Sep-2024,0.0
+2637409966,Glue,Sep-2024,0.0
+2637409966,Location Service,Sep-2024,0.0
+2637409966,Simple Workflow Service,Sep-2024,0.0
+2637409966,Systems Manager,Sep-2024,0.0
+2637409966,CloudShell,Sep-2024,0.0
+2637409966,Glacier,Sep-2024,0.0
+2637409966,CloudTrail,Sep-2024,0.0
+2637409966,Migration Hub Refactor Spaces,Sep-2024,0.0
+2637409966,X-Ray,Sep-2024,0.0
+2637409966,CloudFormation,Sep-2024,0.0
+2637409966,EC2-Other,Oct-2024,78451.0
+2637409966,EC2-Instances,Oct-2024,57750.0
+2637409966,ElastiCache,Oct-2024,29212.0
+2637409966,S3,Oct-2024,5899.0
+2637409966,CloudWatch,Oct-2024,3194.0
+2637409966,Elastic Load Balancing,Oct-2024,2466.0
+2637409966,OpenSearch Service,Oct-2024,0.0
+2637409966,VPC,Oct-2024,1787.0
+2637409966,Managed Streaming for Apache Kafka,Oct-2024,399.0
+2637409966,DynamoDB,Oct-2024,146.0
+2637409966,Relational Database Service,Oct-2024,155.0
+2637409966,Elastic Container Service for Kubernetes,Oct-2024,149.0
+2637409966,Direct Connect,Oct-2024,0.0
+2637409966,Lambda,Oct-2024,82.0
+2637409966,Elastic MapReduce,Oct-2024,0.0
+2637409966,Secrets Manager,Oct-2024,40.0
+2637409966,EC2 Container Registry (ECR),Oct-2024,37.0
+2637409966,Elastic File System,Oct-2024,13.0
+2637409966,Key Management Service,Oct-2024,5.0
+2637409966,Step Functions,Oct-2024,2.0
+2637409966,Cost Explorer,Oct-2024,2.0
+2637409966,Route 53,Oct-2024,1.0
+2637409966,Service Catalog,Oct-2024,1.0
+2637409966,SQS,Oct-2024,0.0
+2637409966,CloudWatch Events,Oct-2024,0.0
+2637409966,SNS,Oct-2024,0.0
+2637409966,Glue,Oct-2024,0.0
+2637409966,Location Service,Oct-2024,0.0
+2637409966,Simple Workflow Service,Oct-2024,0.0
+2637409966,Systems Manager,Oct-2024,0.0
+2637409966,CloudShell,Oct-2024,0.0
+2637409966,Glacier,Oct-2024,0.0
+2637409966,CloudTrail,Oct-2024,0.0
+2637409966,Migration Hub Refactor Spaces,Oct-2024,0.0
+2637409966,X-Ray,Oct-2024,0.0
+2637409966,CloudFormation,Oct-2024,0.0
+2637409966,EC2-Other,Nov-2024,77341.0
+2637409966,EC2-Instances,Nov-2024,55440.0
+2637409966,ElastiCache,Nov-2024,28287.0
+2637409966,S3,Nov-2024,5526.0
+2637409966,CloudWatch,Nov-2024,3102.0
+2637409966,Elastic Load Balancing,Nov-2024,2322.0
+2637409966,OpenSearch Service,Nov-2024,0.0
+2637409966,VPC,Nov-2024,1724.0
+2637409966,Managed Streaming for Apache Kafka,Nov-2024,388.0
+2637409966,DynamoDB,Nov-2024,53.0
+2637409966,Relational Database Service,Nov-2024,153.0
+2637409966,Elastic Container Service for Kubernetes,Nov-2024,144.0
+2637409966,Direct Connect,Nov-2024,0.0
+2637409966,Lambda,Nov-2024,73.0
+2637409966,Elastic MapReduce,Nov-2024,0.0
+2637409966,Secrets Manager,Nov-2024,40.0
+2637409966,EC2 Container Registry (ECR),Nov-2024,38.0
+2637409966,Elastic File System,Nov-2024,13.0
+2637409966,Key Management Service,Nov-2024,5.0
+2637409966,Step Functions,Nov-2024,2.0
+2637409966,Cost Explorer,Nov-2024,1.0
+2637409966,Route 53,Nov-2024,1.0
+2637409966,Service Catalog,Nov-2024,0.0
+2637409966,SQS,Nov-2024,0.0
+2637409966,CloudWatch Events,Nov-2024,0.0
+2637409966,SNS,Nov-2024,0.0
+2637409966,Glue,Nov-2024,0.0
+2637409966,Location Service,Nov-2024,0.0
+2637409966,Simple Workflow Service,Nov-2024,0.0
+2637409966,Systems Manager,Nov-2024,0.0
+2637409966,CloudShell,Nov-2024,0.0
+2637409966,Glacier,Nov-2024,0.0
+2637409966,CloudTrail,Nov-2024,0.0
+2637409966,Migration Hub Refactor Spaces,Nov-2024,0.0
+2637409966,X-Ray,Nov-2024,0.0
+2637409966,CloudFormation,Nov-2024,0.0
+2637409966,EC2-Other,Dec-2024,77752.0
+2637409966,EC2-Instances,Dec-2024,59940.0
+2637409966,ElastiCache,Dec-2024,29246.0
+2637409966,S3,Dec-2024,5596.0
+2637409966,CloudWatch,Dec-2024,3199.0
+2637409966,Elastic Load Balancing,Dec-2024,2494.0
+2637409966,OpenSearch Service,Dec-2024,0.0
+2637409966,VPC,Dec-2024,1721.0
+2637409966,Managed Streaming for Apache Kafka,Dec-2024,399.0
+2637409966,DynamoDB,Dec-2024,55.0
+2637409966,Relational Database Service,Dec-2024,155.0
+2637409966,Elastic Container Service for Kubernetes,Dec-2024,149.0
+2637409966,Direct Connect,Dec-2024,0.0
+2637409966,Lambda,Dec-2024,78.0
+2637409966,Elastic MapReduce,Dec-2024,0.0
+2637409966,Secrets Manager,Dec-2024,39.0
+2637409966,EC2 Container Registry (ECR),Dec-2024,38.0
+2637409966,Elastic File System,Dec-2024,13.0
+2637409966,Key Management Service,Dec-2024,5.0
+2637409966,Step Functions,Dec-2024,2.0
+2637409966,Cost Explorer,Dec-2024,2.0
+2637409966,Route 53,Dec-2024,1.0
+2637409966,Service Catalog,Dec-2024,0.0
+2637409966,SQS,Dec-2024,0.0
+2637409966,CloudWatch Events,Dec-2024,0.0
+2637409966,SNS,Dec-2024,0.0
+2637409966,Glue,Dec-2024,0.0
+2637409966,Location Service,Dec-2024,0.0
+2637409966,Simple Workflow Service,Dec-2024,0.0
+2637409966,Systems Manager,Dec-2024,0.0
+2637409966,CloudShell,Dec-2024,0.0
+2637409966,Glacier,Dec-2024,0.0
+2637409966,CloudTrail,Dec-2024,0.0
+2637409966,Migration Hub Refactor Spaces,Dec-2024,0.0
+2637409966,X-Ray,Dec-2024,0.0
+2637409966,CloudFormation,Dec-2024,0.0
+2637409966,EC2-Other,Jan-2025,78908.0
+2637409966,EC2-Instances,Jan-2025,60815.0
+2637409966,ElastiCache,Jan-2025,34550.0
+2637409966,S3,Jan-2025,5483.0
+2637409966,CloudWatch,Jan-2025,3195.0
+2637409966,Elastic Load Balancing,Jan-2025,2538.0
+2637409966,OpenSearch Service,Jan-2025,0.0
+2637409966,VPC,Jan-2025,1721.0
+2637409966,Managed Streaming for Apache Kafka,Jan-2025,399.0
+2637409966,DynamoDB,Jan-2025,55.0
+2637409966,Relational Database Service,Jan-2025,155.0
+2637409966,Elastic Container Service for Kubernetes,Jan-2025,149.0
+2637409966,Direct Connect,Jan-2025,0.0
+2637409966,Lambda,Jan-2025,78.0
+2637409966,Elastic MapReduce,Jan-2025,0.0
+2637409966,Secrets Manager,Jan-2025,39.0
+2637409966,EC2 Container Registry (ECR),Jan-2025,38.0
+2637409966,Elastic File System,Jan-2025,13.0
+2637409966,Key Management Service,Jan-2025,6.0
+2637409966,Step Functions,Jan-2025,2.0
+2637409966,Cost Explorer,Jan-2025,2.0
+2637409966,Route 53,Jan-2025,1.0
+2637409966,Service Catalog,Jan-2025,0.0
+2637409966,SQS,Jan-2025,0.0
+2637409966,CloudWatch Events,Jan-2025,0.0
+2637409966,SNS,Jan-2025,0.0
+2637409966,Glue,Jan-2025,0.0
+2637409966,Location Service,Jan-2025,0.0
+2637409966,Simple Workflow Service,Jan-2025,0.0
+2637409966,Systems Manager,Jan-2025,0.0
+2637409966,CloudShell,Jan-2025,0.0
+2637409966,Glacier,Jan-2025,0.0
+2637409966,CloudTrail,Jan-2025,0.0
+2637409966,Migration Hub Refactor Spaces,Jan-2025,0.0
+2637409966,X-Ray,Jan-2025,0.0
+2637409966,CloudFormation,Jan-2025,0.0
+2637409966,EC2-Other,Feb-2025,78982.0
+2637409966,EC2-Instances,Feb-2025,55322.0
+2637409966,ElastiCache,Feb-2025,26913.0
+2637409966,S3,Feb-2025,5165.0
+2637409966,CloudWatch,Feb-2025,2929.0
+2637409966,Elastic Load Balancing,Feb-2025,2317.0
+2637409966,OpenSearch Service,Feb-2025,0.0
+2637409966,VPC,Feb-2025,1557.0
+2637409966,Managed Streaming for Apache Kafka,Feb-2025,367.0
+2637409966,DynamoDB,Feb-2025,50.0
+2637409966,Relational Database Service,Feb-2025,148.0
+2637409966,Elastic Container Service for Kubernetes,Feb-2025,134.0
+2637409966,Direct Connect,Feb-2025,0.0
+2637409966,Lambda,Feb-2025,67.0
+2637409966,Elastic MapReduce,Feb-2025,0.0
+2637409966,Secrets Manager,Feb-2025,45.0
+2637409966,EC2 Container Registry (ECR),Feb-2025,39.0
+2637409966,Elastic File System,Feb-2025,13.0
+2637409966,Key Management Service,Feb-2025,6.0
+2637409966,Step Functions,Feb-2025,2.0
+2637409966,Cost Explorer,Feb-2025,2.0
+2637409966,Route 53,Feb-2025,1.0
+2637409966,Service Catalog,Feb-2025,0.0
+2637409966,SQS,Feb-2025,0.0
+2637409966,CloudWatch Events,Feb-2025,0.0
+2637409966,SNS,Feb-2025,0.0
+2637409966,Glue,Feb-2025,0.0
+2637409966,Location Service,Feb-2025,0.0
+2637409966,Simple Workflow Service,Feb-2025,0.0
+2637409966,Systems Manager,Feb-2025,0.0
+2637409966,CloudShell,Feb-2025,0.0
+2637409966,Glacier,Feb-2025,0.0
+2637409966,CloudTrail,Feb-2025,0.0
+2637409966,Migration Hub Refactor Spaces,Feb-2025,0.0
+2637409966,X-Ray,Feb-2025,0.0
+2637409966,CloudFormation,Feb-2025,0.0
+2637409966,EC2-Other,Mar-2025,80962.0
+2637409966,EC2-Instances,Mar-2025,61528.0
+2637409966,ElastiCache,Mar-2025,28821.0
+2637409966,S3,Mar-2025,5370.0
+2637409966,CloudWatch,Mar-2025,3215.0
+2637409966,Elastic Load Balancing,Mar-2025,2619.0
+2637409966,OpenSearch Service,Mar-2025,0.0
+2637409966,VPC,Mar-2025,1723.0
+2637409966,Managed Streaming for Apache Kafka,Mar-2025,399.0
+2637409966,DynamoDB,Mar-2025,55.0
+2637409966,Relational Database Service,Mar-2025,155.0
+2637409966,Elastic Container Service for Kubernetes,Mar-2025,149.0
+2637409966,Direct Connect,Mar-2025,0.0
+2637409966,Lambda,Mar-2025,77.0
+2637409966,Elastic MapReduce,Mar-2025,0.0
+2637409966,Secrets Manager,Mar-2025,43.0
+2637409966,EC2 Container Registry (ECR),Mar-2025,40.0
+2637409966,Elastic File System,Mar-2025,13.0
+2637409966,Key Management Service,Mar-2025,6.0
+2637409966,Step Functions,Mar-2025,2.0
+2637409966,Cost Explorer,Mar-2025,2.0
+2637409966,Route 53,Mar-2025,1.0
+2637409966,Service Catalog,Mar-2025,0.0
+2637409966,SQS,Mar-2025,0.0
+2637409966,CloudWatch Events,Mar-2025,0.0
+2637409966,SNS,Mar-2025,0.0
+2637409966,Glue,Mar-2025,0.0
+2637409966,Location Service,Mar-2025,0.0
+2637409966,Simple Workflow Service,Mar-2025,0.0
+2637409966,Systems Manager,Mar-2025,0.0
+2637409966,CloudShell,Mar-2025,0.0
+2637409966,Glacier,Mar-2025,0.0
+2637409966,CloudTrail,Mar-2025,0.0
+2637409966,Migration Hub Refactor Spaces,Mar-2025,0.0
+2637409966,X-Ray,Mar-2025,0.0
+2637409966,CloudFormation,Mar-2025,0.0
