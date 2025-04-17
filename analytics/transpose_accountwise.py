@@ -2,13 +2,8 @@ import pandas as pd
 import numpy as np
 
 # Paths
-<<<<<<< Updated upstream
-INPUT_FILE = '../data_files/IP-OCL_Apr24_Mar25/Account Wise.csv'
-OUTPUT_FILE = '../data_files/OP-OCL_Apr24_Mar25/transposed_ocl_accountwise.csv'
-=======
 INPUT_FILE = '../data_files/IP-OCL_Apr24_Mar25/AccountWise.csv'
 OUTPUT_FILE = '../data_files/OP-OCL_Apr24_Mar25/transposed_ocl_accountwise_new.csv'
->>>>>>> Stashed changes
 
 def main():
     # Read CSV, force Account ID as string
