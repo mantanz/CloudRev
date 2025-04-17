@@ -1,0 +1,217 @@
+id,account_id,account_name,owner,entity,project,project_id,percentage,prod_flg,account_creation_date,closure_date,infra_partner,tech_leader
+1,072401294672,DMS AWS,Abhinav Gupta, OCL ,,,,,,,1,DSR
+2,901553615594,merchantdashboards,Abhinav Gupta, OCL ,,,,,,,1,DSR
+3,480732456233,dms-prod_ocl,Abhinav Gupta, OCL ,,,,,,,1,DSR
+4,182401677120,onboardingengine,Abhinav Gupta, OCL ,,,,,,,1,DSR
+5,389881277731,merchant-business,Abhinav Gupta, OCL ,,,,,,,1,DSR
+6,745098155683,merchant_automation,Abhinav Gupta, OCL ,,,,,,,1,DSR
+7,997924011427,ckyc,Abhinav Gupta, OCL ,,,,,,,1,DSR
+8,630307967658,dms-nonprod_ocl,Abhinav Gupta, OCL ,,,,,,,1,DSR
+9,495419344110,incentive,Abhinav Gupta, OCL ,,,,,,,1,DSR
+10,761904723706,KYB/FSM/Chatbot,Abhinav Gupta, OCL ,,,,,,,1,DSR
+11,654654497161,ppsl-ump-prod,Abhinav Gupta,PPSL,,,,,,,1,DSR
+12,767397730150,ppsl-mo-prod,Abhinav Gupta,PPSL,,,,,,,1,DSR
+13,548411824430,pocketurmoney/oneview,Abhinav Gupta, OCL ,,,,,,,1,DSR
+14,272415727726,Paytm Ads,Ajit Kumar, OCL ,,,,,,,1,DSR
+15,381491835802,uth-prod ($),Ajit Kumar, OCL ,,,,,,,1,DSR
+16,339712810712,tpap-nonprod ($),Ajit Kumar, OCL ,,,,,,,1,DSR
+17,211125458732,tpap-prod ($),Ajit Kumar, OCL ,,,,,,,1,DSR
+18,381492106076,YBL-TSP-AWS-UAT V1,Ajit Kumar, OCIL ,,,,,,,1,DSR
+19,992382754296,OCIL-AWS-UAT,Ajit Kumar, OCIL ,,,,,,,1,DSR
+20,891377131146,YBL-TSP-AWS-UAT V2,Ajit Kumar, OCIL ,,,,,,,1,DSR
+21,767398050080,YBL-TSP-AWS-prod,Ajit Kumar, OCIL ,,,,,,,1,DSR
+22,736384229724,cloudsecurity-logs,Amit Malhotra, OCL ,,,,,,,1,DSR
+23,252197745876,AWS InfoSec,Amit Malhotra, OCL ,,,,,,,1,DSR
+24,161115069565,infosec-soc,Amit Malhotra, OCL ,,,,,,,1,DSR
+25,264522784930,AWS DNS,Amit Malhotra, OCL ,,,,,,,1,DSR
+26,647564693872,aml-prod,Akeshwar Jha, OCL ,,,,,,,1,
+27,359716425895,Travel Aws,Anil Kundu, OCL ,,,,,,,1,
+28,135329050410,CityBus,Anil Kundu, OCL ,,,,,,,1,
+29,769263341944,hotels,Anil Kundu, OCL ,,,,,,,1,
+30,968032760053,Fraud AWS,Bhaskar Gopalan, Labs ,,,,,,,1,DSR
+31,546818093346,verifierAWS,Bhaskar Gopalan, OCL ,,,,,,,1,DSR
+32,211125515568,risk-ocl-tpap,Bhaskar Gopalan, OCL ,,,,,,,1,DSR
+33,608146213544,ppblmaquettepa-prod,Bhaskar Gopalan, OCL ,,,,,,,1,DSR
+34,439726107081,risk-verifier-nonprod,Bhaskar Gopalan, OCL ,,,,,,,1,DSR
+35,885068115609,pai-sre,Bhaskar Gopalan, Labs ,,,,,,,1,DSR
+36,021891570382,Risk-Lending(new),Bhaskar Gopalan,OCL,,,,,,,1,DSR
+37,767397937234,PPSL- risk,Bhaskar Gopalan,PPSL,,,,,,,1,DSR
+38,017820698743,risk-devops-tools,Bhaskar Gopalan,OCL,,,,,,,1,DSR
+39,339712759199,feature-store-ocl,Bruno Meira,OCL,,,,,,,1,
+40,746682193773,cds-clm ($),Bhaskar Gopalan,OCL,,,,,,,1,DSR
+41,130653941854,insurance-ds,Bhaskar Gopalan, PIBPL ,,,,,,,1,DSR
+42,465354398947,aml-nonprod,Akeshwar Jha, OCL ,,,,,,,1,
+43,532041146482,aml-ppsl-nonprod,Deepanshu Jain, PPSL ,,,,,,,1,
+44,914516902729,finance_support_ocl,Dheerendra Mishra, OCL ,,,,,,,1,
+45,625612021127,aoa-nonprod,Gagan Verma,OCL,,,,,,,1,DSR
+46,340677782776,aoa-prod,Gagan Verma,OCL,,,,,,,1,DSR
+47,541095382258,Card Tokenization,Gagan Verma,OCL,,,,,,,1,DSR
+48,611670160261,emi-nonprod,Gagan Verma,OCL,,,,,,,1,DSR
+49,068930846606,emi-prod_ocl,Gagan Verma,OCL,,,,,,,1,DSR
+50,424503791295,merchant-payments-api_prod_ocl,Gagan Verma,OCL,,,,,,,1,DSR
+51,929265682896,payment-non-prod,Gagan Verma,OCL,,,,,,,1,DSR
+52,233815244996,payment-platform_nonprod_ocl,Gagan Verma,OCL,,,,,,,1,DSR
+53,304016915943,payments-data-rtdd_prod_ocl,Gagan Verma,OCL,,,,,,,1,DSR
+54,352506242819,payments-platform_prod_ocl,Gagan Verma,OCL,,,,,,,1,DSR
+55,239103975135,QR,Gagan Verma,OCL,,,,,,,1,DSR
+56,128131020113,pa-nonprod,Gagan Verma,PPSL,,,,,,,1,DSR
+57,189893850600,pa-prod,Gagan Verma,PPSL,,,,,,,1,DSR
+58,471112548387,ppsl-affordability-prod,Gagan Verma,PPSL,,,,,,,1,DSR
+59,730335596554,ppsl-aml-prod,Gagan Verma,PPSL,,,,,,,1,DSR
+60,239937555916,ppsl-cardservice,Gagan Verma,PPSL,,,,,,,1,DSR
+61,905418390117,ppsl-pg2-nonprod,Gagan Verma,PPSL,,,,,,,1,DSR
+62,590183666588,ppsl-pg2-prod,Gagan Verma,PPSL,,,,,,,1,DSR
+63,590183673148,ppsl-rtdd-prod,Gagan Verma,PPSL,,,,,,,1,DSR
+64,913203018054,ppblpgpa-nonprod,Gagan Verma,OCL,,,,,,,1,DSR
+65,658447621694,hrtech_ocl,Gaurav Chopra, OCL ,,,,,,,1,
+66,700271710604,labs-llm,Harinder Takhar,OCL,,,,,,,1,
+67,505767364771,Risk Anomaly,Bhaskar Gopalan,OCL,,,,,,,1,DSR
+68,737499001343,call-centre-ivr,Lalit Mohan Pandey, OCL ,,,,,,,1,
+69,567423616371,parent account_ocl,Mukesh Meena, OCL ,,,,,,,1,DSR
+70,423969094700,push_notifications_ocl,Mukesh Meena, OCL ,,,,,,,1,DSR
+71,562921704166,paytm-ups,Mukesh Meena, OCL ,,,,,,,1,DSR
+72,698979518480,bitbucket_ocl,Mukesh Meena, OCL ,,,,,,,1,DSR
+73,654654315008,ondc-analytics ($),Mukesh Meena, PAI ,,,,,,,1,DSR
+74,090436275138,Digital Channels,Mukesh Meena, OCL ,,,,,,,1,DSR
+75,131752971524,loyalitypoints/tocom,Mukesh Meena, OCL ,,,,,,,1,DSR
+76,023903256547,central tools,Mukesh Meena, OCL ,,,,,,,1,DSR
+77,337158390682,commoninfra_ocl,Mukesh Meena, OCL ,,,,,,,1,DSR
+78,064619502227,CentralToolsPlatform,Mukesh Meena, OCL ,,,,,,,1,DSR
+79,054736913503,scp-mgv,Mukesh Meena, OCL ,,,,,,,1,DSR
+80,841860372390,fastag issuer_prod_ocl,Mukesh Meena, OCL ,,,,,,,1,DSR
+81,127247839315,Sysops AWS,Mukesh Meena, OCL ,,,,,,,1,DSR
+82,492902601864,ncmc_acquirer_ocl,Mukesh Meena, OCL ,,,,,,,1,DSR
+83,576911611801,infra_experiment_non_prod_ocl,Mukesh Meena, OCL ,,,,,,,1,DSR
+84,320811487590,dev-projects,Mukesh Meena, OCL ,,,,,,,1,DSR
+85,116631508635,fastag_non prod_ocl,Mukesh Meena, OCL ,,,,,,,1,DSR
+86,DROCL,DR - overall (to align with new contract),Mukesh Meena, PML ,,,,,,,1,DSR
+87,New 3,Confluent Kafka,Mukesh Meena,OCL,,,,,,,1,DSR
+88,678670235450,authoriser,Mukesh Meena,OCL,,,,,,,1,DSR
+89,576218818919,tools-pa,Mukesh Meena,OCL,,,,,,,1,DSR
+90,290310562512,Wallet-Nonprod,Mukesh Meena, OCL ,,,,,,,1,DSR
+91,984308723723,digital_saas_ocl,Mukesh Meena, OCL ,,,,,,,1,DSR
+92,758230397644,Mall Bangalore,Mukesh Meena, PEPL ,,,,,,,1,DSR
+93,992382517474,ppsl-central-tools,Mukesh Meena,PPSL,,,,,,,1,DSR
+94,542832536672,Nearbuy Payer,Mukesh Meena,Nearbuy,,,,,,,1,DSR
+95,798411736697,ncmc-acq-rupay-switch,Mukesh Meena, OCL ,,,,,,,1,DSR
+96,445736908015,recharge bill payments_ocl,Nipun Arora, OCL ,,,,,,,1,
+97,442447453008,Digital Gold,Nipun Arora, PML ,,,,,,,1,
+98,176839215860,aws-omnicard-Prod,Nipun Arora,OCL,,,,,,,1,
+99,664526282133,Paytm Labs,Otto Mok, Labs ,,,,,,,1,
+100,453914767997,risk-monitoring,Pankaj Kedia, OCL ,,,,,,,1,
+101, Premium Support ,Premium Support,Parakh Agarwal, OCL ,,,,,,,1,
+102,469795226344,billing account_ocl,Parakh Agarwal, OCL ,,,,,,,1,
+103,015680176265,PPSL Payer,Parakh Agarwal, PPSL ,,,,,,,1,
+104,065278587813,rooter-io,Piyush Kumar (External),Rooter,,,,,,,1,
+105,302399626617,ROOTER-DEV ($),Piyush Kumar (External),Rooter,,,,,,,1,
+106,919275210163,ROOTER-CLOUD-MANAGEMENT ($),Piyush Kumar (External),Rooter,,,,,,,1,
+107,477815026673,Rooter Payer,Piyush Kumar (External),Rooter,,,,,,,1,
+108,695745283037,ROOTER-CLOUD-LOGS ($),Piyush Kumar (External),Rooter,,,,,,,1,
+109,576349278157,ROOTER-CLOUD-SECURITY ($),Piyush Kumar (External),Rooter,,,,,,,1,
+110,271855570343,ROOTER-PROD-CDN ($),Piyush Kumar (External),Rooter,,,,,,,1,
+111,580053151223,ROOTER-PROD-TRANSCODING ($),Piyush Kumar (External),Rooter,,,,,,,1,
+112,973103936838,ROOTER-STAGE ($),Piyush Kumar (External),Rooter,,,,,,,1,
+113,537598503159,ROOTER-PROD-ANALYTICS ($),Piyush Kumar (External),Rooter,,,,,,,1,
+114,123964038738,ROOTER-PROD-APPS ($),Piyush Kumar (External),Rooter,,,,,,,1,
+115,753168370952,hawkeye_ocl,Prashant Tiwari, OCL ,,,,,,,1,DSR
+116,522974168642,chat_ocl,Prashant Tiwari, OCL ,,,,,,,1,DSR
+117,722152247093,central_app_tech_ocl,Prashant Tiwari, OCL ,,,,,,,1,DSR
+118,066636274316,central_app_tech_web_ocl,Prashant Tiwari, OCL ,,,,,,,1,DSR
+119,824873459626,central_app_tech_mini_apps_ocl,Prashant Tiwari, OCL ,,,,,,,1,DSR
+120,475919677060,paytm_digital_content_ocl,Prashant Tiwari, OCL ,,,,,,,1,DSR
+121,239666495852,health_ocl,Prashant Tiwari, OCL ,,,,,,,1,DSR
+122,605458724602,content_ml_ocl,Prashant Tiwari, OCL ,,,,,,,1,DSR
+123,663804405009,movies_ocl,Prashant Tiwari,Insider,,,,,,,1,DSR
+124,155772818492,Insider (Events),Prashant Tiwari,Insider,,,,,,,1,DSR
+125,368920154232,central app tech_ocl,Prashant Tiwari, OCL ,,,,,,,1,DSR
+126,985226307906,Insider Payer,Prashant Tiwari,Insider,,,,,,,1,DSR
+127,538615689396,Pandora AWS,Sam Fang, Labs ,,,,,,,1,
+128,269350686318,AWS Pan 2,Sam Fang, Labs ,,,,,,,1,
+129,477161539263,ticketnewprod (Ram),Sasiraman Venkatesan (External),na,,,,,,,1,
+130,475804058290,Payer9,Sathyaseelan Murugesan,na,,,,,,,1,
+131,474140895141,Enterprise SMS,Saurabh Gupta, OCL ,,,,,,,1,
+132,318633126153,AWS SMS,Saurabh Gupta, Telco ,,,,,,,1,
+133,367464822874,One97 IT,Saurabh Gupta, OCL ,,,,,,,1,
+134,407648374860,IT_BACKUP,Saurabh Gupta, OCL ,,,,,,,1,
+135,251917288737,IT Production,Saurabh Gupta, OCL ,,,,,,,1,
+136,755560366148,SAP-HANA,Saurabh Gupta, OCL ,,,,,,,1,
+137,002637409966,user-management-prod,Shrey Agarwal, OCL ,,,,,,,1,DSR
+138,210577074618,recon_prod_ocl,Shrey Agarwal, OCL ,,,,,,,1,DSR
+139,058264205572,cst-prod  ,Shrey Agarwal, OCL ,,,,,,,1,DSR
+140,752518464574,User Preferences System,Shrey Agarwal, OCL ,,,,,,,1,DSR
+141,518207312579,cst-ai,Shrey Agarwal, OCL ,,,,,,,1,DSR
+142,615069360012,merchant-ra-automation,Shrey Agarwal, OCL ,,,,,,,1,DSR
+143,685585466397,recon_nonprod_ocl,Shrey Agarwal, OCL ,,,,,,,1,DSR
+144,952840895893,User Management,Shrey Agarwal, OCL ,,,,,,,1,DSR
+145,471112938013,tpap-oauth-dr ($),Shrey Agarwal, OCL ,,,,,,,1,DSR
+146,337891198417,digital_cst,Shrey Agarwal, OCL ,,,,,,,1,DSR
+147,654654208887,ppsl-recon-prod,Shrey Agarwal,PPSL,,,,,,,1,DSR
+148,851725259328,ppsl-recon-nonprod,Shrey Agarwal,PPSL,,,,,,,1,DSR
+149,975050351452,ppsl-binary-prod,Shrey Agarwal,PPSL,,,,,,,1,DSR
+150,767397827620,ppsl-oauth-prod,Shrey Agarwal,PPSL,,,,,,,1,DSR
+151,654654394550,oauth-nonprod,Shrey Agarwal,OCL,,,,,,,1,DSR
+152,637423614657,pml-oauth,Shrey Agarwal,PML,,,,,,,1,DSR
+153,898496923608,games_pfg,Sudhanshu Gupta, PFG ,,,,,,,1,
+154,659606126372,URJA MONEY PVT LTD,Sunil Agrawal, Urjamoney ,,,,,,,1,DSR
+155,899249751508,PayTm DaaS ML,Sunil Agrawal, OCL ,,,,,,,1,DSR
+156,705108899578,daas-managed-services,Sunil Agrawal, OCL ,,,,,,,1,DSR
+157,479671683529,cdp risk_ocl,Sunil Agrawal, OCL ,,,,,,,1,DSR
+158,564188254156,Lending DataScience,Sunil Agrawal, OCL ,,,,,,,1,DSR
+159,340077773684,Paytm Financial Services,Sunil Agrawal, OCL ,,,,,,,1,DSR
+160,075790327284,cdp_growth marketing_ocl,Sunil Agrawal, OCL ,,,,,,,1,DSR
+161,576293063887,digital_insurance,Sunil Agrawal, PIBPL ,,,,,,,1,DSR
+162,718893572916,AaaS-nonprod,Sunil Agrawal, OCL ,,,,,,,1,DSR
+163,510772292268,cdo-dre,Sunil Agrawal, OCL ,,,,,,,1,DSR
+164,471112958605,lending-dwh,Sunil Agrawal, OCL ,,,,,,,1,DSR
+165,153518195166,cdo-non-prod,Sunil Agrawal, OCL ,,,,,,,1,DSR
+166,481935107677,DaaS-Apps,Sunil Agrawal, OCL ,,,,,,,1,DSR
+167,218943325897,devopscommon,Sunil Agrawal, OCL ,,,,,,,1,DSR
+168,161282784430,cdp-ppbl-pa,Sunil Agrawal, OCL ,,,,,,,1,DSR
+169,811134095225,AWS DaaS,Sunil Agrawal, OCL ,,,,,,,1,DSR
+170,975049957371,tpap-dwh ($),Sunil Agrawal, OCL ,,,,,,,1,DSR
+171,419830208690,AaaS-prod,Sunil Agrawal, OCL ,,,,,,,1,DSR
+172,628412515026,Datalake AWS,Sunil Agrawal, OCL ,,,,,,,1,DSR
+173,471112571211,ppsl-dwh-prod,Sunil Agrawal,PPSL,,,,,,,1,DSR
+174,863780864233,CreditMate Payer,Sunil Agrawal,Creditmate,,,,,,,1,DSR
+175,442231926211,lending-vkyc,Sunil Agrawal,OCL,,,,,,,1,DSR
+176,097001033170,paytm_smart_retail_ocl,Sunil Bansal, Ticketnew ,,,,,,,1,DSR
+177,003079193758,IOT Prod,Sunil Bansal, OCL ,,,,,,,1,DSR
+178,028914776520,edc_prod_ocl,Sunil Bansal, OCL ,,,,,,,1,DSR
+179,848332057417,mloyal_prod,Sunil Bansal, OCL ,,,,,,,1,DSR
+180,066548792077,IOT Core,Sunil Bansal, OCL ,,,,,,,1,DSR
+181,821240137883,edc_non prod_ocl,Sunil Bansal, OCL ,,,,,,,1,DSR
+182,494799526181,AWS_Paytm'Mloyal,Sunil Bansal,OCL,,,,,,,1,DSR
+183,906954799739,Nearbuy,Sunny Sharma,Nearbuy,,,,,,,1,
+184,975049937880,mgc-sclp,Sunny Sharma, OCL ,,,,,,,1,
+185,851725259472,ppsl-app-sec,Surinder Kumar,PPSL,,,,,,,1,
+186,860971823470,Video KYC,Suspended account,OCL,,,,,,,1,
+187,797142548187,ppblpgpa-prod,Suspended account,OCL,,,,,,,1,
+188,272968093320,legalapps,Urvashi Sahai, OCL ,,,,,,,1,
+189,789596305652,regular_mf,Varun Shridhar, PSPL ,,,,,,,1,
+190,656952484900,Paytm Money,Vinay Singhal, PML ,,,,,,,1,
+191,470060591194,edutech,Vinay Singhal, PML ,,,,,,,1,
+192,322263815270,PM-EduTech-Prod,Vinay Singhal, PML ,,,,,,,1,
+193,185774682289,pml-chat-dev,Vinay Singhal, PML ,,,,,,,1,
+194,762730909359,PM-Equities,Vinay Singhal,PML,,,,,,,1,
+195,011420223908,PM-DataLake,Vinay Singhal,PML,,,,,,,1,
+196,211125336551,pml-infosec,Vinay Singhal,PML,,,,,,,1,
+197,992382687474,pml-cst,Vinay Singhal,PML,,,,,,,1,
+198,381492193378,pml-datalake,Vinay Singhal,PML,,,,,,,1,
+199,339712912282,pml-core-poc,Vinay Singhal,PML,,,,,,,1,
+200,736121233725,Paytmmoney Ltd. Data Platform,Vinay Singhal,PML,,,,,,,1,
+201,851725496687,pml-oauth-dr,Vinay Singhal,PML,,,,,,,1,
+202,370214104985,AMC Platform,Vinay Singhal,PML,,,,,,,1,
+203,582604545400,pm-chat,Vinay Singhal,PML,,,,,,,1,
+204,009124235587,Payer1,Vinay Singhal,PML,,,,,,,1,
+205,423387369363,PML IT,Vinay Singhal,PML,,,,,,,1,
+206,058264391305,pml-storefront,Vinay Singhal,PML,,,,,,,1,
+207,654654145181,pml-oauth-nonprod,Vinay Singhal,PML,,,,,,,1,
+208,590183908249,pml-wiki-jira,Vinay Singhal,PML,,,,,,,1,
+209,807119641913,pm-bigdata,Vinay Singhal,PML,,,,,,,1,
+210,159245624542,leadsquared,Vinay Singhal,PML,,,,,,,1,
+211,661338130494,Zamtel-Zambia,Vinit Panwar, Telco ,,,,,,,1,
+212,907058949943,ppbloe-prod ($),Vishal Jangda,Nearbuy,,,,,,,1,
+213,,International Expansion,Shrey Agarwal, OCL ,,,,,,,1,DSR
+214,905418158003,FInmate,Saurabh Gupta, OCIL ,,,,,,,1,
+215,767397877262,it-infra,Saurabh Gupta, PIBPL ,,,,,,,1,
+216,654654138046,it-infra,Saurabh Gupta, PAI ,,,,,,,1,

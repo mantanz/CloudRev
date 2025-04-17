@@ -1,0 +1,107 @@
+Data Transformation Validation Summary
+=====================================
+
+File: payments-platform_prod_ocl.csv
+--------------------------------------------------
+Original Rows: 36
+Transformed Rows: 432
+
+Column Differences:
+Original Columns: ['account_id', 'Service', 'Apr-24', 'May-24', 'Jun-24', 'Jul-24', 'Aug-24', 'Sep-24', 'Oct-24', 'Nov-24', 'Dec-24', 'Jan-25', 'Feb-25', 'Mar-25']
+Transformed Columns: ['account_id', 'service', 'month', 'spend']
+
+==================================================
+
+File: Datalake AWS.csv
+--------------------------------------------------
+Original Rows: 35
+Transformed Rows: 420
+
+Column Differences:
+Original Columns: ['account_id', 'Service', 'Apr-24', 'May-24', 'Jun-24', 'Jul-24', 'Aug-24', 'Sep-24', 'Oct-24', 'Nov-24', 'Dec-24', 'Jan-25', 'Feb-25', 'Mar-25']
+Transformed Columns: ['account_id', 'service', 'month', 'spend']
+
+==================================================
+
+File: Fraud AWS.csv
+--------------------------------------------------
+Original Rows: 43
+Transformed Rows: 516
+
+Column Differences:
+Original Columns: ['account_id', 'Service', 'Apr-24', 'May-24', 'Jun-24', 'Jul-24', 'Aug-24', 'Sep-24', 'Oct-24', 'Nov-24', 'Dec-24', 'Jan-25', 'Feb-25', 'Mar-25']
+Transformed Columns: ['account_id', 'service', 'month', 'spend']
+
+==================================================
+
+File: parent account_ocl.csv
+--------------------------------------------------
+Original Rows: 47
+Transformed Rows: 564
+
+Column Differences:
+Original Columns: ['account_id', 'Service', 'Apr-24', 'May-24', 'Jun-24', 'Jul-24', 'Aug-24', 'Sep-24', 'Oct-24', 'Nov-24', 'Dec-24', 'Jan-25', 'Feb-25', 'Mar-25']
+Transformed Columns: ['account_id', 'service', 'month', 'spend']
+
+==================================================
+
+File: merchant-payments-api_prod_ocl.csv
+--------------------------------------------------
+Original Rows: 39
+Transformed Rows: 468
+
+Column Differences:
+Original Columns: ['account_id', 'Service', 'Apr-24', 'May-24', 'Jun-24', 'Jul-24', 'Aug-24', 'Sep-24', 'Oct-24', 'Nov-24', 'Dec-24', 'Jan-25', 'Feb-25', 'Mar-25']
+Transformed Columns: ['account_id', 'service', 'month', 'spend']
+
+==================================================
+
+File: payments-data-rtdd_prod_ocl.csv
+--------------------------------------------------
+Original Rows: 29
+Transformed Rows: 348
+
+Column Differences:
+Original Columns: ['account_id', 'Service', 'Apr-24', 'May-24', 'Jun-24', 'Jul-24', 'Aug-24', 'Sep-24', 'Oct-24', 'Nov-24', 'Dec-24', 'Jan-25', 'Feb-25', 'Mar-25']
+Transformed Columns: ['account_id', 'service', 'month', 'spend']
+
+==================================================
+
+File: Paytm Financial Services.csv
+--------------------------------------------------
+Original Rows: 42
+Transformed Rows: 504
+
+Column Differences:
+Original Columns: ['account_id', 'Service', 'Apr-24', 'May-24', 'Jun-24', 'Jul-24', 'Aug-24', 'Sep-24', 'Oct-24', 'Nov-24', 'Dec-24', 'Jan-25', 'Feb-25', 'Mar-25']
+Transformed Columns: ['account_id', 'service', 'month', 'spend']
+
+==================================================
+
+File: user-management-prod.csv
+--------------------------------------------------
+Original Rows: 36
+Transformed Rows: 432
+
+Column Differences:
+Original Columns: ['account_id', 'Service', 'Apr-24', 'May-24', 'Jun-24', 'Jul-24', 'Aug-24', 'Sep-24', 'Oct-24', 'Nov-24', 'Dec-24', 'Jan-25', 'Feb-25', 'Mar-25']
+Transformed Columns: ['account_id', 'service', 'month', 'spend']
+
+==================================================
+
+File: PayTm DaaS ML.csv
+--------------------------------------------------
+Original Rows: 36
+Transformed Rows: 432
+
+Column Differences:
+Original Columns: ['account_id', 'Service', 'Apr-24', 'May-24', 'Jun-24', 'Jul-24', 'Aug-24', 'Sep-24', 'Oct-24', 'Nov-24', 'Dec-24', 'Jan-25', 'Feb-25', 'Mar-25']
+Transformed Columns: ['account_id', 'service', 'month', 'spend']
+
+==================================================
+
+
+Overall Summary
+--------------
+Total files compared: 9
+Total rows including all files: 4116
