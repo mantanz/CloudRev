@@ -1,8 +1,8 @@
 import pandas as pd
 
 # Read the CSV files
-hod_df = pd.read_csv('hod_details.csv')
-people_df = pd.read_csv('people_details.csv')
+hod_df = pd.read_csv('../data_files/hod_details.csv')
+people_df = pd.read_csv('../data_files/people_details.csv')
 
 # Data Validation
 print("\n=== Data Validation ===")
@@ -27,6 +27,9 @@ for emp_name, hod_name in sample_mappings:
 # Update tech_leader in hod_details where names match
 hod_df['tech_leader'] = hod_df['hod_name'].map(name_mapping)
 
+# Fill tech_leader with hod_name where there's no match
+hod_df['tech_leader'] = hod_df['tech_leader'].fillna(hod_df['hod_name'])
+
 # Show matching results
 print("\n=== Matching Results ===")
 print(f"Number of records with matching HOD names: {hod_df['tech_leader'].notna().sum()}")
@@ -38,6 +41,6 @@ sample_updated = hod_df[['hod_name', 'tech_leader']].head(5)
 print(sample_updated)
 
 # Save the updated dataframe back to CSV
-hod_df.to_csv('hod_details_updated.csv', index=False)
+hod_df.to_csv('../data_files/hod_details_updated.csv', index=False)
 
 print("\nProcessing completed. Updated file saved as hod_details_updated.csv")
