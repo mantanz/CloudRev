@@ -14,7 +14,7 @@ if not os.path.isfile(csv_file):
 
 # === LOAD CSV INTO DATAFRAME ===
 try:
-    df = pd.read_csv(csv_file, parse_dates=["month"], dtype={"account_id": str})  # Automatically parse 'month' if exists and ensure account_id is string
+    df = pd.read_csv(csv_file, parse_dates=["month"], dtype={"account_id": str, "hod_id": str})  # Automatically parse 'month' if exists and ensure account_id and hod_id are strings
     if "month" in df.columns:
         df["month"] = df["month"].dt.strftime("%Y-%m-%d")
 except ValueError:
