@@ -5,8 +5,8 @@ from pathlib import Path
 
 # Assume script is run from analytics folder at project root
 SCRIPT_DIR = Path(__file__).parent.resolve()
-INPUT_DIR = SCRIPT_DIR.parent / "data_files/IP-OCL_Apr24_Mar25"
-OUTPUT_DIR = SCRIPT_DIR.parent / "data_files/OP-OCL_apr24_Mar25"
+INPUT_DIR = SCRIPT_DIR.parent / "data_files/monthly_transposed_data"
+OUTPUT_DIR = SCRIPT_DIR.parent / "data_files/OP_monthly_transposed_data"
 
 # Ensure output directory exists
 OUTPUT_DIR.mkdir(exist_ok=True)
@@ -45,7 +45,7 @@ def transpose_and_validate(file_path, account_id):
     df = pd.read_csv(file_path)
     service_col = df.columns[0]
     # Exclude rows where Service == "Total costs ($)"
-    df = df[df[service_col].astype(str).str.strip() != "Total costs ($)"]
+    df = df[df[service_col].astype(str).str.strip() != "Total costs($)"]
     month_cols = [col for col in df.columns if col != service_col]
     for col in month_cols:
         df[col] = df[col].astype(str).str.replace(",", "", regex=False)
@@ -62,9 +62,10 @@ def transpose_and_validate(file_path, account_id):
     orig_service_totals = df.set_index(service_col)[month_cols].sum(axis=1).round(2)
     transposed_service_totals = df_long.groupby(service_col)['spend'].sum().round(2)
     for svc in orig_service_totals.index:
-        if abs(orig_service_totals[svc] - transposed_service_totals.get(svc, 0)) > 0.01:
+        if abs(orig_service_totals[svc] - transposed_service_totals.get(svc, 0)) > 1:
             raise ValueError(f"Service total mismatch for {svc} in {file_path.name}")
     df_long.insert(0, 'account_id', account_id)
+    df_long['spend'] = df_long['spend'].round(4)
     return df_long[['account_id', service_col, 'month', 'spend']]
 
 

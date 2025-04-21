@@ -1,8 +1,11 @@
 import pandas as pd
 
 # Read both CSV files
-hod_df = pd.read_csv('hod_details_updated.csv')
-people_df = pd.read_csv('people_details.csv')
+hod_file=input("Enter the path to the hod_details file: ")
+people_file=input("Enter the path to the people_details file: ")
+
+hod_df = pd.read_csv(hod_file)
+people_df = pd.read_csv(people_file)
 
 print("\n=== Data Validation Report ===")
 print(f"Total HOD records in hod_details_updated.csv: {len(hod_df)}")
@@ -42,7 +45,9 @@ if len(unmatched_hods) > 0:
 print("\n=== Sample of Updated Data (First 5 records) ===")
 print(people_df[['emp_name', 'hod_name', 'hod_id', 'entity']].head().to_string())
 
+people_df=people_df[['emp_id','emp_name','email_id','L1_mgr_id','L1_mgr_name','hod_id','tech_product','entity','business_id','percentage']]
+
 # Save the updated people_details file
-people_df.to_csv('people_details_updated.csv', index=False)
+people_df.to_csv('../data_files/people_details_updated.csv', index=False)
 
 print("\nHOD IDs have been added and entity column has been updated with 'OCL' in people_details_updated.csv successfully!")
