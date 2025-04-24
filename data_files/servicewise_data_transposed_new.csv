@@ -1,0 +1,1297 @@
+service_id,service_type,month,spend
+1,EC2-Other,2024-04-01,1297942.7709
+1,EC2-Other,2024-05-01,1268089.9788
+1,EC2-Other,2024-06-01,1277287.697
+1,EC2-Other,2024-07-01,1271483.6963
+1,EC2-Other,2024-08-01,1229208.7434
+1,EC2-Other,2024-09-01,1175191.2645
+1,EC2-Other,2024-10-01,1154939.2021
+1,EC2-Other,2024-11-01,1136747.1307
+1,EC2-Other,2024-12-01,1143911.5622
+1,EC2-Other,2025-01-01,1136694.452
+1,EC2-Other,2025-02-01,1128484.53
+1,EC2-Other,2025-03-01,1154640.0685
+2,EC2-Instances,2024-04-01,1203592.9482
+2,EC2-Instances,2024-05-01,1197027.0565
+2,EC2-Instances,2024-06-01,1161015.1628
+2,EC2-Instances,2024-07-01,1163027.4759
+2,EC2-Instances,2024-08-01,1140257.6417
+2,EC2-Instances,2024-09-01,1082603.4934
+2,EC2-Instances,2024-10-01,1160716.2421
+2,EC2-Instances,2024-11-01,1113284.0283
+2,EC2-Instances,2024-12-01,1206645.4041
+2,EC2-Instances,2025-01-01,1221425.7435
+2,EC2-Instances,2025-02-01,1161502.2234
+2,EC2-Instances,2025-03-01,1341711.9115
+3,Relational Database Service,2024-04-01,831598.5196
+3,Relational Database Service,2024-05-01,716620.7693
+3,Relational Database Service,2024-06-01,691056.957
+3,Relational Database Service,2024-07-01,682560.249
+3,Relational Database Service,2024-08-01,645352.8106
+3,Relational Database Service,2024-09-01,642274.6417
+3,Relational Database Service,2024-10-01,666261.7595
+3,Relational Database Service,2024-11-01,621542.6176
+3,Relational Database Service,2024-12-01,676806.6838
+3,Relational Database Service,2025-01-01,682620.878
+3,Relational Database Service,2025-02-01,591509.647
+3,Relational Database Service,2025-03-01,621679.8312
+4,S3,2024-04-01,450706.9683
+4,S3,2024-05-01,450605.1613
+4,S3,2024-06-01,430282.9165
+4,S3,2024-07-01,415843.118
+4,S3,2024-08-01,410577.4753
+4,S3,2024-09-01,408346.4327
+4,S3,2024-10-01,419459.553
+4,S3,2024-11-01,412264.5571
+4,S3,2024-12-01,428046.2501
+4,S3,2025-01-01,437104.2713
+4,S3,2025-02-01,436023.2795
+4,S3,2025-03-01,462684.3669
+5,Elastic MapReduce,2024-04-01,226164.0942
+5,Elastic MapReduce,2024-05-01,211732.0976
+5,Elastic MapReduce,2024-06-01,213138.1513
+5,Elastic MapReduce,2024-07-01,215573.4256
+5,Elastic MapReduce,2024-08-01,210338.3416
+5,Elastic MapReduce,2024-09-01,204394.3796
+5,Elastic MapReduce,2024-10-01,212327.6791
+5,Elastic MapReduce,2024-11-01,201009.2494
+5,Elastic MapReduce,2024-12-01,207326.6744
+5,Elastic MapReduce,2025-01-01,206252.6592
+5,Elastic MapReduce,2025-02-01,188314.0295
+5,Elastic MapReduce,2025-03-01,214175.0891
+6,Elastic Load Balancing,2024-04-01,102546.8776
+6,Elastic Load Balancing,2024-05-01,103180.0615
+6,Elastic Load Balancing,2024-06-01,98379.7851
+6,Elastic Load Balancing,2024-07-01,93623.6835
+6,Elastic Load Balancing,2024-08-01,85398.9077
+6,Elastic Load Balancing,2024-09-01,79590.0021
+6,Elastic Load Balancing,2024-10-01,82736.7846
+6,Elastic Load Balancing,2024-11-01,78001.2508
+6,Elastic Load Balancing,2024-12-01,82633.6966
+6,Elastic Load Balancing,2025-01-01,81761.1068
+6,Elastic Load Balancing,2025-02-01,75426.6902
+6,Elastic Load Balancing,2025-03-01,83737.8585
+7,ElastiCache,2024-04-01,93002.6558
+7,ElastiCache,2024-05-01,97565.4079
+7,ElastiCache,2024-06-01,111306.6402
+7,ElastiCache,2024-07-01,108315.286
+7,ElastiCache,2024-08-01,101278.1355
+7,ElastiCache,2024-09-01,96387.7261
+7,ElastiCache,2024-10-01,72924.9649
+7,ElastiCache,2024-11-01,68001.1165
+7,ElastiCache,2024-12-01,71284.6702
+7,ElastiCache,2025-01-01,81058.6726
+7,ElastiCache,2025-02-01,67275.8476
+7,ElastiCache,2025-03-01,70276.6129
+8,VPC,2024-04-01,71005.5788
+8,VPC,2024-05-01,70854.3711
+8,VPC,2024-06-01,69618.1455
+8,VPC,2024-07-01,71324.738
+8,VPC,2024-08-01,70749.1775
+8,VPC,2024-09-01,68762.5041
+8,VPC,2024-10-01,71858.7829
+8,VPC,2024-11-01,68692.1184
+8,VPC,2024-12-01,70284.6308
+8,VPC,2025-01-01,69760.0651
+8,VPC,2025-02-01,63403.876
+8,VPC,2025-03-01,70530.7605
+9,Bedrock,2024-04-01,0.0
+9,Bedrock,2024-05-01,3.0335
+9,Bedrock,2024-06-01,9670.44
+9,Bedrock,2024-07-01,21290.9808
+9,Bedrock,2024-08-01,26713.4109
+9,Bedrock,2024-09-01,55298.4892
+9,Bedrock,2024-10-01,89805.6264
+9,Bedrock,2024-11-01,114750.1143
+9,Bedrock,2024-12-01,144224.4675
+9,Bedrock,2025-01-01,189769.4062
+9,Bedrock,2025-02-01,5001.5608
+9,Bedrock,2025-03-01,4857.3112
+10,OpenSearch Service,2024-04-01,43251.0815
+10,OpenSearch Service,2024-05-01,44455.9007
+10,OpenSearch Service,2024-06-01,40348.336
+10,OpenSearch Service,2024-07-01,36017.1317
+10,OpenSearch Service,2024-08-01,34838.5949
+10,OpenSearch Service,2024-09-01,33834.31
+10,OpenSearch Service,2024-10-01,34495.3363
+10,OpenSearch Service,2024-11-01,33388.8988
+10,OpenSearch Service,2024-12-01,34567.0443
+10,OpenSearch Service,2025-01-01,36798.7591
+10,OpenSearch Service,2025-02-01,35130.8705
+10,OpenSearch Service,2025-03-01,39057.1037
+11,CloudWatch,2024-04-01,30188.0983
+11,CloudWatch,2024-05-01,29289.608
+11,CloudWatch,2024-06-01,29136.2533
+11,CloudWatch,2024-07-01,29187.3413
+11,CloudWatch,2024-08-01,30369.7232
+11,CloudWatch,2024-09-01,32036.5707
+11,CloudWatch,2024-10-01,33178.9575
+11,CloudWatch,2024-11-01,32689.3818
+11,CloudWatch,2024-12-01,33646.4607
+11,CloudWatch,2025-01-01,35591.0717
+11,CloudWatch,2025-02-01,30404.7702
+11,CloudWatch,2025-03-01,33161.8877
+12,Savings Plans for  Compute usage,2024-04-01,84907.4247
+12,Savings Plans for  Compute usage,2024-05-01,82418.621
+12,Savings Plans for  Compute usage,2024-06-01,51795.5441
+12,Savings Plans for  Compute usage,2024-07-01,57095.6174
+12,Savings Plans for  Compute usage,2024-08-01,41891.034
+12,Savings Plans for  Compute usage,2024-09-01,46131.0254
+12,Savings Plans for  Compute usage,2024-10-01,2601.4362
+12,Savings Plans for  Compute usage,2024-11-01,2375.7954
+12,Savings Plans for  Compute usage,2024-12-01,1113.7596
+12,Savings Plans for  Compute usage,2025-01-01,352.3908
+12,Savings Plans for  Compute usage,2025-02-01,0.0
+12,Savings Plans for  Compute usage,2025-03-01,0.0
+13,DynamoDB,2024-04-01,28606.8844
+13,DynamoDB,2024-05-01,29761.1335
+13,DynamoDB,2024-06-01,27103.5372
+13,DynamoDB,2024-07-01,28860.9421
+13,DynamoDB,2024-08-01,30053.8973
+13,DynamoDB,2024-09-01,30958.5198
+13,DynamoDB,2024-10-01,29302.5918
+13,DynamoDB,2024-11-01,30131.9821
+13,DynamoDB,2024-12-01,31773.3723
+13,DynamoDB,2025-01-01,29679.6633
+13,DynamoDB,2025-02-01,28756.9836
+13,DynamoDB,2025-03-01,30512.6611
+14,IoT,2024-04-01,22481.6546
+14,IoT,2024-05-01,23194.2015
+14,IoT,2024-06-01,22815.6314
+14,IoT,2024-07-01,23924.1162
+14,IoT,2024-08-01,24752.4759
+14,IoT,2024-09-01,24910.0112
+14,IoT,2024-10-01,26926.9809
+14,IoT,2024-11-01,25948.6442
+14,IoT,2024-12-01,27916.9534
+14,IoT,2025-01-01,28561.4785
+14,IoT,2025-02-01,27015.6214
+14,IoT,2025-03-01,30960.237
+15,SageMaker,2024-04-01,18997.9011
+15,SageMaker,2024-05-01,21638.9274
+15,SageMaker,2024-06-01,21023.651
+15,SageMaker,2024-07-01,17603.2384
+15,SageMaker,2024-08-01,22578.9374
+15,SageMaker,2024-09-01,18334.9869
+15,SageMaker,2024-10-01,14707.2308
+15,SageMaker,2024-11-01,13297.3926
+15,SageMaker,2024-12-01,17124.2662
+15,SageMaker,2025-01-01,16028.5595
+15,SageMaker,2025-02-01,14973.593
+15,SageMaker,2025-03-01,18322.377
+16,API Gateway,2024-04-01,23876.3479
+16,API Gateway,2024-05-01,16499.8177
+16,API Gateway,2024-06-01,15983.9624
+16,API Gateway,2024-07-01,16639.4715
+16,API Gateway,2024-08-01,18710.8844
+16,API Gateway,2024-09-01,15826.8196
+16,API Gateway,2024-10-01,17409.6531
+16,API Gateway,2024-11-01,16462.2161
+16,API Gateway,2024-12-01,17772.9384
+16,API Gateway,2025-01-01,18012.7345
+16,API Gateway,2025-02-01,17279.1626
+16,API Gateway,2025-03-01,19675.7365
+17,DocumentDB (with MongoDB compatibility),2024-04-01,17906.7594
+17,DocumentDB (with MongoDB compatibility),2024-05-01,18247.0823
+17,DocumentDB (with MongoDB compatibility),2024-06-01,16562.168
+17,DocumentDB (with MongoDB compatibility),2024-07-01,13277.7476
+17,DocumentDB (with MongoDB compatibility),2024-08-01,11029.9205
+17,DocumentDB (with MongoDB compatibility),2024-09-01,22936.9522
+17,DocumentDB (with MongoDB compatibility),2024-10-01,19105.2597
+17,DocumentDB (with MongoDB compatibility),2024-11-01,18386.0127
+17,DocumentDB (with MongoDB compatibility),2024-12-01,18877.7312
+17,DocumentDB (with MongoDB compatibility),2025-01-01,18726.7681
+17,DocumentDB (with MongoDB compatibility),2025-02-01,17108.5814
+17,DocumentDB (with MongoDB compatibility),2025-03-01,16209.3513
+18,Elastic Container Service for Kubernetes,2024-04-01,21348.86
+18,Elastic Container Service for Kubernetes,2024-05-01,17744.7998
+18,Elastic Container Service for Kubernetes,2024-06-01,16413.8334
+18,Elastic Container Service for Kubernetes,2024-07-01,17459.6514
+18,Elastic Container Service for Kubernetes,2024-08-01,18284.1019
+18,Elastic Container Service for Kubernetes,2024-09-01,15514.9528
+18,Elastic Container Service for Kubernetes,2024-10-01,14744.4972
+18,Elastic Container Service for Kubernetes,2024-11-01,15104.2957
+18,Elastic Container Service for Kubernetes,2024-12-01,19305.2647
+18,Elastic Container Service for Kubernetes,2025-01-01,17660.5135
+18,Elastic Container Service for Kubernetes,2025-02-01,14999.5473
+18,Elastic Container Service for Kubernetes,2025-03-01,17016.6165
+19,IoT Device Management,2024-04-01,13597.342
+19,IoT Device Management,2024-05-01,12747.8637
+19,IoT Device Management,2024-06-01,10302.7001
+19,IoT Device Management,2024-07-01,10963.1224
+19,IoT Device Management,2024-08-01,11159.5841
+19,IoT Device Management,2024-09-01,12255.6271
+19,IoT Device Management,2024-10-01,13861.8588
+19,IoT Device Management,2024-11-01,12164.7816
+19,IoT Device Management,2024-12-01,10940.7867
+19,IoT Device Management,2025-01-01,14597.4813
+19,IoT Device Management,2025-02-01,11625.4523
+19,IoT Device Management,2025-03-01,11774.356
+20,Elastic File System,2024-04-01,10351.779
+20,Elastic File System,2024-05-01,9383.0063
+20,Elastic File System,2024-06-01,7483.4083
+20,Elastic File System,2024-07-01,6643.4565
+20,Elastic File System,2024-08-01,6883.4491
+20,Elastic File System,2024-09-01,6526.7466
+20,Elastic File System,2024-10-01,6430.2828
+20,Elastic File System,2024-11-01,8090.6576
+20,Elastic File System,2024-12-01,16884.4765
+20,Elastic File System,2025-01-01,17667.51
+20,Elastic File System,2025-02-01,16798.8486
+20,Elastic File System,2025-03-01,17852.1382
+21,Managed Streaming for Apache Kafka,2024-04-01,12936.9511
+21,Managed Streaming for Apache Kafka,2024-05-01,13175.4708
+21,Managed Streaming for Apache Kafka,2024-06-01,12817.1388
+21,Managed Streaming for Apache Kafka,2024-07-01,13440.141
+21,Managed Streaming for Apache Kafka,2024-08-01,12229.6151
+21,Managed Streaming for Apache Kafka,2024-09-01,9016.9082
+21,Managed Streaming for Apache Kafka,2024-10-01,9100.9602
+21,Managed Streaming for Apache Kafka,2024-11-01,8691.26
+21,Managed Streaming for Apache Kafka,2024-12-01,8930.7598
+21,Managed Streaming for Apache Kafka,2025-01-01,8902.768
+21,Managed Streaming for Apache Kafka,2025-02-01,8268.652
+21,Managed Streaming for Apache Kafka,2025-03-01,8899.1542
+22,Direct Connect,2024-04-01,7895.0317
+22,Direct Connect,2024-05-01,8224.1138
+22,Direct Connect,2024-06-01,7390.004
+22,Direct Connect,2024-07-01,6942.6563
+22,Direct Connect,2024-08-01,6040.9082
+22,Direct Connect,2024-09-01,5635.5526
+22,Direct Connect,2024-10-01,8286.1084
+22,Direct Connect,2024-11-01,5614.815
+22,Direct Connect,2024-12-01,5969.6556
+22,Direct Connect,2025-01-01,6082.9135
+22,Direct Connect,2025-02-01,5787.6525
+22,Direct Connect,2025-03-01,3831.9056
+23,EC2 Container Registry (ECR),2024-04-01,5232.7571
+23,EC2 Container Registry (ECR),2024-05-01,5567.1685
+23,EC2 Container Registry (ECR),2024-06-01,5847.2566
+23,EC2 Container Registry (ECR),2024-07-01,6103.231
+23,EC2 Container Registry (ECR),2024-08-01,6273.657
+23,EC2 Container Registry (ECR),2024-09-01,6321.0109
+23,EC2 Container Registry (ECR),2024-10-01,6438.6655
+23,EC2 Container Registry (ECR),2024-11-01,6593.0424
+23,EC2 Container Registry (ECR),2024-12-01,6794.4687
+23,EC2 Container Registry (ECR),2025-01-01,6990.47
+23,EC2 Container Registry (ECR),2025-02-01,7225.6669
+23,EC2 Container Registry (ECR),2025-03-01,7358.3634
+24,Route 53,2024-04-01,4450.3339
+24,Route 53,2024-05-01,4668.5527
+24,Route 53,2024-06-01,4482.0493
+24,Route 53,2024-07-01,4617.6625
+24,Route 53,2024-08-01,4587.7933
+24,Route 53,2024-09-01,4278.0986
+24,Route 53,2024-10-01,4450.6409
+24,Route 53,2024-11-01,4117.1413
+24,Route 53,2024-12-01,4310.5388
+24,Route 53,2025-01-01,4632.2227
+24,Route 53,2025-02-01,4159.3406
+24,Route 53,2025-03-01,4482.9522
+25,Network Firewall,2024-04-01,4831.4165
+25,Network Firewall,2024-05-01,4424.2978
+25,Network Firewall,2024-06-01,4434.0108
+25,Network Firewall,2024-07-01,3711.2841
+25,Network Firewall,2024-08-01,3609.0729
+25,Network Firewall,2024-09-01,3235.0433
+25,Network Firewall,2024-10-01,3353.15
+25,Network Firewall,2024-11-01,3256.9753
+25,Network Firewall,2024-12-01,3365.4273
+25,Network Firewall,2025-01-01,3358.8909
+25,Network Firewall,2025-02-01,3034.9171
+25,Network Firewall,2025-03-01,2791.5153
+26,DynamoDB Accelerator (DAX),2024-04-01,3273.84
+26,DynamoDB Accelerator (DAX),2024-05-01,3382.968
+26,DynamoDB Accelerator (DAX),2024-06-01,3273.84
+26,DynamoDB Accelerator (DAX),2024-07-01,3362.844
+26,DynamoDB Accelerator (DAX),2024-08-01,3295.92
+26,DynamoDB Accelerator (DAX),2024-09-01,3189.6
+26,DynamoDB Accelerator (DAX),2024-10-01,3295.92
+26,DynamoDB Accelerator (DAX),2024-11-01,3189.6
+26,DynamoDB Accelerator (DAX),2024-12-01,3295.92
+26,DynamoDB Accelerator (DAX),2025-01-01,3295.92
+26,DynamoDB Accelerator (DAX),2025-02-01,2976.96
+26,DynamoDB Accelerator (DAX),2025-03-01,3295.92
+27,SUSE Linux Enterprise Server for SAP Applications 15 SP1,2024-04-01,2448.739
+27,SUSE Linux Enterprise Server for SAP Applications 15 SP1,2024-05-01,2531.121
+27,SUSE Linux Enterprise Server for SAP Applications 15 SP1,2024-06-01,2448.0
+27,SUSE Linux Enterprise Server for SAP Applications 15 SP1,2024-07-01,2529.09
+27,SUSE Linux Enterprise Server for SAP Applications 15 SP1,2024-08-01,2529.6
+27,SUSE Linux Enterprise Server for SAP Applications 15 SP1,2024-09-01,2601.935
+27,SUSE Linux Enterprise Server for SAP Applications 15 SP1,2024-10-01,2531.3
+27,SUSE Linux Enterprise Server for SAP Applications 15 SP1,2024-11-01,2449.701
+27,SUSE Linux Enterprise Server for SAP Applications 15 SP1,2024-12-01,2534.064
+27,SUSE Linux Enterprise Server for SAP Applications 15 SP1,2025-01-01,2535.512
+27,SUSE Linux Enterprise Server for SAP Applications 15 SP1,2025-02-01,2284.728
+27,SUSE Linux Enterprise Server for SAP Applications 15 SP1,2025-03-01,2535.603
+28,QuickSight,2024-04-01,2237.9217
+28,QuickSight,2024-05-01,2241.1474
+28,QuickSight,2024-06-01,2307.7419
+28,QuickSight,2024-07-01,2290.1172
+28,QuickSight,2024-08-01,2235.32
+28,QuickSight,2024-09-01,2271.22
+28,QuickSight,2024-10-01,2296.0942
+28,QuickSight,2024-11-01,2312.5534
+28,QuickSight,2024-12-01,2331.32
+28,QuickSight,2025-01-01,2449.0347
+28,QuickSight,2025-02-01,2605.3143
+28,QuickSight,2025-03-01,2661.1901
+29,Lambda,2024-04-01,3117.5411
+29,Lambda,2024-05-01,2512.424
+29,Lambda,2024-06-01,2426.7048
+29,Lambda,2024-07-01,2463.92
+29,Lambda,2024-08-01,2549.5414
+29,Lambda,2024-09-01,1979.2407
+29,Lambda,2024-10-01,2146.2062
+29,Lambda,2024-11-01,2019.874
+29,Lambda,2024-12-01,2230.0975
+29,Lambda,2025-01-01,2248.529
+29,Lambda,2025-02-01,2097.8104
+29,Lambda,2025-03-01,2255.8379
+30,Config,2024-04-01,1077.672
+30,Config,2024-05-01,1300.372
+30,Config,2024-06-01,1289.202
+30,Config,2024-07-01,2168.07
+30,Config,2024-08-01,2386.945
+30,Config,2024-09-01,1808.257
+30,Config,2024-10-01,2023.44
+30,Config,2024-11-01,2074.348
+30,Config,2024-12-01,2517.434
+30,Config,2025-01-01,3263.499
+30,Config,2025-02-01,3427.892
+30,Config,2025-03-01,2630.824
+31,Textract,2024-04-01,6745.8096
+31,Textract,2024-05-01,900.0405
+31,Textract,2024-06-01,460.4985
+31,Textract,2024-07-01,778.2045
+31,Textract,2024-08-01,780.447
+31,Textract,2024-09-01,1135.1775
+31,Textract,2024-10-01,1558.1556
+31,Textract,2024-11-01,1347.942
+31,Textract,2024-12-01,1535.0604
+31,Textract,2025-01-01,1614.4738
+31,Textract,2025-02-01,1016.8485
+31,Textract,2025-03-01,3456.7878
+32,Transfer Family,2024-04-01,1512.0885
+32,Transfer Family,2024-05-01,1751.6623
+32,Transfer Family,2024-06-01,1927.6909
+32,Transfer Family,2024-07-01,1862.1265
+32,Transfer Family,2024-08-01,1562.7672
+32,Transfer Family,2024-09-01,1545.5022
+32,Transfer Family,2024-10-01,1785.8531
+32,Transfer Family,2024-11-01,1728.256
+32,Transfer Family,2024-12-01,1786.2912
+32,Transfer Family,2025-01-01,1786.3965
+32,Transfer Family,2025-02-01,1613.8986
+32,Transfer Family,2025-03-01,1786.436
+33,Athena,2024-04-01,2237.3142
+33,Athena,2024-05-01,2123.8895
+33,Athena,2024-06-01,2085.2994
+33,Athena,2024-07-01,1756.0853
+33,Athena,2024-08-01,1949.6956
+33,Athena,2024-09-01,1952.9007
+33,Athena,2024-10-01,2060.585
+33,Athena,2024-11-01,1893.8993
+33,Athena,2024-12-01,1646.5125
+33,Athena,2025-01-01,790.9416
+33,Athena,2025-02-01,685.5418
+33,Athena,2025-03-01,724.4187
+34,Rekognition,2024-04-01,1051.8632
+34,Rekognition,2024-05-01,1190.1932
+34,Rekognition,2024-06-01,1154.9782
+34,Rekognition,2024-07-01,1412.9979
+34,Rekognition,2024-08-01,1541.0497
+34,Rekognition,2024-09-01,1636.8595
+34,Rekognition,2024-10-01,1825.1122
+34,Rekognition,2024-11-01,1850.1537
+34,Rekognition,2024-12-01,2018.6277
+34,Rekognition,2025-01-01,2053.3305
+34,Rekognition,2025-02-01,1663.6315
+34,Rekognition,2025-03-01,1927.6304
+35,VM-Series Next-Gen Virtual Firewall w/Advanced Threat Prevention (PAYG),2024-04-01,1555.2
+35,VM-Series Next-Gen Virtual Firewall w/Advanced Threat Prevention (PAYG),2024-05-01,1607.04
+35,VM-Series Next-Gen Virtual Firewall w/Advanced Threat Prevention (PAYG),2024-06-01,1555.2
+35,VM-Series Next-Gen Virtual Firewall w/Advanced Threat Prevention (PAYG),2024-07-01,1605.96
+35,VM-Series Next-Gen Virtual Firewall w/Advanced Threat Prevention (PAYG),2024-08-01,1605.96
+35,VM-Series Next-Gen Virtual Firewall w/Advanced Threat Prevention (PAYG),2024-09-01,1555.2
+35,VM-Series Next-Gen Virtual Firewall w/Advanced Threat Prevention (PAYG),2024-10-01,1605.96
+35,VM-Series Next-Gen Virtual Firewall w/Advanced Threat Prevention (PAYG),2024-11-01,1555.2
+35,VM-Series Next-Gen Virtual Firewall w/Advanced Threat Prevention (PAYG),2024-12-01,1607.04
+35,VM-Series Next-Gen Virtual Firewall w/Advanced Threat Prevention (PAYG),2025-01-01,1607.04
+35,VM-Series Next-Gen Virtual Firewall w/Advanced Threat Prevention (PAYG),2025-02-01,1451.52
+35,VM-Series Next-Gen Virtual Firewall w/Advanced Threat Prevention (PAYG),2025-03-01,1607.04
+36,GuardDuty,2024-04-01,0.0513
+36,GuardDuty,2024-05-01,75.2518
+36,GuardDuty,2024-06-01,1971.515
+36,GuardDuty,2024-07-01,1906.4754
+36,GuardDuty,2024-08-01,1765.2367
+36,GuardDuty,2024-09-01,1666.8273
+36,GuardDuty,2024-10-01,1716.8431
+36,GuardDuty,2024-11-01,1702.0304
+36,GuardDuty,2024-12-01,1766.0729
+36,GuardDuty,2025-01-01,1756.3304
+36,GuardDuty,2025-02-01,1648.217
+36,GuardDuty,2025-03-01,1768.4952
+37,WorkSpaces,2024-04-01,3241.8372
+37,WorkSpaces,2024-05-01,968.9415
+37,WorkSpaces,2024-06-01,981.4
+37,WorkSpaces,2024-07-01,1113.22
+37,WorkSpaces,2024-08-01,1326.6511
+37,WorkSpaces,2024-09-01,1451.7152
+37,WorkSpaces,2024-10-01,1144.72
+37,WorkSpaces,2024-11-01,1574.7432
+37,WorkSpaces,2024-12-01,2105.6731
+37,WorkSpaces,2025-01-01,1202.91
+37,WorkSpaces,2025-02-01,1130.16
+37,WorkSpaces,2025-03-01,1016.6572
+38,Systems Manager,2024-04-01,0.0611
+38,Systems Manager,2024-05-01,0.062
+38,Systems Manager,2024-06-01,0.0569
+38,Systems Manager,2024-07-01,0.0646
+38,Systems Manager,2024-08-01,0.0664
+38,Systems Manager,2024-09-01,0.0582
+38,Systems Manager,2024-10-01,0.0632
+38,Systems Manager,2024-11-01,1402.5554
+38,Systems Manager,2024-12-01,2491.6907
+38,Systems Manager,2025-01-01,2656.6537
+38,Systems Manager,2025-02-01,3222.0518
+38,Systems Manager,2025-03-01,3401.5248
+39,Cost Explorer,2024-04-01,1174.3658
+39,Cost Explorer,2024-05-01,977.8502
+39,Cost Explorer,2024-06-01,986.6574
+39,Cost Explorer,2024-07-01,1144.0514
+39,Cost Explorer,2024-08-01,908.4619
+39,Cost Explorer,2024-09-01,1008.6367
+39,Cost Explorer,2024-10-01,1003.3962
+39,Cost Explorer,2024-11-01,979.765
+39,Cost Explorer,2024-12-01,1095.979
+39,Cost Explorer,2025-01-01,1048.0456
+39,Cost Explorer,2025-02-01,1169.8571
+39,Cost Explorer,2025-03-01,1066.9557
+40,Secrets Manager,2024-04-01,963.8753
+40,Secrets Manager,2024-05-01,974.4313
+40,Secrets Manager,2024-06-01,983.6234
+40,Secrets Manager,2024-07-01,1025.2927
+40,Secrets Manager,2024-08-01,1028.1582
+40,Secrets Manager,2024-09-01,990.9359
+40,Secrets Manager,2024-10-01,1010.393
+40,Secrets Manager,2024-11-01,1011.0431
+40,Secrets Manager,2024-12-01,1032.7613
+40,Secrets Manager,2025-01-01,1043.1172
+40,Secrets Manager,2025-02-01,1062.9571
+40,Secrets Manager,2025-03-01,1084.4747
+41,Kinesis Firehose,2024-04-01,1462.7055
+41,Kinesis Firehose,2024-05-01,1130.6421
+41,Kinesis Firehose,2024-06-01,809.9963
+41,Kinesis Firehose,2024-07-01,872.826
+41,Kinesis Firehose,2024-08-01,893.5906
+41,Kinesis Firehose,2024-09-01,889.9641
+41,Kinesis Firehose,2024-10-01,922.8895
+41,Kinesis Firehose,2024-11-01,856.7601
+41,Kinesis Firehose,2024-12-01,926.731
+41,Kinesis Firehose,2025-01-01,962.887
+41,Kinesis Firehose,2025-02-01,920.5765
+41,Kinesis Firehose,2025-03-01,1057.5746
+42,Backup,2024-04-01,934.6714
+42,Backup,2024-05-01,868.1244
+42,Backup,2024-06-01,854.1752
+42,Backup,2024-07-01,778.8662
+42,Backup,2024-08-01,738.4179
+42,Backup,2024-09-01,734.2094
+42,Backup,2024-10-01,742.5241
+42,Backup,2024-11-01,754.2154
+42,Backup,2024-12-01,1002.6878
+42,Backup,2025-01-01,1278.4014
+42,Backup,2025-02-01,1307.0411
+42,Backup,2025-03-01,1313.8879
+43,Glue,2024-04-01,875.2099
+43,Glue,2024-05-01,2098.4716
+43,Glue,2024-06-01,1044.0575
+43,Glue,2024-07-01,916.3488
+43,Glue,2024-08-01,424.7865
+43,Glue,2024-09-01,630.0351
+43,Glue,2024-10-01,752.3842
+43,Glue,2024-11-01,873.3846
+43,Glue,2024-12-01,1010.3192
+43,Glue,2025-01-01,772.1466
+43,Glue,2025-02-01,758.635
+43,Glue,2025-03-01,958.4941
+44,Key Management Service,2024-04-01,803.4714
+44,Key Management Service,2024-05-01,897.9013
+44,Key Management Service,2024-06-01,847.3815
+44,Key Management Service,2024-07-01,842.8937
+44,Key Management Service,2024-08-01,881.8574
+44,Key Management Service,2024-09-01,914.9884
+44,Key Management Service,2024-10-01,931.1397
+44,Key Management Service,2024-11-01,925.6352
+44,Key Management Service,2024-12-01,943.8004
+44,Key Management Service,2025-01-01,954.326
+44,Key Management Service,2025-02-01,978.7152
+44,Key Management Service,2025-03-01,1004.9377
+45,SES,2024-04-01,613.4483
+45,SES,2024-05-01,642.1031
+45,SES,2024-06-01,570.1008
+45,SES,2024-07-01,591.1669
+45,SES,2024-08-01,554.929
+45,SES,2024-09-01,504.8679
+45,SES,2024-10-01,501.6565
+45,SES,2024-11-01,402.8013
+45,SES,2024-12-01,465.108
+45,SES,2025-01-01,510.0603
+45,SES,2025-02-01,493.3978
+45,SES,2025-03-01,469.6986
+46,SQS,2024-04-01,511.3502
+46,SQS,2024-05-01,500.1525
+46,SQS,2024-06-01,509.7195
+46,SQS,2024-07-01,485.4816
+46,SQS,2024-08-01,573.5484
+46,SQS,2024-09-01,572.3826
+46,SQS,2024-10-01,513.0403
+46,SQS,2024-11-01,469.4216
+46,SQS,2024-12-01,565.1606
+46,SQS,2025-01-01,522.2346
+46,SQS,2025-02-01,454.0515
+46,SQS,2025-03-01,550.2829
+47,CloudTrail,2024-04-01,192.2266
+47,CloudTrail,2024-05-01,926.7255
+47,CloudTrail,2024-06-01,2564.9187
+47,CloudTrail,2024-07-01,704.6693
+47,CloudTrail,2024-08-01,188.9638
+47,CloudTrail,2024-09-01,166.2169
+47,CloudTrail,2024-10-01,170.7941
+47,CloudTrail,2024-11-01,163.434
+47,CloudTrail,2024-12-01,170.961
+47,CloudTrail,2025-01-01,172.8113
+47,CloudTrail,2025-02-01,172.8162
+47,CloudTrail,2025-03-01,176.6886
+48,Kinesis,2024-04-01,416.2099
+48,Kinesis,2024-05-01,439.1982
+48,Kinesis,2024-06-01,428.8527
+48,Kinesis,2024-07-01,472.2227
+48,Kinesis,2024-08-01,482.1753
+48,Kinesis,2024-09-01,466.6231
+48,Kinesis,2024-10-01,482.1683
+48,Kinesis,2024-11-01,466.5793
+48,Kinesis,2024-12-01,482.1554
+48,Kinesis,2025-01-01,482.1701
+48,Kinesis,2025-02-01,435.4722
+48,Kinesis,2025-03-01,482.1407
+49,SUSE Linux Enterprise Server for SAP Applications 15 SP5,2024-04-01,367.2
+49,SUSE Linux Enterprise Server for SAP Applications 15 SP5,2024-05-01,379.44
+49,SUSE Linux Enterprise Server for SAP Applications 15 SP5,2024-06-01,367.2
+49,SUSE Linux Enterprise Server for SAP Applications 15 SP5,2024-07-01,379.44
+49,SUSE Linux Enterprise Server for SAP Applications 15 SP5,2024-08-01,392.19
+49,SUSE Linux Enterprise Server for SAP Applications 15 SP5,2024-09-01,367.2
+49,SUSE Linux Enterprise Server for SAP Applications 15 SP5,2024-10-01,379.44
+49,SUSE Linux Enterprise Server for SAP Applications 15 SP5,2024-11-01,367.2
+49,SUSE Linux Enterprise Server for SAP Applications 15 SP5,2024-12-01,379.44
+49,SUSE Linux Enterprise Server for SAP Applications 15 SP5,2025-01-01,380.46
+49,SUSE Linux Enterprise Server for SAP Applications 15 SP5,2025-02-01,342.72
+49,SUSE Linux Enterprise Server for SAP Applications 15 SP5,2025-03-01,379.44
+50,WAF,2024-04-01,2459.181
+50,WAF,2024-05-01,1189.225
+50,WAF,2024-06-01,77.0582
+50,WAF,2024-07-01,85.6202
+50,WAF,2024-08-01,85.7296
+50,WAF,2024-09-01,77.1008
+50,WAF,2024-10-01,70.9697
+50,WAF,2024-11-01,56.4736
+50,WAF,2024-12-01,53.5852
+50,WAF,2025-01-01,54.0494
+50,WAF,2025-02-01,54.1209
+50,WAF,2025-03-01,84.6055
+51,Directory Service,2024-04-01,302.5576
+51,Directory Service,2024-05-01,312.1618
+51,Directory Service,2024-06-01,302.5283
+51,Directory Service,2024-07-01,312.5182
+51,Directory Service,2024-08-01,312.5155
+51,Directory Service,2024-09-01,302.5152
+51,Directory Service,2024-10-01,312.5386
+51,Directory Service,2024-11-01,302.3142
+51,Directory Service,2024-12-01,312.5548
+51,Directory Service,2025-01-01,312.4578
+51,Directory Service,2025-02-01,282.0073
+51,Directory Service,2025-03-01,312.264
+52,Step Functions,2024-04-01,589.7148
+52,Step Functions,2024-05-01,858.4569
+52,Step Functions,2024-06-01,599.4047
+52,Step Functions,2024-07-01,78.3162
+52,Step Functions,2024-08-01,14.2596
+52,Step Functions,2024-09-01,14.1586
+52,Step Functions,2024-10-01,15.9238
+52,Step Functions,2024-11-01,16.3045
+52,Step Functions,2024-12-01,14.2718
+52,Step Functions,2025-01-01,13.6471
+52,Step Functions,2025-02-01,12.0651
+52,Step Functions,2025-03-01,13.2694
+53,Savings Plans for  Machine Learning,2024-04-01,0.0
+53,Savings Plans for  Machine Learning,2024-05-01,0.0
+53,Savings Plans for  Machine Learning,2024-06-01,0.0
+53,Savings Plans for  Machine Learning,2024-07-01,8.3732
+53,Savings Plans for  Machine Learning,2024-08-01,19.9824
+53,Savings Plans for  Machine Learning,2024-09-01,411.5056
+53,Savings Plans for  Machine Learning,2024-10-01,1450.8727
+53,Savings Plans for  Machine Learning,2024-11-01,0.0
+53,Savings Plans for  Machine Learning,2024-12-01,0.0
+53,Savings Plans for  Machine Learning,2025-01-01,0.0
+53,Savings Plans for  Machine Learning,2025-02-01,0.0
+53,Savings Plans for  Machine Learning,2025-03-01,0.0
+54,Lightsail,2024-04-01,0.8191
+54,Lightsail,2024-05-01,0.8191
+54,Lightsail,2024-06-01,0.8191
+54,Lightsail,2024-07-01,10.7584
+54,Lightsail,2024-08-01,120.757
+54,Lightsail,2024-09-01,103.1175
+54,Lightsail,2024-10-01,86.6533
+54,Lightsail,2024-11-01,104.4416
+54,Lightsail,2024-12-01,102.8919
+54,Lightsail,2025-01-01,131.1664
+54,Lightsail,2025-02-01,212.534
+54,Lightsail,2025-03-01,279.7413
+55,Service Catalog,2024-04-01,10.1045
+55,Service Catalog,2024-05-01,6.2643
+55,Service Catalog,2024-06-01,22.7017
+55,Service Catalog,2024-07-01,156.4969
+55,Service Catalog,2024-08-01,184.1441
+55,Service Catalog,2024-09-01,82.7582
+55,Service Catalog,2024-10-01,263.4821
+55,Service Catalog,2024-11-01,25.4247
+55,Service Catalog,2024-12-01,29.4777
+55,Service Catalog,2025-01-01,29.4252
+55,Service Catalog,2025-02-01,25.0586
+55,Service Catalog,2025-03-01,52.584
+56,Global Accelerator,2024-04-01,72.0024
+56,Global Accelerator,2024-05-01,74.4013
+56,Global Accelerator,2024-06-01,72.0045
+56,Global Accelerator,2024-07-01,74.4014
+56,Global Accelerator,2024-08-01,74.4085
+56,Global Accelerator,2024-09-01,72.0031
+56,Global Accelerator,2024-10-01,74.4019
+56,Global Accelerator,2024-11-01,72.0019
+56,Global Accelerator,2024-12-01,74.4022
+56,Global Accelerator,2025-01-01,74.4021
+56,Global Accelerator,2025-02-01,67.2354
+56,Global Accelerator,2025-03-01,74.4024
+57,Certificate Manager,2024-04-01,0.0
+57,Certificate Manager,2024-05-01,0.0
+57,Certificate Manager,2024-06-01,0.0
+57,Certificate Manager,2024-07-01,1.6256
+57,Certificate Manager,2024-08-01,396.9094
+57,Certificate Manager,2024-09-01,400.0
+57,Certificate Manager,2024-10-01,43.5987
+57,Certificate Manager,2024-11-01,0.0
+57,Certificate Manager,2024-12-01,0.0
+57,Certificate Manager,2025-01-01,0.0
+57,Certificate Manager,2025-02-01,0.0
+57,Certificate Manager,2025-03-01,0.0
+58,Redshift,2024-04-01,830.7618
+58,Redshift,2024-05-01,0.8276
+58,Redshift,2024-06-01,0.8276
+58,Redshift,2024-07-01,0.8276
+58,Redshift,2024-08-01,0.8276
+58,Redshift,2024-09-01,0.8276
+58,Redshift,2024-10-01,0.8276
+58,Redshift,2024-11-01,0.8276
+58,Redshift,2024-12-01,0.8276
+58,Redshift,2025-01-01,0.8276
+58,Redshift,2025-02-01,0.8276
+58,Redshift,2025-03-01,0.8276
+59,Q,2024-04-01,100.8
+59,Q,2024-05-01,104.16
+59,Q,2024-06-01,100.8
+59,Q,2024-07-01,104.16
+59,Q,2024-08-01,104.16
+59,Q,2024-09-01,100.8
+59,Q,2024-10-01,104.16
+59,Q,2024-11-01,17.78
+59,Q,2024-12-01,0.0
+59,Q,2025-01-01,0.0
+59,Q,2025-02-01,0.0
+59,Q,2025-03-01,0.0
+60,Resilience Hub,2024-04-01,60.0
+60,Resilience Hub,2024-05-01,60.0
+60,Resilience Hub,2024-06-01,60.0
+60,Resilience Hub,2024-07-01,60.0
+60,Resilience Hub,2024-08-01,60.0
+60,Resilience Hub,2024-09-01,60.0
+60,Resilience Hub,2024-10-01,60.0
+60,Resilience Hub,2024-11-01,60.0
+60,Resilience Hub,2024-12-01,60.0
+60,Resilience Hub,2025-01-01,60.0
+60,Resilience Hub,2025-02-01,60.0
+60,Resilience Hub,2025-03-01,60.0
+61,CloudFront,2024-04-01,52.8857
+61,CloudFront,2024-05-01,41.8886
+61,CloudFront,2024-06-01,35.3022
+61,CloudFront,2024-07-01,45.0965
+61,CloudFront,2024-08-01,44.204
+61,CloudFront,2024-09-01,39.6094
+61,CloudFront,2024-10-01,49.2127
+61,CloudFront,2024-11-01,45.9549
+61,CloudFront,2024-12-01,49.8524
+61,CloudFront,2025-01-01,57.145
+61,CloudFront,2025-02-01,51.9176
+61,CloudFront,2025-03-01,51.2058
+62,CloudWatch Events,2024-04-01,60.789
+62,CloudWatch Events,2024-05-01,70.635
+62,CloudWatch Events,2024-06-01,61.4494
+62,CloudWatch Events,2024-07-01,76.7839
+62,CloudWatch Events,2024-08-01,70.5109
+62,CloudWatch Events,2024-09-01,55.3925
+62,CloudWatch Events,2024-10-01,33.4137
+62,CloudWatch Events,2024-11-01,16.299
+62,CloudWatch Events,2024-12-01,18.0922
+62,CloudWatch Events,2025-01-01,19.2145
+62,CloudWatch Events,2025-02-01,18.1425
+62,CloudWatch Events,2025-03-01,19.7937
+63,DMS,2024-04-01,133.9201
+63,DMS,2024-05-01,138.3841
+63,DMS,2024-06-01,46.314
+63,DMS,2024-07-01,0.0
+63,DMS,2024-08-01,0.0
+63,DMS,2024-09-01,0.0
+63,DMS,2024-10-01,0.0
+63,DMS,2024-11-01,0.0
+63,DMS,2024-12-01,0.0
+63,DMS,2025-01-01,0.0
+63,DMS,2025-02-01,0.0
+63,DMS,2025-03-01,0.0
+64,Identity and Access Management Access Analyzer,2024-04-01,0.0
+64,Identity and Access Management Access Analyzer,2024-05-01,0.0
+64,Identity and Access Management Access Analyzer,2024-06-01,0.002
+64,Identity and Access Management Access Analyzer,2024-07-01,0.0
+64,Identity and Access Management Access Analyzer,2024-08-01,0.002
+64,Identity and Access Management Access Analyzer,2024-09-01,0.0
+64,Identity and Access Management Access Analyzer,2024-10-01,0.0
+64,Identity and Access Management Access Analyzer,2024-11-01,0.0
+64,Identity and Access Management Access Analyzer,2024-12-01,0.0
+64,Identity and Access Management Access Analyzer,2025-01-01,82.2
+64,Identity and Access Management Access Analyzer,2025-02-01,92.2
+64,Identity and Access Management Access Analyzer,2025-03-01,92.6
+65,CentOS 7 (ARM) with Support by Supported Images,2024-04-01,0.0
+65,CentOS 7 (ARM) with Support by Supported Images,2024-05-01,0.0
+65,CentOS 7 (ARM) with Support by Supported Images,2024-06-01,61.6
+65,CentOS 7 (ARM) with Support by Supported Images,2024-07-01,137.2
+65,CentOS 7 (ARM) with Support by Supported Images,2024-08-01,0.0
+65,CentOS 7 (ARM) with Support by Supported Images,2024-09-01,0.0
+65,CentOS 7 (ARM) with Support by Supported Images,2024-10-01,0.0
+65,CentOS 7 (ARM) with Support by Supported Images,2024-11-01,0.0
+65,CentOS 7 (ARM) with Support by Supported Images,2024-12-01,0.0
+65,CentOS 7 (ARM) with Support by Supported Images,2025-01-01,0.0
+65,CentOS 7 (ARM) with Support by Supported Images,2025-02-01,0.0
+65,CentOS 7 (ARM) with Support by Supported Images,2025-03-01,0.0
+66,MongoDB Atlas (pay-as-you-go),2024-04-01,0.0
+66,MongoDB Atlas (pay-as-you-go),2024-05-01,0.0
+66,MongoDB Atlas (pay-as-you-go),2024-06-01,0.0
+66,MongoDB Atlas (pay-as-you-go),2024-07-01,0.0
+66,MongoDB Atlas (pay-as-you-go),2024-08-01,0.0
+66,MongoDB Atlas (pay-as-you-go),2024-09-01,0.0
+66,MongoDB Atlas (pay-as-you-go),2024-10-01,0.0
+66,MongoDB Atlas (pay-as-you-go),2024-11-01,0.0
+66,MongoDB Atlas (pay-as-you-go),2024-12-01,0.0
+66,MongoDB Atlas (pay-as-you-go),2025-01-01,0.0
+66,MongoDB Atlas (pay-as-you-go),2025-02-01,0.0
+66,MongoDB Atlas (pay-as-you-go),2025-03-01,179.0
+67,Elastic Container Service,2024-04-01,9.1161
+67,Elastic Container Service,2024-05-01,13.812
+67,Elastic Container Service,2024-06-01,13.0067
+67,Elastic Container Service,2024-07-01,19.6896
+67,Elastic Container Service,2024-08-01,13.7026
+67,Elastic Container Service,2024-09-01,16.0864
+67,Elastic Container Service,2024-10-01,15.0377
+67,Elastic Container Service,2024-11-01,14.4138
+67,Elastic Container Service,2024-12-01,13.2136
+67,Elastic Container Service,2025-01-01,16.5551
+67,Elastic Container Service,2025-02-01,13.5585
+67,Elastic Container Service,2025-03-01,15.6028
+68,SNS,2024-04-01,13.1805
+68,SNS,2024-05-01,15.9967
+68,SNS,2024-06-01,20.0917
+68,SNS,2024-07-01,16.3855
+68,SNS,2024-08-01,22.4054
+68,SNS,2024-09-01,13.5902
+68,SNS,2024-10-01,10.7883
+68,SNS,2024-11-01,7.3397
+68,SNS,2024-12-01,7.6045
+68,SNS,2025-01-01,8.7392
+68,SNS,2025-02-01,9.5728
+68,SNS,2025-03-01,23.8715
+69,End User Messaging,2024-04-01,2.266
+69,End User Messaging,2024-05-01,2.19
+69,End User Messaging,2024-06-01,38.211
+69,End User Messaging,2024-07-01,15.223
+69,End User Messaging,2024-08-01,14.727
+69,End User Messaging,2024-09-01,9.095
+69,End User Messaging,2024-10-01,2.621
+69,End User Messaging,2024-11-01,4.738
+69,End User Messaging,2024-12-01,6.281
+69,End User Messaging,2025-01-01,3.242
+69,End User Messaging,2025-02-01,2.963
+69,End User Messaging,2025-03-01,4.353
+70,Elemental MediaLive,2024-04-01,7.2
+70,Elemental MediaLive,2024-05-01,7.44
+70,Elemental MediaLive,2024-06-01,7.2
+70,Elemental MediaLive,2024-07-01,7.44
+70,Elemental MediaLive,2024-08-01,7.44
+70,Elemental MediaLive,2024-09-01,7.2
+70,Elemental MediaLive,2024-10-01,7.44
+70,Elemental MediaLive,2024-11-01,7.2
+70,Elemental MediaLive,2024-12-01,7.44
+70,Elemental MediaLive,2025-01-01,7.44
+70,Elemental MediaLive,2025-02-01,6.72
+70,Elemental MediaLive,2025-03-01,7.44
+71,Websoft9 Applications Hosting Platform for Redash,2024-04-01,0.0
+71,Websoft9 Applications Hosting Platform for Redash,2024-05-01,0.0
+71,Websoft9 Applications Hosting Platform for Redash,2024-06-01,0.0
+71,Websoft9 Applications Hosting Platform for Redash,2024-07-01,0.0
+71,Websoft9 Applications Hosting Platform for Redash,2024-08-01,0.0
+71,Websoft9 Applications Hosting Platform for Redash,2024-09-01,0.0
+71,Websoft9 Applications Hosting Platform for Redash,2024-10-01,0.0
+71,Websoft9 Applications Hosting Platform for Redash,2024-11-01,0.0
+71,Websoft9 Applications Hosting Platform for Redash,2024-12-01,71.765
+71,Websoft9 Applications Hosting Platform for Redash,2025-01-01,0.0
+71,Websoft9 Applications Hosting Platform for Redash,2025-02-01,0.0
+71,Websoft9 Applications Hosting Platform for Redash,2025-03-01,0.0
+72,Ubuntu Linux Desktop with Web Interface,2024-04-01,0.0
+72,Ubuntu Linux Desktop with Web Interface,2024-05-01,9.84
+72,Ubuntu Linux Desktop with Web Interface,2024-06-01,28.76
+72,Ubuntu Linux Desktop with Web Interface,2024-07-01,28.08
+72,Ubuntu Linux Desktop with Web Interface,2024-08-01,0.0
+72,Ubuntu Linux Desktop with Web Interface,2024-09-01,0.0
+72,Ubuntu Linux Desktop with Web Interface,2024-10-01,0.0
+72,Ubuntu Linux Desktop with Web Interface,2024-11-01,0.0
+72,Ubuntu Linux Desktop with Web Interface,2024-12-01,0.0
+72,Ubuntu Linux Desktop with Web Interface,2025-01-01,0.0
+72,Ubuntu Linux Desktop with Web Interface,2025-02-01,0.0
+72,Ubuntu Linux Desktop with Web Interface,2025-03-01,0.0
+73,Claude 3 Haiku ( Bedrock Edition),2024-04-01,0.0
+73,Claude 3 Haiku ( Bedrock Edition),2024-05-01,0.0
+73,Claude 3 Haiku ( Bedrock Edition),2024-06-01,0.0
+73,Claude 3 Haiku ( Bedrock Edition),2024-07-01,0.0888
+73,Claude 3 Haiku ( Bedrock Edition),2024-08-01,45.3872
+73,Claude 3 Haiku ( Bedrock Edition),2024-09-01,0.0
+73,Claude 3 Haiku ( Bedrock Edition),2024-10-01,0.0
+73,Claude 3 Haiku ( Bedrock Edition),2024-11-01,0.0
+73,Claude 3 Haiku ( Bedrock Edition),2024-12-01,0.0806
+73,Claude 3 Haiku ( Bedrock Edition),2025-01-01,0.0521
+73,Claude 3 Haiku ( Bedrock Edition),2025-02-01,0.1057
+73,Claude 3 Haiku ( Bedrock Edition),2025-03-01,0.0
+74,Claude 3 Sonnet ( Bedrock Edition),2024-04-01,0.0
+74,Claude 3 Sonnet ( Bedrock Edition),2024-05-01,0.0
+74,Claude 3 Sonnet ( Bedrock Edition),2024-06-01,0.0
+74,Claude 3 Sonnet ( Bedrock Edition),2024-07-01,0.0
+74,Claude 3 Sonnet ( Bedrock Edition),2024-08-01,0.0
+74,Claude 3 Sonnet ( Bedrock Edition),2024-09-01,0.0
+74,Claude 3 Sonnet ( Bedrock Edition),2024-10-01,1.3168
+74,Claude 3 Sonnet ( Bedrock Edition),2024-11-01,0.0
+74,Claude 3 Sonnet ( Bedrock Edition),2024-12-01,5.9511
+74,Claude 3 Sonnet ( Bedrock Edition),2025-01-01,7.5961
+74,Claude 3 Sonnet ( Bedrock Edition),2025-02-01,12.8779
+74,Claude 3 Sonnet ( Bedrock Edition),2025-03-01,16.3384
+75,Macie,2024-04-01,3.0578
+75,Macie,2024-05-01,3.1598
+75,Macie,2024-06-01,3.0315
+75,Macie,2024-07-01,2.9559
+75,Macie,2024-08-01,2.9559
+75,Macie,2024-09-01,2.7948
+75,Macie,2024-10-01,2.9559
+75,Macie,2024-11-01,2.8606
+75,Macie,2024-12-01,2.9559
+75,Macie,2025-01-01,2.9559
+75,Macie,2025-02-01,2.6699
+75,Macie,2025-03-01,2.9559
+76,MemoryDB,2024-04-01,0.0142
+76,MemoryDB,2024-05-01,0.0142
+76,MemoryDB,2024-06-01,0.0142
+76,MemoryDB,2024-07-01,0.0142
+76,MemoryDB,2024-08-01,0.0142
+76,MemoryDB,2024-09-01,0.0142
+76,MemoryDB,2024-10-01,0.0142
+76,MemoryDB,2024-11-01,0.0142
+76,MemoryDB,2024-12-01,0.0142
+76,MemoryDB,2025-01-01,0.0142
+76,MemoryDB,2025-02-01,0.0142
+76,MemoryDB,2025-03-01,25.8782
+77,Cloud Native Database for MariaDB 10.6 (Ubuntu),2024-04-01,0.0
+77,Cloud Native Database for MariaDB 10.6 (Ubuntu),2024-05-01,0.0
+77,Cloud Native Database for MariaDB 10.6 (Ubuntu),2024-06-01,0.0
+77,Cloud Native Database for MariaDB 10.6 (Ubuntu),2024-07-01,0.0
+77,Cloud Native Database for MariaDB 10.6 (Ubuntu),2024-08-01,0.0
+77,Cloud Native Database for MariaDB 10.6 (Ubuntu),2024-09-01,0.0
+77,Cloud Native Database for MariaDB 10.6 (Ubuntu),2024-10-01,0.0
+77,Cloud Native Database for MariaDB 10.6 (Ubuntu),2024-11-01,25.11
+77,Cloud Native Database for MariaDB 10.6 (Ubuntu),2024-12-01,0.0
+77,Cloud Native Database for MariaDB 10.6 (Ubuntu),2025-01-01,0.0
+77,Cloud Native Database for MariaDB 10.6 (Ubuntu),2025-02-01,0.0
+77,Cloud Native Database for MariaDB 10.6 (Ubuntu),2025-03-01,0.0
+78,IoT Device Defender,2024-04-01,1.1097
+78,IoT Device Defender,2024-05-01,2.1702
+78,IoT Device Defender,2024-06-01,2.8782
+78,IoT Device Defender,2024-07-01,0.6035
+78,IoT Device Defender,2024-08-01,0.8763
+78,IoT Device Defender,2024-09-01,1.0352
+78,IoT Device Defender,2024-10-01,0.7806
+78,IoT Device Defender,2024-11-01,0.5147
+78,IoT Device Defender,2024-12-01,0.7989
+78,IoT Device Defender,2025-01-01,3.9785
+78,IoT Device Defender,2025-02-01,0.8788
+78,IoT Device Defender,2025-03-01,1.1625
+79,Claude 3.5 Sonnet ( Bedrock Edition),2024-04-01,0.0
+79,Claude 3.5 Sonnet ( Bedrock Edition),2024-05-01,0.0
+79,Claude 3.5 Sonnet ( Bedrock Edition),2024-06-01,0.0
+79,Claude 3.5 Sonnet ( Bedrock Edition),2024-07-01,0.0
+79,Claude 3.5 Sonnet ( Bedrock Edition),2024-08-01,0.0
+79,Claude 3.5 Sonnet ( Bedrock Edition),2024-09-01,0.0
+79,Claude 3.5 Sonnet ( Bedrock Edition),2024-10-01,0.0
+79,Claude 3.5 Sonnet ( Bedrock Edition),2024-11-01,0.0
+79,Claude 3.5 Sonnet ( Bedrock Edition),2024-12-01,0.0
+79,Claude 3.5 Sonnet ( Bedrock Edition),2025-01-01,0.0
+79,Claude 3.5 Sonnet ( Bedrock Edition),2025-02-01,9.9033
+79,Claude 3.5 Sonnet ( Bedrock Edition),2025-03-01,3.9791
+80,Security Hub,2024-04-01,0.994
+80,Security Hub,2024-05-01,0.992
+80,Security Hub,2024-06-01,0.96
+80,Security Hub,2024-07-01,0.992
+80,Security Hub,2024-08-01,0.992
+80,Security Hub,2024-09-01,0.96
+80,Security Hub,2024-10-01,0.992
+80,Security Hub,2024-11-01,0.96
+80,Security Hub,2024-12-01,0.992
+80,Security Hub,2025-01-01,0.992
+80,Security Hub,2025-02-01,0.896
+80,Security Hub,2025-03-01,0.992
+81,Amplify,2024-04-01,0.0001
+81,Amplify,2024-05-01,0.0001
+81,Amplify,2024-06-01,0.0001
+81,Amplify,2024-07-01,0.0002
+81,Amplify,2024-08-01,0.0001
+81,Amplify,2024-09-01,0.0001
+81,Amplify,2024-10-01,0.0001
+81,Amplify,2024-11-01,0.0001
+81,Amplify,2024-12-01,0.0002
+81,Amplify,2025-01-01,0.0002
+81,Amplify,2025-02-01,0.0001
+81,Amplify,2025-03-01,10.2689
+82,CodePipeline,2024-04-01,2.0
+82,CodePipeline,2024-05-01,3.0
+82,CodePipeline,2024-06-01,0.0
+82,CodePipeline,2024-07-01,2.0
+82,CodePipeline,2024-08-01,0.0
+82,CodePipeline,2024-09-01,0.0
+82,CodePipeline,2024-10-01,0.0
+82,CodePipeline,2024-11-01,0.0
+82,CodePipeline,2024-12-01,0.0
+82,CodePipeline,2025-01-01,0.0
+82,CodePipeline,2025-02-01,0.0
+82,CodePipeline,2025-03-01,2.384
+83,OpenJDK 8 (Java 8) on CentOS 7,2024-04-01,7.14
+83,OpenJDK 8 (Java 8) on CentOS 7,2024-05-01,0.0
+83,OpenJDK 8 (Java 8) on CentOS 7,2024-06-01,0.0
+83,OpenJDK 8 (Java 8) on CentOS 7,2024-07-01,0.0
+83,OpenJDK 8 (Java 8) on CentOS 7,2024-08-01,0.0
+83,OpenJDK 8 (Java 8) on CentOS 7,2024-09-01,0.0
+83,OpenJDK 8 (Java 8) on CentOS 7,2024-10-01,0.0
+83,OpenJDK 8 (Java 8) on CentOS 7,2024-11-01,0.0
+83,OpenJDK 8 (Java 8) on CentOS 7,2024-12-01,0.0
+83,OpenJDK 8 (Java 8) on CentOS 7,2025-01-01,0.0
+83,OpenJDK 8 (Java 8) on CentOS 7,2025-02-01,0.0
+83,OpenJDK 8 (Java 8) on CentOS 7,2025-03-01,0.0
+84,Claude 3.7 Sonnet ( Bedrock Edition),2024-04-01,0.0
+84,Claude 3.7 Sonnet ( Bedrock Edition),2024-05-01,0.0
+84,Claude 3.7 Sonnet ( Bedrock Edition),2024-06-01,0.0
+84,Claude 3.7 Sonnet ( Bedrock Edition),2024-07-01,0.0
+84,Claude 3.7 Sonnet ( Bedrock Edition),2024-08-01,0.0
+84,Claude 3.7 Sonnet ( Bedrock Edition),2024-09-01,0.0
+84,Claude 3.7 Sonnet ( Bedrock Edition),2024-10-01,0.0
+84,Claude 3.7 Sonnet ( Bedrock Edition),2024-11-01,0.0
+84,Claude 3.7 Sonnet ( Bedrock Edition),2024-12-01,0.0
+84,Claude 3.7 Sonnet ( Bedrock Edition),2025-01-01,0.0
+84,Claude 3.7 Sonnet ( Bedrock Edition),2025-02-01,0.0
+84,Claude 3.7 Sonnet ( Bedrock Edition),2025-03-01,6.0093
+85,CodeBuild,2024-04-01,0.882
+85,CodeBuild,2024-05-01,0.816
+85,CodeBuild,2024-06-01,0.096
+85,CodeBuild,2024-07-01,0.0
+85,CodeBuild,2024-08-01,0.076
+85,CodeBuild,2024-09-01,0.0
+85,CodeBuild,2024-10-01,0.0
+85,CodeBuild,2024-11-01,0.0
+85,CodeBuild,2024-12-01,0.0
+85,CodeBuild,2025-01-01,0.0
+85,CodeBuild,2025-02-01,0.0
+85,CodeBuild,2025-03-01,3.73
+86,FSx,2024-04-01,0.2926
+86,FSx,2024-05-01,0.2926
+86,FSx,2024-06-01,0.2926
+86,FSx,2024-07-01,0.2926
+86,FSx,2024-08-01,0.2926
+86,FSx,2024-09-01,0.2926
+86,FSx,2024-10-01,0.2923
+86,FSx,2024-11-01,0.2926
+86,FSx,2024-12-01,0.2926
+86,FSx,2025-01-01,0.2926
+86,FSx,2025-02-01,0.2926
+86,FSx,2025-03-01,0.2926
+87,Compute Optimizer,2024-04-01,0.2419
+87,Compute Optimizer,2024-05-01,0.25
+87,Compute Optimizer,2024-06-01,0.2419
+87,Compute Optimizer,2024-07-01,0.25
+87,Compute Optimizer,2024-08-01,0.25
+87,Compute Optimizer,2024-09-01,0.2419
+87,Compute Optimizer,2024-10-01,0.25
+87,Compute Optimizer,2024-11-01,0.2419
+87,Compute Optimizer,2024-12-01,0.25
+87,Compute Optimizer,2025-01-01,0.25
+87,Compute Optimizer,2025-02-01,0.2258
+87,Compute Optimizer,2025-03-01,0.25
+88,DevOps Guru,2024-04-01,1.2247
+88,DevOps Guru,2024-05-01,0.1685
+88,DevOps Guru,2024-06-01,0.1282
+88,DevOps Guru,2024-07-01,0.1899
+88,DevOps Guru,2024-08-01,0.1434
+88,DevOps Guru,2024-09-01,0.0688
+88,DevOps Guru,2024-10-01,0.1538
+88,DevOps Guru,2024-11-01,0.1034
+88,DevOps Guru,2024-12-01,0.0884
+88,DevOps Guru,2025-01-01,0.075
+88,DevOps Guru,2025-02-01,0.3861
+88,DevOps Guru,2025-03-01,0.0346
+89,CodeArtifact,2024-04-01,0.1053
+89,CodeArtifact,2024-05-01,0.0992
+89,CodeArtifact,2024-06-01,0.1025
+89,CodeArtifact,2024-07-01,0.1012
+89,CodeArtifact,2024-08-01,0.102
+89,CodeArtifact,2024-09-01,0.1013
+89,CodeArtifact,2024-10-01,0.1032
+89,CodeArtifact,2024-11-01,0.1042
+89,CodeArtifact,2024-12-01,0.1092
+89,CodeArtifact,2025-01-01,0.1115
+89,CodeArtifact,2025-02-01,0.1108
+89,CodeArtifact,2025-03-01,0.11
+90,Polly,2024-04-01,0.0
+90,Polly,2024-05-01,0.0
+90,Polly,2024-06-01,0.0
+90,Polly,2024-07-01,0.4416
+90,Polly,2024-08-01,0.2215
+90,Polly,2024-09-01,0.1765
+90,Polly,2024-10-01,0.052
+90,Polly,2024-11-01,0.0
+90,Polly,2024-12-01,0.0
+90,Polly,2025-01-01,0.0
+90,Polly,2025-02-01,0.0
+90,Polly,2025-03-01,0.0
+91,Keyspaces (for Apache Cassandra),2024-04-01,0.0324
+91,Keyspaces (for Apache Cassandra),2024-05-01,0.0314
+91,Keyspaces (for Apache Cassandra),2024-06-01,0.0411
+91,Keyspaces (for Apache Cassandra),2024-07-01,0.039
+91,Keyspaces (for Apache Cassandra),2024-08-01,0.0341
+91,Keyspaces (for Apache Cassandra),2024-09-01,0.0581
+91,Keyspaces (for Apache Cassandra),2024-10-01,0.0528
+91,Keyspaces (for Apache Cassandra),2024-11-01,0.0376
+91,Keyspaces (for Apache Cassandra),2024-12-01,0.0353
+91,Keyspaces (for Apache Cassandra),2025-01-01,0.0417
+91,Keyspaces (for Apache Cassandra),2025-02-01,0.0366
+91,Keyspaces (for Apache Cassandra),2025-03-01,0.0361
+92,Transcribe,2024-04-01,0.0
+92,Transcribe,2024-05-01,0.006
+92,Transcribe,2024-06-01,0.0
+92,Transcribe,2024-07-01,0.1589
+92,Transcribe,2024-08-01,0.0
+92,Transcribe,2024-09-01,0.0
+92,Transcribe,2024-10-01,0.0
+92,Transcribe,2024-11-01,0.0
+92,Transcribe,2024-12-01,0.0
+92,Transcribe,2025-01-01,0.0
+92,Transcribe,2025-02-01,0.0
+92,Transcribe,2025-03-01,0.0
+93,CentOS 7.9 (ARM) with support by Fleximg - Kernel 5.10,2024-04-01,0.0
+93,CentOS 7.9 (ARM) with support by Fleximg - Kernel 5.10,2024-05-01,0.0
+93,CentOS 7.9 (ARM) with support by Fleximg - Kernel 5.10,2024-06-01,0.16
+93,CentOS 7.9 (ARM) with support by Fleximg - Kernel 5.10,2024-07-01,0.0
+93,CentOS 7.9 (ARM) with support by Fleximg - Kernel 5.10,2024-08-01,0.0
+93,CentOS 7.9 (ARM) with support by Fleximg - Kernel 5.10,2024-09-01,0.0
+93,CentOS 7.9 (ARM) with support by Fleximg - Kernel 5.10,2024-10-01,0.0
+93,CentOS 7.9 (ARM) with support by Fleximg - Kernel 5.10,2024-11-01,0.0
+93,CentOS 7.9 (ARM) with support by Fleximg - Kernel 5.10,2024-12-01,0.0
+93,CentOS 7.9 (ARM) with support by Fleximg - Kernel 5.10,2025-01-01,0.0
+93,CentOS 7.9 (ARM) with support by Fleximg - Kernel 5.10,2025-02-01,0.0
+93,CentOS 7.9 (ARM) with support by Fleximg - Kernel 5.10,2025-03-01,0.0
+94,Claude 3.5 Haiku ( Bedrock Edition),2024-04-01,0.0
+94,Claude 3.5 Haiku ( Bedrock Edition),2024-05-01,0.0
+94,Claude 3.5 Haiku ( Bedrock Edition),2024-06-01,0.0
+94,Claude 3.5 Haiku ( Bedrock Edition),2024-07-01,0.0
+94,Claude 3.5 Haiku ( Bedrock Edition),2024-08-01,0.0
+94,Claude 3.5 Haiku ( Bedrock Edition),2024-09-01,0.0
+94,Claude 3.5 Haiku ( Bedrock Edition),2024-10-01,0.0
+94,Claude 3.5 Haiku ( Bedrock Edition),2024-11-01,0.0
+94,Claude 3.5 Haiku ( Bedrock Edition),2024-12-01,0.0
+94,Claude 3.5 Haiku ( Bedrock Edition),2025-01-01,0.0
+94,Claude 3.5 Haiku ( Bedrock Edition),2025-02-01,0.0016
+94,Claude 3.5 Haiku ( Bedrock Edition),2025-03-01,0.0182
+95,Location Service,2024-04-01,0.0067
+95,Location Service,2024-05-01,0.0069
+95,Location Service,2024-06-01,0.0065
+95,Location Service,2024-07-01,0.0069
+95,Location Service,2024-08-01,0.0172
+95,Location Service,2024-09-01,0.0067
+95,Location Service,2024-10-01,0.012
+95,Location Service,2024-11-01,0.0092
+95,Location Service,2024-12-01,0.0053
+95,Location Service,2025-01-01,0.0053
+95,Location Service,2025-02-01,0.005
+95,Location Service,2025-03-01,0.0057
+96,Simple Workflow Service,2024-04-01,0.0066
+96,Simple Workflow Service,2024-05-01,0.0069
+96,Simple Workflow Service,2024-06-01,0.0061
+96,Simple Workflow Service,2024-07-01,0.0071
+96,Simple Workflow Service,2024-08-01,0.0067
+96,Simple Workflow Service,2024-09-01,0.0058
+96,Simple Workflow Service,2024-10-01,0.0067
+96,Simple Workflow Service,2024-11-01,0.0059
+96,Simple Workflow Service,2024-12-01,0.0058
+96,Simple Workflow Service,2025-01-01,0.0055
+96,Simple Workflow Service,2025-02-01,0.0049
+96,Simple Workflow Service,2025-03-01,0.0039
+97,Budgets,2024-04-01,0.0
+97,Budgets,2024-05-01,0.0
+97,Budgets,2024-06-01,0.0
+97,Budgets,2024-07-01,0.0
+97,Budgets,2024-08-01,0.0
+97,Budgets,2024-09-01,0.0
+97,Budgets,2024-10-01,0.0
+97,Budgets,2024-11-01,0.0
+97,Budgets,2024-12-01,0.0
+97,Budgets,2025-01-01,0.0
+97,Budgets,2025-02-01,0.0
+97,Budgets,2025-03-01,0.05
+98,Glacier,2024-04-01,0.0012
+98,Glacier,2024-05-01,0.0012
+98,Glacier,2024-06-01,0.0011
+98,Glacier,2024-07-01,0.0013
+98,Glacier,2024-08-01,0.0012
+98,Glacier,2024-09-01,0.0009
+98,Glacier,2024-10-01,0.001
+98,Glacier,2024-11-01,0.0009
+98,Glacier,2024-12-01,0.0008
+98,Glacier,2025-01-01,0.0008
+98,Glacier,2025-02-01,0.0007
+98,Glacier,2025-03-01,0.0009
+99,IoT Analytics,2024-04-01,0.0
+99,IoT Analytics,2024-05-01,0.0
+99,IoT Analytics,2024-06-01,0.0
+99,IoT Analytics,2024-07-01,0.0
+99,IoT Analytics,2024-08-01,0.0
+99,IoT Analytics,2024-09-01,0.0
+99,IoT Analytics,2024-10-01,0.0
+99,IoT Analytics,2024-11-01,0.0
+99,IoT Analytics,2024-12-01,0.0
+99,IoT Analytics,2025-01-01,0.0
+99,IoT Analytics,2025-02-01,0.0
+99,IoT Analytics,2025-03-01,0.0
+100,CloudShell,2024-04-01,0.0
+100,CloudShell,2024-05-01,0.0
+100,CloudShell,2024-06-01,0.0
+100,CloudShell,2024-07-01,0.0
+100,CloudShell,2024-08-01,0.0
+100,CloudShell,2024-09-01,0.0
+100,CloudShell,2024-10-01,0.0
+100,CloudShell,2024-11-01,0.0
+100,CloudShell,2024-12-01,0.0
+100,CloudShell,2025-01-01,0.0
+100,CloudShell,2025-02-01,0.0004
+100,CloudShell,2025-03-01,0.0
+101,Migration Hub Refactor Spaces,2024-04-01,0.0
+101,Migration Hub Refactor Spaces,2024-05-01,0.0
+101,Migration Hub Refactor Spaces,2024-06-01,0.0
+101,Migration Hub Refactor Spaces,2024-07-01,0.0
+101,Migration Hub Refactor Spaces,2024-08-01,0.0
+101,Migration Hub Refactor Spaces,2024-09-01,0.0
+101,Migration Hub Refactor Spaces,2024-10-01,0.0
+101,Migration Hub Refactor Spaces,2024-11-01,0.0
+101,Migration Hub Refactor Spaces,2024-12-01,0.0
+101,Migration Hub Refactor Spaces,2025-01-01,0.0
+101,Migration Hub Refactor Spaces,2025-02-01,0.0
+101,Migration Hub Refactor Spaces,2025-03-01,0.0
+102,X-Ray,2024-04-01,0.0
+102,X-Ray,2024-05-01,0.0
+102,X-Ray,2024-06-01,0.0
+102,X-Ray,2024-07-01,0.0
+102,X-Ray,2024-08-01,0.0
+102,X-Ray,2024-09-01,0.0
+102,X-Ray,2024-10-01,0.0
+102,X-Ray,2024-11-01,0.0
+102,X-Ray,2024-12-01,0.0
+102,X-Ray,2025-01-01,0.0
+102,X-Ray,2025-02-01,0.0
+102,X-Ray,2025-03-01,0.0
+103,Cognito,2024-04-01,0.0
+103,Cognito,2024-05-01,0.0
+103,Cognito,2024-06-01,0.0
+103,Cognito,2024-07-01,0.0
+103,Cognito,2024-08-01,0.0
+103,Cognito,2024-09-01,0.0
+103,Cognito,2024-10-01,0.0
+103,Cognito,2024-11-01,0.0
+103,Cognito,2024-12-01,0.0
+103,Cognito,2025-01-01,0.0
+103,Cognito,2025-02-01,0.0
+103,Cognito,2025-03-01,0.0
+104,SimpleDB,2024-04-01,0.0
+104,SimpleDB,2024-05-01,0.0
+104,SimpleDB,2024-06-01,0.0
+104,SimpleDB,2024-07-01,0.0
+104,SimpleDB,2024-08-01,0.0
+104,SimpleDB,2024-09-01,0.0
+104,SimpleDB,2024-10-01,0.0
+104,SimpleDB,2024-11-01,0.0
+104,SimpleDB,2024-12-01,0.0
+104,SimpleDB,2025-01-01,0.0
+104,SimpleDB,2025-02-01,0.0
+104,SimpleDB,2025-03-01,0.0
+105,CentOS 7.9 (X86-64) with support by Fleximg - Kernel 5.15,2024-04-01,0.0
+105,CentOS 7.9 (X86-64) with support by Fleximg - Kernel 5.15,2024-05-01,0.0
+105,CentOS 7.9 (X86-64) with support by Fleximg - Kernel 5.15,2024-06-01,0.0
+105,CentOS 7.9 (X86-64) with support by Fleximg - Kernel 5.15,2024-07-01,0.0
+105,CentOS 7.9 (X86-64) with support by Fleximg - Kernel 5.15,2024-08-01,0.0
+105,CentOS 7.9 (X86-64) with support by Fleximg - Kernel 5.15,2024-09-01,0.0
+105,CentOS 7.9 (X86-64) with support by Fleximg - Kernel 5.15,2024-10-01,0.0
+105,CentOS 7.9 (X86-64) with support by Fleximg - Kernel 5.15,2024-11-01,0.0
+105,CentOS 7.9 (X86-64) with support by Fleximg - Kernel 5.15,2024-12-01,0.0
+105,CentOS 7.9 (X86-64) with support by Fleximg - Kernel 5.15,2025-01-01,0.0
+105,CentOS 7.9 (X86-64) with support by Fleximg - Kernel 5.15,2025-02-01,0.0
+105,CentOS 7.9 (X86-64) with support by Fleximg - Kernel 5.15,2025-03-01,0.0
+106,CloudFormation,2024-04-01,0.0
+106,CloudFormation,2024-05-01,0.0
+106,CloudFormation,2024-06-01,0.0
+106,CloudFormation,2024-07-01,0.0
+106,CloudFormation,2024-08-01,0.0
+106,CloudFormation,2024-09-01,0.0
+106,CloudFormation,2024-10-01,0.0
+106,CloudFormation,2024-11-01,0.0
+106,CloudFormation,2024-12-01,0.0
+106,CloudFormation,2025-01-01,0.0
+106,CloudFormation,2025-02-01,0.0
+106,CloudFormation,2025-03-01,0.0
+107,CodeCommit,2024-04-01,0.0
+107,CodeCommit,2024-05-01,0.0
+107,CodeCommit,2024-06-01,0.0
+107,CodeCommit,2024-07-01,0.0
+107,CodeCommit,2024-08-01,0.0
+107,CodeCommit,2024-09-01,0.0
+107,CodeCommit,2024-10-01,0.0
+107,CodeCommit,2024-11-01,0.0
+107,CodeCommit,2024-12-01,0.0
+107,CodeCommit,2025-01-01,0.0
+107,CodeCommit,2025-02-01,0.0
+107,CodeCommit,2025-03-01,0.0
+108,Elastic Container Registry Public,2024-04-01,0.0
+108,Elastic Container Registry Public,2024-05-01,0.0
+108,Elastic Container Registry Public,2024-06-01,0.0
+108,Elastic Container Registry Public,2024-07-01,0.0
+108,Elastic Container Registry Public,2024-08-01,0.0
+108,Elastic Container Registry Public,2024-09-01,0.0
+108,Elastic Container Registry Public,2024-10-01,0.0
+108,Elastic Container Registry Public,2024-11-01,0.0
+108,Elastic Container Registry Public,2024-12-01,0.0
+108,Elastic Container Registry Public,2025-01-01,0.0
+108,Elastic Container Registry Public,2025-02-01,0.0
+108,Elastic Container Registry Public,2025-03-01,0.0
