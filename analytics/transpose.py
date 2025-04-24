@@ -41,8 +41,8 @@ def transpose_files(source_folder, destination_folder):
 
 if __name__ == "__main__":
     # Example usage
-    source_folder = "../data_files/monthly_spend"  # Folder containing original CSV files
-    destination_folder = "../data_files/monthly_transposed_data"  # Folder for transposed files
+    source_folder = "../data_files/daily_spend_apr1-apr17-2025"  # Folder containing original CSV files
+    destination_folder = "../data_files/APR2025_transposed_data"  # Folder for transposed files
     
     transpose_files(source_folder, destination_folder)
 

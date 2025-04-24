@@ -5,8 +5,8 @@ from pathlib import Path
 
 # Assume script is run from analytics folder at project root
 SCRIPT_DIR = Path(__file__).parent.resolve()
-INPUT_DIR = SCRIPT_DIR.parent / "data_files/monthly_transposed_data"
-OUTPUT_DIR = SCRIPT_DIR.parent / "data_files/OP_monthly_transposed_data"
+INPUT_DIR = SCRIPT_DIR.parent / "data_files/APR2024_transposed_data"
+OUTPUT_DIR = SCRIPT_DIR.parent / "data_files/OP_APR2024_transposed_data"
 
 # Ensure output directory exists
 OUTPUT_DIR.mkdir(exist_ok=True)
