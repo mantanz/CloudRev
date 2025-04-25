@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Read the CSV file
-df = pd.read_csv('aws_account_wise_parakh.csv', header=None)
+df = pd.read_csv('aws_account_wise_p.csv', header=None)
 
 # Extract account IDs, names, and total spends
 account_ids = df.iloc[0, :-1].tolist()  # Exclude the last column
