@@ -1,0 +1,189 @@
+account_id,account_name,entity,owner
+541095382258,Card Tokenization,OCL,Gagan Verma
+564188254156,Lending DataScience,OCL,Sunil Agrawal
+824873459626,miniapps_ocl,OCL,Prashant Tiwari
+952840895893,User Management,OCL,Shrey Agarwal
+470060591194,edutech,OCL,Vinay Singhal
+758230397644,Mall Bangalore,OCL,Mukesh Meena
+002637409966,user-management-prod,OCL,Shrey Agarwal
+899249751508,PayTm DaaS ML,OCL,Sunil Agrawal
+628412515026,Datalake AWS,OCL,Sunil Agrawal
+423969094700,pai_push_ocl,OCL,Mukesh Meena
+975049957371,tpap-dwh,OCL,Sunil Agrawal
+304016915943,payments-data-rtdd_prod_ocl,OCL,Gagan Verma
+322263815270,PM-EduTech-Prod,OCL,Vinay Singhal
+929265682896,payment-non-prod,OCL,Gagan Verma
+161115069565,infosec-soc,OCL,Amit Malhotra
+182401677120,onboardingengine,OCL,Abhinav Gupta
+352506242819,payments-platform_prod_ocl,OCL,Gagan Verma
+630307967658,dms-nonprod_ocl,OCL,Abhinav Gupta
+492902601864,ncmc_acquirer_ocl,OCL,Mukesh Meena
+264522784930,AWS DNS,OCL,Amit Malhotra
+407648374860,IT_BACKUP,OCL,Saurabh Gupta
+718893572916,AaaS-nonprod,OCL,Sunil Agrawal
+017820698743,risk-devops-tools,OCL,Bhaskar Gopalan
+272968093320,legalapps,OCL,Urvashi Sahai
+576911611801,poc_infra_testing_ocl,OCL,Mukesh Meena
+647564693872,aml-prod,OCL,Akeshwar Jha
+339712759199,feature-store-ocl,OCL,Bruno Meira
+736384229724,cloudsecurity-logs,OCL,Amit Malhotra
+997924011427,ckyc,OCL,Abhinav Gupta
+021891570382,risk-lending,OCL,Bhaskar Gopalan
+567423616371,parent account_ocl,OCL,Mukesh Meena
+367464822874,One97 IT,OCL,Saurabh Gupta
+494799526181,AWS_Paytm'Mloyal,OCL,Sunil Bansal
+914516902729,finance_support_ocl,OCL,Dheerendra Mishra
+439726107081,risk-verifier-nonprod,OCL,Bhaskar Gopalan
+368920154232,central_app_tech_ocl,OCL,Prashant Tiwari
+471112958605,lending-dwh,OCL,Sunil Agrawal
+984308723723,commonsaas_ocl,OCL,Mukesh Meena
+546818093346,verifierAWS,OCL,Bhaskar Gopalan
+611670160261,emi-nonprod,OCL,Gagan Verma
+340677782776,aoa-prod,OCL,Gagan Verma
+252197745876,AWS InfoSec,OCL,Amit Malhotra
+753168370952,hawkeye_ocl,OCL,Prashant Tiwari
+239666495852,paytmhealth_ocl,OCL,Prashant Tiwari
+789596305652,regular_mf,OCL,Varun Shridhar
+337158390682,dap_ocl,OCL,Mukesh Meena
+811134095225,AWS DaaS,OCL,Sunil Agrawal
+064619502227,CentralToolsPlatform,OCL,Mukesh Meena
+661338130494,telco-testing,OCL,Saurabh Gupta
+469795226344,billing account_ocl,OCL,Mukesh Meena
+698979518480,central_pipeline_ocl,OCL,Mukesh Meena
+218943325897,devopscommon,OCL,Sunil Agrawal
+233815244996,payment-platform_nonprod_ocl,OCL,Gagan Verma
+066636274316,webnmweb_ocl,OCL,Prashant Tiwari
+320811487590,dev-projects,OCL,Mukesh Meena
+340077773684,Paytm Financial Services,OCL,Sunil Agrawal
+479671683529,cdp risk_ocl,OCL,Sunil Agrawal
+658447621694,hrtech_ocl,OCL,Upnivesh Bhardwaj
+337891198417,digital_cst,OCL,Shrey Agarwal
+211125515568,risk-ocl-tpap,OCL,Bhaskar Gopalan
+481935107677,DaaS-Apps,OCL,Sunil Agrawal
+185774682289,pml-chat-dev,OCL,Vinay Singhal
+116631508635,fastag_non prod_ocl,OCL,Mukesh Meena
+066548792077,IOT Core,OCL,Sunil Bansal
+480732456233,dms-prod_ocl,OCL,Abhinav Gupta
+752518464574,User Preferences System,OCL,Ajit Kumar
+625612021127,aoa-nonprod,OCL,Gagan Verma
+054736913503,scp-mgv,OCL,Mukesh Meena
+318633126153,AWS SMS,OCL,Saurabh Gupta
+474140895141,Enterprise SMS,OCL,Saurabh Gupta
+135329050410,CityBus,OCL,Anil Kundu
+389881277731,merchant-business,OCL,Abhinav Gupta
+068930846606,emi-prod_ocl,OCL,Gagan Verma
+075790327284,cdp_growth marketing_ocl,OCL,Sunil Agrawal
+898496923608,games_pfg,OCL,Sudhanshu Gupta
+463470958933,New Gold,OCL,Aniket Maithani
+510772292268,cdo-dre,OCL,Sunil Agrawal
+211125458732,tpap-prod,OCL,Ajit Kumar
+885068115609,pai-sre,OCL,Bhaskar Gopalan
+576293063887,digital_insurance,OCL,Sathyaseelan Murugesan
+465354398947,aml-nonprod,OCL,Akeshwar Jha
+130653941854,insurance-ds,OCL,Anil Kundu
+028914776520,edc_prod_ocl,OCL,Sunil Bansal
+127247839315,Sysops AWS,OCL,Mukesh Meena
+737499001343,call-centre-ivr,OCL,Lalit Mohan Pandey
+761904723706,kyb,OCL,Abhinav Gupta
+339712810712,tpap-nonprod,OCL,Ajit Kumar
+901553615594,merchantdashboards,OCL,Abhinav Gupta
+664526282133,Paytm Labs,OCL,Otto Mok
+003079193758,IOT Prod,OCL,Sunil Bansal
+239103975135,QR,OCL,Gagan Verma
+453914767997,risk-monitoring,OCL,Shakti Singh
+445736908015,recharge bill payments_ocl,OCL,Nipun Arora
+251917288737,IT Production,OCL,Saurabh Gupta
+153518195166,cdo-non-prod,OCL,Sunil Agrawal
+505767364771,risk anomaly,OCL,Bhaskar Gopalan
+848332057417,mloyal_prod,OCL,Sunil Bansal
+548411824430,pocketurmoney,OCL,Abhinav Gupta
+746682193773,cds,OCL,Naveen Setia
+359716425895,Travel Aws,OCL,Anil Kundu
+722152247093,paytm_app_ocl,OCL,Prashant Tiwari
+755560366148,SAP-HANA,OCL,Saurabh Gupta
+705108899578,daas-managed-services,OCL,Sunil Agrawal
+821240137883,edc_non prod_ocl,OCL,Sunil Bansal
+685585466397,recon_nonprod_ocl,OCL,Shrey Agarwal
+419830208690,AaaS-prod,OCL,Sunil Agrawal
+954976288980,tocom-aisensy,OCL,Anand Shankar
+850995531967,cst-playground,OCL,Shrey Agarwal
+522974168642,paytmchat_ocl,OCL,Prashant Tiwari
+381491835802,uth-prod,OCL,Ajit Kumar
+745098155683,merchant_automation,OCL,Abhinav Gupta
+495419344110,incentive,OCL,Abhinav Gupta
+210577074618,recon_prod_ocl,OCL,Shrey Agarwal
+097001033170,smartretail_ocl,OCL,Sunil Bansal
+090436275138,Digital Channels,OCL,Mukesh Meena
+131752971524,tocom-aws,OCL,Mukesh Meena
+841860372390,fastag issuer_prod_ocl,OCL,Mukesh Meena
+615069360012,merchant-ra-automation,OCL,Shrey Agarwal
+442447453008,Digital Gold,OCL,Mukesh Meena
+968032760053,Fraud AWS,OCL,Bhaskar Gopalan
+072401294672,Oauth AWS,OCL,Abhinav Gupta
+424503791295,merchant-payments-api_prod_ocl,OCL,Gagan Verma
+562921704166,paytm-ups,OCL,Mukesh Meena
+272415727726,Paytm Ads,OCL,Ajit Kumar
+542832536672,Affiliate1,Nearbuy ,Mukesh Meena
+906954799739,Nearbuy,Nearbuy,Sunny Sharma
+863780864233,Affiliate5,Creditmate ,Sunil Agrawal
+659606126372,URJA MONEY PVT LTD,Creditmate,Sunil Agrawal
+477815026673,Affiliate6,Rooter ,Piyush Kumar (External)
+537598503159,ROOTER-PROD-ANALYTICS,Rooter,Piyush Kumar (External)
+302399626617,ROOTER-DEV,Rooter,Piyush Kumar (External)
+576349278157,ROOTER-CLOUD-SECURITY,Rooter,Piyush Kumar (External)
+065278587813,Rooter Sports Technology Pvt. Ltd.,Rooter,Piyush Kumar (External)
+123964038738,ROOTER-PROD-APPS,Rooter,Piyush Kumar (External)
+271855570343,ROOTER-PROD-CDN,Rooter,Piyush Kumar (External)
+919275210163,ROOTER-CLOUD-MANAGEMENT,Rooter,Piyush Kumar (External)
+973103936838,ROOTER-STAGE,Rooter,Piyush Kumar (External)
+695745283037,ROOTER-CLOUD-LOGS,Rooter,Piyush Kumar (External)
+580053151223,ROOTER-PROD-TRANSCODING,Rooter,Piyush Kumar (External)
+015680176265,Payer4,PPSL ,Parakh Agarwal
+851725259328,ppsl-recon-nonprod,PPSL,Shrey Agarwal
+767397937234,ppsl-risk-prod,PPSL,Bhaskar Gopalan
+654654394550,oauth-nonprod,PPSL,Shrey Agarwal
+471112548387,ppsl-affordability-prod,PPSL,Gagan Verma
+767397827620,ppsl-oauth-prod,PPSL,Shrey Agarwal
+851725259472,ppsl-app-sec,PPSL,Surinder Kumar
+058264205572,ppsl-cst-prod,PPSL,Shrey Agarwal
+767397730150,ppsl-mo-prod,PPSL,Abhinav Gupta
+239937555916,ppsl-cardservice,PPSL,Gagan Verma
+654654497161,ppsl-ump-prod,PPSL,Abhinav Gupta
+992382517474,ppsl-central-tools,PPSL,Mukesh Meena
+128131020113,pa-nonprod,PPSL,Gagan Verma
+590183666588,ppsl-pg2-prod,PPSL,Gagan Verma
+975050351452,ppsl-binary,PPSL,Shrey Agarwal
+654654208887,ppsl-recon-prod,PPSL,Shrey Agarwal
+590183673148,ppsl-rtdd-prod,PPSL,Gagan Verma
+905418390117,ppsl-pg2-nonprod,PPSL,Gagan Verma
+189893850600,pa-prod,PPSL,Gagan Verma
+471112571211,ppsl-dwh-prod,PPSL,Sunil Agrawal
+730335596554,ppsl-aml-prod,PPSL,Gagan Verma
+009124235587,Payer1,PML ,Vinay Singhal
+381492193378,pml-datalake,PML,Vinay Singhal
+851725496687,pml-oauth-dr,PML,Vinay Singhal
+159245624542,leadsquared,PML,Vinay Singhal
+011420223908,PM-DataLake,PML,Vinay Singhal
+762730909359,PM-Equities,PML,Vinay Singhal
+339712912282,pml-core-poc,PML,Vinay Singhal
+992382687474,pml-cst,PML,Vinay Singhal
+370214104985,AMC Platform,PML,Vinay Singhal
+654654145181,pml-oauth-nonprod,PML,Vinay Singhal
+807119641913,pm-bigdata,PML,Vinay Singhal
+058264391305,pml-storefront,PML,Vinay Singhal
+590183908249,pml-wiki-jira,PML,Vinay Singhal
+637423614657,pml-oauth,PML,Shrey Agarwal
+656952484900,Paytm Money,PML,Vinay Singhal
+582604545400,pm-chat,PML,Vinay Singhal
+423387369363,PML IT,PML,Vinay Singhal
+736121233725,Paytmmoney Ltd. Data Platform,PML,Vinay Singhal
+211125336551,pml-infosec,PML,Vinay Singhal
+475804058290,payer9,PIBPL ,Sathyaseelan Murugesan
+767397877262,it-infra,PIBPL,
+529444375373,Paytm Insurance Broking Private Limited,PIBPL,Sathyaseelan Murugesan
+339712993293,insurance-oauth,PIBPL,Sathyaseelan Murugesan
+036183559279,payer10,PaiPai ,Nemani Sriram Phanikanth
+842253078465,mcdonalds-paipai,PaiPai,Nemani Sriram Phanikanth
+654654282963,paytm-tsp-paipai,PaiPai,Nemani Sriram Phanikanth
+654654138046,it-infra,PaiPai,
+957981356015,Pai Platforms,PaiPai,Nemani Sriram Phanikanth

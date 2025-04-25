@@ -14,11 +14,22 @@ if not os.path.isfile(csv_file):
 
 # === LOAD CSV INTO DATAFRAME ===
 try:
-    df = pd.read_csv(csv_file, parse_dates=["month"])  # Automatically parse 'month' if exists
+    # Read the CSV with all columns as strings initially
+    df = pd.read_csv(csv_file, dtype=str)
+    
+    # Convert month column to datetime if it exists
     if "month" in df.columns:
-        df["month"] = df["month"].dt.strftime("%Y-%m-%d")
-except ValueError:
-    df = pd.read_csv(csv_file)  # Fallback if 'month' column doesn't exist or parse fails
+        # First try to parse as datetime
+        try:
+            df["month"] = pd.to_datetime(df["month"])
+            df["month"] = df["month"].dt.strftime("%Y-%m-%d")
+        except:
+            # If parsing fails, keep the original format
+            pass
+            
+except Exception as e:
+    print(f"Error reading CSV file: {e}")
+    exit()
 
 # === CONNECT TO SQLITE DB ===
 conn = sqlite3.connect(db_name)
@@ -31,4 +42,3 @@ conn.commit()
 conn.close()
 
 print(f"✅ Data from '{csv_file}' successfully imported into '{db_name}' in table '{table_name}'.")
-
