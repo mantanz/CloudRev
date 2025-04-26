@@ -2,21 +2,21 @@ import pandas as pd
 import numpy as np
 
 # Paths
-INPUT_FILE = '../data_files/Service-Wise.csv'
-OUTPUT_FILE = '../data_files/servicewise_data_transposed_new.csv'
-
+INPUT_FILE = '../data_files/Daily AWS Service Wise Cost - April 1-22 - Daily AWS Service Wise Cost - April 1-22.csv'
+# OUTPUT_FILE = '../data_files/OP-OCL_Apr24_Mar25/transposed_ocl_accountwise_new.csv'
+OUTPUT_FILE = '../data_files/Daily AWS Service Wise Cost - April 1-22'
 def main():
-    # Read CSV, force service_id as string
-    df = pd.read_csv(INPUT_FILE, dtype={'service_id': str})
+    # Read CSV, force Account ID as string
+    df = pd.read_csv(INPUT_FILE, dtype={'Account ID': str})
 
     # Clean column names
     df.columns = [col.strip() for col in df.columns]
 
-    # Filter out rows where service_id is blank or NaN and drop 'service_type' column if present
-    id_col = 'service_id'
+    # Filter out rows where Account ID is blank or NaN and drop 'Account Name' column if present
+    id_col = 'Account ID'
     df_filtered = df[df[id_col].notna() & (df[id_col].astype(str).str.strip() != '')].copy()
-    if 'service_type' in df_filtered.columns:
-        df_filtered = df_filtered.drop(columns=['service_type'])
+    if 'Account Name' in df_filtered.columns:
+        df_filtered = df_filtered.drop(columns=['Account Name'])
 
     # Identify value columns (months)
     value_vars = [col for col in df_filtered.columns if col != id_col]

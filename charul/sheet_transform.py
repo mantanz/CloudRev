@@ -6,12 +6,12 @@ import pandas as pd
 import numpy as np
 import io
 
- # Get the uploaded filename
-df = pd.read_csv("../data_files/Service-Wise.csv")
+# Get the uploaded filename
+df = pd.read_csv("../data_files/monthly_spend_apr_transposed.csv")
 
 # Step 3: Transform the data from wide to long format
 # First, identify month columns and non-month columns
-non_month_columns = ['service_id', 'service_name']
+non_month_columns = ['account_id', 'account_name']
 month_columns = [col for col in df.columns if col not in non_month_columns]
 
 # Create a mapping of month abbreviations to month numbers
@@ -26,9 +26,8 @@ transformed_data = []
 
 # Process each row in the original data
 for _, row in df.iterrows():
-    service_id = row['service_id']
-    service_name = row['service_name']
-    # owner = row['owner']
+    account_id = row['account_id']
+    account_name = row['account_name']
 
     # For each month column, create a new row
     for month in month_columns:
@@ -41,19 +40,21 @@ for _, row in df.iterrows():
         except ValueError:
             amount = 0.0  # Set to 0 if conversion fails
             
-        # Extract month and year from the column name (e.g., 'Apr-24')
-        month_abbr, year = month.split('-')
-        month_num = month_mapping[month_abbr]
-        # Create date in YYYY-MM-DD format (using day=1)
-        date_str = f"20{year}-{month_num}-01"
-        
+        # Extract month and year from the column name (e.g., '2025-04-01')
+        date_parts = month.split('-')
+        if len(date_parts) == 3:  # Full date format
+            year = date_parts[0]
+            month_num = date_parts[1]
+            date_str = month
+        else:  # Handle other formats if needed
+            date_str = month
+            
         transformed_data.append({
-                'service_id': service_id,
-                'service_name': service_name,
-                # 'owner': owner,
-                'month': date_str,
-                'spend': amount
-            })
+            'account_id': account_id,
+            'account_name': account_name,
+            'month': date_str,
+            'spend': amount 
+        })
 
 # Convert the list of dictionaries to a DataFrame
 transformed_df = pd.DataFrame(transformed_data)
@@ -69,11 +70,11 @@ print("First 10 rows of transformed data:")
 print(transformed_df.head(10))
 
 # Step 5: Save the transformed data to a new CSV file
-output_filename = '../data_files/servicewise_data_transposed_new.csv'
+output_filename = '../data_files/monthly_spend_apr_final.csv'
 transformed_df.to_csv(output_filename, index=False)
 
 # Step 6: Download the transformed CSV file
 # files.download(output_filename)
 
-print(f"\nTransformation complete! Downloaded as {output_filename}")
+print(f"\nTransformation complete! Saved as {output_filename}")
 print(f"Total number of rows in transformed data: {len(transformed_df)}")

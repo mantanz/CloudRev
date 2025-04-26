@@ -1,0 +1,110 @@
+service_id,service_name
+1,EC2-Other
+2,EC2-Instances
+3,Relational Database Service
+4,S3
+5,Elastic MapReduce
+6,Elastic Load Balancing
+7,ElastiCache
+8,VPC
+9,Bedrock
+10,OpenSearch Service
+11,CloudWatch
+12,Savings Plans for  Compute usage
+13,DynamoDB
+14,IoT
+15,SageMaker
+16,API Gateway
+17,DocumentDB (with MongoDB compatibility)
+18,Elastic Container Service for Kubernetes
+19,IoT Device Management
+20,Elastic File System
+21,Managed Streaming for Apache Kafka
+22,Direct Connect
+23,EC2 Container Registry (ECR)
+24,Route 53
+25,Network Firewall
+26,DynamoDB Accelerator (DAX)
+27,SUSE Linux Enterprise Server for SAP Applications 15 SP1
+28,QuickSight
+29,Lambda
+30,Config
+31,Textract
+32,Transfer Family
+33,Athena
+34,Rekognition
+35,VM-Series Next-Gen Virtual Firewall w/Advanced Threat Prevention (PAYG)
+36,GuardDuty
+37,WorkSpaces
+38,Systems Manager
+39,Cost Explorer
+40,Secrets Manager
+41,Kinesis Firehose
+42,Backup
+43,Glue
+44,Key Management Service
+45,SES
+46,SQS
+47,CloudTrail
+48,Kinesis
+49,SUSE Linux Enterprise Server for SAP Applications 15 SP5
+50,WAF
+51,Directory Service
+52,Step Functions
+53,Savings Plans for  Machine Learning
+54,Lightsail
+55,Service Catalog
+56,Global Accelerator
+57,Certificate Manager
+58,Redshift
+59,Q
+60,Resilience Hub
+61,CloudFront
+62,CloudWatch Events
+63,DMS
+64,Identity and Access Management Access Analyzer
+65,CentOS 7 (ARM) with Support by Supported Images
+66,MongoDB Atlas (pay-as-you-go)
+67,Elastic Container Service
+68,SNS
+69,End User Messaging
+70,Elemental MediaLive
+71,Websoft9 Applications Hosting Platform for Redash
+72,Ubuntu Linux Desktop with Web Interface
+73,Claude 3 Haiku ( Bedrock Edition)
+74,Claude 3 Sonnet ( Bedrock Edition)
+75,Macie
+76,MemoryDB
+77,Cloud Native Database for MariaDB 10.6 (Ubuntu)
+78,IoT Device Defender
+79,Claude 3.5 Sonnet ( Bedrock Edition)
+80,Security Hub
+81,Amplify
+82,CodePipeline
+83,OpenJDK 8 (Java 8) on CentOS 7
+84,Claude 3.7 Sonnet ( Bedrock Edition)
+85,CodeBuild
+86,FSx
+87,Compute Optimizer
+88,DevOps Guru
+89,CodeArtifact
+90,Polly
+91,Keyspaces (for Apache Cassandra)
+92,Transcribe
+93,CentOS 7.9 (ARM) with support by Fleximg - Kernel 5.10
+94,Claude 3.5 Haiku ( Bedrock Edition)
+95,Location Service
+96,Simple Workflow Service
+97,Budgets
+98,Glacier
+99,IoT Analytics
+100,CloudShell
+101,Migration Hub Refactor Spaces
+102,X-Ray
+103,Cognito
+104,SimpleDB
+105,CentOS 7.9 (X86-64) with support by Fleximg - Kernel 5.15
+106,CloudFormation
+107,CodeCommit
+108,Elastic Container Registry Public
+109,Claude 3.5 Sonnet v2 ( Bedrock Edition)

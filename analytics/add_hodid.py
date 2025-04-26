@@ -22,7 +22,7 @@ if 'hod_id' not in people_df.columns:
 people_df['hod_id'] = people_df['hod_name'].map(hod_mapping)
 
 # Fill entity column with 'OCL'
-people_df['entity'] = 'OCL'
+#people_df['entity'] = 'OCL'
 
 # Calculate statistics
 total_records = len(people_df)

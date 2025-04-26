@@ -1,0 +1,95 @@
+service_name,new_service_name
+AWS Amplify,Amplify
+Amazon API Gateway,API Gateway
+Amazon Athena,Athena
+AWS Backup,Backup
+Amazon Bedrock,Bedrock
+AWS Budgets,Budgets
+Claude 3 Sonnet (Amazon Bedrock Edition),Claude 3 Sonnet ( Bedrock Edition)
+Claude 3.5 Sonnet (Amazon Bedrock Edition),Claude 3.5 Sonnet ( Bedrock Edition)
+Claude 3.5 Sonnet v2 (Amazon Bedrock Edition),Claude 3.5 Sonnet v2 ( Bedrock Edition)
+Claude 3.7 Sonnet (Amazon Bedrock Edition),Claude 3.7 Sonnet ( Bedrock Edition)
+AWS CloudFormation,CloudFormation
+Amazon CloudFront,CloudFront
+AWS CloudShell,CloudShell
+AWS CloudTrail,CloudTrail
+AmazonCloudWatch,CloudWatch
+CloudWatch Events,CloudWatch Events
+AWS CodeArtifact,CodeArtifact
+CodeBuild,CodeBuild
+AWS CodePipeline,CodePipeline
+Amazon Cognito,Cognito
+AWS Compute Optimizer,Compute Optimizer
+AWS Config,Config
+AWS Cost Explorer,Cost Explorer
+Amazon DevOps Guru,DevOps Guru
+AWS Direct Connect,Direct Connect
+AWS Directory Service,Directory Service
+Amazon DocumentDB (with MongoDB compatibility),DocumentDB (with MongoDB compatibility)
+Amazon DynamoDB,DynamoDB
+DynamoDB Accelerator (DAX),DynamoDB Accelerator (DAX)
+EC2 - Other,EC2-Other
+Amazon EC2 Container Registry (ECR),EC2 Container Registry (ECR)
+Amazon Elastic Compute Cloud - Compute,EC2-Instances
+Amazon Elastic Container Registry Public,Elastic Container Registry Public
+Amazon Elastic Container Service,Elastic Container Service
+Amazon Elastic Container Service for Kubernetes,Elastic Container Service for Kubernetes
+Amazon Elastic File System,Elastic File System
+Amazon Elastic Load Balancing,Elastic Load Balancing
+Amazon Elastic MapReduce,Elastic MapReduce
+Amazon ElastiCache,ElastiCache
+AWS Elemental MediaLive,Elemental MediaLive
+AWS End User Messaging,End User Messaging
+Amazon FSx,FSx
+Amazon Glacier,Glacier
+AWS Global Accelerator,Global Accelerator
+AWS Glue,Glue
+Amazon GuardDuty,GuardDuty
+AWS Identity and Access Management Access Analyzer,Identity and Access Management Access Analyzer
+AWS IoT,IoT
+AWS IoT Analytics,IoT Analytics
+AWS IoT Device Defender,IoT Device Defender
+AWS IoT Device Management,IoT Device Management
+AWS Key Management Service,Key Management Service
+Amazon Keyspaces (for Apache Cassandra),Keyspaces (for Apache Cassandra)
+Amazon Kinesis,Kinesis
+Amazon Kinesis Firehose,Kinesis Firehose
+AWS Lambda,Lambda
+Amazon Lightsail,Lightsail
+Amazon Location Service,Location Service
+Amazon Macie,Macie
+Amazon Managed Streaming for Apache Kafka,Managed Streaming for Apache Kafka
+Amazon MemoryDB,MemoryDB
+MongoDB Atlas (pay-as-you-go),MongoDB Atlas (pay-as-you-go)
+AWS Network Firewall,Network Firewall
+Amazon OpenSearch Service,OpenSearch Service
+Amazon Polly,Polly
+Amazon QuickSight,QuickSight
+Amazon Redshift,Redshift
+Amazon Rekognition,Rekognition
+Amazon Relational Database Service,Relational Database Service
+AWS Resilience Hub,Resilience Hub
+Amazon Route 53,Route 53
+Amazon SageMaker,SageMaker
+Savings Plans for AWS Compute usage,Savings Plans for  Compute usage
+Savings Plans for AWS Machine Learning,Savings Plans for  Machine Learning
+AWS Secrets Manager,Secrets Manager
+AWS Security Hub,Security Hub
+AWS Service Catalog,Service Catalog
+Amazon Simple Email Service,SES
+Amazon Simple Notification Service,SNS
+Amazon Simple Queue Service,SQS
+Amazon Simple Storage Service,S3
+Amazon Simple Workflow Service,Simple Workflow Service
+Amazon SimpleDB,SimpleDB
+AWS Step Functions,Step Functions
+SUSE Linux Enterprise Server for SAP Applications 15 SP1,SUSE Linux Enterprise Server for SAP Applications 15 SP1
+SUSE Linux Enterprise Server for SAP Applications 15 SP5,SUSE Linux Enterprise Server for SAP Applications 15 SP5
+AWS Systems Manager,Systems Manager
+Amazon Textract,Textract
+AWS Transfer Family,Transfer Family
+Amazon Virtual Private Cloud,VPC
+VM-Series Next-Gen Virtual Firewall w/Advanced Threat Prevention (PAYG),VM-Series Next-Gen Virtual Firewall w/Advanced Threat Prevention (PAYG)
+AWS WAF,WAF
+Amazon WorkSpaces,WorkSpaces
+AWS X-Ray,X-Ray
