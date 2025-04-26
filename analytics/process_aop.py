@@ -21,42 +21,6 @@ month_columns = df.columns[1:]  # All columns except account_id
 for col in month_columns:
     df[col] = df[col].apply(convert_k_to_number)
 
-# # Melt the dataframe to convert months into rows
-# df_melted = pd.melt(
-#     df,
-#     id_vars=['account_id'],
-#     value_vars=month_columns,
-#     var_name='month',
-#     value_name='aop_amount'
-# )
-
-# # Function to convert month name to date
-# def month_to_date(month_name):
-#     month_map = {
-#         'Apr': '2024-04-01',
-#         'May': '2024-05-01',
-#         'Jun': '2024-06-01',
-#         'Jul': '2024-07-01',
-#         'Aug': '2024-08-01',
-#         'Sep': '2024-09-01',
-#         'Oct': '2024-10-01',
-#         'Nov': '2024-11-01',
-#         'Dec': '2024-12-01',
-#         'Jan': '2025-01-01',
-#         'Feb': '2025-02-01',
-#         'Mar': '2025-03-01'
-#     }
-#     return month_map.get(month_name, month_name)
-
-# # Convert month names to dates
-# df_melted['month'] = df_melted['month'].apply(month_to_date)
-
-# # Sort by account_id and month (chronological order)
-# df_melted = df_melted.sort_values(['account_id', 'month'])
-
-# # Save the transformed data
-# df_melted.to_csv('../data_files/AOP/AOP_25-26_transformed.csv', index=False)
-
 # print("Data transformation completed successfully!") 
 non_month_columns = ['account_id']
 month_columns = [col for col in df.columns if col not in non_month_columns]
