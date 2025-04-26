@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Read the CSV file
-df = pd.read_csv('/Users/charulmauni/Desktop/CloudRev/data_files/as_acct_monthly_apr-2025.csv', header=None)
+df = pd.read_csv('aws_account_wise_p.csv', header=None)
 
 # Extract account IDs, names, and total spends
 account_ids = df.iloc[0, :-1].tolist()  # Exclude the last column
@@ -29,7 +29,6 @@ transposed_df['account_name'] = transposed_df['account_name'].str.replace(' ($)'
 # Replace blank and NaN values in 'spend' column with 0
 transposed_df['spend'] = transposed_df['spend'].fillna(0) # Replace NaN with 0
 transposed_df['spend'] = transposed_df['spend'].replace('', 0) # Replace blank with 0
-transposed_df['spend']=transposed_df['spend'].astype(float).round(4)
 
 # Validation: Check if the total spend matches the sum of monthly spends for each account
 for account_id, total_spend in zip(account_ids[1:], total_spends[1:]):
@@ -45,9 +44,7 @@ for account_id, total_spend in zip(account_ids[1:], total_spends[1:]):
     elif abs(total_spend - monthly_spend_sum) > 0.01:  # Allow a small tolerance for rounding errors # Changed 'elsif' to 'elif' and combined the conditions 
         print(f"Validation Error: Total spend for account {account_id} ({total_spend}) does not match the sum of monthly spends ({monthly_spend_sum}).") 
 
-
 print(transposed_df)
-transposed_df=transposed_df[['account_id','month','spend']]
 
 # Save the updated DataFrame to a CSV file
-transposed_df.to_csv('transformed_aws_accountwise_apr.csv', index=False) 
+transposed_df.to_csv('transformed_aws_accountwise.csv', index=False) 
