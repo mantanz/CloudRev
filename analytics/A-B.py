@@ -13,8 +13,8 @@ def find_difference(file1, file2, output_file, column_name):
     """
     try:
         # Read the CSV files
-        df1 = pd.read_csv(file1)
-        df2 = pd.read_csv(file2)
+        df1 = pd.read_csv(file1,dtype=str)
+        df2 = pd.read_csv(file2,dtype=str)
         
         # Print initial statistics
         print("\n=== Input File Statistics ===")
@@ -29,7 +29,9 @@ def find_difference(file1, file2, output_file, column_name):
         result = df1[~df1[column_name].isin(df2[column_name])]
         
         # Create output directory if it doesn't exist
-        os.makedirs(os.path.dirname(output_file), exist_ok=True)
+        output_dir = os.path.dirname(output_file)
+        if output_dir and not os.path.exists(output_dir):
+            os.makedirs(output_dir)
         
         # Save the result
         result.to_csv(output_file, index=False)
@@ -55,8 +57,6 @@ if __name__ == "__main__":
     file2 = input("Enter the path to the second file: ")
     column_name = input("Enter the column name to compare: ")
     
-    # Create output file path in data_files directory
-    base_name = os.path.basename(file1)
-    output_file = os.path.join("../data_files", f"{os.path.splitext(base_name)[0]}_difference.csv")
-    
+    # Create output file path in the current directory
+    output_file = "A-B_result_daily_spend.csv"
     find_difference(file1, file2, output_file, column_name)
