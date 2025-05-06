@@ -3,9 +3,9 @@ import numpy as np
 import sys
 
 # Paths
-INPUT_FILE = '../data_files/Copy of DailyServiceWiseCost - DailyServiceWiseCost.csv'
+INPUT_FILE = '../data_files/DailyServiceWiseCost26to2may.csv'
 # OUTPUT_FILE = '../data_files/OP-OCL_Apr24_Mar25/transposed_ocl_accountwise_new.csv'
-OUTPUT_FILE = '../data_files/final_transposed_daily_spend_19-25.csv'
+OUTPUT_FILE = '../data_files/final_transposed_daily_spend_26-2may.csv'
 # Read the mapping file
 mapping_df = pd.read_csv('../data_files/service_name_mapping.csv')
 service_details_df = pd.read_csv('../data_files/service_details_new.csv')

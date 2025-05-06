@@ -19,13 +19,21 @@ try:
     
     # Convert month column to datetime if it exists
     if "month" in df.columns:
-        # First try to parse as datetime
-        try:
-            df["month"] = pd.to_datetime(df["month"])
-            df["month"] = df["month"].dt.strftime("%Y-%m-%d")
-        except:
-            # If parsing fails, keep the original format
-            pass
+        # # First try to parse as datetime
+        # try:
+        #     df["month"] = pd.to_datetime(df["month"])
+        #     df["month"] = df["month"].dt.strftime("%Y-%m-%d")
+        # except:
+        #     # If parsing fails, keep the original format
+        #     pass
+        df["month"] = pd.to_datetime(df["month"], format="%B-%Y")
+        df["month"] = df["month"].dt.strftime("%Y-%m-%d")
+        
+    # Convert spend to float and calculate sum
+    if "spend" in df.columns:
+        df["spend"] = df["spend"].str.replace(",", "").astype(float)
+        total_spend = df["spend"].sum()
+        print(f"\n💰 Total Spend: ${total_spend:,.2f}")
             
 except Exception as e:
     print(f"Error reading CSV file: {e}")
