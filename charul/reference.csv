@@ -1,0 +1,151 @@
+account_id,account_name
+352506242819,payments-platform_prod_ocl 
+628412515026,Datalake AWS 
+340077773684,Paytm Financial Services 
+567423616371,parent account_ocl 
+968032760053,Fraud AWS 
+002637409966,user-management-prod 
+304016915943,payments-data-rtdd_prod_ocl 
+424503791295,merchant-payments-api_prod_ocl 
+899249751508,PayTm DaaS ML 
+272415727726,Paytm Ads 
+075790327284,cdp_growth marketing_ocl 
+211125458732,tpap-prod 
+381491835802,uth-prod 
+898496923608,games_pfg 
+445736908015,recharge bill payments_ocl 
+564188254156,Lending DataScience 
+705108899578,daas-managed-services 
+755560366148,SAP-HANA 
+811134095225,AWS DaaS 
+359716425895,Travel Aws 
+003079193758,IOT Prod 
+901553615594,merchantdashboards 
+210577074618,recon_prod_ocl 
+479671683529,cdp risk_ocl 
+423969094700,pai_push_ocl 
+746682193773,cds 
+761904723706,kyb 
+211125515568,risk-ocl-tpap 
+647564693872,aml-prod 
+182401677120,onboardingengine 
+975049957371,tpap-dwh 
+337891198417,digital_cst 
+752518464574,User Preferences System 
+929265682896,payment-non-prod 
+021891570382,risk-lending 
+419830208690,AaaS-prod 
+753168370952,hawkeye_ocl 
+161115069565,infosec-soc 
+233815244996,payment-platform_nonprod_ocl 
+522974168642,paytmchat_ocl 
+28914776520,edc_prod_ocl 
+546818093346,verifierAWS 
+758230397644,Mall Bangalore 
+252197745876,AWS InfoSec 
+576293063887,digital_insurance 
+251917288737,IT Production 
+474140895141,Enterprise SMS 
+239103975135,QR 
+789596305652,regular_mf 
+072401294672,Oauth AWS 
+495419344110,incentive 
+339712759199,feature-store-ocl 
+340677782776,aoa-prod 
+984308723723,commonsaas_ocl 
+407648374860,IT_BACKUP 
+480732456233,dms-prod_ocl 
+885068115609,pai-sre 
+339712810712,tpap-nonprod 
+318633126153,AWS SMS 
+090436275138,Digital Channels 
+952840895893,User Management 
+442447453008,Digital Gold 
+66548792077,IOT Core 
+685585466397,recon_nonprod_ocl 
+337158390682,dap_ocl 
+471112958605,lending-dwh 
+698979518480,central_pipeline_ocl 
+615069360012,merchant-ra-automation 
+997924011427,ckyc 
+68930846606,emi-prod_ocl 
+131752971524,tocom-aws 
+66636274316,webnmweb_ocl 
+64619502227,CentralToolsPlatform 
+562921704166,paytm-ups 
+97001033170,smartretail_ocl 
+848332057417,mloyal_prod 
+718893572916,AaaS-nonprod 
+914516902729,finance_support_ocl 
+736384229724,cloudsecurity-logs 
+127247839315,Sysops AWS 
+722152247093,paytm_app_ocl 
+664526282133,Paytm Labs 
+611670160261,emi-nonprod 
+439726107081,risk-verifier-nonprod 
+821240137883,edc_non prod_ocl 
+469795226344,billing account_ocl 
+368920154232,central_app_tech_ocl 
+135329050410,CityBus 
+54736913503,scp-mgv 
+824873459626,miniapps_ocl 
+625612021127,aoa-nonprod 
+465354398947,aml-nonprod 
+272968093320,legalapps 
+494799526181,AWS_Paytm'Mloyal 
+153518195166,cdo-non-prod 
+481935107677,DaaS-Apps 
+505767364771,risk anomaly 
+389881277731,merchant-business 
+17820698743,risk-devops-tools 
+954976288980,tocom-aisensy 
+130653941854,insurance-ds 
+630307967658,dms-nonprod_ocl 
+745098155683,merchant_automation 
+492902601864,ncmc_acquirer_ocl 
+239666495852,paytmhealth_ocl 
+510772292268,cdo-dre 
+367464822874,One97 IT 
+218943325897,devopscommon 
+658447621694,hrtech_ocl 
+541095382258,Card Tokenization 
+548411824430,pocketurmoney 
+576911611801,poc_infra_testing_ocl 
+320811487590,dev-projects 
+661338130494,telco-testing 
+453914767997,risk-monitoring 
+737499001343,call-centre-ivr 
+116631508635,fastag_non prod_ocl 
+264522784930,AWS DNS 
+841860372390,fastag issuer_prod_ocl 
+850995531967,cst-playground 
+322263815270,PM-EduTech-Prod 
+185774682289,pml-chat-dev 
+470060591194,edutech 
+463470958933,New Gold 
+663804405009,663804405009 - Redacted 
+290310562512,290310562512 - Redacted 
+700271710604,labs-llm 
+518207312579,cst-ai 
+471112938013,tpap-oauth-dr 
+654654315008,ondc-analytics 
+161282784430,cdp-ppbl-pa 
+538615689396,Pandora AWS 
+975049937880,975049937880 - Redacted 
+798411736697,ncmc-acq-rupay-switch 
+608146213544,ppblmaquettepa-prod 
+23903256547,central tools 
+769263341944,769263341944 - Redacted 
+475919677060,content_ocl 
+797142548187,797142548187 - Redacted 
+176839215860,aws-omnicard-Prod 
+269350686318,AWS Pan 2 
+576218818919,576218818919 - Redacted 
+678670235450,678670235450 - Redacted 
+605458724602,content_ml_ocl 
+239937555916,239937555916 - Redacted 
+860971823470,860971823470 - Redacted 
+907058949943,907058949943 - Redacted 
+532041146482,532041146482 - Redacted 
+913203018054,ppblpgpa-nonprod 
+905418240150,905418240150 - Redacted 
