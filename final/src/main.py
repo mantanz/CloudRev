@@ -1,7 +1,7 @@
 import os
-import sys
 from transform_aop import transform_aop_data
-from db_operations import validate_and_update_accounts
+from update_account_details import validate_and_update_accounts
+from update_aop_budget import update_aop_budget_monthly
 
 def get_user_choice():
     """Get user's choice for file type"""
@@ -15,42 +15,55 @@ def get_user_choice():
         
         if choice in ['1', '2', '3']:
             return choice
-        print("Invalid choice. Please enter 1, 2, or 3.")
+        else:
+            print("Invalid choice. Please enter 1, 2, or 3.")
 
-def get_file_path():
-    """Get the input file path from user"""
+def get_input_file():
+    """Get input file path from user"""
     while True:
         file_path = input("\nEnter the path to your input file: ").strip()
-        if os.path.exists(file_path):
+        
+        if os.path.isfile(file_path):
             return file_path
-        print("File not found. Please enter a valid file path.")
+        else:
+            print("File not found. Please enter a valid file path.")
+
+def process_aop():
+    """Process AOP file"""
+    # Step 1: Transform AOP data
+    input_file = get_input_file()
+    transformed_file = transform_aop_data(input_file)
+    
+    if not transformed_file:
+        print("AOP transformation failed. Please check the input file and try again.")
+        return
+    
+    # Step 2: Validate and update account details
+    if not validate_and_update_accounts(transformed_file):
+        print("Account validation and update failed. Please check the database connection.")
+        return
+    
+    # Step 3: Update AOP budget monthly table
+    if not update_aop_budget_monthly(transformed_file):
+        print("AOP budget monthly table update failed. Please check the database connection.")
+        return
+    
+    print("\nAOP processing completed successfully!")
 
 def main():
+    """Main function"""
     print("Welcome to CloudRev Data Processing Tool")
     
     while True:
         choice = get_user_choice()
         
-        if choice == '3':
+        if choice == '1':
+            process_aop()
+        elif choice == '2':
+            print("\nSpend processing not implemented yet.")
+        else:
             print("\nThank you for using CloudRev Data Processing Tool. Goodbye!")
-            sys.exit(0)
-        
-        if choice == '1':  # AOP processing
-            file_path = get_file_path()
-            try:
-                # Transform AOP data
-                transformed_file = transform_aop_data(file_path)
-                
-                # Validate and update accounts in database
-                if transformed_file:
-                    validate_and_update_accounts(transformed_file)
-                
-            except Exception as e:
-                print(f"Error processing AOP file: {str(e)}")
-        
-        elif choice == '2':  # Spend processing
-            print("\nSpend processing functionality will be implemented later.")
-            continue
+            break
 
 if __name__ == "__main__":
     main() 
