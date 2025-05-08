@@ -1,0 +1,2581 @@
+account_id,account_name,hod_name,entity,month,aop_amount
+072401294672,DMS AWS,Abhinav Gupta, OCL ,2025-04-01,10474.64643693
+901553615594,merchantdashboards,Abhinav Gupta, OCL ,2025-04-01,54216.29635103
+480732456233,dms-prod_ocl,Abhinav Gupta, OCL ,2025-04-01,7251.31565441
+182401677120,onboardingengine,Abhinav Gupta, OCL ,2025-04-01,28909.77066897
+389881277731,merchant-business,Abhinav Gupta, OCL ,2025-04-01,871.0866313
+745098155683,merchant_automation,Abhinav Gupta, OCL ,2025-04-01,647.90773774
+997924011427,ckyc,Abhinav Gupta, OCL ,2025-04-01,4543.66789264
+630307967658,dms-nonprod_ocl,Abhinav Gupta, OCL ,2025-04-01,1138.10857355
+495419344110,incentive,Abhinav Gupta, OCL ,2025-04-01,10175.97049805
+761904723706,KYB/FSM/Chatbot,Abhinav Gupta, OCL ,2025-04-01,35909.79753257
+654654497161,ppsl-ump-prod,Abhinav Gupta,PPSL,2025-04-01,12854.81279166
+767397730150,ppsl-mo-prod,Abhinav Gupta,PPSL,2025-04-01,3377.38317699
+548411824430,pocketurmoney/oneview,Abhinav Gupta, OCL ,2025-04-01,330.52867005
+272415727726,Paytm Ads,Ajit Kumar, OCL ,2025-04-01,118268.758125
+381491835802,uth-prod,Ajit Kumar, OCL ,2025-04-01,97098.26048
+339712810712,tpap-nonprod,Ajit Kumar, OCL ,2025-04-01,4254.271875
+211125458732,tpap-prod,Ajit Kumar, OCL ,2025-04-01,112550.881
+381492106076,YBL-TSP-AWS-UAT V1,Ajit Kumar, OCIL ,2025-04-01,2524.48493063
+992382754296,OCIL-AWS-UAT,Ajit Kumar, OCIL ,2025-04-01,1557.06350625
+891377131146,YBL-TSP-AWS-UAT V2,Ajit Kumar, OCIL ,2025-04-01,14093.97729469
+767398050080,YBL-TSP-AWS-prod,Ajit Kumar, OCIL ,2025-04-01,252330.07766183
+736384229724,cloudsecurity-logs,Amit Malhotra, OCL ,2025-04-01,3395.82398197
+252197745876,AWS InfoSec,Amit Malhotra, OCL ,2025-04-01,14635.06270523
+161115069565,infosec-soc,Amit Malhotra, OCL ,2025-04-01,17844.84739824
+264522784930,AWS DNS,Amit Malhotra, OCL ,2025-04-01,0.0
+647564693872,aml-prod,Akeshwar Jha, OCL ,2025-04-01,0.0
+359716425895,Travel Aws,Anil Kundu, OCL ,2025-04-01,68000.0
+135329050410,CityBus,anil Kundu, OCL ,2025-04-01,1500.0
+769263341944,hotels,Anil Kundu, OCL ,2025-04-01,0.0
+968032760053,Fraud AWS,Bhaskar Gopalan, Labs ,2025-04-01,243700.0
+546818093346,verifierAWS,Bhaskar Gopalan, OCL ,2025-04-01,16300.0
+211125515568,risk-ocl-tpap,Bhaskar Gopalan, OCL ,2025-04-01,36100.0
+608146213544,ppblmaquettepa-prod,Bhaskar Gopalan, OCL ,2025-04-01,0.0
+439726107081,risk-verifier-nonprod,Bhaskar Gopalan, OCL ,2025-04-01,2500.0
+885068115609,pai-sre,Bhaskar Gopalan, Labs ,2025-04-01,6500.0
+021891570382,Risk-Lending(new),Bhaskar Gopalan,OCL,2025-04-01,25000.0
+767397937234,PPSL- risk,Bhaskar Gopalan,PPSL,2025-04-01,109591.0
+017820698743,risk-devops-tools,Bhaskar Gopalan,OCL,2025-04-01,1500.0
+339712759199,feature-store-ocl,Bruno Meira,OCL,2025-04-01,0.0
+746682193773,cds-clm,Bhaskar Gopalan,OCL,2025-04-01,0.0
+130653941854,insurance-ds,Bhaskar Gopalan, PIBPL ,2025-04-01,0.0
+465354398947,aml-nonprod,Akeshwar Jha, OCL ,2025-04-01,0.0
+532041146482,aml-ppsl-nonprod,Deepanshu Jain, PPSL ,2025-04-01,0.0
+914516902729,finance_support_ocl,Dheerendra Mishra, OCL ,2025-04-01,5000.0
+625612021127,aoa-nonprod,Gagan Verma,OCL,2025-04-01,1600.0
+340677782776,aoa-prod,Gagan Verma,OCL,2025-04-01,10300.0
+541095382258,Card Tokenization,Gagan Verma,OCL,2025-04-01,1900.0
+611670160261,emi-nonprod,Gagan Verma,OCL,2025-04-01,2200.0
+068930846606,emi-prod_ocl,Gagan Verma,OCL,2025-04-01,4500.0
+424503791295,merchant-payments-api_prod_ocl,Gagan Verma,OCL,2025-04-01,157800.0
+929265682896,payment-non-prod,Gagan Verma,OCL,2025-04-01,27400.0
+233815244996,payment-platform_nonprod_ocl,Gagan Verma,OCL,2025-04-01,20700.0
+304016915943,payments-data-rtdd_prod_ocl,Gagan Verma,OCL,2025-04-01,180100.0
+352506242819,payments-platform_prod_ocl,Gagan Verma,OCL,2025-04-01,755100.0
+239103975135,QR,Gagan Verma,OCL,2025-04-01,10300.0
+128131020113,pa-nonprod,Gagan Verma,PPSL,2025-04-01,5300.0
+189893850600,pa-prod,Gagan Verma,PPSL,2025-04-01,89300.0
+471112548387,ppsl-affordability-prod,Gagan Verma,PPSL,2025-04-01,10500.0
+730335596554,ppsl-aml-prod,Gagan Verma,PPSL,2025-04-01,3600.0
+239937555916,ppsl-cardservice,Gagan Verma,PPSL,2025-04-01,1200.0
+905418390117,ppsl-pg2-nonprod,Gagan Verma,PPSL,2025-04-01,10500.0
+590183666588,ppsl-pg2-prod,Gagan Verma,PPSL,2025-04-01,334400.0
+590183673148,ppsl-rtdd-prod,Gagan Verma,PPSL,2025-04-01,54200.0
+913203018054,ppblpgpa-nonprod,Gagan Verma,OCL,2025-04-01,0.0
+658447621694,hrtech_ocl,Gaurav Chopra, OCL ,2025-04-01,0.0
+700271710604,labs-llm,Harinder Takhar,OCL,2025-04-01,0.0
+505767364771,Risk Anomaly,Bhaskar Gopalan,OCL,2025-04-01,0.0
+737499001343,call-centre-ivr,Lalit Mohan Pandey, OCL ,2025-04-01,0.0
+567423616371,parent account_ocl,Mukesh Meena, OCL ,2025-04-01,240000.0
+423969094700,push_notifications_ocl,Mukesh Meena, OCL ,2025-04-01,38000.0
+562921704166,paytm-ups,Mukesh Meena, OCL ,2025-04-01,4300.0
+698979518480,bitbucket_ocl,Mukesh Meena, OCL ,2025-04-01,8500.0
+654654315008,ondc-analytics,Mukesh Meena, PAI ,2025-04-01,0.0
+090436275138,Digital Channels,Mukesh Meena, OCL ,2025-04-01,6095.46941686
+131752971524,loyalitypoints/tocom,Mukesh Meena, OCL ,2025-04-01,10000.0
+023903256547,central tools,Mukesh Meena, OCL ,2025-04-01,0.0
+337158390682,commoninfra_ocl,Mukesh Meena, OCL ,2025-04-01,6500.0
+064619502227,CentralToolsPlatform,Mukesh Meena, OCL ,2025-04-01,3714.179073
+054736913503,scp-mgv,Mukesh Meena, OCL ,2025-04-01,1545.4515
+841860372390,fastag issuer_prod_ocl,Mukesh Meena, OCL ,2025-04-01,100.0
+127247839315,Sysops AWS,Mukesh Meena, OCL ,2025-04-01,3200.0
+492902601864,ncmc_acquirer_ocl,Mukesh Meena, OCL ,2025-04-01,800.0
+576911611801,infra_experiment_non_prod_ocl,Mukesh Meena, OCL ,2025-04-01,1000.0
+320811487590,dev-projects,Mukesh Meena, OCL ,2025-04-01,300.0
+116631508635,fastag_non prod_ocl,Mukesh Meena, OCL ,2025-04-01,100.0
+DROCL,DR - overall (to align with new contract),Mukesh Meena, PML ,2025-04-01,0.0
+New 3,Confluent Kafka,Mukesh Meena,OCL,2025-04-01,0.0
+678670235450,authoriser,Mukesh Meena,OCL,2025-04-01,0.0
+576218818919,tools-pa,Mukesh Meena,OCL,2025-04-01,0.0
+290310562512,Wallet-Nonprod,Mukesh Meena, OCL ,2025-04-01,0.0
+984308723723,digital_saas_ocl,Mukesh Meena, OCL ,2025-04-01,9500.0
+758230397644,Mall Bangalore,Mukesh Meena, PEPL ,2025-04-01,14100.0
+992382517474,ppsl-central-tools,Mukesh Meena,PPSL,2025-04-01,1100.0
+542832536672,Nearbuy Payer,Mukesh Meena,Nearbuy,2025-04-01,0.0
+798411736697,ncmc-acq-rupay-switch,Mukesh Meena, OCL ,2025-04-01,0.0
+445736908015,recharge bill payments_ocl,Nipun Arora, OCL ,2025-04-01,110000.0
+442447453008,Digital Gold,Nipun Arora, PML ,2025-04-01,5800.0
+176839215860,aws-omnicard-Prod,Nipun Arora,OCL,2025-04-01,0.0
+664526282133,Paytm Labs,Otto Mok, Labs ,2025-04-01,2600.0
+453914767997,risk-monitoring,Pankaj Kedia, OCL ,2025-04-01,0.0
+Premium Support,Premium Support,Parakh Agarwal, OCL ,2025-04-01,0.0
+469795226344,billing account_ocl,Parakh Agarwal, OCL ,2025-04-01,0.0
+015680176265,PPSL Payer,Parakh Agarwal, PPSL ,2025-04-01,0.0
+065278587813,rooter-io,Piyush Kumar (External),Rooter,2025-04-01,4816.28808594
+302399626617,ROOTER-DEV,Piyush Kumar (External),Rooter,2025-04-01,36.98242188
+919275210163,ROOTER-CLOUD-MANAGEMENT,Piyush Kumar (External),Rooter,2025-04-01,337.39550781
+477815026673,Rooter Payer,Piyush Kumar (External),Rooter,2025-04-01,130.52050781
+695745283037,ROOTER-CLOUD-LOGS,Piyush Kumar (External),Rooter,2025-04-01,4.29785156
+576349278157,ROOTER-CLOUD-SECURITY,Piyush Kumar (External),Rooter,2025-04-01,48.18164063
+271855570343,ROOTER-PROD-CDN,Piyush Kumar (External),Rooter,2025-04-01,762.32617188
+580053151223,ROOTER-PROD-TRANSCODING,Piyush Kumar (External),Rooter,2025-04-01,4170.93164063
+973103936838,ROOTER-STAGE,Piyush Kumar (External),Rooter,2025-04-01,558.59472656
+537598503159,ROOTER-PROD-ANALYTICS,Piyush Kumar (External),Rooter,2025-04-01,7233.59277344
+123964038738,ROOTER-PROD-APPS,Piyush Kumar (External),Rooter,2025-04-01,14844.94140625
+753168370952,hawkeye_ocl,Prashant Tiwari, OCL ,2025-04-01,23256.7937242
+522974168642,chat_ocl,Prashant Tiwari, OCL ,2025-04-01,16495.87355762
+722152247093,central_app_tech_ocl,Prashant Tiwari, OCL ,2025-04-01,2550.29
+066636274316,central_app_tech_web_ocl,Prashant Tiwari, OCL ,2025-04-01,3600.3858142
+824873459626,central_app_tech_mini_apps_ocl,Prashant Tiwari, OCL ,2025-04-01,1476.72
+475919677060,paytm_digital_content_ocl,Prashant Tiwari, OCL ,2025-04-01,0.0
+239666495852,health_ocl,Prashant Tiwari, OCL ,2025-04-01,591.89
+605458724602,content_ml_ocl,Prashant Tiwari, OCL ,2025-04-01,0.0
+663804405009,movies_ocl,Prashant Tiwari,Insider,2025-04-01,0.0
+155772818492,Insider (Events),Prashant Tiwari,Insider,2025-04-01,0.0
+368920154232,central app tech_ocl,Prashant Tiwari, OCL ,2025-04-01,1760.89
+985226307906,Insider Payer,Prashant Tiwari,Insider,2025-04-01,0.0
+538615689396,Pandora AWS,Sam Fang, Labs ,2025-04-01,0.0
+269350686318,AWS Pan 2,Sam Fang, Labs ,2025-04-01,0.0
+477161539263,ticketnewprod (Ram),Sasiraman Venkatesan (External),na,2025-04-01,0.0
+475804058290,Payer9,Sathyaseelan Murugesan,na,2025-04-01,0.0
+407648374860,IT_BACKUP,Saurabh Gupta, OCL ,2025-04-01,7300.0
+251917288737,IT Production,Saurabh Gupta, OCL ,2025-04-01,13100.0
+755560366148,SAP-HANA,Saurabh Gupta, OCL ,2025-04-01,64000.0
+002637409966,user-management-prod,Shrey Agarwal, OCL ,2025-04-01,190000.0
+210577074618,recon_prod_ocl,Shrey Agarwal, OCL ,2025-04-01,40000.0
+058264205572,cst-prod  ,Shrey Agarwal, OCL ,2025-04-01,2000.0
+752518464574,User Preferences System,Shrey Agarwal, OCL ,2025-04-01,22000.0
+518207312579,cst-ai,Shrey Agarwal, OCL ,2025-04-01,0.0
+615069360012,merchant-ra-automation,Shrey Agarwal, OCL ,2025-04-01,5000.0
+685585466397,recon_nonprod_ocl,Shrey Agarwal, OCL ,2025-04-01,5000.0
+952840895893,User Management,Shrey Agarwal, OCL ,2025-04-01,7000.0
+471112938013,tpap-oauth-dr,Shrey Agarwal, OCL ,2025-04-01,0.0
+337891198417,digital_cst,Shrey Agarwal, OCL ,2025-04-01,250000.0
+654654208887,ppsl-recon-prod,Shrey Agarwal,PPSL,2025-04-01,5000.0
+851725259328,ppsl-recon-nonprod,Shrey Agarwal,PPSL,2025-04-01,2500.0
+975050351452,ppsl-binary-prod,Shrey Agarwal,PPSL,2025-04-01,3000.0
+767397827620,ppsl-oauth-prod,Shrey Agarwal,PPSL,2025-04-01,2000.0
+654654394550,oauth-nonprod,Shrey Agarwal,OCL,2025-04-01,1000.0
+637423614657,pml-oauth,Shrey Agarwal,PML,2025-04-01,22000.0
+898496923608,games_pfg,Sudhanshu Gupta, PFG ,2025-04-01,109402.9575
+659606126372,URJA MONEY PVT LTD,Sunil Agrawal, Urjamoney ,2025-04-01,47400.0
+899249751508,PayTm DaaS ML,Sunil Agrawal, OCL ,2025-04-01,135500.0
+705108899578,daas-managed-services,Sunil Agrawal, OCL ,2025-04-01,95600.0
+479671683529,cdp risk_ocl,Sunil Agrawal, OCL ,2025-04-01,42600.0
+564188254156,Lending DataScience,Sunil Agrawal, OCL ,2025-04-01,86900.0
+340077773684,Paytm Financial Services,Sunil Agrawal, OCL ,2025-04-01,236600.0
+075790327284,cdp_growth marketing_ocl,Sunil Agrawal, OCL ,2025-04-01,112600.0
+576293063887,digital_insurance,Sunil Agrawal, PIBPL ,2025-04-01,16000.39312158
+718893572916,AaaS-nonprod,Sunil Agrawal, OCL ,2025-04-01,3504.91533408
+510772292268,cdo-dre,Sunil Agrawal, OCL ,2025-04-01,1500.0
+471112958605,lending-dwh,Sunil Agrawal, OCL ,2025-04-01,2400.0
+153518195166,cdo-non-prod,Sunil Agrawal, OCL ,2025-04-01,1500.0
+481935107677,DaaS-Apps,Sunil Agrawal, OCL ,2025-04-01,2000.0
+218943325897,devopscommon,Sunil Agrawal, OCL ,2025-04-01,600.0
+161282784430,cdp-ppbl-pa,Sunil Agrawal, OCL ,2025-04-01,0.0
+811134095225,AWS DaaS,Sunil Agrawal, OCL ,2025-04-01,61600.0
+975049957371,tpap-dwh,Sunil Agrawal, OCL ,2025-04-01,33300.0
+419830208690,AaaS-prod,Sunil Agrawal, OCL ,2025-04-01,24385.03170048
+628412515026,Datalake AWS,Sunil Agrawal, OCL ,2025-04-01,482900.0
+471112571211,ppsl-dwh-prod,Sunil Agrawal,PPSL,2025-04-01,274500.0
+863780864233,CreditMate Payer,Sunil Agrawal,Creditmate,2025-04-01,0.0
+442231926211,lending-vkyc,Sunil Agrawal,OCL,2025-04-01,0.0
+097001033170,paytm_smart_retail_ocl,Sunil Bansal, Ticketnew ,2025-04-01,3500.0
+003079193758,IOT Prod,Sunil Bansal, OCL ,2025-04-01,57000.0
+028914776520,edc_prod_ocl,Sunil Bansal, OCL ,2025-04-01,15600.0
+848332057417,mloyal_prod,Sunil Bansal, OCL ,2025-04-01,4000.0
+066548792077,IOT Core,Sunil Bansal, OCL ,2025-04-01,1500.0
+821240137883,edc_non prod_ocl,Sunil Bansal, OCL ,2025-04-01,2000.0
+494799526181,AWS_Paytm'Mloyal,Sunil Bansal,OCL,2025-04-01,1400.0
+906954799739,Nearbuy,Sunny Sharma,Nearbuy,2025-04-01,14286.80559341
+975049937880,mgc-sclp,Sunny Sharma, OCL ,2025-04-01,0.0
+851725259472,ppsl-app-sec,Surinder Kumar,PPSL,2025-04-01,21700.0
+860971823470,Video KYC,Suspended account,OCL,2025-04-01,0.0
+797142548187,ppblpgpa-prod,Suspended account,OCL,2025-04-01,0.0
+272968093320,legalapps,Urvashi Sahai, OCL ,2025-04-01,1300.0
+789596305652,regular_mf,Varun Shridhar, PSPL ,2025-04-01,8700.0
+656952484900,Paytm Money,Vinay Singhal, PML ,2025-04-01,0.0
+470060591194,edutech,Vinay Singhal, PML ,2025-04-01,0.0
+322263815270,PM-EduTech-Prod,Vinay Singhal, PML ,2025-04-01,0.0
+185774682289,pml-chat-dev,Vinay Singhal, PML ,2025-04-01,0.0
+762730909359,PM-Equities,Vinay Singhal,PML,2025-04-01,0.0
+011420223908,PM-DataLake,Vinay Singhal,PML,2025-04-01,0.0
+211125336551,pml-infosec,Vinay Singhal,PML,2025-04-01,0.0
+992382687474,pml-cst,Vinay Singhal,PML,2025-04-01,0.0
+381492193378,pml-datalake,Vinay Singhal,PML,2025-04-01,0.0
+339712912282,pml-core-poc,Vinay Singhal,PML,2025-04-01,0.0
+736121233725,Paytmmoney Ltd. Data Platform,Vinay Singhal,PML,2025-04-01,0.0
+851725496687,pml-oauth-dr,Vinay Singhal,PML,2025-04-01,9000.0
+370214104985,AMC Platform,Vinay Singhal,PML,2025-04-01,0.0
+582604545400,pm-chat,Vinay Singhal,PML,2025-04-01,0.0
+009124235587,Payer1,Vinay Singhal,PML,2025-04-01,0.0
+423387369363,PML IT,Vinay Singhal,PML,2025-04-01,0.0
+058264391305,pml-storefront,Vinay Singhal,PML,2025-04-01,0.0
+654654145181,pml-oauth-nonprod,Vinay Singhal,PML,2025-04-01,3000.0
+590183908249,pml-wiki-jira,Vinay Singhal,PML,2025-04-01,0.0
+807119641913,pm-bigdata,Vinay Singhal,PML,2025-04-01,0.0
+159245624542,leadsquared,Vinay Singhal,PML,2025-04-01,0.0
+907058949943,ppbloe-prod,Vishal Jangda,Nearbuy,2025-04-01,0.0
+905418158003,FInmate,Saurabh Gupta, OCIL ,2025-04-01,400.0
+767397877262,it-infra,Saurabh Gupta, PIBPL ,2025-04-01,400.0
+654654138046,it-infra,Saurabh Gupta, PAI ,2025-04-01,300.0
+318633126153,AWS SMS,Saurabh Gupta,OCL,2025-04-01,400.0
+474140895141,Enterprise SMS,Saurabh Gupta,OCL,2025-04-01,8600.0
+367464822874,One97 IT,Saurabh Gupta,OCL,2025-04-01,200.0
+661338130494,telco-testing,Saurabh Gupta,OCL,2025-04-01,100.0
+072401294672,DMS AWS,Abhinav Gupta, OCL ,2025-05-01,10684.13936567
+901553615594,merchantdashboards,Abhinav Gupta, OCL ,2025-05-01,55300.62227805
+480732456233,dms-prod_ocl,Abhinav Gupta, OCL ,2025-05-01,7396.3419675
+182401677120,onboardingengine,Abhinav Gupta, OCL ,2025-05-01,29487.96608235
+389881277731,merchant-business,Abhinav Gupta, OCL ,2025-05-01,888.50836393
+745098155683,merchant_automation,Abhinav Gupta, OCL ,2025-05-01,660.8658925
+997924011427,ckyc,Abhinav Gupta, OCL ,2025-05-01,4634.54125049
+630307967658,dms-nonprod_ocl,Abhinav Gupta, OCL ,2025-05-01,1160.87074503
+495419344110,incentive,Abhinav Gupta, OCL ,2025-05-01,10379.48990801
+761904723706,KYB/FSM/Chatbot,Abhinav Gupta, OCL ,2025-05-01,36627.99348322
+654654497161,ppsl-ump-prod,Abhinav Gupta,PPSL,2025-05-01,13111.90904749
+767397730150,ppsl-mo-prod,Abhinav Gupta,PPSL,2025-05-01,3444.93084053
+548411824430,pocketurmoney/oneview,Abhinav Gupta, OCL ,2025-05-01,337.13924346
+272415727726,Paytm Ads,Ajit Kumar, OCL ,2025-05-01,121816.82086875
+381491835802,uth-prod,Ajit Kumar, OCL ,2025-05-01,100982.1908992
+339712810712,tpap-nonprod,Ajit Kumar, OCL ,2025-05-01,4466.98546875
+211125458732,tpap-prod,Ajit Kumar, OCL ,2025-05-01,115927.40743
+381492106076,YBL-TSP-AWS-UAT V1,Ajit Kumar, OCIL ,2025-05-01,2650.70917716
+992382754296,OCIL-AWS-UAT,Ajit Kumar, OCIL ,2025-05-01,1634.91668156
+891377131146,YBL-TSP-AWS-UAT V2,Ajit Kumar, OCIL ,2025-05-01,14798.67615942
+767398050080,YBL-TSP-AWS-prod,Ajit Kumar, OCIL ,2025-05-01,256115.02882676
+736384229724,cloudsecurity-logs,Amit Malhotra, OCL ,2025-05-01,3429.78222179
+252197745876,AWS InfoSec,Amit Malhotra, OCL ,2025-05-01,14781.41333228
+161115069565,infosec-soc,Amit Malhotra, OCL ,2025-05-01,18023.29587222
+264522784930,AWS DNS,Amit Malhotra, OCL ,2025-05-01,0.0
+647564693872,aml-prod,Akeshwar Jha, OCL ,2025-05-01,0.0
+359716425895,Travel Aws,Anil Kundu, OCL ,2025-05-01,70000.0
+135329050410,CityBus,anil Kundu, OCL ,2025-05-01,1500.0
+769263341944,hotels,Anil Kundu, OCL ,2025-05-01,0.0
+968032760053,Fraud AWS,Bhaskar Gopalan, Labs ,2025-05-01,246300.0
+546818093346,verifierAWS,Bhaskar Gopalan, OCL ,2025-05-01,16600.0
+211125515568,risk-ocl-tpap,Bhaskar Gopalan, OCL ,2025-05-01,36600.0
+608146213544,ppblmaquettepa-prod,Bhaskar Gopalan, OCL ,2025-05-01,0.0
+439726107081,risk-verifier-nonprod,Bhaskar Gopalan, OCL ,2025-05-01,2500.0
+885068115609,pai-sre,Bhaskar Gopalan, Labs ,2025-05-01,6500.0
+021891570382,Risk-Lending(new),Bhaskar Gopalan,OCL,2025-05-01,25700.0
+767397937234,PPSL- risk,Bhaskar Gopalan,PPSL,2025-05-01,129223.0
+017820698743,risk-devops-tools,Bhaskar Gopalan,OCL,2025-05-01,1500.0
+339712759199,feature-store-ocl,Bruno Meira,OCL,2025-05-01,0.0
+746682193773,cds-clm,Bhaskar Gopalan,OCL,2025-05-01,0.0
+130653941854,insurance-ds,Bhaskar Gopalan, PIBPL ,2025-05-01,0.0
+465354398947,aml-nonprod,Akeshwar Jha, OCL ,2025-05-01,0.0
+532041146482,aml-ppsl-nonprod,Deepanshu Jain, PPSL ,2025-05-01,0.0
+914516902729,finance_support_ocl,Dheerendra Mishra, OCL ,2025-05-01,5000.0
+625612021127,aoa-nonprod,Gagan Verma,OCL,2025-05-01,1600.0
+340677782776,aoa-prod,Gagan Verma,OCL,2025-05-01,10400.0
+541095382258,Card Tokenization,Gagan Verma,OCL,2025-05-01,2000.0
+611670160261,emi-nonprod,Gagan Verma,OCL,2025-05-01,2200.0
+068930846606,emi-prod_ocl,Gagan Verma,OCL,2025-05-01,4500.0
+424503791295,merchant-payments-api_prod_ocl,Gagan Verma,OCL,2025-05-01,161000.0
+929265682896,payment-non-prod,Gagan Verma,OCL,2025-05-01,27800.0
+233815244996,payment-platform_nonprod_ocl,Gagan Verma,OCL,2025-05-01,20900.0
+304016915943,payments-data-rtdd_prod_ocl,Gagan Verma,OCL,2025-05-01,182800.0
+352506242819,payments-platform_prod_ocl,Gagan Verma,OCL,2025-05-01,766400.0
+239103975135,QR,Gagan Verma,OCL,2025-05-01,10500.0
+128131020113,pa-nonprod,Gagan Verma,PPSL,2025-05-01,5300.0
+189893850600,pa-prod,Gagan Verma,PPSL,2025-05-01,113100.0
+471112548387,ppsl-affordability-prod,Gagan Verma,PPSL,2025-05-01,9700.0
+730335596554,ppsl-aml-prod,Gagan Verma,PPSL,2025-05-01,3700.0
+239937555916,ppsl-cardservice,Gagan Verma,PPSL,2025-05-01,800.0
+905418390117,ppsl-pg2-nonprod,Gagan Verma,PPSL,2025-05-01,10600.0
+590183666588,ppsl-pg2-prod,Gagan Verma,PPSL,2025-05-01,408200.0
+590183673148,ppsl-rtdd-prod,Gagan Verma,PPSL,2025-05-01,55300.0
+913203018054,ppblpgpa-nonprod,Gagan Verma,OCL,2025-05-01,0.0
+658447621694,hrtech_ocl,Gaurav Chopra, OCL ,2025-05-01,0.0
+700271710604,labs-llm,Harinder Takhar,OCL,2025-05-01,0.0
+505767364771,Risk Anomaly,Bhaskar Gopalan,OCL,2025-05-01,0.0
+737499001343,call-centre-ivr,Lalit Mohan Pandey, OCL ,2025-05-01,0.0
+567423616371,parent account_ocl,Mukesh Meena, OCL ,2025-05-01,245000.0
+423969094700,push_notifications_ocl,Mukesh Meena, OCL ,2025-05-01,38000.0
+562921704166,paytm-ups,Mukesh Meena, OCL ,2025-05-01,4300.0
+698979518480,bitbucket_ocl,Mukesh Meena, OCL ,2025-05-01,8500.0
+654654315008,ondc-analytics,Mukesh Meena, PAI ,2025-05-01,0.0
+090436275138,Digital Channels,Mukesh Meena, OCL ,2025-05-01,6156.42411103
+131752971524,loyalitypoints/tocom,Mukesh Meena, OCL ,2025-05-01,10000.0
+023903256547,central tools,Mukesh Meena, OCL ,2025-05-01,0.0
+337158390682,commoninfra_ocl,Mukesh Meena, OCL ,2025-05-01,6500.0
+064619502227,CentralToolsPlatform,Mukesh Meena, OCL ,2025-05-01,3825.60444519
+054736913503,scp-mgv,Mukesh Meena, OCL ,2025-05-01,1560.906015
+841860372390,fastag issuer_prod_ocl,Mukesh Meena, OCL ,2025-05-01,100.0
+127247839315,Sysops AWS,Mukesh Meena, OCL ,2025-05-01,3200.0
+492902601864,ncmc_acquirer_ocl,Mukesh Meena, OCL ,2025-05-01,800.0
+576911611801,infra_experiment_non_prod_ocl,Mukesh Meena, OCL ,2025-05-01,1000.0
+320811487590,dev-projects,Mukesh Meena, OCL ,2025-05-01,300.0
+116631508635,fastag_non prod_ocl,Mukesh Meena, OCL ,2025-05-01,100.0
+DROCL,DR - overall (to align with new contract),Mukesh Meena, PML ,2025-05-01,0.0
+New 3,Confluent Kafka,Mukesh Meena,OCL,2025-05-01,0.0
+678670235450,authoriser,Mukesh Meena,OCL,2025-05-01,0.0
+576218818919,tools-pa,Mukesh Meena,OCL,2025-05-01,0.0
+290310562512,Wallet-Nonprod,Mukesh Meena, OCL ,2025-05-01,0.0
+984308723723,digital_saas_ocl,Mukesh Meena, OCL ,2025-05-01,9500.0
+758230397644,Mall Bangalore,Mukesh Meena, PEPL ,2025-05-01,14100.0
+992382517474,ppsl-central-tools,Mukesh Meena,PPSL,2025-05-01,1100.0
+542832536672,Nearbuy Payer,Mukesh Meena,Nearbuy,2025-05-01,0.0
+798411736697,ncmc-acq-rupay-switch,Mukesh Meena, OCL ,2025-05-01,0.0
+445736908015,recharge bill payments_ocl,Nipun Arora, OCL ,2025-05-01,110000.0
+442447453008,Digital Gold,Nipun Arora, PML ,2025-05-01,7300.0
+176839215860,aws-omnicard-Prod,Nipun Arora,OCL,2025-05-01,0.0
+664526282133,Paytm Labs,Otto Mok, Labs ,2025-05-01,2600.0
+453914767997,risk-monitoring,Pankaj Kedia, OCL ,2025-05-01,0.0
+Premium Support,Premium Support,Parakh Agarwal, OCL ,2025-05-01,0.0
+469795226344,billing account_ocl,Parakh Agarwal, OCL ,2025-05-01,0.0
+015680176265,PPSL Payer,Parakh Agarwal, PPSL ,2025-05-01,0.0
+065278587813,rooter-io,Piyush Kumar (External),Rooter,2025-05-01,4815.42260742
+302399626617,ROOTER-DEV,Piyush Kumar (External),Rooter,2025-05-01,37.35302734
+919275210163,ROOTER-CLOUD-MANAGEMENT,Piyush Kumar (External),Rooter,2025-05-01,336.93188477
+477815026673,Rooter Payer,Piyush Kumar (External),Rooter,2025-05-01,130.33813477
+695745283037,ROOTER-CLOUD-LOGS,Piyush Kumar (External),Rooter,2025-05-01,4.30981445
+576349278157,ROOTER-CLOUD-SECURITY,Piyush Kumar (External),Rooter,2025-05-01,48.10205078
+271855570343,ROOTER-PROD-CDN,Piyush Kumar (External),Rooter,2025-05-01,761.03271484
+580053151223,ROOTER-PROD-TRANSCODING,Piyush Kumar (External),Rooter,2025-05-01,4179.03955078
+973103936838,ROOTER-STAGE,Piyush Kumar (External),Rooter,2025-05-01,560.1809082
+537598503159,ROOTER-PROD-ANALYTICS,Piyush Kumar (External),Rooter,2025-05-01,7278.3034668
+123964038738,ROOTER-PROD-APPS,Piyush Kumar (External),Rooter,2025-05-01,14830.42675781
+753168370952,hawkeye_ocl,Prashant Tiwari, OCL ,2025-05-01,23954.49753593
+522974168642,chat_ocl,Prashant Tiwari, OCL ,2025-05-01,16990.74976435
+722152247093,central_app_tech_ocl,Prashant Tiwari, OCL ,2025-05-01,2550.29
+066636274316,central_app_tech_web_ocl,Prashant Tiwari, OCL ,2025-05-01,3636.38967234
+824873459626,central_app_tech_mini_apps_ocl,Prashant Tiwari, OCL ,2025-05-01,1476.72
+475919677060,paytm_digital_content_ocl,Prashant Tiwari, OCL ,2025-05-01,0.0
+239666495852,health_ocl,Prashant Tiwari, OCL ,2025-05-01,591.89
+605458724602,content_ml_ocl,Prashant Tiwari, OCL ,2025-05-01,0.0
+663804405009,movies_ocl,Prashant Tiwari,Insider,2025-05-01,0.0
+155772818492,Insider (Events),Prashant Tiwari,Insider,2025-05-01,0.0
+368920154232,central app tech_ocl,Prashant Tiwari, OCL ,2025-05-01,1760.89
+985226307906,Insider Payer,Prashant Tiwari,Insider,2025-05-01,0.0
+538615689396,Pandora AWS,Sam Fang, Labs ,2025-05-01,0.0
+269350686318,AWS Pan 2,Sam Fang, Labs ,2025-05-01,0.0
+477161539263,ticketnewprod (Ram),Sasiraman Venkatesan (External),na,2025-05-01,0.0
+475804058290,Payer9,Sathyaseelan Murugesan,na,2025-05-01,0.0
+407648374860,IT_BACKUP,Saurabh Gupta, OCL ,2025-05-01,7400.0
+251917288737,IT Production,Saurabh Gupta, OCL ,2025-05-01,13200.0
+755560366148,SAP-HANA,Saurabh Gupta, OCL ,2025-05-01,64000.0
+002637409966,user-management-prod,Shrey Agarwal, OCL ,2025-05-01,190000.0
+210577074618,recon_prod_ocl,Shrey Agarwal, OCL ,2025-05-01,40000.0
+058264205572,cst-prod  ,Shrey Agarwal, OCL ,2025-05-01,2000.0
+752518464574,User Preferences System,Shrey Agarwal, OCL ,2025-05-01,22000.0
+518207312579,cst-ai,Shrey Agarwal, OCL ,2025-05-01,0.0
+615069360012,merchant-ra-automation,Shrey Agarwal, OCL ,2025-05-01,5000.0
+685585466397,recon_nonprod_ocl,Shrey Agarwal, OCL ,2025-05-01,5000.0
+952840895893,User Management,Shrey Agarwal, OCL ,2025-05-01,7000.0
+471112938013,tpap-oauth-dr,Shrey Agarwal, OCL ,2025-05-01,0.0
+337891198417,digital_cst,Shrey Agarwal, OCL ,2025-05-01,250000.0
+654654208887,ppsl-recon-prod,Shrey Agarwal,PPSL,2025-05-01,5000.0
+851725259328,ppsl-recon-nonprod,Shrey Agarwal,PPSL,2025-05-01,2500.0
+975050351452,ppsl-binary-prod,Shrey Agarwal,PPSL,2025-05-01,3000.0
+767397827620,ppsl-oauth-prod,Shrey Agarwal,PPSL,2025-05-01,2000.0
+654654394550,oauth-nonprod,Shrey Agarwal,OCL,2025-05-01,1000.0
+637423614657,pml-oauth,Shrey Agarwal,PML,2025-05-01,22000.0
+898496923608,games_pfg,Sudhanshu Gupta, PFG ,2025-05-01,109402.9575
+659606126372,URJA MONEY PVT LTD,Sunil Agrawal, Urjamoney ,2025-05-01,47700.0
+899249751508,PayTm DaaS ML,Sunil Agrawal, OCL ,2025-05-01,138200.0
+705108899578,daas-managed-services,Sunil Agrawal, OCL ,2025-05-01,57500.0
+479671683529,cdp risk_ocl,Sunil Agrawal, OCL ,2025-05-01,43500.0
+564188254156,Lending DataScience,Sunil Agrawal, OCL ,2025-05-01,87600.0
+340077773684,Paytm Financial Services,Sunil Agrawal, OCL ,2025-05-01,238900.0
+075790327284,cdp_growth marketing_ocl,Sunil Agrawal, OCL ,2025-05-01,116000.0
+576293063887,digital_insurance,Sunil Agrawal, PIBPL ,2025-05-01,16500.0
+718893572916,AaaS-nonprod,Sunil Agrawal, OCL ,2025-05-01,3575.01364076
+510772292268,cdo-dre,Sunil Agrawal, OCL ,2025-05-01,1500.0
+471112958605,lending-dwh,Sunil Agrawal, OCL ,2025-05-01,2400.0
+153518195166,cdo-non-prod,Sunil Agrawal, OCL ,2025-05-01,1500.0
+481935107677,DaaS-Apps,Sunil Agrawal, OCL ,2025-05-01,2100.0
+218943325897,devopscommon,Sunil Agrawal, OCL ,2025-05-01,600.0
+161282784430,cdp-ppbl-pa,Sunil Agrawal, OCL ,2025-05-01,0.0
+811134095225,AWS DaaS,Sunil Agrawal, OCL ,2025-05-01,62700.0
+975049957371,tpap-dwh,Sunil Agrawal, OCL ,2025-05-01,34000.0
+419830208690,AaaS-prod,Sunil Agrawal, OCL ,2025-05-01,24872.73233449
+628412515026,Datalake AWS,Sunil Agrawal, OCL ,2025-05-01,439500.0
+471112571211,ppsl-dwh-prod,Sunil Agrawal,PPSL,2025-05-01,277200.0
+863780864233,CreditMate Payer,Sunil Agrawal,Creditmate,2025-05-01,0.0
+442231926211,lending-vkyc,Sunil Agrawal,OCL,2025-05-01,0.0
+097001033170,paytm_smart_retail_ocl,Sunil Bansal, Ticketnew ,2025-05-01,3500.0
+003079193758,IOT Prod,Sunil Bansal, OCL ,2025-05-01,59000.0
+028914776520,edc_prod_ocl,Sunil Bansal, OCL ,2025-05-01,15600.0
+848332057417,mloyal_prod,Sunil Bansal, OCL ,2025-05-01,4000.0
+066548792077,IOT Core,Sunil Bansal, OCL ,2025-05-01,1500.0
+821240137883,edc_non prod_ocl,Sunil Bansal, OCL ,2025-05-01,2000.0
+494799526181,AWS_Paytm'Mloyal,Sunil Bansal,OCL,2025-05-01,1400.0
+906954799739,Nearbuy,Sunny Sharma,Nearbuy,2025-05-01,14572.54170528
+975049937880,mgc-sclp,Sunny Sharma, OCL ,2025-05-01,0.0
+851725259472,ppsl-app-sec,Surinder Kumar,PPSL,2025-05-01,22100.0
+860971823470,Video KYC,Suspended account,OCL,2025-05-01,0.0
+797142548187,ppblpgpa-prod,Suspended account,OCL,2025-05-01,0.0
+272968093320,legalapps,Urvashi Sahai, OCL ,2025-05-01,1300.0
+789596305652,regular_mf,Varun Shridhar, PSPL ,2025-05-01,10200.0
+656952484900,Paytm Money,Vinay Singhal, PML ,2025-05-01,0.0
+470060591194,edutech,Vinay Singhal, PML ,2025-05-01,0.0
+322263815270,PM-EduTech-Prod,Vinay Singhal, PML ,2025-05-01,0.0
+185774682289,pml-chat-dev,Vinay Singhal, PML ,2025-05-01,0.0
+762730909359,PM-Equities,Vinay Singhal,PML,2025-05-01,0.0
+011420223908,PM-DataLake,Vinay Singhal,PML,2025-05-01,0.0
+211125336551,pml-infosec,Vinay Singhal,PML,2025-05-01,0.0
+992382687474,pml-cst,Vinay Singhal,PML,2025-05-01,0.0
+381492193378,pml-datalake,Vinay Singhal,PML,2025-05-01,0.0
+339712912282,pml-core-poc,Vinay Singhal,PML,2025-05-01,0.0
+736121233725,Paytmmoney Ltd. Data Platform,Vinay Singhal,PML,2025-05-01,0.0
+851725496687,pml-oauth-dr,Vinay Singhal,PML,2025-05-01,9000.0
+370214104985,AMC Platform,Vinay Singhal,PML,2025-05-01,0.0
+582604545400,pm-chat,Vinay Singhal,PML,2025-05-01,0.0
+009124235587,Payer1,Vinay Singhal,PML,2025-05-01,0.0
+423387369363,PML IT,Vinay Singhal,PML,2025-05-01,0.0
+058264391305,pml-storefront,Vinay Singhal,PML,2025-05-01,0.0
+654654145181,pml-oauth-nonprod,Vinay Singhal,PML,2025-05-01,3000.0
+590183908249,pml-wiki-jira,Vinay Singhal,PML,2025-05-01,0.0
+807119641913,pm-bigdata,Vinay Singhal,PML,2025-05-01,0.0
+159245624542,leadsquared,Vinay Singhal,PML,2025-05-01,0.0
+907058949943,ppbloe-prod,Vishal Jangda,Nearbuy,2025-05-01,0.0
+905418158003,FInmate,Saurabh Gupta, OCIL ,2025-05-01,400.0
+767397877262,it-infra,Saurabh Gupta, PIBPL ,2025-05-01,400.0
+654654138046,it-infra,Saurabh Gupta, PAI ,2025-05-01,300.0
+318633126153,AWS SMS,Saurabh Gupta,OCL,2025-05-01,4200.0
+474140895141,Enterprise SMS,Saurabh Gupta,OCL,2025-05-01,9300.0
+367464822874,One97 IT,Saurabh Gupta,OCL,2025-05-01,200.0
+661338130494,telco-testing,Saurabh Gupta,OCL,2025-05-01,100.0
+072401294672,DMS AWS,Abhinav Gupta, OCL ,2025-06-01,10897.82215298
+901553615594,merchantdashboards,Abhinav Gupta, OCL ,2025-06-01,56406.63472361
+480732456233,dms-prod_ocl,Abhinav Gupta, OCL ,2025-06-01,7544.26880685
+182401677120,onboardingengine,Abhinav Gupta, OCL ,2025-06-01,30077.72540399
+389881277731,merchant-business,Abhinav Gupta, OCL ,2025-06-01,906.27853121
+745098155683,merchant_automation,Abhinav Gupta, OCL ,2025-06-01,674.08321035
+997924011427,ckyc,Abhinav Gupta, OCL ,2025-06-01,4727.2320755
+630307967658,dms-nonprod_ocl,Abhinav Gupta, OCL ,2025-06-01,1184.08815993
+495419344110,incentive,Abhinav Gupta, OCL ,2025-06-01,10587.07970617
+761904723706,KYB/FSM/Chatbot,Abhinav Gupta, OCL ,2025-06-01,37360.55335288
+654654497161,ppsl-ump-prod,Abhinav Gupta,PPSL,2025-06-01,13374.14722844
+767397730150,ppsl-mo-prod,Abhinav Gupta,PPSL,2025-06-01,3513.82945734
+548411824430,pocketurmoney/oneview,Abhinav Gupta, OCL ,2025-06-01,343.88202832
+272415727726,Paytm Ads,Ajit Kumar, OCL ,2025-06-01,125471.32549481
+381491835802,uth-prod,Ajit Kumar, OCL ,2025-06-01,105021.47853517
+339712810712,tpap-nonprod,Ajit Kumar, OCL ,2025-06-01,4690.33474219
+211125458732,tpap-prod,Ajit Kumar, OCL ,2025-06-01,119405.2296529
+381492106076,YBL-TSP-AWS-UAT V1,Ajit Kumar, OCIL ,2025-06-01,2783.24463601
+992382754296,OCIL-AWS-UAT,Ajit Kumar, OCIL ,2025-06-01,1716.66251564
+891377131146,YBL-TSP-AWS-UAT V2,Ajit Kumar, OCIL ,2025-06-01,15538.60996739
+767398050080,YBL-TSP-AWS-prod,Ajit Kumar, OCIL ,2025-06-01,259956.75425916
+736384229724,cloudsecurity-logs,Amit Malhotra, OCL ,2025-06-01,3464.08004401
+252197745876,AWS InfoSec,Amit Malhotra, OCL ,2025-06-01,14929.22746561
+161115069565,infosec-soc,Amit Malhotra, OCL ,2025-06-01,18203.52883094
+264522784930,AWS DNS,Amit Malhotra, OCL ,2025-06-01,0.0
+647564693872,aml-prod,Akeshwar Jha, OCL ,2025-06-01,0.0
+359716425895,Travel Aws,Anil Kundu, OCL ,2025-06-01,72000.0
+135329050410,CityBus,anil Kundu, OCL ,2025-06-01,1500.0
+769263341944,hotels,Anil Kundu, OCL ,2025-06-01,0.0
+968032760053,Fraud AWS,Bhaskar Gopalan, Labs ,2025-06-01,248900.0
+546818093346,verifierAWS,Bhaskar Gopalan, OCL ,2025-06-01,16800.0
+211125515568,risk-ocl-tpap,Bhaskar Gopalan, OCL ,2025-06-01,37100.0
+608146213544,ppblmaquettepa-prod,Bhaskar Gopalan, OCL ,2025-06-01,0.0
+439726107081,risk-verifier-nonprod,Bhaskar Gopalan, OCL ,2025-06-01,2500.0
+885068115609,pai-sre,Bhaskar Gopalan, Labs ,2025-06-01,6500.0
+021891570382,Risk-Lending(new),Bhaskar Gopalan,OCL,2025-06-01,26400.0
+767397937234,PPSL- risk,Bhaskar Gopalan,PPSL,2025-06-01,149887.0
+017820698743,risk-devops-tools,Bhaskar Gopalan,OCL,2025-06-01,1500.0
+339712759199,feature-store-ocl,Bruno Meira,OCL,2025-06-01,0.0
+746682193773,cds-clm,Bhaskar Gopalan,OCL,2025-06-01,0.0
+130653941854,insurance-ds,Bhaskar Gopalan, PIBPL ,2025-06-01,0.0
+465354398947,aml-nonprod,Akeshwar Jha, OCL ,2025-06-01,0.0
+532041146482,aml-ppsl-nonprod,Deepanshu Jain, PPSL ,2025-06-01,0.0
+914516902729,finance_support_ocl,Dheerendra Mishra, OCL ,2025-06-01,5000.0
+625612021127,aoa-nonprod,Gagan Verma,OCL,2025-06-01,1600.0
+340677782776,aoa-prod,Gagan Verma,OCL,2025-06-01,10500.0
+541095382258,Card Tokenization,Gagan Verma,OCL,2025-06-01,2000.0
+611670160261,emi-nonprod,Gagan Verma,OCL,2025-06-01,2300.0
+068930846606,emi-prod_ocl,Gagan Verma,OCL,2025-06-01,4600.0
+424503791295,merchant-payments-api_prod_ocl,Gagan Verma,OCL,2025-06-01,164200.0
+929265682896,payment-non-prod,Gagan Verma,OCL,2025-06-01,28200.0
+233815244996,payment-platform_nonprod_ocl,Gagan Verma,OCL,2025-06-01,21200.0
+304016915943,payments-data-rtdd_prod_ocl,Gagan Verma,OCL,2025-06-01,185600.0
+352506242819,payments-platform_prod_ocl,Gagan Verma,OCL,2025-06-01,777900.0
+239103975135,QR,Gagan Verma,OCL,2025-06-01,10600.0
+128131020113,pa-nonprod,Gagan Verma,PPSL,2025-06-01,5400.0
+189893850600,pa-prod,Gagan Verma,PPSL,2025-06-01,92800.0
+471112548387,ppsl-affordability-prod,Gagan Verma,PPSL,2025-06-01,10700.0
+730335596554,ppsl-aml-prod,Gagan Verma,PPSL,2025-06-01,3700.0
+239937555916,ppsl-cardservice,Gagan Verma,PPSL,2025-06-01,1200.0
+905418390117,ppsl-pg2-nonprod,Gagan Verma,PPSL,2025-06-01,10700.0
+590183666588,ppsl-pg2-prod,Gagan Verma,PPSL,2025-06-01,343700.0
+590183673148,ppsl-rtdd-prod,Gagan Verma,PPSL,2025-06-01,56400.0
+913203018054,ppblpgpa-nonprod,Gagan Verma,OCL,2025-06-01,0.0
+658447621694,hrtech_ocl,Gaurav Chopra, OCL ,2025-06-01,0.0
+700271710604,labs-llm,Harinder Takhar,OCL,2025-06-01,0.0
+505767364771,Risk Anomaly,Bhaskar Gopalan,OCL,2025-06-01,0.0
+737499001343,call-centre-ivr,Lalit Mohan Pandey, OCL ,2025-06-01,0.0
+567423616371,parent account_ocl,Mukesh Meena, OCL ,2025-06-01,245000.0
+423969094700,push_notifications_ocl,Mukesh Meena, OCL ,2025-06-01,38000.0
+562921704166,paytm-ups,Mukesh Meena, OCL ,2025-06-01,4300.0
+698979518480,bitbucket_ocl,Mukesh Meena, OCL ,2025-06-01,8500.0
+654654315008,ondc-analytics,Mukesh Meena, PAI ,2025-06-01,0.0
+090436275138,Digital Channels,Mukesh Meena, OCL ,2025-06-01,6217.98835214
+131752971524,loyalitypoints/tocom,Mukesh Meena, OCL ,2025-06-01,10000.0
+023903256547,central tools,Mukesh Meena, OCL ,2025-06-01,0.0
+337158390682,commoninfra_ocl,Mukesh Meena, OCL ,2025-06-01,6500.0
+064619502227,CentralToolsPlatform,Mukesh Meena, OCL ,2025-06-01,3940.37257855
+054736913503,scp-mgv,Mukesh Meena, OCL ,2025-06-01,1576.51507515
+841860372390,fastag issuer_prod_ocl,Mukesh Meena, OCL ,2025-06-01,100.0
+127247839315,Sysops AWS,Mukesh Meena, OCL ,2025-06-01,3200.0
+492902601864,ncmc_acquirer_ocl,Mukesh Meena, OCL ,2025-06-01,800.0
+576911611801,infra_experiment_non_prod_ocl,Mukesh Meena, OCL ,2025-06-01,1000.0
+320811487590,dev-projects,Mukesh Meena, OCL ,2025-06-01,300.0
+116631508635,fastag_non prod_ocl,Mukesh Meena, OCL ,2025-06-01,100.0
+DROCL,DR - overall (to align with new contract),Mukesh Meena, PML ,2025-06-01,0.0
+New 3,Confluent Kafka,Mukesh Meena,OCL,2025-06-01,0.0
+678670235450,authoriser,Mukesh Meena,OCL,2025-06-01,0.0
+576218818919,tools-pa,Mukesh Meena,OCL,2025-06-01,0.0
+290310562512,Wallet-Nonprod,Mukesh Meena, OCL ,2025-06-01,0.0
+984308723723,digital_saas_ocl,Mukesh Meena, OCL ,2025-06-01,9500.0
+758230397644,Mall Bangalore,Mukesh Meena, PEPL ,2025-06-01,14500.0
+992382517474,ppsl-central-tools,Mukesh Meena,PPSL,2025-06-01,1100.0
+542832536672,Nearbuy Payer,Mukesh Meena,Nearbuy,2025-06-01,0.0
+798411736697,ncmc-acq-rupay-switch,Mukesh Meena, OCL ,2025-06-01,0.0
+445736908015,recharge bill payments_ocl,Nipun Arora, OCL ,2025-06-01,115000.0
+442447453008,Digital Gold,Nipun Arora, PML ,2025-06-01,7300.0
+176839215860,aws-omnicard-Prod,Nipun Arora,OCL,2025-06-01,0.0
+664526282133,Paytm Labs,Otto Mok, Labs ,2025-06-01,2600.0
+453914767997,risk-monitoring,Pankaj Kedia, OCL ,2025-06-01,0.0
+Premium Support,Premium Support,Parakh Agarwal, OCL ,2025-06-01,0.0
+469795226344,billing account_ocl,Parakh Agarwal, OCL ,2025-06-01,0.0
+015680176265,PPSL Payer,Parakh Agarwal, PPSL ,2025-06-01,0.0
+065278587813,rooter-io,Piyush Kumar (External),Rooter,2025-06-01,4815.48138428
+302399626617,ROOTER-DEV,Piyush Kumar (External),Rooter,2025-06-01,37.59753418
+919275210163,ROOTER-CLOUD-MANAGEMENT,Piyush Kumar (External),Rooter,2025-06-01,337.02423096
+477815026673,Rooter Payer,Piyush Kumar (External),Rooter,2025-06-01,130.28204346
+695745283037,ROOTER-CLOUD-LOGS,Piyush Kumar (External),Rooter,2025-06-01,4.30914307
+576349278157,ROOTER-CLOUD-SECURITY,Piyush Kumar (External),Rooter,2025-06-01,48.09631348
+271855570343,ROOTER-PROD-CDN,Piyush Kumar (External),Rooter,2025-06-01,760.94714355
+580053151223,ROOTER-PROD-TRANSCODING,Piyush Kumar (External),Rooter,2025-06-01,4185.76818848
+973103936838,ROOTER-STAGE,Piyush Kumar (External),Rooter,2025-06-01,560.39801025
+537598503159,ROOTER-PROD-ANALYTICS,Piyush Kumar (External),Rooter,2025-06-01,7280.4574585
+123964038738,ROOTER-PROD-APPS,Piyush Kumar (External),Rooter,2025-06-01,14830.97094727
+753168370952,hawkeye_ocl,Prashant Tiwari, OCL ,2025-06-01,24673.13246201
+522974168642,chat_ocl,Prashant Tiwari, OCL ,2025-06-01,17500.47225728
+722152247093,central_app_tech_ocl,Prashant Tiwari, OCL ,2025-06-01,2550.29
+066636274316,central_app_tech_web_ocl,Prashant Tiwari, OCL ,2025-06-01,3672.75356906
+824873459626,central_app_tech_mini_apps_ocl,Prashant Tiwari, OCL ,2025-06-01,1476.72
+475919677060,paytm_digital_content_ocl,Prashant Tiwari, OCL ,2025-06-01,0.0
+239666495852,health_ocl,Prashant Tiwari, OCL ,2025-06-01,591.89
+605458724602,content_ml_ocl,Prashant Tiwari, OCL ,2025-06-01,0.0
+663804405009,movies_ocl,Prashant Tiwari,Insider,2025-06-01,0.0
+155772818492,Insider (Events),Prashant Tiwari,Insider,2025-06-01,0.0
+368920154232,central app tech_ocl,Prashant Tiwari, OCL ,2025-06-01,1760.89
+985226307906,Insider Payer,Prashant Tiwari,Insider,2025-06-01,0.0
+538615689396,Pandora AWS,Sam Fang, Labs ,2025-06-01,0.0
+269350686318,AWS Pan 2,Sam Fang, Labs ,2025-06-01,0.0
+477161539263,ticketnewprod (Ram),Sasiraman Venkatesan (External),na,2025-06-01,0.0
+475804058290,Payer9,Sathyaseelan Murugesan,na,2025-06-01,0.0
+407648374860,IT_BACKUP,Saurabh Gupta, OCL ,2025-06-01,7400.0
+251917288737,IT Production,Saurabh Gupta, OCL ,2025-06-01,13300.0
+755560366148,SAP-HANA,Saurabh Gupta, OCL ,2025-06-01,64000.0
+002637409966,user-management-prod,Shrey Agarwal, OCL ,2025-06-01,190000.0
+210577074618,recon_prod_ocl,Shrey Agarwal, OCL ,2025-06-01,40000.0
+058264205572,cst-prod  ,Shrey Agarwal, OCL ,2025-06-01,2000.0
+752518464574,User Preferences System,Shrey Agarwal, OCL ,2025-06-01,22000.0
+518207312579,cst-ai,Shrey Agarwal, OCL ,2025-06-01,0.0
+615069360012,merchant-ra-automation,Shrey Agarwal, OCL ,2025-06-01,5000.0
+685585466397,recon_nonprod_ocl,Shrey Agarwal, OCL ,2025-06-01,5000.0
+952840895893,User Management,Shrey Agarwal, OCL ,2025-06-01,7000.0
+471112938013,tpap-oauth-dr,Shrey Agarwal, OCL ,2025-06-01,0.0
+337891198417,digital_cst,Shrey Agarwal, OCL ,2025-06-01,250000.0
+654654208887,ppsl-recon-prod,Shrey Agarwal,PPSL,2025-06-01,5000.0
+851725259328,ppsl-recon-nonprod,Shrey Agarwal,PPSL,2025-06-01,2500.0
+975050351452,ppsl-binary-prod,Shrey Agarwal,PPSL,2025-06-01,3000.0
+767397827620,ppsl-oauth-prod,Shrey Agarwal,PPSL,2025-06-01,2000.0
+654654394550,oauth-nonprod,Shrey Agarwal,OCL,2025-06-01,1000.0
+637423614657,pml-oauth,Shrey Agarwal,PML,2025-06-01,22000.0
+898496923608,games_pfg,Sudhanshu Gupta, PFG ,2025-06-01,109402.9575
+659606126372,URJA MONEY PVT LTD,Sunil Agrawal, Urjamoney ,2025-06-01,48100.0
+899249751508,PayTm DaaS ML,Sunil Agrawal, OCL ,2025-06-01,141000.0
+705108899578,daas-managed-services,Sunil Agrawal, OCL ,2025-06-01,50700.0
+479671683529,cdp risk_ocl,Sunil Agrawal, OCL ,2025-06-01,44300.0
+564188254156,Lending DataScience,Sunil Agrawal, OCL ,2025-06-01,88200.0
+340077773684,Paytm Financial Services,Sunil Agrawal, OCL ,2025-06-01,241300.0
+075790327284,cdp_growth marketing_ocl,Sunil Agrawal, OCL ,2025-06-01,119500.0
+576293063887,digital_insurance,Sunil Agrawal, PIBPL ,2025-06-01,17000.0
+718893572916,AaaS-nonprod,Sunil Agrawal, OCL ,2025-06-01,3646.51391358
+510772292268,cdo-dre,Sunil Agrawal, OCL ,2025-06-01,1600.0
+471112958605,lending-dwh,Sunil Agrawal, OCL ,2025-06-01,2400.0
+153518195166,cdo-non-prod,Sunil Agrawal, OCL ,2025-06-01,1600.0
+481935107677,DaaS-Apps,Sunil Agrawal, OCL ,2025-06-01,2100.0
+218943325897,devopscommon,Sunil Agrawal, OCL ,2025-06-01,600.0
+161282784430,cdp-ppbl-pa,Sunil Agrawal, OCL ,2025-06-01,0.0
+811134095225,AWS DaaS,Sunil Agrawal, OCL ,2025-06-01,63900.0
+975049957371,tpap-dwh,Sunil Agrawal, OCL ,2025-06-01,34700.0
+419830208690,AaaS-prod,Sunil Agrawal, OCL ,2025-06-01,25370.18698118
+628412515026,Datalake AWS,Sunil Agrawal, OCL ,2025-06-01,431300.0
+471112571211,ppsl-dwh-prod,Sunil Agrawal,PPSL,2025-06-01,279900.0
+863780864233,CreditMate Payer,Sunil Agrawal,Creditmate,2025-06-01,0.0
+442231926211,lending-vkyc,Sunil Agrawal,OCL,2025-06-01,0.0
+097001033170,paytm_smart_retail_ocl,Sunil Bansal, Ticketnew ,2025-06-01,3500.0
+003079193758,IOT Prod,Sunil Bansal, OCL ,2025-06-01,61000.0
+028914776520,edc_prod_ocl,Sunil Bansal, OCL ,2025-06-01,15600.0
+848332057417,mloyal_prod,Sunil Bansal, OCL ,2025-06-01,4500.0
+066548792077,IOT Core,Sunil Bansal, OCL ,2025-06-01,1500.0
+821240137883,edc_non prod_ocl,Sunil Bansal, OCL ,2025-06-01,2000.0
+494799526181,AWS_Paytm'Mloyal,Sunil Bansal,OCL,2025-06-01,1400.0
+906954799739,Nearbuy,Sunny Sharma,Nearbuy,2025-06-01,14863.99253938
+975049937880,mgc-sclp,Sunny Sharma, OCL ,2025-06-01,0.0
+851725259472,ppsl-app-sec,Surinder Kumar,PPSL,2025-06-01,22600.0
+860971823470,Video KYC,Suspended account,OCL,2025-06-01,0.0
+797142548187,ppblpgpa-prod,Suspended account,OCL,2025-06-01,0.0
+272968093320,legalapps,Urvashi Sahai, OCL ,2025-06-01,1300.0
+789596305652,regular_mf,Varun Shridhar, PSPL ,2025-06-01,10200.0
+656952484900,Paytm Money,Vinay Singhal, PML ,2025-06-01,0.0
+470060591194,edutech,Vinay Singhal, PML ,2025-06-01,0.0
+322263815270,PM-EduTech-Prod,Vinay Singhal, PML ,2025-06-01,0.0
+185774682289,pml-chat-dev,Vinay Singhal, PML ,2025-06-01,0.0
+762730909359,PM-Equities,Vinay Singhal,PML,2025-06-01,0.0
+011420223908,PM-DataLake,Vinay Singhal,PML,2025-06-01,0.0
+211125336551,pml-infosec,Vinay Singhal,PML,2025-06-01,0.0
+992382687474,pml-cst,Vinay Singhal,PML,2025-06-01,0.0
+381492193378,pml-datalake,Vinay Singhal,PML,2025-06-01,0.0
+339712912282,pml-core-poc,Vinay Singhal,PML,2025-06-01,0.0
+736121233725,Paytmmoney Ltd. Data Platform,Vinay Singhal,PML,2025-06-01,0.0
+851725496687,pml-oauth-dr,Vinay Singhal,PML,2025-06-01,9000.0
+370214104985,AMC Platform,Vinay Singhal,PML,2025-06-01,0.0
+582604545400,pm-chat,Vinay Singhal,PML,2025-06-01,0.0
+009124235587,Payer1,Vinay Singhal,PML,2025-06-01,0.0
+423387369363,PML IT,Vinay Singhal,PML,2025-06-01,0.0
+058264391305,pml-storefront,Vinay Singhal,PML,2025-06-01,0.0
+654654145181,pml-oauth-nonprod,Vinay Singhal,PML,2025-06-01,3000.0
+590183908249,pml-wiki-jira,Vinay Singhal,PML,2025-06-01,0.0
+807119641913,pm-bigdata,Vinay Singhal,PML,2025-06-01,0.0
+159245624542,leadsquared,Vinay Singhal,PML,2025-06-01,0.0
+907058949943,ppbloe-prod,Vishal Jangda,Nearbuy,2025-06-01,0.0
+905418158003,FInmate,Saurabh Gupta, OCIL ,2025-06-01,400.0
+767397877262,it-infra,Saurabh Gupta, PIBPL ,2025-06-01,400.0
+654654138046,it-infra,Saurabh Gupta, PAI ,2025-06-01,300.0
+318633126153,AWS SMS,Saurabh Gupta,OCL,2025-06-01,4200.0
+474140895141,Enterprise SMS,Saurabh Gupta,OCL,2025-06-01,9600.0
+367464822874,One97 IT,Saurabh Gupta,OCL,2025-06-01,200.0
+661338130494,telco-testing,Saurabh Gupta,OCL,2025-06-01,200.0
+072401294672,DMS AWS,Abhinav Gupta, OCL ,2025-07-01,11115.77859604
+901553615594,merchantdashboards,Abhinav Gupta, OCL ,2025-07-01,57534.76741809
+480732456233,dms-prod_ocl,Abhinav Gupta, OCL ,2025-07-01,7695.15418298
+182401677120,onboardingengine,Abhinav Gupta, OCL ,2025-07-01,30679.27991207
+389881277731,merchant-business,Abhinav Gupta, OCL ,2025-07-01,924.40410183
+745098155683,merchant_automation,Abhinav Gupta, OCL ,2025-07-01,687.56487455
+997924011427,ckyc,Abhinav Gupta, OCL ,2025-07-01,4821.77671701
+630307967658,dms-nonprod_ocl,Abhinav Gupta, OCL ,2025-07-01,1207.76992312
+495419344110,incentive,Abhinav Gupta, OCL ,2025-07-01,10798.82130029
+761904723706,KYB/FSM/Chatbot,Abhinav Gupta, OCL ,2025-07-01,38107.76441994
+654654497161,ppsl-ump-prod,Abhinav Gupta,PPSL,2025-07-01,13641.63017301
+767397730150,ppsl-mo-prod,Abhinav Gupta,PPSL,2025-07-01,3584.10604649
+548411824430,pocketurmoney/oneview,Abhinav Gupta, OCL ,2025-07-01,350.75966889
+272415727726,Paytm Ads,Ajit Kumar, OCL ,2025-07-01,129235.46525966
+381491835802,uth-prod,Ajit Kumar, OCL ,2025-07-01,109222.33767658
+339712810712,tpap-nonprod,Ajit Kumar, OCL ,2025-07-01,4924.8514793
+211125458732,tpap-prod,Ajit Kumar, OCL ,2025-07-01,122987.38654249
+381492106076,YBL-TSP-AWS-UAT V1,Ajit Kumar, OCIL ,2025-07-01,2922.40686781
+992382754296,OCIL-AWS-UAT,Ajit Kumar, OCIL ,2025-07-01,1802.49564142
+891377131146,YBL-TSP-AWS-UAT V2,Ajit Kumar, OCIL ,2025-07-01,16315.54046576
+767398050080,YBL-TSP-AWS-prod,Ajit Kumar, OCIL ,2025-07-01,263856.10557305
+736384229724,cloudsecurity-logs,Amit Malhotra, OCL ,2025-07-01,3498.72084445
+252197745876,AWS InfoSec,Amit Malhotra, OCL ,2025-07-01,15078.51974026
+161115069565,infosec-soc,Amit Malhotra, OCL ,2025-07-01,18385.56411925
+264522784930,AWS DNS,Amit Malhotra, OCL ,2025-07-01,0.0
+647564693872,aml-prod,Akeshwar Jha, OCL ,2025-07-01,0.0
+359716425895,Travel Aws,Anil Kundu, OCL ,2025-07-01,74000.0
+135329050410,CityBus,anil Kundu, OCL ,2025-07-01,1600.0
+769263341944,hotels,Anil Kundu, OCL ,2025-07-01,0.0
+968032760053,Fraud AWS,Bhaskar Gopalan, Labs ,2025-07-01,156100.0
+546818093346,verifierAWS,Bhaskar Gopalan, OCL ,2025-07-01,0.0
+211125515568,risk-ocl-tpap,Bhaskar Gopalan, OCL ,2025-07-01,26000.0
+608146213544,ppblmaquettepa-prod,Bhaskar Gopalan, OCL ,2025-07-01,0.0
+439726107081,risk-verifier-nonprod,Bhaskar Gopalan, OCL ,2025-07-01,0.0
+885068115609,pai-sre,Bhaskar Gopalan, Labs ,2025-07-01,6500.0
+021891570382,Risk-Lending(new),Bhaskar Gopalan,OCL,2025-07-01,27100.0
+767397937234,PPSL- risk,Bhaskar Gopalan,PPSL,2025-07-01,69119.0
+017820698743,risk-devops-tools,Bhaskar Gopalan,OCL,2025-07-01,1500.0
+339712759199,feature-store-ocl,Bruno Meira,OCL,2025-07-01,0.0
+746682193773,cds-clm,Bhaskar Gopalan,OCL,2025-07-01,0.0
+130653941854,insurance-ds,Bhaskar Gopalan, PIBPL ,2025-07-01,0.0
+465354398947,aml-nonprod,Akeshwar Jha, OCL ,2025-07-01,0.0
+532041146482,aml-ppsl-nonprod,Deepanshu Jain, PPSL ,2025-07-01,0.0
+914516902729,finance_support_ocl,Dheerendra Mishra, OCL ,2025-07-01,5000.0
+625612021127,aoa-nonprod,Gagan Verma,OCL,2025-07-01,1600.0
+340677782776,aoa-prod,Gagan Verma,OCL,2025-07-01,10600.0
+541095382258,Card Tokenization,Gagan Verma,OCL,2025-07-01,2000.0
+611670160261,emi-nonprod,Gagan Verma,OCL,2025-07-01,2300.0
+068930846606,emi-prod_ocl,Gagan Verma,OCL,2025-07-01,4700.0
+424503791295,merchant-payments-api_prod_ocl,Gagan Verma,OCL,2025-07-01,167500.0
+929265682896,payment-non-prod,Gagan Verma,OCL,2025-07-01,28600.0
+233815244996,payment-platform_nonprod_ocl,Gagan Verma,OCL,2025-07-01,21400.0
+304016915943,payments-data-rtdd_prod_ocl,Gagan Verma,OCL,2025-07-01,188300.0
+352506242819,payments-platform_prod_ocl,Gagan Verma,OCL,2025-07-01,789600.0
+239103975135,QR,Gagan Verma,OCL,2025-07-01,10700.0
+128131020113,pa-nonprod,Gagan Verma,PPSL,2025-07-01,5400.0
+189893850600,pa-prod,Gagan Verma,PPSL,2025-07-01,94600.0
+471112548387,ppsl-affordability-prod,Gagan Verma,PPSL,2025-07-01,10800.0
+730335596554,ppsl-aml-prod,Gagan Verma,PPSL,2025-07-01,3700.0
+239937555916,ppsl-cardservice,Gagan Verma,PPSL,2025-07-01,1200.0
+905418390117,ppsl-pg2-nonprod,Gagan Verma,PPSL,2025-07-01,10800.0
+590183666588,ppsl-pg2-prod,Gagan Verma,PPSL,2025-07-01,348500.0
+590183673148,ppsl-rtdd-prod,Gagan Verma,PPSL,2025-07-01,57500.0
+913203018054,ppblpgpa-nonprod,Gagan Verma,OCL,2025-07-01,0.0
+658447621694,hrtech_ocl,Gaurav Chopra, OCL ,2025-07-01,0.0
+700271710604,labs-llm,Harinder Takhar,OCL,2025-07-01,0.0
+505767364771,Risk Anomaly,Bhaskar Gopalan,OCL,2025-07-01,0.0
+737499001343,call-centre-ivr,Lalit Mohan Pandey, OCL ,2025-07-01,0.0
+567423616371,parent account_ocl,Mukesh Meena, OCL ,2025-07-01,250000.0
+423969094700,push_notifications_ocl,Mukesh Meena, OCL ,2025-07-01,39000.0
+562921704166,paytm-ups,Mukesh Meena, OCL ,2025-07-01,4300.0
+698979518480,bitbucket_ocl,Mukesh Meena, OCL ,2025-07-01,8500.0
+654654315008,ondc-analytics,Mukesh Meena, PAI ,2025-07-01,0.0
+090436275138,Digital Channels,Mukesh Meena, OCL ,2025-07-01,6280.16823566
+131752971524,loyalitypoints/tocom,Mukesh Meena, OCL ,2025-07-01,12000.0
+023903256547,central tools,Mukesh Meena, OCL ,2025-07-01,0.0
+337158390682,commoninfra_ocl,Mukesh Meena, OCL ,2025-07-01,6500.0
+064619502227,CentralToolsPlatform,Mukesh Meena, OCL ,2025-07-01,4058.5837559
+054736913503,scp-mgv,Mukesh Meena, OCL ,2025-07-01,1592.2802259
+841860372390,fastag issuer_prod_ocl,Mukesh Meena, OCL ,2025-07-01,100.0
+127247839315,Sysops AWS,Mukesh Meena, OCL ,2025-07-01,3200.0
+492902601864,ncmc_acquirer_ocl,Mukesh Meena, OCL ,2025-07-01,800.0
+576911611801,infra_experiment_non_prod_ocl,Mukesh Meena, OCL ,2025-07-01,1000.0
+320811487590,dev-projects,Mukesh Meena, OCL ,2025-07-01,300.0
+116631508635,fastag_non prod_ocl,Mukesh Meena, OCL ,2025-07-01,100.0
+DROCL,DR - overall (to align with new contract),Mukesh Meena, PML ,2025-07-01,0.0
+New 3,Confluent Kafka,Mukesh Meena,OCL,2025-07-01,0.0
+678670235450,authoriser,Mukesh Meena,OCL,2025-07-01,0.0
+576218818919,tools-pa,Mukesh Meena,OCL,2025-07-01,0.0
+290310562512,Wallet-Nonprod,Mukesh Meena, OCL ,2025-07-01,0.0
+984308723723,digital_saas_ocl,Mukesh Meena, OCL ,2025-07-01,9500.0
+758230397644,Mall Bangalore,Mukesh Meena, PEPL ,2025-07-01,14500.0
+992382517474,ppsl-central-tools,Mukesh Meena,PPSL,2025-07-01,1100.0
+542832536672,Nearbuy Payer,Mukesh Meena,Nearbuy,2025-07-01,0.0
+798411736697,ncmc-acq-rupay-switch,Mukesh Meena, OCL ,2025-07-01,0.0
+445736908015,recharge bill payments_ocl,Nipun Arora, OCL ,2025-07-01,115000.0
+442447453008,Digital Gold,Nipun Arora, PML ,2025-07-01,7300.0
+176839215860,aws-omnicard-Prod,Nipun Arora,OCL,2025-07-01,0.0
+664526282133,Paytm Labs,Otto Mok, Labs ,2025-07-01,2600.0
+453914767997,risk-monitoring,Pankaj Kedia, OCL ,2025-07-01,0.0
+Premium Support,Premium Support,Parakh Agarwal, OCL ,2025-07-01,0.0
+469795226344,billing account_ocl,Parakh Agarwal, OCL ,2025-07-01,0.0
+015680176265,PPSL Payer,Parakh Agarwal, PPSL ,2025-07-01,0.0
+065278587813,rooter-io,Piyush Kumar (External),Rooter,2025-07-01,4815.6056366
+302399626617,ROOTER-DEV,Piyush Kumar (External),Rooter,2025-07-01,37.62973022
+919275210163,ROOTER-CLOUD-MANAGEMENT,Piyush Kumar (External),Rooter,2025-07-01,336.91700745
+477815026673,Rooter Payer,Piyush Kumar (External),Rooter,2025-07-01,130.23927307
+695745283037,ROOTER-CLOUD-LOGS,Piyush Kumar (External),Rooter,2025-07-01,4.28877258
+576349278157,ROOTER-CLOUD-SECURITY,Piyush Kumar (External),Rooter,2025-07-01,48.08132935
+271855570343,ROOTER-PROD-CDN,Piyush Kumar (External),Rooter,2025-07-01,760.69174194
+580053151223,ROOTER-PROD-TRANSCODING,Piyush Kumar (External),Rooter,2025-07-01,4180.6711731
+973103936838,ROOTER-STAGE,Piyush Kumar (External),Rooter,2025-07-01,559.21235657
+537598503159,ROOTER-PROD-ANALYTICS,Piyush Kumar (External),Rooter,2025-07-01,7267.35697937
+123964038738,ROOTER-PROD-APPS,Piyush Kumar (External),Rooter,2025-07-01,14826.32305908
+753168370952,hawkeye_ocl,Prashant Tiwari, OCL ,2025-07-01,25413.32643587
+522974168642,chat_ocl,Prashant Tiwari, OCL ,2025-07-01,18025.486425
+722152247093,central_app_tech_ocl,Prashant Tiwari, OCL ,2025-07-01,2550.29
+066636274316,central_app_tech_web_ocl,Prashant Tiwari, OCL ,2025-07-01,3709.48110476
+824873459626,central_app_tech_mini_apps_ocl,Prashant Tiwari, OCL ,2025-07-01,1476.72
+475919677060,paytm_digital_content_ocl,Prashant Tiwari, OCL ,2025-07-01,0.0
+239666495852,health_ocl,Prashant Tiwari, OCL ,2025-07-01,591.89
+605458724602,content_ml_ocl,Prashant Tiwari, OCL ,2025-07-01,0.0
+663804405009,movies_ocl,Prashant Tiwari,Insider,2025-07-01,0.0
+155772818492,Insider (Events),Prashant Tiwari,Insider,2025-07-01,0.0
+368920154232,central app tech_ocl,Prashant Tiwari, OCL ,2025-07-01,1760.89
+985226307906,Insider Payer,Prashant Tiwari,Insider,2025-07-01,0.0
+538615689396,Pandora AWS,Sam Fang, Labs ,2025-07-01,0.0
+269350686318,AWS Pan 2,Sam Fang, Labs ,2025-07-01,0.0
+477161539263,ticketnewprod (Ram),Sasiraman Venkatesan (External),na,2025-07-01,0.0
+475804058290,Payer9,Sathyaseelan Murugesan,na,2025-07-01,0.0
+407648374860,IT_BACKUP,Saurabh Gupta, OCL ,2025-07-01,7500.0
+251917288737,IT Production,Saurabh Gupta, OCL ,2025-07-01,13400.0
+755560366148,SAP-HANA,Saurabh Gupta, OCL ,2025-07-01,64000.0
+002637409966,user-management-prod,Shrey Agarwal, OCL ,2025-07-01,195000.0
+210577074618,recon_prod_ocl,Shrey Agarwal, OCL ,2025-07-01,40000.0
+058264205572,cst-prod  ,Shrey Agarwal, OCL ,2025-07-01,2000.0
+752518464574,User Preferences System,Shrey Agarwal, OCL ,2025-07-01,22000.0
+518207312579,cst-ai,Shrey Agarwal, OCL ,2025-07-01,0.0
+615069360012,merchant-ra-automation,Shrey Agarwal, OCL ,2025-07-01,5000.0
+685585466397,recon_nonprod_ocl,Shrey Agarwal, OCL ,2025-07-01,5000.0
+952840895893,User Management,Shrey Agarwal, OCL ,2025-07-01,7000.0
+471112938013,tpap-oauth-dr,Shrey Agarwal, OCL ,2025-07-01,0.0
+337891198417,digital_cst,Shrey Agarwal, OCL ,2025-07-01,250000.0
+654654208887,ppsl-recon-prod,Shrey Agarwal,PPSL,2025-07-01,5000.0
+851725259328,ppsl-recon-nonprod,Shrey Agarwal,PPSL,2025-07-01,2500.0
+975050351452,ppsl-binary-prod,Shrey Agarwal,PPSL,2025-07-01,3000.0
+767397827620,ppsl-oauth-prod,Shrey Agarwal,PPSL,2025-07-01,2000.0
+654654394550,oauth-nonprod,Shrey Agarwal,OCL,2025-07-01,1000.0
+637423614657,pml-oauth,Shrey Agarwal,PML,2025-07-01,22000.0
+898496923608,games_pfg,Sudhanshu Gupta, PFG ,2025-07-01,109402.9575
+659606126372,URJA MONEY PVT LTD,Sunil Agrawal, Urjamoney ,2025-07-01,48900.0
+899249751508,PayTm DaaS ML,Sunil Agrawal, OCL ,2025-07-01,143800.0
+705108899578,daas-managed-services,Sunil Agrawal, OCL ,2025-07-01,51700.0
+479671683529,cdp risk_ocl,Sunil Agrawal, OCL ,2025-07-01,45200.0
+564188254156,Lending DataScience,Sunil Agrawal, OCL ,2025-07-01,89800.0
+340077773684,Paytm Financial Services,Sunil Agrawal, OCL ,2025-07-01,245600.0
+075790327284,cdp_growth marketing_ocl,Sunil Agrawal, OCL ,2025-07-01,123000.0
+576293063887,digital_insurance,Sunil Agrawal, PIBPL ,2025-07-01,17500.0
+718893572916,AaaS-nonprod,Sunil Agrawal, OCL ,2025-07-01,3719.44419185
+510772292268,cdo-dre,Sunil Agrawal, OCL ,2025-07-01,1600.0
+471112958605,lending-dwh,Sunil Agrawal, OCL ,2025-07-01,2400.0
+153518195166,cdo-non-prod,Sunil Agrawal, OCL ,2025-07-01,1600.0
+481935107677,DaaS-Apps,Sunil Agrawal, OCL ,2025-07-01,2200.0
+218943325897,devopscommon,Sunil Agrawal, OCL ,2025-07-01,600.0
+161282784430,cdp-ppbl-pa,Sunil Agrawal, OCL ,2025-07-01,0.0
+811134095225,AWS DaaS,Sunil Agrawal, OCL ,2025-07-01,59700.0
+975049957371,tpap-dwh,Sunil Agrawal, OCL ,2025-07-01,35400.0
+419830208690,AaaS-prod,Sunil Agrawal, OCL ,2025-07-01,25877.5907208
+628412515026,Datalake AWS,Sunil Agrawal, OCL ,2025-07-01,439900.0
+471112571211,ppsl-dwh-prod,Sunil Agrawal,PPSL,2025-07-01,282600.0
+863780864233,CreditMate Payer,Sunil Agrawal,Creditmate,2025-07-01,0.0
+442231926211,lending-vkyc,Sunil Agrawal,OCL,2025-07-01,0.0
+097001033170,paytm_smart_retail_ocl,Sunil Bansal, Ticketnew ,2025-07-01,3500.0
+003079193758,IOT Prod,Sunil Bansal, OCL ,2025-07-01,62000.0
+028914776520,edc_prod_ocl,Sunil Bansal, OCL ,2025-07-01,17000.0
+848332057417,mloyal_prod,Sunil Bansal, OCL ,2025-07-01,4500.0
+066548792077,IOT Core,Sunil Bansal, OCL ,2025-07-01,1600.0
+821240137883,edc_non prod_ocl,Sunil Bansal, OCL ,2025-07-01,1900.0
+494799526181,AWS_Paytm'Mloyal,Sunil Bansal,OCL,2025-07-01,1500.0
+906954799739,Nearbuy,Sunny Sharma,Nearbuy,2025-07-01,15161.27239017
+975049937880,mgc-sclp,Sunny Sharma, OCL ,2025-07-01,0.0
+851725259472,ppsl-app-sec,Surinder Kumar,PPSL,2025-07-01,23000.0
+860971823470,Video KYC,Suspended account,OCL,2025-07-01,0.0
+797142548187,ppblpgpa-prod,Suspended account,OCL,2025-07-01,0.0
+272968093320,legalapps,Urvashi Sahai, OCL ,2025-07-01,1300.0
+789596305652,regular_mf,Varun Shridhar, PSPL ,2025-07-01,10200.0
+656952484900,Paytm Money,Vinay Singhal, PML ,2025-07-01,0.0
+470060591194,edutech,Vinay Singhal, PML ,2025-07-01,0.0
+322263815270,PM-EduTech-Prod,Vinay Singhal, PML ,2025-07-01,0.0
+185774682289,pml-chat-dev,Vinay Singhal, PML ,2025-07-01,0.0
+762730909359,PM-Equities,Vinay Singhal,PML,2025-07-01,0.0
+011420223908,PM-DataLake,Vinay Singhal,PML,2025-07-01,0.0
+211125336551,pml-infosec,Vinay Singhal,PML,2025-07-01,0.0
+992382687474,pml-cst,Vinay Singhal,PML,2025-07-01,0.0
+381492193378,pml-datalake,Vinay Singhal,PML,2025-07-01,0.0
+339712912282,pml-core-poc,Vinay Singhal,PML,2025-07-01,0.0
+736121233725,Paytmmoney Ltd. Data Platform,Vinay Singhal,PML,2025-07-01,0.0
+851725496687,pml-oauth-dr,Vinay Singhal,PML,2025-07-01,9000.0
+370214104985,AMC Platform,Vinay Singhal,PML,2025-07-01,0.0
+582604545400,pm-chat,Vinay Singhal,PML,2025-07-01,0.0
+009124235587,Payer1,Vinay Singhal,PML,2025-07-01,0.0
+423387369363,PML IT,Vinay Singhal,PML,2025-07-01,0.0
+058264391305,pml-storefront,Vinay Singhal,PML,2025-07-01,0.0
+654654145181,pml-oauth-nonprod,Vinay Singhal,PML,2025-07-01,3000.0
+590183908249,pml-wiki-jira,Vinay Singhal,PML,2025-07-01,0.0
+807119641913,pm-bigdata,Vinay Singhal,PML,2025-07-01,0.0
+159245624542,leadsquared,Vinay Singhal,PML,2025-07-01,0.0
+907058949943,ppbloe-prod,Vishal Jangda,Nearbuy,2025-07-01,0.0
+905418158003,FInmate,Saurabh Gupta, OCIL ,2025-07-01,400.0
+767397877262,it-infra,Saurabh Gupta, PIBPL ,2025-07-01,400.0
+654654138046,it-infra,Saurabh Gupta, PAI ,2025-07-01,300.0
+318633126153,AWS SMS,Saurabh Gupta,OCL,2025-07-01,4200.0
+474140895141,Enterprise SMS,Saurabh Gupta,OCL,2025-07-01,7500.0
+367464822874,One97 IT,Saurabh Gupta,OCL,2025-07-01,200.0
+661338130494,telco-testing,Saurabh Gupta,OCL,2025-07-01,100.0
+072401294672,DMS AWS,Abhinav Gupta, OCL ,2025-08-01,11338.09416796
+901553615594,merchantdashboards,Abhinav Gupta, OCL ,2025-08-01,58685.46276645
+480732456233,dms-prod_ocl,Abhinav Gupta, OCL ,2025-08-01,7849.05726664
+182401677120,onboardingengine,Abhinav Gupta, OCL ,2025-08-01,31292.86551031
+389881277731,merchant-business,Abhinav Gupta, OCL ,2025-08-01,942.89218387
+745098155683,merchant_automation,Abhinav Gupta, OCL ,2025-08-01,701.31617204
+997924011427,ckyc,Abhinav Gupta, OCL ,2025-08-01,4918.21225135
+630307967658,dms-nonprod_ocl,Abhinav Gupta, OCL ,2025-08-01,1231.92532159
+495419344110,incentive,Abhinav Gupta, OCL ,2025-08-01,11014.7977263
+761904723706,KYB/FSM/Chatbot,Abhinav Gupta, OCL ,2025-08-01,38869.91970834
+654654497161,ppsl-ump-prod,Abhinav Gupta,PPSL,2025-08-01,13914.46277647
+767397730150,ppsl-mo-prod,Abhinav Gupta,PPSL,2025-08-01,3655.78816742
+548411824430,pocketurmoney/oneview,Abhinav Gupta, OCL ,2025-08-01,357.77486227
+272415727726,Paytm Ads,Ajit Kumar, OCL ,2025-08-01,133112.52921745
+381491835802,uth-prod,Ajit Kumar, OCL ,2025-08-01,113591.23118364
+339712810712,tpap-nonprod,Ajit Kumar, OCL ,2025-08-01,5171.09405326
+211125458732,tpap-prod,Ajit Kumar, OCL ,2025-08-01,126677.00813876
+381492106076,YBL-TSP-AWS-UAT V1,Ajit Kumar, OCIL ,2025-08-01,3068.52721121
+992382754296,OCIL-AWS-UAT,Ajit Kumar, OCIL ,2025-08-01,1892.62042349
+891377131146,YBL-TSP-AWS-UAT V2,Ajit Kumar, OCIL ,2025-08-01,17131.31748905
+767398050080,YBL-TSP-AWS-prod,Ajit Kumar, OCIL ,2025-08-01,267813.94715664
+736384229724,cloudsecurity-logs,Amit Malhotra, OCL ,2025-08-01,3533.7080529
+252197745876,AWS InfoSec,Amit Malhotra, OCL ,2025-08-01,15229.30493766
+161115069565,infosec-soc,Amit Malhotra, OCL ,2025-08-01,18569.41976044
+264522784930,AWS DNS,Amit Malhotra, OCL ,2025-08-01,0.0
+647564693872,aml-prod,Akeshwar Jha, OCL ,2025-08-01,0.0
+359716425895,Travel Aws,Anil Kundu, OCL ,2025-08-01,76000.0
+135329050410,CityBus,anil Kundu, OCL ,2025-08-01,1600.0
+769263341944,hotels,Anil Kundu, OCL ,2025-08-01,0.0
+968032760053,Fraud AWS,Bhaskar Gopalan, Labs ,2025-08-01,158800.0
+546818093346,verifierAWS,Bhaskar Gopalan, OCL ,2025-08-01,0.0
+211125515568,risk-ocl-tpap,Bhaskar Gopalan, OCL ,2025-08-01,26400.0
+608146213544,ppblmaquettepa-prod,Bhaskar Gopalan, OCL ,2025-08-01,0.0
+439726107081,risk-verifier-nonprod,Bhaskar Gopalan, OCL ,2025-08-01,0.0
+885068115609,pai-sre,Bhaskar Gopalan, Labs ,2025-08-01,6500.0
+021891570382,Risk-Lending(new),Bhaskar Gopalan,OCL,2025-08-01,27800.0
+767397937234,PPSL- risk,Bhaskar Gopalan,PPSL,2025-08-01,70341.0
+017820698743,risk-devops-tools,Bhaskar Gopalan,OCL,2025-08-01,1500.0
+339712759199,feature-store-ocl,Bruno Meira,OCL,2025-08-01,0.0
+746682193773,cds-clm,Bhaskar Gopalan,OCL,2025-08-01,0.0
+130653941854,insurance-ds,Bhaskar Gopalan, PIBPL ,2025-08-01,0.0
+465354398947,aml-nonprod,Akeshwar Jha, OCL ,2025-08-01,0.0
+532041146482,aml-ppsl-nonprod,Deepanshu Jain, PPSL ,2025-08-01,0.0
+914516902729,finance_support_ocl,Dheerendra Mishra, OCL ,2025-08-01,5000.0
+625612021127,aoa-nonprod,Gagan Verma,OCL,2025-08-01,1600.0
+340677782776,aoa-prod,Gagan Verma,OCL,2025-08-01,10700.0
+541095382258,Card Tokenization,Gagan Verma,OCL,2025-08-01,2000.0
+611670160261,emi-nonprod,Gagan Verma,OCL,2025-08-01,2300.0
+068930846606,emi-prod_ocl,Gagan Verma,OCL,2025-08-01,4700.0
+424503791295,merchant-payments-api_prod_ocl,Gagan Verma,OCL,2025-08-01,170800.0
+929265682896,payment-non-prod,Gagan Verma,OCL,2025-08-01,29100.0
+233815244996,payment-platform_nonprod_ocl,Gagan Verma,OCL,2025-08-01,21600.0
+304016915943,payments-data-rtdd_prod_ocl,Gagan Verma,OCL,2025-08-01,191200.0
+352506242819,payments-platform_prod_ocl,Gagan Verma,OCL,2025-08-01,801400.0
+239103975135,QR,Gagan Verma,OCL,2025-08-01,10800.0
+128131020113,pa-nonprod,Gagan Verma,PPSL,2025-08-01,5500.0
+189893850600,pa-prod,Gagan Verma,PPSL,2025-08-01,96400.0
+471112548387,ppsl-affordability-prod,Gagan Verma,PPSL,2025-08-01,11000.0
+730335596554,ppsl-aml-prod,Gagan Verma,PPSL,2025-08-01,3800.0
+239937555916,ppsl-cardservice,Gagan Verma,PPSL,2025-08-01,1300.0
+905418390117,ppsl-pg2-nonprod,Gagan Verma,PPSL,2025-08-01,10900.0
+590183666588,ppsl-pg2-prod,Gagan Verma,PPSL,2025-08-01,353300.0
+590183673148,ppsl-rtdd-prod,Gagan Verma,PPSL,2025-08-01,58700.0
+913203018054,ppblpgpa-nonprod,Gagan Verma,OCL,2025-08-01,0.0
+658447621694,hrtech_ocl,Gaurav Chopra, OCL ,2025-08-01,0.0
+700271710604,labs-llm,Harinder Takhar,OCL,2025-08-01,0.0
+505767364771,Risk Anomaly,Bhaskar Gopalan,OCL,2025-08-01,0.0
+737499001343,call-centre-ivr,Lalit Mohan Pandey, OCL ,2025-08-01,0.0
+567423616371,parent account_ocl,Mukesh Meena, OCL ,2025-08-01,250000.0
+423969094700,push_notifications_ocl,Mukesh Meena, OCL ,2025-08-01,39000.0
+562921704166,paytm-ups,Mukesh Meena, OCL ,2025-08-01,4300.0
+698979518480,bitbucket_ocl,Mukesh Meena, OCL ,2025-08-01,8500.0
+654654315008,ondc-analytics,Mukesh Meena, PAI ,2025-08-01,0.0
+090436275138,Digital Channels,Mukesh Meena, OCL ,2025-08-01,6342.96991802
+131752971524,loyalitypoints/tocom,Mukesh Meena, OCL ,2025-08-01,12000.0
+023903256547,central tools,Mukesh Meena, OCL ,2025-08-01,0.0
+337158390682,commoninfra_ocl,Mukesh Meena, OCL ,2025-08-01,6500.0
+064619502227,CentralToolsPlatform,Mukesh Meena, OCL ,2025-08-01,4180.34126858
+054736913503,scp-mgv,Mukesh Meena, OCL ,2025-08-01,1608.20302816
+841860372390,fastag issuer_prod_ocl,Mukesh Meena, OCL ,2025-08-01,100.0
+127247839315,Sysops AWS,Mukesh Meena, OCL ,2025-08-01,3200.0
+492902601864,ncmc_acquirer_ocl,Mukesh Meena, OCL ,2025-08-01,800.0
+576911611801,infra_experiment_non_prod_ocl,Mukesh Meena, OCL ,2025-08-01,1000.0
+320811487590,dev-projects,Mukesh Meena, OCL ,2025-08-01,300.0
+116631508635,fastag_non prod_ocl,Mukesh Meena, OCL ,2025-08-01,100.0
+DROCL,DR - overall (to align with new contract),Mukesh Meena, PML ,2025-08-01,0.0
+New 3,Confluent Kafka,Mukesh Meena,OCL,2025-08-01,0.0
+678670235450,authoriser,Mukesh Meena,OCL,2025-08-01,0.0
+576218818919,tools-pa,Mukesh Meena,OCL,2025-08-01,0.0
+290310562512,Wallet-Nonprod,Mukesh Meena, OCL ,2025-08-01,0.0
+984308723723,digital_saas_ocl,Mukesh Meena, OCL ,2025-08-01,9500.0
+758230397644,Mall Bangalore,Mukesh Meena, PEPL ,2025-08-01,14500.0
+992382517474,ppsl-central-tools,Mukesh Meena,PPSL,2025-08-01,1100.0
+542832536672,Nearbuy Payer,Mukesh Meena,Nearbuy,2025-08-01,0.0
+798411736697,ncmc-acq-rupay-switch,Mukesh Meena, OCL ,2025-08-01,0.0
+445736908015,recharge bill payments_ocl,Nipun Arora, OCL ,2025-08-01,115000.0
+442447453008,Digital Gold,Nipun Arora, PML ,2025-08-01,8700.0
+176839215860,aws-omnicard-Prod,Nipun Arora,OCL,2025-08-01,0.0
+664526282133,Paytm Labs,Otto Mok, Labs ,2025-08-01,2600.0
+453914767997,risk-monitoring,Pankaj Kedia, OCL ,2025-08-01,0.0
+Premium Support,Premium Support,Parakh Agarwal, OCL ,2025-08-01,0.0
+469795226344,billing account_ocl,Parakh Agarwal, OCL ,2025-08-01,0.0
+015680176265,PPSL Payer,Parakh Agarwal, PPSL ,2025-08-01,0.0
+065278587813,rooter-io,Piyush Kumar (External),Rooter,2025-08-01,4815.69942856
+302399626617,ROOTER-DEV,Piyush Kumar (External),Rooter,2025-08-01,37.39067841
+919275210163,ROOTER-CLOUD-MANAGEMENT,Piyush Kumar (External),Rooter,2025-08-01,337.06715775
+477815026673,Rooter Payer,Piyush Kumar (External),Rooter,2025-08-01,130.34498978
+695745283037,ROOTER-CLOUD-LOGS,Piyush Kumar (External),Rooter,2025-08-01,4.30139542
+576349278157,ROOTER-CLOUD-SECURITY,Piyush Kumar (External),Rooter,2025-08-01,48.11533356
+271855570343,ROOTER-PROD-CDN,Piyush Kumar (External),Rooter,2025-08-01,761.24944305
+580053151223,ROOTER-PROD-TRANSCODING,Piyush Kumar (External),Rooter,2025-08-01,4179.10263824
+973103936838,ROOTER-STAGE,Piyush Kumar (External),Rooter,2025-08-01,559.5965004
+537598503159,ROOTER-PROD-ANALYTICS,Piyush Kumar (External),Rooter,2025-08-01,7264.92766953
+123964038738,ROOTER-PROD-APPS,Piyush Kumar (External),Rooter,2025-08-01,14833.1655426
+753168370952,hawkeye_ocl,Prashant Tiwari, OCL ,2025-08-01,26175.72622894
+522974168642,chat_ocl,Prashant Tiwari, OCL ,2025-08-01,18566.25101775
+722152247093,central_app_tech_ocl,Prashant Tiwari, OCL ,2025-08-01,2550.29
+066636274316,central_app_tech_web_ocl,Prashant Tiwari, OCL ,2025-08-01,3746.5759158
+824873459626,central_app_tech_mini_apps_ocl,Prashant Tiwari, OCL ,2025-08-01,1476.72
+475919677060,paytm_digital_content_ocl,Prashant Tiwari, OCL ,2025-08-01,0.0
+239666495852,health_ocl,Prashant Tiwari, OCL ,2025-08-01,591.89
+605458724602,content_ml_ocl,Prashant Tiwari, OCL ,2025-08-01,0.0
+663804405009,movies_ocl,Prashant Tiwari,Insider,2025-08-01,0.0
+155772818492,Insider (Events),Prashant Tiwari,Insider,2025-08-01,0.0
+368920154232,central app tech_ocl,Prashant Tiwari, OCL ,2025-08-01,1760.89
+985226307906,Insider Payer,Prashant Tiwari,Insider,2025-08-01,0.0
+538615689396,Pandora AWS,Sam Fang, Labs ,2025-08-01,0.0
+269350686318,AWS Pan 2,Sam Fang, Labs ,2025-08-01,0.0
+477161539263,ticketnewprod (Ram),Sasiraman Venkatesan (External),na,2025-08-01,0.0
+475804058290,Payer9,Sathyaseelan Murugesan,na,2025-08-01,0.0
+407648374860,IT_BACKUP,Saurabh Gupta, OCL ,2025-08-01,7600.0
+251917288737,IT Production,Saurabh Gupta, OCL ,2025-08-01,13500.0
+755560366148,SAP-HANA,Saurabh Gupta, OCL ,2025-08-01,64000.0
+002637409966,user-management-prod,Shrey Agarwal, OCL ,2025-08-01,195000.0
+210577074618,recon_prod_ocl,Shrey Agarwal, OCL ,2025-08-01,40000.0
+058264205572,cst-prod  ,Shrey Agarwal, OCL ,2025-08-01,2000.0
+752518464574,User Preferences System,Shrey Agarwal, OCL ,2025-08-01,22000.0
+518207312579,cst-ai,Shrey Agarwal, OCL ,2025-08-01,0.0
+615069360012,merchant-ra-automation,Shrey Agarwal, OCL ,2025-08-01,5000.0
+685585466397,recon_nonprod_ocl,Shrey Agarwal, OCL ,2025-08-01,5000.0
+952840895893,User Management,Shrey Agarwal, OCL ,2025-08-01,7000.0
+471112938013,tpap-oauth-dr,Shrey Agarwal, OCL ,2025-08-01,0.0
+337891198417,digital_cst,Shrey Agarwal, OCL ,2025-08-01,250000.0
+654654208887,ppsl-recon-prod,Shrey Agarwal,PPSL,2025-08-01,5000.0
+851725259328,ppsl-recon-nonprod,Shrey Agarwal,PPSL,2025-08-01,2500.0
+975050351452,ppsl-binary-prod,Shrey Agarwal,PPSL,2025-08-01,3000.0
+767397827620,ppsl-oauth-prod,Shrey Agarwal,PPSL,2025-08-01,2000.0
+654654394550,oauth-nonprod,Shrey Agarwal,OCL,2025-08-01,1000.0
+637423614657,pml-oauth,Shrey Agarwal,PML,2025-08-01,22000.0
+898496923608,games_pfg,Sudhanshu Gupta, PFG ,2025-08-01,109402.9575
+659606126372,URJA MONEY PVT LTD,Sunil Agrawal, Urjamoney ,2025-08-01,49800.0
+899249751508,PayTm DaaS ML,Sunil Agrawal, OCL ,2025-08-01,146700.0
+705108899578,daas-managed-services,Sunil Agrawal, OCL ,2025-08-01,52700.0
+479671683529,cdp risk_ocl,Sunil Agrawal, OCL ,2025-08-01,46100.0
+564188254156,Lending DataScience,Sunil Agrawal, OCL ,2025-08-01,91300.0
+340077773684,Paytm Financial Services,Sunil Agrawal, OCL ,2025-08-01,249900.0
+075790327284,cdp_growth marketing_ocl,Sunil Agrawal, OCL ,2025-08-01,126700.0
+576293063887,digital_insurance,Sunil Agrawal, PIBPL ,2025-08-01,17600.0
+718893572916,AaaS-nonprod,Sunil Agrawal, OCL ,2025-08-01,3793.83307569
+510772292268,cdo-dre,Sunil Agrawal, OCL ,2025-08-01,1700.0
+471112958605,lending-dwh,Sunil Agrawal, OCL ,2025-08-01,2500.0
+153518195166,cdo-non-prod,Sunil Agrawal, OCL ,2025-08-01,1600.0
+481935107677,DaaS-Apps,Sunil Agrawal, OCL ,2025-08-01,2300.0
+218943325897,devopscommon,Sunil Agrawal, OCL ,2025-08-01,700.0
+161282784430,cdp-ppbl-pa,Sunil Agrawal, OCL ,2025-08-01,0.0
+811134095225,AWS DaaS,Sunil Agrawal, OCL ,2025-08-01,60900.0
+975049957371,tpap-dwh,Sunil Agrawal, OCL ,2025-08-01,36100.0
+419830208690,AaaS-prod,Sunil Agrawal, OCL ,2025-08-01,26395.14253522
+628412515026,Datalake AWS,Sunil Agrawal, OCL ,2025-08-01,448700.0
+471112571211,ppsl-dwh-prod,Sunil Agrawal,PPSL,2025-08-01,285400.0
+863780864233,CreditMate Payer,Sunil Agrawal,Creditmate,2025-08-01,0.0
+442231926211,lending-vkyc,Sunil Agrawal,OCL,2025-08-01,0.0
+097001033170,paytm_smart_retail_ocl,Sunil Bansal, Ticketnew ,2025-08-01,3500.0
+003079193758,IOT Prod,Sunil Bansal, OCL ,2025-08-01,64000.0
+028914776520,edc_prod_ocl,Sunil Bansal, OCL ,2025-08-01,17000.0
+848332057417,mloyal_prod,Sunil Bansal, OCL ,2025-08-01,4500.0
+066548792077,IOT Core,Sunil Bansal, OCL ,2025-08-01,1700.0
+821240137883,edc_non prod_ocl,Sunil Bansal, OCL ,2025-08-01,2000.0
+494799526181,AWS_Paytm'Mloyal,Sunil Bansal,OCL,2025-08-01,1500.0
+906954799739,Nearbuy,Sunny Sharma,Nearbuy,2025-08-01,15464.49783797
+975049937880,mgc-sclp,Sunny Sharma, OCL ,2025-08-01,0.0
+851725259472,ppsl-app-sec,Surinder Kumar,PPSL,2025-08-01,23500.0
+860971823470,Video KYC,Suspended account,OCL,2025-08-01,0.0
+797142548187,ppblpgpa-prod,Suspended account,OCL,2025-08-01,0.0
+272968093320,legalapps,Urvashi Sahai, OCL ,2025-08-01,1300.0
+789596305652,regular_mf,Varun Shridhar, PSPL ,2025-08-01,11600.0
+656952484900,Paytm Money,Vinay Singhal, PML ,2025-08-01,0.0
+470060591194,edutech,Vinay Singhal, PML ,2025-08-01,0.0
+322263815270,PM-EduTech-Prod,Vinay Singhal, PML ,2025-08-01,0.0
+185774682289,pml-chat-dev,Vinay Singhal, PML ,2025-08-01,0.0
+762730909359,PM-Equities,Vinay Singhal,PML,2025-08-01,0.0
+011420223908,PM-DataLake,Vinay Singhal,PML,2025-08-01,0.0
+211125336551,pml-infosec,Vinay Singhal,PML,2025-08-01,0.0
+992382687474,pml-cst,Vinay Singhal,PML,2025-08-01,0.0
+381492193378,pml-datalake,Vinay Singhal,PML,2025-08-01,0.0
+339712912282,pml-core-poc,Vinay Singhal,PML,2025-08-01,0.0
+736121233725,Paytmmoney Ltd. Data Platform,Vinay Singhal,PML,2025-08-01,0.0
+851725496687,pml-oauth-dr,Vinay Singhal,PML,2025-08-01,9000.0
+370214104985,AMC Platform,Vinay Singhal,PML,2025-08-01,0.0
+582604545400,pm-chat,Vinay Singhal,PML,2025-08-01,0.0
+009124235587,Payer1,Vinay Singhal,PML,2025-08-01,0.0
+423387369363,PML IT,Vinay Singhal,PML,2025-08-01,0.0
+058264391305,pml-storefront,Vinay Singhal,PML,2025-08-01,0.0
+654654145181,pml-oauth-nonprod,Vinay Singhal,PML,2025-08-01,3000.0
+590183908249,pml-wiki-jira,Vinay Singhal,PML,2025-08-01,0.0
+807119641913,pm-bigdata,Vinay Singhal,PML,2025-08-01,0.0
+159245624542,leadsquared,Vinay Singhal,PML,2025-08-01,0.0
+907058949943,ppbloe-prod,Vishal Jangda,Nearbuy,2025-08-01,0.0
+905418158003,FInmate,Saurabh Gupta, OCIL ,2025-08-01,400.0
+767397877262,it-infra,Saurabh Gupta, PIBPL ,2025-08-01,400.0
+654654138046,it-infra,Saurabh Gupta, PAI ,2025-08-01,300.0
+318633126153,AWS SMS,Saurabh Gupta,OCL,2025-08-01,4200.0
+474140895141,Enterprise SMS,Saurabh Gupta,OCL,2025-08-01,7200.0
+367464822874,One97 IT,Saurabh Gupta,OCL,2025-08-01,200.0
+661338130494,telco-testing,Saurabh Gupta,OCL,2025-08-01,100.0
+072401294672,DMS AWS,Abhinav Gupta, OCL ,2025-09-01,11564.85605132
+901553615594,merchantdashboards,Abhinav Gupta, OCL ,2025-09-01,59859.17202178
+480732456233,dms-prod_ocl,Abhinav Gupta, OCL ,2025-09-01,8006.03841198
+182401677120,onboardingengine,Abhinav Gupta, OCL ,2025-09-01,31918.72282052
+389881277731,merchant-business,Abhinav Gupta, OCL ,2025-09-01,961.75002754
+745098155683,merchant_automation,Abhinav Gupta, OCL ,2025-09-01,715.34249549
+997924011427,ckyc,Abhinav Gupta, OCL ,2025-09-01,5016.57649638
+630307967658,dms-nonprod_ocl,Abhinav Gupta, OCL ,2025-09-01,1256.56382802
+495419344110,incentive,Abhinav Gupta, OCL ,2025-09-01,11235.09368082
+761904723706,KYB/FSM/Chatbot,Abhinav Gupta, OCL ,2025-09-01,39647.31810251
+654654497161,ppsl-ump-prod,Abhinav Gupta,PPSL,2025-09-01,14192.752032
+767397730150,ppsl-mo-prod,Abhinav Gupta,PPSL,2025-09-01,3728.90393076
+548411824430,pocketurmoney/oneview,Abhinav Gupta, OCL ,2025-09-01,364.93035951
+272415727726,Paytm Ads,Ajit Kumar, OCL ,2025-09-01,137105.90509397
+381491835802,uth-prod,Ajit Kumar, OCL ,2025-09-01,118134.88043098
+339712810712,tpap-nonprod,Ajit Kumar, OCL ,2025-09-01,5429.64875592
+211125458732,tpap-prod,Ajit Kumar, OCL ,2025-09-01,130477.31838292
+381492106076,YBL-TSP-AWS-UAT V1,Ajit Kumar, OCIL ,2025-09-01,3221.95357177
+992382754296,OCIL-AWS-UAT,Ajit Kumar, OCIL ,2025-09-01,1987.25144467
+891377131146,YBL-TSP-AWS-UAT V2,Ajit Kumar, OCIL ,2025-09-01,17987.8833635
+767398050080,YBL-TSP-AWS-prod,Ajit Kumar, OCIL ,2025-09-01,271831.15636399
+736384229724,cloudsecurity-logs,Amit Malhotra, OCL ,2025-09-01,3569.04513342
+252197745876,AWS InfoSec,Amit Malhotra, OCL ,2025-09-01,15381.59798704
+161115069565,infosec-soc,Amit Malhotra, OCL ,2025-09-01,18755.11395805
+264522784930,AWS DNS,Amit Malhotra, OCL ,2025-09-01,0.0
+647564693872,aml-prod,Akeshwar Jha, OCL ,2025-09-01,0.0
+359716425895,Travel Aws,Anil Kundu, OCL ,2025-09-01,78000.0
+135329050410,CityBus,anil Kundu, OCL ,2025-09-01,1600.0
+769263341944,hotels,Anil Kundu, OCL ,2025-09-01,0.0
+968032760053,Fraud AWS,Bhaskar Gopalan, Labs ,2025-09-01,161500.0
+546818093346,verifierAWS,Bhaskar Gopalan, OCL ,2025-09-01,0.0
+211125515568,risk-ocl-tpap,Bhaskar Gopalan, OCL ,2025-09-01,26800.0
+608146213544,ppblmaquettepa-prod,Bhaskar Gopalan, OCL ,2025-09-01,0.0
+439726107081,risk-verifier-nonprod,Bhaskar Gopalan, OCL ,2025-09-01,0.0
+885068115609,pai-sre,Bhaskar Gopalan, Labs ,2025-09-01,6500.0
+021891570382,Risk-Lending(new),Bhaskar Gopalan,OCL,2025-09-01,28600.0
+767397937234,PPSL- risk,Bhaskar Gopalan,PPSL,2025-09-01,71588.0
+017820698743,risk-devops-tools,Bhaskar Gopalan,OCL,2025-09-01,1500.0
+339712759199,feature-store-ocl,Bruno Meira,OCL,2025-09-01,0.0
+746682193773,cds-clm,Bhaskar Gopalan,OCL,2025-09-01,0.0
+130653941854,insurance-ds,Bhaskar Gopalan, PIBPL ,2025-09-01,0.0
+465354398947,aml-nonprod,Akeshwar Jha, OCL ,2025-09-01,0.0
+532041146482,aml-ppsl-nonprod,Deepanshu Jain, PPSL ,2025-09-01,0.0
+914516902729,finance_support_ocl,Dheerendra Mishra, OCL ,2025-09-01,6000.0
+625612021127,aoa-nonprod,Gagan Verma,OCL,2025-09-01,1700.0
+340677782776,aoa-prod,Gagan Verma,OCL,2025-09-01,10800.0
+541095382258,Card Tokenization,Gagan Verma,OCL,2025-09-01,2000.0
+611670160261,emi-nonprod,Gagan Verma,OCL,2025-09-01,2300.0
+068930846606,emi-prod_ocl,Gagan Verma,OCL,2025-09-01,4800.0
+424503791295,merchant-payments-api_prod_ocl,Gagan Verma,OCL,2025-09-01,174300.0
+929265682896,payment-non-prod,Gagan Verma,OCL,2025-09-01,29500.0
+233815244996,payment-platform_nonprod_ocl,Gagan Verma,OCL,2025-09-01,21800.0
+304016915943,payments-data-rtdd_prod_ocl,Gagan Verma,OCL,2025-09-01,194000.0
+352506242819,payments-platform_prod_ocl,Gagan Verma,OCL,2025-09-01,813400.0
+239103975135,QR,Gagan Verma,OCL,2025-09-01,10900.0
+128131020113,pa-nonprod,Gagan Verma,PPSL,2025-09-01,5500.0
+189893850600,pa-prod,Gagan Verma,PPSL,2025-09-01,98300.0
+471112548387,ppsl-affordability-prod,Gagan Verma,PPSL,2025-09-01,11100.0
+730335596554,ppsl-aml-prod,Gagan Verma,PPSL,2025-09-01,3800.0
+239937555916,ppsl-cardservice,Gagan Verma,PPSL,2025-09-01,1300.0
+905418390117,ppsl-pg2-nonprod,Gagan Verma,PPSL,2025-09-01,11100.0
+590183666588,ppsl-pg2-prod,Gagan Verma,PPSL,2025-09-01,358200.0
+590183673148,ppsl-rtdd-prod,Gagan Verma,PPSL,2025-09-01,59800.0
+913203018054,ppblpgpa-nonprod,Gagan Verma,OCL,2025-09-01,0.0
+658447621694,hrtech_ocl,Gaurav Chopra, OCL ,2025-09-01,0.0
+700271710604,labs-llm,Harinder Takhar,OCL,2025-09-01,0.0
+505767364771,Risk Anomaly,Bhaskar Gopalan,OCL,2025-09-01,0.0
+737499001343,call-centre-ivr,Lalit Mohan Pandey, OCL ,2025-09-01,0.0
+567423616371,parent account_ocl,Mukesh Meena, OCL ,2025-09-01,250000.0
+423969094700,push_notifications_ocl,Mukesh Meena, OCL ,2025-09-01,39000.0
+562921704166,paytm-ups,Mukesh Meena, OCL ,2025-09-01,4300.0
+698979518480,bitbucket_ocl,Mukesh Meena, OCL ,2025-09-01,8500.0
+654654315008,ondc-analytics,Mukesh Meena, PAI ,2025-09-01,0.0
+090436275138,Digital Channels,Mukesh Meena, OCL ,2025-09-01,6406.3996172
+131752971524,loyalitypoints/tocom,Mukesh Meena, OCL ,2025-09-01,12000.0
+023903256547,central tools,Mukesh Meena, OCL ,2025-09-01,0.0
+337158390682,commoninfra_ocl,Mukesh Meena, OCL ,2025-09-01,6500.0
+064619502227,CentralToolsPlatform,Mukesh Meena, OCL ,2025-09-01,4305.75150664
+054736913503,scp-mgv,Mukesh Meena, OCL ,2025-09-01,1624.28505844
+841860372390,fastag issuer_prod_ocl,Mukesh Meena, OCL ,2025-09-01,100.0
+127247839315,Sysops AWS,Mukesh Meena, OCL ,2025-09-01,3200.0
+492902601864,ncmc_acquirer_ocl,Mukesh Meena, OCL ,2025-09-01,800.0
+576911611801,infra_experiment_non_prod_ocl,Mukesh Meena, OCL ,2025-09-01,1000.0
+320811487590,dev-projects,Mukesh Meena, OCL ,2025-09-01,300.0
+116631508635,fastag_non prod_ocl,Mukesh Meena, OCL ,2025-09-01,100.0
+DROCL,DR - overall (to align with new contract),Mukesh Meena, PML ,2025-09-01,0.0
+New 3,Confluent Kafka,Mukesh Meena,OCL,2025-09-01,0.0
+678670235450,authoriser,Mukesh Meena,OCL,2025-09-01,0.0
+576218818919,tools-pa,Mukesh Meena,OCL,2025-09-01,0.0
+290310562512,Wallet-Nonprod,Mukesh Meena, OCL ,2025-09-01,0.0
+984308723723,digital_saas_ocl,Mukesh Meena, OCL ,2025-09-01,9500.0
+758230397644,Mall Bangalore,Mukesh Meena, PEPL ,2025-09-01,15000.0
+992382517474,ppsl-central-tools,Mukesh Meena,PPSL,2025-09-01,1100.0
+542832536672,Nearbuy Payer,Mukesh Meena,Nearbuy,2025-09-01,0.0
+798411736697,ncmc-acq-rupay-switch,Mukesh Meena, OCL ,2025-09-01,0.0
+445736908015,recharge bill payments_ocl,Nipun Arora, OCL ,2025-09-01,120000.0
+442447453008,Digital Gold,Nipun Arora, PML ,2025-09-01,8700.0
+176839215860,aws-omnicard-Prod,Nipun Arora,OCL,2025-09-01,0.0
+664526282133,Paytm Labs,Otto Mok, Labs ,2025-09-01,2600.0
+453914767997,risk-monitoring,Pankaj Kedia, OCL ,2025-09-01,0.0
+Premium Support,Premium Support,Parakh Agarwal, OCL ,2025-09-01,0.0
+469795226344,billing account_ocl,Parakh Agarwal, OCL ,2025-09-01,0.0
+015680176265,PPSL Payer,Parakh Agarwal, PPSL ,2025-09-01,0.0
+065278587813,rooter-io,Piyush Kumar (External),Rooter,2025-09-01,4815.55226421
+302399626617,ROOTER-DEV,Piyush Kumar (External),Rooter,2025-09-01,37.49274254
+919275210163,ROOTER-CLOUD-MANAGEMENT,Piyush Kumar (External),Rooter,2025-09-01,336.98507023
+477815026673,Rooter Payer,Piyush Kumar (External),Rooter,2025-09-01,130.30111027
+695745283037,ROOTER-CLOUD-LOGS,Piyush Kumar (External),Rooter,2025-09-01,4.30228138
+576349278157,ROOTER-CLOUD-SECURITY,Piyush Kumar (External),Rooter,2025-09-01,48.09875679
+271855570343,ROOTER-PROD-CDN,Piyush Kumar (External),Rooter,2025-09-01,760.98026085
+580053151223,ROOTER-PROD-TRANSCODING,Piyush Kumar (External),Rooter,2025-09-01,4181.14538765
+973103936838,ROOTER-STAGE,Piyush Kumar (External),Rooter,2025-09-01,559.84694386
+537598503159,ROOTER-PROD-ANALYTICS,Piyush Kumar (External),Rooter,2025-09-01,7272.76139355
+123964038738,ROOTER-PROD-APPS,Piyush Kumar (External),Rooter,2025-09-01,14830.22157669
+753168370952,hawkeye_ocl,Prashant Tiwari, OCL ,2025-09-01,26960.99801581
+522974168642,chat_ocl,Prashant Tiwari, OCL ,2025-09-01,19123.23854828
+722152247093,central_app_tech_ocl,Prashant Tiwari, OCL ,2025-09-01,2550.29
+066636274316,central_app_tech_web_ocl,Prashant Tiwari, OCL ,2025-09-01,3784.04167496
+824873459626,central_app_tech_mini_apps_ocl,Prashant Tiwari, OCL ,2025-09-01,1476.72
+475919677060,paytm_digital_content_ocl,Prashant Tiwari, OCL ,2025-09-01,0.0
+239666495852,health_ocl,Prashant Tiwari, OCL ,2025-09-01,591.89
+605458724602,content_ml_ocl,Prashant Tiwari, OCL ,2025-09-01,0.0
+663804405009,movies_ocl,Prashant Tiwari,Insider,2025-09-01,0.0
+155772818492,Insider (Events),Prashant Tiwari,Insider,2025-09-01,0.0
+368920154232,central app tech_ocl,Prashant Tiwari, OCL ,2025-09-01,1760.89
+985226307906,Insider Payer,Prashant Tiwari,Insider,2025-09-01,0.0
+538615689396,Pandora AWS,Sam Fang, Labs ,2025-09-01,0.0
+269350686318,AWS Pan 2,Sam Fang, Labs ,2025-09-01,0.0
+477161539263,ticketnewprod (Ram),Sasiraman Venkatesan (External),na,2025-09-01,0.0
+475804058290,Payer9,Sathyaseelan Murugesan,na,2025-09-01,0.0
+407648374860,IT_BACKUP,Saurabh Gupta, OCL ,2025-09-01,7600.0
+251917288737,IT Production,Saurabh Gupta, OCL ,2025-09-01,13600.0
+755560366148,SAP-HANA,Saurabh Gupta, OCL ,2025-09-01,64000.0
+002637409966,user-management-prod,Shrey Agarwal, OCL ,2025-09-01,195000.0
+210577074618,recon_prod_ocl,Shrey Agarwal, OCL ,2025-09-01,40000.0
+058264205572,cst-prod  ,Shrey Agarwal, OCL ,2025-09-01,2000.0
+752518464574,User Preferences System,Shrey Agarwal, OCL ,2025-09-01,22000.0
+518207312579,cst-ai,Shrey Agarwal, OCL ,2025-09-01,0.0
+615069360012,merchant-ra-automation,Shrey Agarwal, OCL ,2025-09-01,5000.0
+685585466397,recon_nonprod_ocl,Shrey Agarwal, OCL ,2025-09-01,5000.0
+952840895893,User Management,Shrey Agarwal, OCL ,2025-09-01,7000.0
+471112938013,tpap-oauth-dr,Shrey Agarwal, OCL ,2025-09-01,0.0
+337891198417,digital_cst,Shrey Agarwal, OCL ,2025-09-01,250000.0
+654654208887,ppsl-recon-prod,Shrey Agarwal,PPSL,2025-09-01,5000.0
+851725259328,ppsl-recon-nonprod,Shrey Agarwal,PPSL,2025-09-01,2500.0
+975050351452,ppsl-binary-prod,Shrey Agarwal,PPSL,2025-09-01,3000.0
+767397827620,ppsl-oauth-prod,Shrey Agarwal,PPSL,2025-09-01,2000.0
+654654394550,oauth-nonprod,Shrey Agarwal,OCL,2025-09-01,1000.0
+637423614657,pml-oauth,Shrey Agarwal,PML,2025-09-01,22000.0
+898496923608,games_pfg,Sudhanshu Gupta, PFG ,2025-09-01,109402.9575
+659606126372,URJA MONEY PVT LTD,Sunil Agrawal, Urjamoney ,2025-09-01,50700.0
+899249751508,PayTm DaaS ML,Sunil Agrawal, OCL ,2025-09-01,149600.0
+705108899578,daas-managed-services,Sunil Agrawal, OCL ,2025-09-01,53800.0
+479671683529,cdp risk_ocl,Sunil Agrawal, OCL ,2025-09-01,47000.0
+564188254156,Lending DataScience,Sunil Agrawal, OCL ,2025-09-01,92900.0
+340077773684,Paytm Financial Services,Sunil Agrawal, OCL ,2025-09-01,254200.0
+075790327284,cdp_growth marketing_ocl,Sunil Agrawal, OCL ,2025-09-01,130500.0
+576293063887,digital_insurance,Sunil Agrawal, PIBPL ,2025-09-01,18000.0
+718893572916,AaaS-nonprod,Sunil Agrawal, OCL ,2025-09-01,3869.7097372
+510772292268,cdo-dre,Sunil Agrawal, OCL ,2025-09-01,1700.0
+471112958605,lending-dwh,Sunil Agrawal, OCL ,2025-09-01,2500.0
+153518195166,cdo-non-prod,Sunil Agrawal, OCL ,2025-09-01,1600.0
+481935107677,DaaS-Apps,Sunil Agrawal, OCL ,2025-09-01,2300.0
+218943325897,devopscommon,Sunil Agrawal, OCL ,2025-09-01,700.0
+161282784430,cdp-ppbl-pa,Sunil Agrawal, OCL ,2025-09-01,0.0
+811134095225,AWS DaaS,Sunil Agrawal, OCL ,2025-09-01,62100.0
+975049957371,tpap-dwh,Sunil Agrawal, OCL ,2025-09-01,36800.0
+419830208690,AaaS-prod,Sunil Agrawal, OCL ,2025-09-01,26923.04538592
+628412515026,Datalake AWS,Sunil Agrawal, OCL ,2025-09-01,457700.0
+471112571211,ppsl-dwh-prod,Sunil Agrawal,PPSL,2025-09-01,288200.0
+863780864233,CreditMate Payer,Sunil Agrawal,Creditmate,2025-09-01,0.0
+442231926211,lending-vkyc,Sunil Agrawal,OCL,2025-09-01,0.0
+097001033170,paytm_smart_retail_ocl,Sunil Bansal, Ticketnew ,2025-09-01,3500.0
+003079193758,IOT Prod,Sunil Bansal, OCL ,2025-09-01,66000.0
+028914776520,edc_prod_ocl,Sunil Bansal, OCL ,2025-09-01,17000.0
+848332057417,mloyal_prod,Sunil Bansal, OCL ,2025-09-01,4500.0
+066548792077,IOT Core,Sunil Bansal, OCL ,2025-09-01,1700.0
+821240137883,edc_non prod_ocl,Sunil Bansal, OCL ,2025-09-01,2000.0
+494799526181,AWS_Paytm'Mloyal,Sunil Bansal,OCL,2025-09-01,1500.0
+906954799739,Nearbuy,Sunny Sharma,Nearbuy,2025-09-01,15773.78779473
+975049937880,mgc-sclp,Sunny Sharma, OCL ,2025-09-01,0.0
+851725259472,ppsl-app-sec,Surinder Kumar,PPSL,2025-09-01,23900.0
+860971823470,Video KYC,Suspended account,OCL,2025-09-01,0.0
+797142548187,ppblpgpa-prod,Suspended account,OCL,2025-09-01,0.0
+272968093320,legalapps,Urvashi Sahai, OCL ,2025-09-01,1300.0
+789596305652,regular_mf,Varun Shridhar, PSPL ,2025-09-01,11600.0
+656952484900,Paytm Money,Vinay Singhal, PML ,2025-09-01,0.0
+470060591194,edutech,Vinay Singhal, PML ,2025-09-01,0.0
+322263815270,PM-EduTech-Prod,Vinay Singhal, PML ,2025-09-01,0.0
+185774682289,pml-chat-dev,Vinay Singhal, PML ,2025-09-01,0.0
+762730909359,PM-Equities,Vinay Singhal,PML,2025-09-01,0.0
+011420223908,PM-DataLake,Vinay Singhal,PML,2025-09-01,0.0
+211125336551,pml-infosec,Vinay Singhal,PML,2025-09-01,0.0
+992382687474,pml-cst,Vinay Singhal,PML,2025-09-01,0.0
+381492193378,pml-datalake,Vinay Singhal,PML,2025-09-01,0.0
+339712912282,pml-core-poc,Vinay Singhal,PML,2025-09-01,0.0
+736121233725,Paytmmoney Ltd. Data Platform,Vinay Singhal,PML,2025-09-01,0.0
+851725496687,pml-oauth-dr,Vinay Singhal,PML,2025-09-01,9000.0
+370214104985,AMC Platform,Vinay Singhal,PML,2025-09-01,0.0
+582604545400,pm-chat,Vinay Singhal,PML,2025-09-01,0.0
+009124235587,Payer1,Vinay Singhal,PML,2025-09-01,0.0
+423387369363,PML IT,Vinay Singhal,PML,2025-09-01,0.0
+058264391305,pml-storefront,Vinay Singhal,PML,2025-09-01,0.0
+654654145181,pml-oauth-nonprod,Vinay Singhal,PML,2025-09-01,3000.0
+590183908249,pml-wiki-jira,Vinay Singhal,PML,2025-09-01,0.0
+807119641913,pm-bigdata,Vinay Singhal,PML,2025-09-01,0.0
+159245624542,leadsquared,Vinay Singhal,PML,2025-09-01,0.0
+907058949943,ppbloe-prod,Vishal Jangda,Nearbuy,2025-09-01,0.0
+905418158003,FInmate,Saurabh Gupta, OCIL ,2025-09-01,400.0
+767397877262,it-infra,Saurabh Gupta, PIBPL ,2025-09-01,400.0
+654654138046,it-infra,Saurabh Gupta, PAI ,2025-09-01,300.0
+318633126153,AWS SMS,Saurabh Gupta,OCL,2025-09-01,4200.0
+474140895141,Enterprise SMS,Saurabh Gupta,OCL,2025-09-01,7000.0
+367464822874,One97 IT,Saurabh Gupta,OCL,2025-09-01,200.0
+661338130494,telco-testing,Saurabh Gupta,OCL,2025-09-01,100.0
+072401294672,DMS AWS,Abhinav Gupta, OCL ,2025-10-01,11796.15317234
+901553615594,merchantdashboards,Abhinav Gupta, OCL ,2025-10-01,61056.35546221
+480732456233,dms-prod_ocl,Abhinav Gupta, OCL ,2025-10-01,8166.15918022
+182401677120,onboardingengine,Abhinav Gupta, OCL ,2025-10-01,32557.09727693
+389881277731,merchant-business,Abhinav Gupta, OCL ,2025-10-01,980.98502809
+745098155683,merchant_automation,Abhinav Gupta, OCL ,2025-10-01,729.6493454
+997924011427,ckyc,Abhinav Gupta, OCL ,2025-10-01,5116.90802631
+630307967658,dms-nonprod_ocl,Abhinav Gupta, OCL ,2025-10-01,1281.69510458
+495419344110,incentive,Abhinav Gupta, OCL ,2025-10-01,11459.79555444
+761904723706,KYB/FSM/Chatbot,Abhinav Gupta, OCL ,2025-10-01,40440.26446456
+654654497161,ppsl-ump-prod,Abhinav Gupta,PPSL,2025-10-01,14476.60707264
+767397730150,ppsl-mo-prod,Abhinav Gupta,PPSL,2025-10-01,3803.48200938
+548411824430,pocketurmoney/oneview,Abhinav Gupta, OCL ,2025-10-01,372.2289667
+272415727726,Paytm Ads,Ajit Kumar, OCL ,2025-10-01,141219.08224679
+381491835802,uth-prod,Ajit Kumar, OCL ,2025-10-01,122860.27564822
+339712810712,tpap-nonprod,Ajit Kumar, OCL ,2025-10-01,5701.13119372
+211125458732,tpap-prod,Ajit Kumar, OCL ,2025-10-01,134391.63793441
+381492106076,YBL-TSP-AWS-UAT V1,Ajit Kumar, OCIL ,2025-10-01,3383.05125035
+992382754296,OCIL-AWS-UAT,Ajit Kumar, OCIL ,2025-10-01,2086.6140169
+891377131146,YBL-TSP-AWS-UAT V2,Ajit Kumar, OCIL ,2025-10-01,18887.27753168
+767398050080,YBL-TSP-AWS-prod,Ajit Kumar, OCIL ,2025-10-01,275908.62370945
+736384229724,cloudsecurity-logs,Amit Malhotra, OCL ,2025-10-01,3604.73558476
+252197745876,AWS InfoSec,Amit Malhotra, OCL ,2025-10-01,15535.41396691
+161115069565,infosec-soc,Amit Malhotra, OCL ,2025-10-01,18942.66509763
+264522784930,AWS DNS,Amit Malhotra, OCL ,2025-10-01,0.0
+647564693872,aml-prod,Akeshwar Jha, OCL ,2025-10-01,0.0
+359716425895,Travel Aws,Anil Kundu, OCL ,2025-10-01,81000.0
+135329050410,CityBus,anil Kundu, OCL ,2025-10-01,1600.0
+769263341944,hotels,Anil Kundu, OCL ,2025-10-01,0.0
+968032760053,Fraud AWS,Bhaskar Gopalan, Labs ,2025-10-01,164200.0
+546818093346,verifierAWS,Bhaskar Gopalan, OCL ,2025-10-01,0.0
+211125515568,risk-ocl-tpap,Bhaskar Gopalan, OCL ,2025-10-01,27200.0
+608146213544,ppblmaquettepa-prod,Bhaskar Gopalan, OCL ,2025-10-01,0.0
+439726107081,risk-verifier-nonprod,Bhaskar Gopalan, OCL ,2025-10-01,0.0
+885068115609,pai-sre,Bhaskar Gopalan, Labs ,2025-10-01,6500.0
+021891570382,Risk-Lending(new),Bhaskar Gopalan,OCL,2025-10-01,29400.0
+767397937234,PPSL- risk,Bhaskar Gopalan,PPSL,2025-10-01,73390.0
+017820698743,risk-devops-tools,Bhaskar Gopalan,OCL,2025-10-01,1500.0
+339712759199,feature-store-ocl,Bruno Meira,OCL,2025-10-01,0.0
+746682193773,cds-clm,Bhaskar Gopalan,OCL,2025-10-01,0.0
+130653941854,insurance-ds,Bhaskar Gopalan, PIBPL ,2025-10-01,0.0
+465354398947,aml-nonprod,Akeshwar Jha, OCL ,2025-10-01,0.0
+532041146482,aml-ppsl-nonprod,Deepanshu Jain, PPSL ,2025-10-01,0.0
+914516902729,finance_support_ocl,Dheerendra Mishra, OCL ,2025-10-01,6000.0
+625612021127,aoa-nonprod,Gagan Verma,OCL,2025-10-01,1700.0
+340677782776,aoa-prod,Gagan Verma,OCL,2025-10-01,10900.0
+541095382258,Card Tokenization,Gagan Verma,OCL,2025-10-01,2100.0
+611670160261,emi-nonprod,Gagan Verma,OCL,2025-10-01,2300.0
+068930846606,emi-prod_ocl,Gagan Verma,OCL,2025-10-01,4900.0
+424503791295,merchant-payments-api_prod_ocl,Gagan Verma,OCL,2025-10-01,177700.0
+929265682896,payment-non-prod,Gagan Verma,OCL,2025-10-01,29900.0
+233815244996,payment-platform_nonprod_ocl,Gagan Verma,OCL,2025-10-01,22000.0
+304016915943,payments-data-rtdd_prod_ocl,Gagan Verma,OCL,2025-10-01,196900.0
+352506242819,payments-platform_prod_ocl,Gagan Verma,OCL,2025-10-01,825600.0
+239103975135,QR,Gagan Verma,OCL,2025-10-01,11000.0
+128131020113,pa-nonprod,Gagan Verma,PPSL,2025-10-01,5600.0
+189893850600,pa-prod,Gagan Verma,PPSL,2025-10-01,100200.0
+471112548387,ppsl-affordability-prod,Gagan Verma,PPSL,2025-10-01,11200.0
+730335596554,ppsl-aml-prod,Gagan Verma,PPSL,2025-10-01,3900.0
+239937555916,ppsl-cardservice,Gagan Verma,PPSL,2025-10-01,1300.0
+905418390117,ppsl-pg2-nonprod,Gagan Verma,PPSL,2025-10-01,11200.0
+590183666588,ppsl-pg2-prod,Gagan Verma,PPSL,2025-10-01,363200.0
+590183673148,ppsl-rtdd-prod,Gagan Verma,PPSL,2025-10-01,61000.0
+913203018054,ppblpgpa-nonprod,Gagan Verma,OCL,2025-10-01,0.0
+658447621694,hrtech_ocl,Gaurav Chopra, OCL ,2025-10-01,0.0
+700271710604,labs-llm,Harinder Takhar,OCL,2025-10-01,0.0
+505767364771,Risk Anomaly,Bhaskar Gopalan,OCL,2025-10-01,0.0
+737499001343,call-centre-ivr,Lalit Mohan Pandey, OCL ,2025-10-01,0.0
+567423616371,parent account_ocl,Mukesh Meena, OCL ,2025-10-01,255000.0
+423969094700,push_notifications_ocl,Mukesh Meena, OCL ,2025-10-01,40000.0
+562921704166,paytm-ups,Mukesh Meena, OCL ,2025-10-01,4300.0
+698979518480,bitbucket_ocl,Mukesh Meena, OCL ,2025-10-01,9500.0
+654654315008,ondc-analytics,Mukesh Meena, PAI ,2025-10-01,0.0
+090436275138,Digital Channels,Mukesh Meena, OCL ,2025-10-01,6470.46361337
+131752971524,loyalitypoints/tocom,Mukesh Meena, OCL ,2025-10-01,14000.0
+023903256547,central tools,Mukesh Meena, OCL ,2025-10-01,0.0
+337158390682,commoninfra_ocl,Mukesh Meena, OCL ,2025-10-01,7500.0
+064619502227,CentralToolsPlatform,Mukesh Meena, OCL ,2025-10-01,4434.92405184
+054736913503,scp-mgv,Mukesh Meena, OCL ,2025-10-01,1640.52790903
+841860372390,fastag issuer_prod_ocl,Mukesh Meena, OCL ,2025-10-01,100.0
+127247839315,Sysops AWS,Mukesh Meena, OCL ,2025-10-01,3200.0
+492902601864,ncmc_acquirer_ocl,Mukesh Meena, OCL ,2025-10-01,800.0
+576911611801,infra_experiment_non_prod_ocl,Mukesh Meena, OCL ,2025-10-01,1000.0
+320811487590,dev-projects,Mukesh Meena, OCL ,2025-10-01,300.0
+116631508635,fastag_non prod_ocl,Mukesh Meena, OCL ,2025-10-01,100.0
+DROCL,DR - overall (to align with new contract),Mukesh Meena, PML ,2025-10-01,0.0
+New 3,Confluent Kafka,Mukesh Meena,OCL,2025-10-01,0.0
+678670235450,authoriser,Mukesh Meena,OCL,2025-10-01,0.0
+576218818919,tools-pa,Mukesh Meena,OCL,2025-10-01,0.0
+290310562512,Wallet-Nonprod,Mukesh Meena, OCL ,2025-10-01,0.0
+984308723723,digital_saas_ocl,Mukesh Meena, OCL ,2025-10-01,10500.0
+758230397644,Mall Bangalore,Mukesh Meena, PEPL ,2025-10-01,15000.0
+992382517474,ppsl-central-tools,Mukesh Meena,PPSL,2025-10-01,1100.0
+542832536672,Nearbuy Payer,Mukesh Meena,Nearbuy,2025-10-01,0.0
+798411736697,ncmc-acq-rupay-switch,Mukesh Meena, OCL ,2025-10-01,0.0
+445736908015,recharge bill payments_ocl,Nipun Arora, OCL ,2025-10-01,120000.0
+442447453008,Digital Gold,Nipun Arora, PML ,2025-10-01,10200.0
+176839215860,aws-omnicard-Prod,Nipun Arora,OCL,2025-10-01,0.0
+664526282133,Paytm Labs,Otto Mok, Labs ,2025-10-01,2600.0
+453914767997,risk-monitoring,Pankaj Kedia, OCL ,2025-10-01,0.0
+Premium Support,Premium Support,Parakh Agarwal, OCL ,2025-10-01,0.0
+469795226344,billing account_ocl,Parakh Agarwal, OCL ,2025-10-01,0.0
+015680176265,PPSL Payer,Parakh Agarwal, PPSL ,2025-10-01,0.0
+065278587813,rooter-io,Piyush Kumar (External),Rooter,2025-10-01,4815.58467841
+302399626617,ROOTER-DEV,Piyush Kumar (External),Rooter,2025-10-01,37.52767134
+919275210163,ROOTER-CLOUD-MANAGEMENT,Piyush Kumar (External),Rooter,2025-10-01,336.99836659
+477815026673,Rooter Payer,Piyush Kumar (External),Rooter,2025-10-01,130.29185414
+695745283037,ROOTER-CLOUD-LOGS,Piyush Kumar (External),Rooter,2025-10-01,4.30039811
+576349278157,ROOTER-CLOUD-SECURITY,Piyush Kumar (External),Rooter,2025-10-01,48.09793329
+271855570343,ROOTER-PROD-CDN,Piyush Kumar (External),Rooter,2025-10-01,760.96714735
+580053151223,ROOTER-PROD-TRANSCODING,Piyush Kumar (External),Rooter,2025-10-01,4181.67184687
+973103936838,ROOTER-STAGE,Piyush Kumar (External),Rooter,2025-10-01,559.76345277
+537598503159,ROOTER-PROD-ANALYTICS,Piyush Kumar (External),Rooter,2025-10-01,7271.37587523
+123964038738,ROOTER-PROD-APPS,Piyush Kumar (External),Rooter,2025-10-01,14830.17028141
+753168370952,hawkeye_ocl,Prashant Tiwari, OCL ,2025-10-01,27769.82795628
+522974168642,chat_ocl,Prashant Tiwari, OCL ,2025-10-01,19696.93570473
+722152247093,central_app_tech_ocl,Prashant Tiwari, OCL ,2025-10-01,2550.29
+066636274316,central_app_tech_web_ocl,Prashant Tiwari, OCL ,2025-10-01,3821.88209171
+824873459626,central_app_tech_mini_apps_ocl,Prashant Tiwari, OCL ,2025-10-01,1476.72
+475919677060,paytm_digital_content_ocl,Prashant Tiwari, OCL ,2025-10-01,0.0
+239666495852,health_ocl,Prashant Tiwari, OCL ,2025-10-01,591.89
+605458724602,content_ml_ocl,Prashant Tiwari, OCL ,2025-10-01,0.0
+663804405009,movies_ocl,Prashant Tiwari,Insider,2025-10-01,0.0
+155772818492,Insider (Events),Prashant Tiwari,Insider,2025-10-01,0.0
+368920154232,central app tech_ocl,Prashant Tiwari, OCL ,2025-10-01,1760.89
+985226307906,Insider Payer,Prashant Tiwari,Insider,2025-10-01,0.0
+538615689396,Pandora AWS,Sam Fang, Labs ,2025-10-01,0.0
+269350686318,AWS Pan 2,Sam Fang, Labs ,2025-10-01,0.0
+477161539263,ticketnewprod (Ram),Sasiraman Venkatesan (External),na,2025-10-01,0.0
+475804058290,Payer9,Sathyaseelan Murugesan,na,2025-10-01,0.0
+407648374860,IT_BACKUP,Saurabh Gupta, OCL ,2025-10-01,7700.0
+251917288737,IT Production,Saurabh Gupta, OCL ,2025-10-01,13700.0
+755560366148,SAP-HANA,Saurabh Gupta, OCL ,2025-10-01,64000.0
+002637409966,user-management-prod,Shrey Agarwal, OCL ,2025-10-01,195000.0
+210577074618,recon_prod_ocl,Shrey Agarwal, OCL ,2025-10-01,40000.0
+058264205572,cst-prod  ,Shrey Agarwal, OCL ,2025-10-01,2000.0
+752518464574,User Preferences System,Shrey Agarwal, OCL ,2025-10-01,24000.0
+518207312579,cst-ai,Shrey Agarwal, OCL ,2025-10-01,0.0
+615069360012,merchant-ra-automation,Shrey Agarwal, OCL ,2025-10-01,5000.0
+685585466397,recon_nonprod_ocl,Shrey Agarwal, OCL ,2025-10-01,5000.0
+952840895893,User Management,Shrey Agarwal, OCL ,2025-10-01,8000.0
+471112938013,tpap-oauth-dr,Shrey Agarwal, OCL ,2025-10-01,0.0
+337891198417,digital_cst,Shrey Agarwal, OCL ,2025-10-01,250000.0
+654654208887,ppsl-recon-prod,Shrey Agarwal,PPSL,2025-10-01,5000.0
+851725259328,ppsl-recon-nonprod,Shrey Agarwal,PPSL,2025-10-01,2500.0
+975050351452,ppsl-binary-prod,Shrey Agarwal,PPSL,2025-10-01,3000.0
+767397827620,ppsl-oauth-prod,Shrey Agarwal,PPSL,2025-10-01,2000.0
+654654394550,oauth-nonprod,Shrey Agarwal,OCL,2025-10-01,1000.0
+637423614657,pml-oauth,Shrey Agarwal,PML,2025-10-01,23000.0
+898496923608,games_pfg,Sudhanshu Gupta, PFG ,2025-10-01,109402.9575
+659606126372,URJA MONEY PVT LTD,Sunil Agrawal, Urjamoney ,2025-10-01,51600.0
+899249751508,PayTm DaaS ML,Sunil Agrawal, OCL ,2025-10-01,152600.0
+705108899578,daas-managed-services,Sunil Agrawal, OCL ,2025-10-01,54800.0
+479671683529,cdp risk_ocl,Sunil Agrawal, OCL ,2025-10-01,48000.0
+564188254156,Lending DataScience,Sunil Agrawal, OCL ,2025-10-01,94600.0
+340077773684,Paytm Financial Services,Sunil Agrawal, OCL ,2025-10-01,258700.0
+075790327284,cdp_growth marketing_ocl,Sunil Agrawal, OCL ,2025-10-01,133200.0
+576293063887,digital_insurance,Sunil Agrawal, PIBPL ,2025-10-01,18500.0
+718893572916,AaaS-nonprod,Sunil Agrawal, OCL ,2025-10-01,3947.10393194
+510772292268,cdo-dre,Sunil Agrawal, OCL ,2025-10-01,1800.0
+471112958605,lending-dwh,Sunil Agrawal, OCL ,2025-10-01,2600.0
+153518195166,cdo-non-prod,Sunil Agrawal, OCL ,2025-10-01,1600.0
+481935107677,DaaS-Apps,Sunil Agrawal, OCL ,2025-10-01,2400.0
+218943325897,devopscommon,Sunil Agrawal, OCL ,2025-10-01,700.0
+161282784430,cdp-ppbl-pa,Sunil Agrawal, OCL ,2025-10-01,0.0
+811134095225,AWS DaaS,Sunil Agrawal, OCL ,2025-10-01,63400.0
+975049957371,tpap-dwh,Sunil Agrawal, OCL ,2025-10-01,37500.0
+419830208690,AaaS-prod,Sunil Agrawal, OCL ,2025-10-01,27461.50629364
+628412515026,Datalake AWS,Sunil Agrawal, OCL ,2025-10-01,466900.0
+471112571211,ppsl-dwh-prod,Sunil Agrawal,PPSL,2025-10-01,291000.0
+863780864233,CreditMate Payer,Sunil Agrawal,Creditmate,2025-10-01,0.0
+442231926211,lending-vkyc,Sunil Agrawal,OCL,2025-10-01,0.0
+097001033170,paytm_smart_retail_ocl,Sunil Bansal, Ticketnew ,2025-10-01,3500.0
+003079193758,IOT Prod,Sunil Bansal, OCL ,2025-10-01,68000.0
+028914776520,edc_prod_ocl,Sunil Bansal, OCL ,2025-10-01,17500.0
+848332057417,mloyal_prod,Sunil Bansal, OCL ,2025-10-01,4500.0
+066548792077,IOT Core,Sunil Bansal, OCL ,2025-10-01,1700.0
+821240137883,edc_non prod_ocl,Sunil Bansal, OCL ,2025-10-01,2000.0
+494799526181,AWS_Paytm'Mloyal,Sunil Bansal,OCL,2025-10-01,1500.0
+906954799739,Nearbuy,Sunny Sharma,Nearbuy,2025-10-01,16089.26355063
+975049937880,mgc-sclp,Sunny Sharma, OCL ,2025-10-01,0.0
+851725259472,ppsl-app-sec,Surinder Kumar,PPSL,2025-10-01,24400.0
+860971823470,Video KYC,Suspended account,OCL,2025-10-01,0.0
+797142548187,ppblpgpa-prod,Suspended account,OCL,2025-10-01,0.0
+272968093320,legalapps,Urvashi Sahai, OCL ,2025-10-01,1300.0
+789596305652,regular_mf,Varun Shridhar, PSPL ,2025-10-01,11600.0
+656952484900,Paytm Money,Vinay Singhal, PML ,2025-10-01,0.0
+470060591194,edutech,Vinay Singhal, PML ,2025-10-01,0.0
+322263815270,PM-EduTech-Prod,Vinay Singhal, PML ,2025-10-01,0.0
+185774682289,pml-chat-dev,Vinay Singhal, PML ,2025-10-01,0.0
+762730909359,PM-Equities,Vinay Singhal,PML,2025-10-01,0.0
+011420223908,PM-DataLake,Vinay Singhal,PML,2025-10-01,0.0
+211125336551,pml-infosec,Vinay Singhal,PML,2025-10-01,0.0
+992382687474,pml-cst,Vinay Singhal,PML,2025-10-01,0.0
+381492193378,pml-datalake,Vinay Singhal,PML,2025-10-01,0.0
+339712912282,pml-core-poc,Vinay Singhal,PML,2025-10-01,0.0
+736121233725,Paytmmoney Ltd. Data Platform,Vinay Singhal,PML,2025-10-01,0.0
+851725496687,pml-oauth-dr,Vinay Singhal,PML,2025-10-01,9000.0
+370214104985,AMC Platform,Vinay Singhal,PML,2025-10-01,0.0
+582604545400,pm-chat,Vinay Singhal,PML,2025-10-01,0.0
+009124235587,Payer1,Vinay Singhal,PML,2025-10-01,0.0
+423387369363,PML IT,Vinay Singhal,PML,2025-10-01,0.0
+058264391305,pml-storefront,Vinay Singhal,PML,2025-10-01,0.0
+654654145181,pml-oauth-nonprod,Vinay Singhal,PML,2025-10-01,3000.0
+590183908249,pml-wiki-jira,Vinay Singhal,PML,2025-10-01,0.0
+807119641913,pm-bigdata,Vinay Singhal,PML,2025-10-01,0.0
+159245624542,leadsquared,Vinay Singhal,PML,2025-10-01,0.0
+907058949943,ppbloe-prod,Vishal Jangda,Nearbuy,2025-10-01,0.0
+905418158003,FInmate,Saurabh Gupta, OCIL ,2025-10-01,400.0
+767397877262,it-infra,Saurabh Gupta, PIBPL ,2025-10-01,500.0
+654654138046,it-infra,Saurabh Gupta, PAI ,2025-10-01,300.0
+318633126153,AWS SMS,Saurabh Gupta,OCL,2025-10-01,4100.0
+474140895141,Enterprise SMS,Saurabh Gupta,OCL,2025-10-01,7100.0
+367464822874,One97 IT,Saurabh Gupta,OCL,2025-10-01,200.0
+661338130494,telco-testing,Saurabh Gupta,OCL,2025-10-01,100.0
+072401294672,DMS AWS,Abhinav Gupta, OCL ,2025-11-01,12032.07623579
+901553615594,merchantdashboards,Abhinav Gupta, OCL ,2025-11-01,62277.48257146
+480732456233,dms-prod_ocl,Abhinav Gupta, OCL ,2025-11-01,8329.48236382
+182401677120,onboardingengine,Abhinav Gupta, OCL ,2025-11-01,33208.23922247
+389881277731,merchant-business,Abhinav Gupta, OCL ,2025-11-01,1000.60472866
+745098155683,merchant_automation,Abhinav Gupta, OCL ,2025-11-01,744.2423323
+997924011427,ckyc,Abhinav Gupta, OCL ,2025-11-01,5219.24618684
+630307967658,dms-nonprod_ocl,Abhinav Gupta, OCL ,2025-11-01,1307.32900667
+495419344110,incentive,Abhinav Gupta, OCL ,2025-11-01,11688.99146553
+761904723706,KYB/FSM/Chatbot,Abhinav Gupta, OCL ,2025-11-01,41249.06975385
+654654497161,ppsl-ump-prod,Abhinav Gupta,PPSL,2025-11-01,14766.13921409
+767397730150,ppsl-mo-prod,Abhinav Gupta,PPSL,2025-11-01,3879.55164957
+548411824430,pocketurmoney/oneview,Abhinav Gupta, OCL ,2025-11-01,379.67354604
+272415727726,Paytm Ads,Ajit Kumar, OCL ,2025-11-01,145455.65471419
+381491835802,uth-prod,Ajit Kumar, OCL ,2025-11-01,127774.68667415
+339712810712,tpap-nonprod,Ajit Kumar, OCL ,2025-11-01,5986.18775341
+211125458732,tpap-prod,Ajit Kumar, OCL ,2025-11-01,138423.38707245
+381492106076,YBL-TSP-AWS-UAT V1,Ajit Kumar, OCIL ,2025-11-01,3552.20381287
+992382754296,OCIL-AWS-UAT,Ajit Kumar, OCIL ,2025-11-01,2190.94471775
+891377131146,YBL-TSP-AWS-UAT V2,Ajit Kumar, OCIL ,2025-11-01,19831.64140826
+767398050080,YBL-TSP-AWS-prod,Ajit Kumar, OCIL ,2025-11-01,280047.25306509
+736384229724,cloudsecurity-logs,Amit Malhotra, OCL ,2025-11-01,3640.78294061
+252197745876,AWS InfoSec,Amit Malhotra, OCL ,2025-11-01,15690.76810658
+161115069565,infosec-soc,Amit Malhotra, OCL ,2025-11-01,19132.0917486
+264522784930,AWS DNS,Amit Malhotra, OCL ,2025-11-01,0.0
+647564693872,aml-prod,Akeshwar Jha, OCL ,2025-11-01,0.0
+359716425895,Travel Aws,Anil Kundu, OCL ,2025-11-01,85000.0
+135329050410,CityBus,anil Kundu, OCL ,2025-11-01,1700.0
+769263341944,hotels,Anil Kundu, OCL ,2025-11-01,0.0
+968032760053,Fraud AWS,Bhaskar Gopalan, Labs ,2025-11-01,167100.0
+546818093346,verifierAWS,Bhaskar Gopalan, OCL ,2025-11-01,0.0
+211125515568,risk-ocl-tpap,Bhaskar Gopalan, OCL ,2025-11-01,27700.0
+608146213544,ppblmaquettepa-prod,Bhaskar Gopalan, OCL ,2025-11-01,0.0
+439726107081,risk-verifier-nonprod,Bhaskar Gopalan, OCL ,2025-11-01,0.0
+885068115609,pai-sre,Bhaskar Gopalan, Labs ,2025-11-01,6500.0
+021891570382,Risk-Lending(new),Bhaskar Gopalan,OCL,2025-11-01,30200.0
+767397937234,PPSL- risk,Bhaskar Gopalan,PPSL,2025-11-01,78228.0
+017820698743,risk-devops-tools,Bhaskar Gopalan,OCL,2025-11-01,1500.0
+339712759199,feature-store-ocl,Bruno Meira,OCL,2025-11-01,0.0
+746682193773,cds-clm,Bhaskar Gopalan,OCL,2025-11-01,0.0
+130653941854,insurance-ds,Bhaskar Gopalan, PIBPL ,2025-11-01,0.0
+465354398947,aml-nonprod,Akeshwar Jha, OCL ,2025-11-01,0.0
+532041146482,aml-ppsl-nonprod,Deepanshu Jain, PPSL ,2025-11-01,0.0
+914516902729,finance_support_ocl,Dheerendra Mishra, OCL ,2025-11-01,6000.0
+625612021127,aoa-nonprod,Gagan Verma,OCL,2025-11-01,1700.0
+340677782776,aoa-prod,Gagan Verma,OCL,2025-11-01,11000.0
+541095382258,Card Tokenization,Gagan Verma,OCL,2025-11-01,2100.0
+611670160261,emi-nonprod,Gagan Verma,OCL,2025-11-01,2400.0
+068930846606,emi-prod_ocl,Gagan Verma,OCL,2025-11-01,4900.0
+424503791295,merchant-payments-api_prod_ocl,Gagan Verma,OCL,2025-11-01,181300.0
+929265682896,payment-non-prod,Gagan Verma,OCL,2025-11-01,30400.0
+233815244996,payment-platform_nonprod_ocl,Gagan Verma,OCL,2025-11-01,22200.0
+304016915943,payments-data-rtdd_prod_ocl,Gagan Verma,OCL,2025-11-01,199900.0
+352506242819,payments-platform_prod_ocl,Gagan Verma,OCL,2025-11-01,838000.0
+239103975135,QR,Gagan Verma,OCL,2025-11-01,11100.0
+128131020113,pa-nonprod,Gagan Verma,PPSL,2025-11-01,5700.0
+189893850600,pa-prod,Gagan Verma,PPSL,2025-11-01,124200.0
+471112548387,ppsl-affordability-prod,Gagan Verma,PPSL,2025-11-01,10400.0
+730335596554,ppsl-aml-prod,Gagan Verma,PPSL,2025-11-01,3900.0
+239937555916,ppsl-cardservice,Gagan Verma,PPSL,2025-11-01,900.0
+905418390117,ppsl-pg2-nonprod,Gagan Verma,PPSL,2025-11-01,11300.0
+590183666588,ppsl-pg2-prod,Gagan Verma,PPSL,2025-11-01,437400.0
+590183673148,ppsl-rtdd-prod,Gagan Verma,PPSL,2025-11-01,62200.0
+913203018054,ppblpgpa-nonprod,Gagan Verma,OCL,2025-11-01,0.0
+658447621694,hrtech_ocl,Gaurav Chopra, OCL ,2025-11-01,0.0
+700271710604,labs-llm,Harinder Takhar,OCL,2025-11-01,0.0
+505767364771,Risk Anomaly,Bhaskar Gopalan,OCL,2025-11-01,0.0
+737499001343,call-centre-ivr,Lalit Mohan Pandey, OCL ,2025-11-01,0.0
+567423616371,parent account_ocl,Mukesh Meena, OCL ,2025-11-01,255000.0
+423969094700,push_notifications_ocl,Mukesh Meena, OCL ,2025-11-01,40000.0
+562921704166,paytm-ups,Mukesh Meena, OCL ,2025-11-01,4300.0
+698979518480,bitbucket_ocl,Mukesh Meena, OCL ,2025-11-01,9500.0
+654654315008,ondc-analytics,Mukesh Meena, PAI ,2025-11-01,0.0
+090436275138,Digital Channels,Mukesh Meena, OCL ,2025-11-01,6535.1682495
+131752971524,loyalitypoints/tocom,Mukesh Meena, OCL ,2025-11-01,14000.0
+023903256547,central tools,Mukesh Meena, OCL ,2025-11-01,0.0
+337158390682,commoninfra_ocl,Mukesh Meena, OCL ,2025-11-01,7500.0
+064619502227,CentralToolsPlatform,Mukesh Meena, OCL ,2025-11-01,4567.97177339
+054736913503,scp-mgv,Mukesh Meena, OCL ,2025-11-01,1656.93318812
+841860372390,fastag issuer_prod_ocl,Mukesh Meena, OCL ,2025-11-01,100.0
+127247839315,Sysops AWS,Mukesh Meena, OCL ,2025-11-01,3200.0
+492902601864,ncmc_acquirer_ocl,Mukesh Meena, OCL ,2025-11-01,800.0
+576911611801,infra_experiment_non_prod_ocl,Mukesh Meena, OCL ,2025-11-01,1000.0
+320811487590,dev-projects,Mukesh Meena, OCL ,2025-11-01,300.0
+116631508635,fastag_non prod_ocl,Mukesh Meena, OCL ,2025-11-01,100.0
+DROCL,DR - overall (to align with new contract),Mukesh Meena, PML ,2025-11-01,0.0
+New 3,Confluent Kafka,Mukesh Meena,OCL,2025-11-01,0.0
+678670235450,authoriser,Mukesh Meena,OCL,2025-11-01,0.0
+576218818919,tools-pa,Mukesh Meena,OCL,2025-11-01,0.0
+290310562512,Wallet-Nonprod,Mukesh Meena, OCL ,2025-11-01,0.0
+984308723723,digital_saas_ocl,Mukesh Meena, OCL ,2025-11-01,10500.0
+758230397644,Mall Bangalore,Mukesh Meena, PEPL ,2025-11-01,15000.0
+992382517474,ppsl-central-tools,Mukesh Meena,PPSL,2025-11-01,1100.0
+542832536672,Nearbuy Payer,Mukesh Meena,Nearbuy,2025-11-01,0.0
+798411736697,ncmc-acq-rupay-switch,Mukesh Meena, OCL ,2025-11-01,0.0
+445736908015,recharge bill payments_ocl,Nipun Arora, OCL ,2025-11-01,120000.0
+442447453008,Digital Gold,Nipun Arora, PML ,2025-11-01,10200.0
+176839215860,aws-omnicard-Prod,Nipun Arora,OCL,2025-11-01,0.0
+664526282133,Paytm Labs,Otto Mok, Labs ,2025-11-01,2600.0
+453914767997,risk-monitoring,Pankaj Kedia, OCL ,2025-11-01,0.0
+Premium Support,Premium Support,Parakh Agarwal, OCL ,2025-11-01,0.0
+469795226344,billing account_ocl,Parakh Agarwal, OCL ,2025-11-01,0.0
+015680176265,PPSL Payer,Parakh Agarwal, PPSL ,2025-11-01,0.0
+065278587813,rooter-io,Piyush Kumar (External),Rooter,2025-11-01,4815.61050195
+302399626617,ROOTER-DEV,Piyush Kumar (External),Rooter,2025-11-01,37.51020563
+919275210163,ROOTER-CLOUD-MANAGEMENT,Piyush Kumar (External),Rooter,2025-11-01,336.9919005
+477815026673,Rooter Payer,Piyush Kumar (External),Rooter,2025-11-01,130.29430681
+695745283037,ROOTER-CLOUD-LOGS,Piyush Kumar (External),Rooter,2025-11-01,4.29821187
+576349278157,ROOTER-CLOUD-SECURITY,Piyush Kumar (External),Rooter,2025-11-01,48.09833825
+271855570343,ROOTER-PROD-CDN,Piyush Kumar (External),Rooter,2025-11-01,760.9721483
+580053151223,ROOTER-PROD-TRANSCODING,Piyush Kumar (External),Rooter,2025-11-01,4180.64776146
+973103936838,ROOTER-STAGE,Piyush Kumar (External),Rooter,2025-11-01,559.6048134
+537598503159,ROOTER-PROD-ANALYTICS,Piyush Kumar (External),Rooter,2025-11-01,7269.10547942
+123964038738,ROOTER-PROD-APPS,Piyush Kumar (External),Rooter,2025-11-01,14829.97011495
+753168370952,hawkeye_ocl,Prashant Tiwari, OCL ,2025-11-01,28602.92279497
+522974168642,chat_ocl,Prashant Tiwari, OCL ,2025-11-01,20287.84377587
+722152247093,central_app_tech_ocl,Prashant Tiwari, OCL ,2025-11-01,2550.29
+066636274316,central_app_tech_web_ocl,Prashant Tiwari, OCL ,2025-11-01,3860.10091263
+824873459626,central_app_tech_mini_apps_ocl,Prashant Tiwari, OCL ,2025-11-01,1476.72
+475919677060,paytm_digital_content_ocl,Prashant Tiwari, OCL ,2025-11-01,0.0
+239666495852,health_ocl,Prashant Tiwari, OCL ,2025-11-01,591.89
+605458724602,content_ml_ocl,Prashant Tiwari, OCL ,2025-11-01,0.0
+663804405009,movies_ocl,Prashant Tiwari,Insider,2025-11-01,0.0
+155772818492,Insider (Events),Prashant Tiwari,Insider,2025-11-01,0.0
+368920154232,central app tech_ocl,Prashant Tiwari, OCL ,2025-11-01,1760.89
+985226307906,Insider Payer,Prashant Tiwari,Insider,2025-11-01,0.0
+538615689396,Pandora AWS,Sam Fang, Labs ,2025-11-01,0.0
+269350686318,AWS Pan 2,Sam Fang, Labs ,2025-11-01,0.0
+477161539263,ticketnewprod (Ram),Sasiraman Venkatesan (External),na,2025-11-01,0.0
+475804058290,Payer9,Sathyaseelan Murugesan,na,2025-11-01,0.0
+407648374860,IT_BACKUP,Saurabh Gupta, OCL ,2025-11-01,7800.0
+251917288737,IT Production,Saurabh Gupta, OCL ,2025-11-01,13800.0
+755560366148,SAP-HANA,Saurabh Gupta, OCL ,2025-11-01,64000.0
+002637409966,user-management-prod,Shrey Agarwal, OCL ,2025-11-01,195000.0
+210577074618,recon_prod_ocl,Shrey Agarwal, OCL ,2025-11-01,40000.0
+058264205572,cst-prod  ,Shrey Agarwal, OCL ,2025-11-01,2000.0
+752518464574,User Preferences System,Shrey Agarwal, OCL ,2025-11-01,24000.0
+518207312579,cst-ai,Shrey Agarwal, OCL ,2025-11-01,0.0
+615069360012,merchant-ra-automation,Shrey Agarwal, OCL ,2025-11-01,5000.0
+685585466397,recon_nonprod_ocl,Shrey Agarwal, OCL ,2025-11-01,5000.0
+952840895893,User Management,Shrey Agarwal, OCL ,2025-11-01,8000.0
+471112938013,tpap-oauth-dr,Shrey Agarwal, OCL ,2025-11-01,0.0
+337891198417,digital_cst,Shrey Agarwal, OCL ,2025-11-01,250000.0
+654654208887,ppsl-recon-prod,Shrey Agarwal,PPSL,2025-11-01,5000.0
+851725259328,ppsl-recon-nonprod,Shrey Agarwal,PPSL,2025-11-01,2500.0
+975050351452,ppsl-binary-prod,Shrey Agarwal,PPSL,2025-11-01,3000.0
+767397827620,ppsl-oauth-prod,Shrey Agarwal,PPSL,2025-11-01,2000.0
+654654394550,oauth-nonprod,Shrey Agarwal,OCL,2025-11-01,1000.0
+637423614657,pml-oauth,Shrey Agarwal,PML,2025-11-01,23000.0
+898496923608,games_pfg,Sudhanshu Gupta, PFG ,2025-11-01,109402.9575
+659606126372,URJA MONEY PVT LTD,Sunil Agrawal, Urjamoney ,2025-11-01,52500.0
+899249751508,PayTm DaaS ML,Sunil Agrawal, OCL ,2025-11-01,155600.0
+705108899578,daas-managed-services,Sunil Agrawal, OCL ,2025-11-01,55900.0
+479671683529,cdp risk_ocl,Sunil Agrawal, OCL ,2025-11-01,48900.0
+564188254156,Lending DataScience,Sunil Agrawal, OCL ,2025-11-01,96200.0
+340077773684,Paytm Financial Services,Sunil Agrawal, OCL ,2025-11-01,263200.0
+075790327284,cdp_growth marketing_ocl,Sunil Agrawal, OCL ,2025-11-01,137100.0
+576293063887,digital_insurance,Sunil Agrawal, PIBPL ,2025-11-01,19000.0
+718893572916,AaaS-nonprod,Sunil Agrawal, OCL ,2025-11-01,4026.04601058
+510772292268,cdo-dre,Sunil Agrawal, OCL ,2025-11-01,1800.0
+471112958605,lending-dwh,Sunil Agrawal, OCL ,2025-11-01,2600.0
+153518195166,cdo-non-prod,Sunil Agrawal, OCL ,2025-11-01,1600.0
+481935107677,DaaS-Apps,Sunil Agrawal, OCL ,2025-11-01,2500.0
+218943325897,devopscommon,Sunil Agrawal, OCL ,2025-11-01,700.0
+161282784430,cdp-ppbl-pa,Sunil Agrawal, OCL ,2025-11-01,0.0
+811134095225,AWS DaaS,Sunil Agrawal, OCL ,2025-11-01,64600.0
+975049957371,tpap-dwh,Sunil Agrawal, OCL ,2025-11-01,38300.0
+419830208690,AaaS-prod,Sunil Agrawal, OCL ,2025-11-01,28010.73641951
+628412515026,Datalake AWS,Sunil Agrawal, OCL ,2025-11-01,476200.0
+471112571211,ppsl-dwh-prod,Sunil Agrawal,PPSL,2025-11-01,293800.0
+863780864233,CreditMate Payer,Sunil Agrawal,Creditmate,2025-11-01,0.0
+442231926211,lending-vkyc,Sunil Agrawal,OCL,2025-11-01,0.0
+097001033170,paytm_smart_retail_ocl,Sunil Bansal, Ticketnew ,2025-11-01,3500.0
+003079193758,IOT Prod,Sunil Bansal, OCL ,2025-11-01,70000.0
+028914776520,edc_prod_ocl,Sunil Bansal, OCL ,2025-11-01,17500.0
+848332057417,mloyal_prod,Sunil Bansal, OCL ,2025-11-01,5000.0
+066548792077,IOT Core,Sunil Bansal, OCL ,2025-11-01,1700.0
+821240137883,edc_non prod_ocl,Sunil Bansal, OCL ,2025-11-01,2000.0
+494799526181,AWS_Paytm'Mloyal,Sunil Bansal,OCL,2025-11-01,1500.0
+906954799739,Nearbuy,Sunny Sharma,Nearbuy,2025-11-01,16411.04882164
+975049937880,mgc-sclp,Sunny Sharma, OCL ,2025-11-01,0.0
+851725259472,ppsl-app-sec,Surinder Kumar,PPSL,2025-11-01,24900.0
+860971823470,Video KYC,Suspended account,OCL,2025-11-01,0.0
+797142548187,ppblpgpa-prod,Suspended account,OCL,2025-11-01,0.0
+272968093320,legalapps,Urvashi Sahai, OCL ,2025-11-01,1300.0
+789596305652,regular_mf,Varun Shridhar, PSPL ,2025-11-01,11600.0
+656952484900,Paytm Money,Vinay Singhal, PML ,2025-11-01,0.0
+470060591194,edutech,Vinay Singhal, PML ,2025-11-01,0.0
+322263815270,PM-EduTech-Prod,Vinay Singhal, PML ,2025-11-01,0.0
+185774682289,pml-chat-dev,Vinay Singhal, PML ,2025-11-01,0.0
+762730909359,PM-Equities,Vinay Singhal,PML,2025-11-01,0.0
+011420223908,PM-DataLake,Vinay Singhal,PML,2025-11-01,0.0
+211125336551,pml-infosec,Vinay Singhal,PML,2025-11-01,0.0
+992382687474,pml-cst,Vinay Singhal,PML,2025-11-01,0.0
+381492193378,pml-datalake,Vinay Singhal,PML,2025-11-01,0.0
+339712912282,pml-core-poc,Vinay Singhal,PML,2025-11-01,0.0
+736121233725,Paytmmoney Ltd. Data Platform,Vinay Singhal,PML,2025-11-01,0.0
+851725496687,pml-oauth-dr,Vinay Singhal,PML,2025-11-01,9000.0
+370214104985,AMC Platform,Vinay Singhal,PML,2025-11-01,0.0
+582604545400,pm-chat,Vinay Singhal,PML,2025-11-01,0.0
+009124235587,Payer1,Vinay Singhal,PML,2025-11-01,0.0
+423387369363,PML IT,Vinay Singhal,PML,2025-11-01,0.0
+058264391305,pml-storefront,Vinay Singhal,PML,2025-11-01,0.0
+654654145181,pml-oauth-nonprod,Vinay Singhal,PML,2025-11-01,3000.0
+590183908249,pml-wiki-jira,Vinay Singhal,PML,2025-11-01,0.0
+807119641913,pm-bigdata,Vinay Singhal,PML,2025-11-01,0.0
+159245624542,leadsquared,Vinay Singhal,PML,2025-11-01,0.0
+907058949943,ppbloe-prod,Vishal Jangda,Nearbuy,2025-11-01,0.0
+905418158003,FInmate,Saurabh Gupta, OCIL ,2025-11-01,500.0
+767397877262,it-infra,Saurabh Gupta, PIBPL ,2025-11-01,500.0
+654654138046,it-infra,Saurabh Gupta, PAI ,2025-11-01,300.0
+318633126153,AWS SMS,Saurabh Gupta,OCL,2025-11-01,4000.0
+474140895141,Enterprise SMS,Saurabh Gupta,OCL,2025-11-01,7100.0
+367464822874,One97 IT,Saurabh Gupta,OCL,2025-11-01,200.0
+661338130494,telco-testing,Saurabh Gupta,OCL,2025-11-01,100.0
+072401294672,DMS AWS,Abhinav Gupta, OCL ,2025-12-01,12272.71776051
+901553615594,merchantdashboards,Abhinav Gupta, OCL ,2025-12-01,63523.03222289
+480732456233,dms-prod_ocl,Abhinav Gupta, OCL ,2025-12-01,8496.0720111
+182401677120,onboardingengine,Abhinav Gupta, OCL ,2025-12-01,33872.40400692
+389881277731,merchant-business,Abhinav Gupta, OCL ,2025-12-01,1020.61682323
+745098155683,merchant_automation,Abhinav Gupta, OCL ,2025-12-01,759.12717895
+997924011427,ckyc,Abhinav Gupta, OCL ,2025-12-01,5323.63111057
+630307967658,dms-nonprod_ocl,Abhinav Gupta, OCL ,2025-12-01,1333.4755868
+495419344110,incentive,Abhinav Gupta, OCL ,2025-12-01,11922.77129484
+761904723706,KYB/FSM/Chatbot,Abhinav Gupta, OCL ,2025-12-01,42074.05114892
+654654497161,ppsl-ump-prod,Abhinav Gupta,PPSL,2025-12-01,15061.46199837
+767397730150,ppsl-mo-prod,Abhinav Gupta,PPSL,2025-12-01,3957.14268256
+548411824430,pocketurmoney/oneview,Abhinav Gupta, OCL ,2025-12-01,387.26701696
+272415727726,Paytm Ads,Ajit Kumar, OCL ,2025-12-01,149819.32435562
+381491835802,uth-prod,Ajit Kumar, OCL ,2025-12-01,132885.67414112
+339712810712,tpap-nonprod,Ajit Kumar, OCL ,2025-12-01,6285.49714108
+211125458732,tpap-prod,Ajit Kumar, OCL ,2025-12-01,142576.08868462
+381492106076,YBL-TSP-AWS-UAT V1,Ajit Kumar, OCIL ,2025-12-01,3729.81400352
+992382754296,OCIL-AWS-UAT,Ajit Kumar, OCIL ,2025-12-01,2300.49195363
+891377131146,YBL-TSP-AWS-UAT V2,Ajit Kumar, OCIL ,2025-12-01,20823.22347868
+767398050080,YBL-TSP-AWS-prod,Ajit Kumar, OCIL ,2025-12-01,284247.96186107
+736384229724,cloudsecurity-logs,Amit Malhotra, OCL ,2025-12-01,3677.19077001
+252197745876,AWS InfoSec,Amit Malhotra, OCL ,2025-12-01,15847.67578765
+161115069565,infosec-soc,Amit Malhotra, OCL ,2025-12-01,19323.41266609
+264522784930,AWS DNS,Amit Malhotra, OCL ,2025-12-01,0.0
+647564693872,aml-prod,Akeshwar Jha, OCL ,2025-12-01,0.0
+359716425895,Travel Aws,Anil Kundu, OCL ,2025-12-01,87000.0
+135329050410,CityBus,anil Kundu, OCL ,2025-12-01,1700.0
+769263341944,hotels,Anil Kundu, OCL ,2025-12-01,0.0
+968032760053,Fraud AWS,Bhaskar Gopalan, Labs ,2025-12-01,169900.0
+546818093346,verifierAWS,Bhaskar Gopalan, OCL ,2025-12-01,0.0
+211125515568,risk-ocl-tpap,Bhaskar Gopalan, OCL ,2025-12-01,28100.0
+608146213544,ppblmaquettepa-prod,Bhaskar Gopalan, OCL ,2025-12-01,0.0
+439726107081,risk-verifier-nonprod,Bhaskar Gopalan, OCL ,2025-12-01,0.0
+885068115609,pai-sre,Bhaskar Gopalan, Labs ,2025-12-01,6500.0
+021891570382,Risk-Lending(new),Bhaskar Gopalan,OCL,2025-12-01,31000.0
+767397937234,PPSL- risk,Bhaskar Gopalan,PPSL,2025-12-01,77102.0
+017820698743,risk-devops-tools,Bhaskar Gopalan,OCL,2025-12-01,1500.0
+339712759199,feature-store-ocl,Bruno Meira,OCL,2025-12-01,0.0
+746682193773,cds-clm,Bhaskar Gopalan,OCL,2025-12-01,0.0
+130653941854,insurance-ds,Bhaskar Gopalan, PIBPL ,2025-12-01,0.0
+465354398947,aml-nonprod,Akeshwar Jha, OCL ,2025-12-01,0.0
+532041146482,aml-ppsl-nonprod,Deepanshu Jain, PPSL ,2025-12-01,0.0
+914516902729,finance_support_ocl,Dheerendra Mishra, OCL ,2025-12-01,6000.0
+625612021127,aoa-nonprod,Gagan Verma,OCL,2025-12-01,1700.0
+340677782776,aoa-prod,Gagan Verma,OCL,2025-12-01,11200.0
+541095382258,Card Tokenization,Gagan Verma,OCL,2025-12-01,2100.0
+611670160261,emi-nonprod,Gagan Verma,OCL,2025-12-01,2400.0
+068930846606,emi-prod_ocl,Gagan Verma,OCL,2025-12-01,5000.0
+424503791295,merchant-payments-api_prod_ocl,Gagan Verma,OCL,2025-12-01,184900.0
+929265682896,payment-non-prod,Gagan Verma,OCL,2025-12-01,30800.0
+233815244996,payment-platform_nonprod_ocl,Gagan Verma,OCL,2025-12-01,22500.0
+304016915943,payments-data-rtdd_prod_ocl,Gagan Verma,OCL,2025-12-01,202900.0
+352506242819,payments-platform_prod_ocl,Gagan Verma,OCL,2025-12-01,850600.0
+239103975135,QR,Gagan Verma,OCL,2025-12-01,11200.0
+128131020113,pa-nonprod,Gagan Verma,PPSL,2025-12-01,5700.0
+189893850600,pa-prod,Gagan Verma,PPSL,2025-12-01,104100.0
+471112548387,ppsl-affordability-prod,Gagan Verma,PPSL,2025-12-01,11400.0
+730335596554,ppsl-aml-prod,Gagan Verma,PPSL,2025-12-01,3900.0
+239937555916,ppsl-cardservice,Gagan Verma,PPSL,2025-12-01,1300.0
+905418390117,ppsl-pg2-nonprod,Gagan Verma,PPSL,2025-12-01,11400.0
+590183666588,ppsl-pg2-prod,Gagan Verma,PPSL,2025-12-01,373400.0
+590183673148,ppsl-rtdd-prod,Gagan Verma,PPSL,2025-12-01,63500.0
+913203018054,ppblpgpa-nonprod,Gagan Verma,OCL,2025-12-01,0.0
+658447621694,hrtech_ocl,Gaurav Chopra, OCL ,2025-12-01,0.0
+700271710604,labs-llm,Harinder Takhar,OCL,2025-12-01,0.0
+505767364771,Risk Anomaly,Bhaskar Gopalan,OCL,2025-12-01,0.0
+737499001343,call-centre-ivr,Lalit Mohan Pandey, OCL ,2025-12-01,0.0
+567423616371,parent account_ocl,Mukesh Meena, OCL ,2025-12-01,260000.0
+423969094700,push_notifications_ocl,Mukesh Meena, OCL ,2025-12-01,40000.0
+562921704166,paytm-ups,Mukesh Meena, OCL ,2025-12-01,4300.0
+698979518480,bitbucket_ocl,Mukesh Meena, OCL ,2025-12-01,9500.0
+654654315008,ondc-analytics,Mukesh Meena, PAI ,2025-12-01,0.0
+090436275138,Digital Channels,Mukesh Meena, OCL ,2025-12-01,6600.519932
+131752971524,loyalitypoints/tocom,Mukesh Meena, OCL ,2025-12-01,14000.0
+023903256547,central tools,Mukesh Meena, OCL ,2025-12-01,0.0
+337158390682,commoninfra_ocl,Mukesh Meena, OCL ,2025-12-01,7500.0
+064619502227,CentralToolsPlatform,Mukesh Meena, OCL ,2025-12-01,4705.01092659
+054736913503,scp-mgv,Mukesh Meena, OCL ,2025-12-01,1673.50252
+841860372390,fastag issuer_prod_ocl,Mukesh Meena, OCL ,2025-12-01,100.0
+127247839315,Sysops AWS,Mukesh Meena, OCL ,2025-12-01,3200.0
+492902601864,ncmc_acquirer_ocl,Mukesh Meena, OCL ,2025-12-01,800.0
+576911611801,infra_experiment_non_prod_ocl,Mukesh Meena, OCL ,2025-12-01,1000.0
+320811487590,dev-projects,Mukesh Meena, OCL ,2025-12-01,300.0
+116631508635,fastag_non prod_ocl,Mukesh Meena, OCL ,2025-12-01,100.0
+DROCL,DR - overall (to align with new contract),Mukesh Meena, PML ,2025-12-01,0.0
+New 3,Confluent Kafka,Mukesh Meena,OCL,2025-12-01,0.0
+678670235450,authoriser,Mukesh Meena,OCL,2025-12-01,0.0
+576218818919,tools-pa,Mukesh Meena,OCL,2025-12-01,0.0
+290310562512,Wallet-Nonprod,Mukesh Meena, OCL ,2025-12-01,0.0
+984308723723,digital_saas_ocl,Mukesh Meena, OCL ,2025-12-01,10500.0
+758230397644,Mall Bangalore,Mukesh Meena, PEPL ,2025-12-01,15000.0
+992382517474,ppsl-central-tools,Mukesh Meena,PPSL,2025-12-01,1100.0
+542832536672,Nearbuy Payer,Mukesh Meena,Nearbuy,2025-12-01,0.0
+798411736697,ncmc-acq-rupay-switch,Mukesh Meena, OCL ,2025-12-01,0.0
+445736908015,recharge bill payments_ocl,Nipun Arora, OCL ,2025-12-01,125000.0
+442447453008,Digital Gold,Nipun Arora, PML ,2025-12-01,10200.0
+176839215860,aws-omnicard-Prod,Nipun Arora,OCL,2025-12-01,0.0
+664526282133,Paytm Labs,Otto Mok, Labs ,2025-12-01,2600.0
+453914767997,risk-monitoring,Pankaj Kedia, OCL ,2025-12-01,0.0
+Premium Support,Premium Support,Parakh Agarwal, OCL ,2025-12-01,0.0
+469795226344,billing account_ocl,Parakh Agarwal, OCL ,2025-12-01,0.0
+015680176265,PPSL Payer,Parakh Agarwal, PPSL ,2025-12-01,0.0
+065278587813,rooter-io,Piyush Kumar (External),Rooter,2025-12-01,4815.61171828
+302399626617,ROOTER-DEV,Piyush Kumar (External),Rooter,2025-12-01,37.48032448
+919275210163,ROOTER-CLOUD-MANAGEMENT,Piyush Kumar (External),Rooter,2025-12-01,337.01062377
+477815026673,Rooter Payer,Piyush Kumar (External),Rooter,2025-12-01,130.30806525
+695745283037,ROOTER-CLOUD-LOGS,Piyush Kumar (External),Rooter,2025-12-01,4.30057169
+576349278157,ROOTER-CLOUD-SECURITY,Piyush Kumar (External),Rooter,2025-12-01,48.10259047
+271855570343,ROOTER-PROD-CDN,Piyush Kumar (External),Rooter,2025-12-01,761.04224989
+580053151223,ROOTER-PROD-TRANSCODING,Piyush Kumar (External),Rooter,2025-12-01,4180.64190856
+973103936838,ROOTER-STAGE,Piyush Kumar (External),Rooter,2025-12-01,559.7029276
+537598503159,ROOTER-PROD-ANALYTICS,Piyush Kumar (External),Rooter,2025-12-01,7269.54260443
+123964038738,ROOTER-PROD-APPS,Piyush Kumar (External),Rooter,2025-12-01,14830.88187891
+753168370952,hawkeye_ocl,Prashant Tiwari, OCL ,2025-12-01,29461.01047882
+522974168642,chat_ocl,Prashant Tiwari, OCL ,2025-12-01,20896.47908915
+722152247093,central_app_tech_ocl,Prashant Tiwari, OCL ,2025-12-01,2550.29
+066636274316,central_app_tech_web_ocl,Prashant Tiwari, OCL ,2025-12-01,3898.70192175
+824873459626,central_app_tech_mini_apps_ocl,Prashant Tiwari, OCL ,2025-12-01,1476.72
+475919677060,paytm_digital_content_ocl,Prashant Tiwari, OCL ,2025-12-01,0.0
+239666495852,health_ocl,Prashant Tiwari, OCL ,2025-12-01,591.89
+605458724602,content_ml_ocl,Prashant Tiwari, OCL ,2025-12-01,0.0
+663804405009,movies_ocl,Prashant Tiwari,Insider,2025-12-01,0.0
+155772818492,Insider (Events),Prashant Tiwari,Insider,2025-12-01,0.0
+368920154232,central app tech_ocl,Prashant Tiwari, OCL ,2025-12-01,1760.89
+985226307906,Insider Payer,Prashant Tiwari,Insider,2025-12-01,0.0
+538615689396,Pandora AWS,Sam Fang, Labs ,2025-12-01,0.0
+269350686318,AWS Pan 2,Sam Fang, Labs ,2025-12-01,0.0
+477161539263,ticketnewprod (Ram),Sasiraman Venkatesan (External),na,2025-12-01,0.0
+475804058290,Payer9,Sathyaseelan Murugesan,na,2025-12-01,0.0
+407648374860,IT_BACKUP,Saurabh Gupta, OCL ,2025-12-01,7800.0
+251917288737,IT Production,Saurabh Gupta, OCL ,2025-12-01,13900.0
+755560366148,SAP-HANA,Saurabh Gupta, OCL ,2025-12-01,64000.0
+002637409966,user-management-prod,Shrey Agarwal, OCL ,2025-12-01,195000.0
+210577074618,recon_prod_ocl,Shrey Agarwal, OCL ,2025-12-01,40000.0
+058264205572,cst-prod  ,Shrey Agarwal, OCL ,2025-12-01,2000.0
+752518464574,User Preferences System,Shrey Agarwal, OCL ,2025-12-01,24000.0
+518207312579,cst-ai,Shrey Agarwal, OCL ,2025-12-01,0.0
+615069360012,merchant-ra-automation,Shrey Agarwal, OCL ,2025-12-01,5000.0
+685585466397,recon_nonprod_ocl,Shrey Agarwal, OCL ,2025-12-01,5000.0
+952840895893,User Management,Shrey Agarwal, OCL ,2025-12-01,8000.0
+471112938013,tpap-oauth-dr,Shrey Agarwal, OCL ,2025-12-01,0.0
+337891198417,digital_cst,Shrey Agarwal, OCL ,2025-12-01,250000.0
+654654208887,ppsl-recon-prod,Shrey Agarwal,PPSL,2025-12-01,5000.0
+851725259328,ppsl-recon-nonprod,Shrey Agarwal,PPSL,2025-12-01,2500.0
+975050351452,ppsl-binary-prod,Shrey Agarwal,PPSL,2025-12-01,3000.0
+767397827620,ppsl-oauth-prod,Shrey Agarwal,PPSL,2025-12-01,2000.0
+654654394550,oauth-nonprod,Shrey Agarwal,OCL,2025-12-01,1000.0
+637423614657,pml-oauth,Shrey Agarwal,PML,2025-12-01,23000.0
+898496923608,games_pfg,Sudhanshu Gupta, PFG ,2025-12-01,109402.9575
+659606126372,URJA MONEY PVT LTD,Sunil Agrawal, Urjamoney ,2025-12-01,53400.0
+899249751508,PayTm DaaS ML,Sunil Agrawal, OCL ,2025-12-01,158800.0
+705108899578,daas-managed-services,Sunil Agrawal, OCL ,2025-12-01,57100.0
+479671683529,cdp risk_ocl,Sunil Agrawal, OCL ,2025-12-01,49900.0
+564188254156,Lending DataScience,Sunil Agrawal, OCL ,2025-12-01,97900.0
+340077773684,Paytm Financial Services,Sunil Agrawal, OCL ,2025-12-01,267800.0
+075790327284,cdp_growth marketing_ocl,Sunil Agrawal, OCL ,2025-12-01,141300.0
+576293063887,digital_insurance,Sunil Agrawal, PIBPL ,2025-12-01,19100.0
+718893572916,AaaS-nonprod,Sunil Agrawal, OCL ,2025-12-01,4106.56693079
+510772292268,cdo-dre,Sunil Agrawal, OCL ,2025-12-01,1900.0
+471112958605,lending-dwh,Sunil Agrawal, OCL ,2025-12-01,2700.0
+153518195166,cdo-non-prod,Sunil Agrawal, OCL ,2025-12-01,1700.0
+481935107677,DaaS-Apps,Sunil Agrawal, OCL ,2025-12-01,2500.0
+218943325897,devopscommon,Sunil Agrawal, OCL ,2025-12-01,700.0
+161282784430,cdp-ppbl-pa,Sunil Agrawal, OCL ,2025-12-01,0.0
+811134095225,AWS DaaS,Sunil Agrawal, OCL ,2025-12-01,65900.0
+975049957371,tpap-dwh,Sunil Agrawal, OCL ,2025-12-01,39000.0
+419830208690,AaaS-prod,Sunil Agrawal, OCL ,2025-12-01,28570.95114791
+628412515026,Datalake AWS,Sunil Agrawal, OCL ,2025-12-01,485700.0
+471112571211,ppsl-dwh-prod,Sunil Agrawal,PPSL,2025-12-01,296700.0
+863780864233,CreditMate Payer,Sunil Agrawal,Creditmate,2025-12-01,0.0
+442231926211,lending-vkyc,Sunil Agrawal,OCL,2025-12-01,0.0
+097001033170,paytm_smart_retail_ocl,Sunil Bansal, Ticketnew ,2025-12-01,3500.0
+003079193758,IOT Prod,Sunil Bansal, OCL ,2025-12-01,72000.0
+028914776520,edc_prod_ocl,Sunil Bansal, OCL ,2025-12-01,17500.0
+848332057417,mloyal_prod,Sunil Bansal, OCL ,2025-12-01,5000.0
+066548792077,IOT Core,Sunil Bansal, OCL ,2025-12-01,1700.0
+821240137883,edc_non prod_ocl,Sunil Bansal, OCL ,2025-12-01,2000.0
+494799526181,AWS_Paytm'Mloyal,Sunil Bansal,OCL,2025-12-01,1500.0
+906954799739,Nearbuy,Sunny Sharma,Nearbuy,2025-12-01,16739.26979807
+975049937880,mgc-sclp,Sunny Sharma, OCL ,2025-12-01,0.0
+851725259472,ppsl-app-sec,Surinder Kumar,PPSL,2025-12-01,25400.0
+860971823470,Video KYC,Suspended account,OCL,2025-12-01,0.0
+797142548187,ppblpgpa-prod,Suspended account,OCL,2025-12-01,0.0
+272968093320,legalapps,Urvashi Sahai, OCL ,2025-12-01,1300.0
+789596305652,regular_mf,Varun Shridhar, PSPL ,2025-12-01,11600.0
+656952484900,Paytm Money,Vinay Singhal, PML ,2025-12-01,0.0
+470060591194,edutech,Vinay Singhal, PML ,2025-12-01,0.0
+322263815270,PM-EduTech-Prod,Vinay Singhal, PML ,2025-12-01,0.0
+185774682289,pml-chat-dev,Vinay Singhal, PML ,2025-12-01,0.0
+762730909359,PM-Equities,Vinay Singhal,PML,2025-12-01,0.0
+011420223908,PM-DataLake,Vinay Singhal,PML,2025-12-01,0.0
+211125336551,pml-infosec,Vinay Singhal,PML,2025-12-01,0.0
+992382687474,pml-cst,Vinay Singhal,PML,2025-12-01,0.0
+381492193378,pml-datalake,Vinay Singhal,PML,2025-12-01,0.0
+339712912282,pml-core-poc,Vinay Singhal,PML,2025-12-01,0.0
+736121233725,Paytmmoney Ltd. Data Platform,Vinay Singhal,PML,2025-12-01,0.0
+851725496687,pml-oauth-dr,Vinay Singhal,PML,2025-12-01,9000.0
+370214104985,AMC Platform,Vinay Singhal,PML,2025-12-01,0.0
+582604545400,pm-chat,Vinay Singhal,PML,2025-12-01,0.0
+009124235587,Payer1,Vinay Singhal,PML,2025-12-01,0.0
+423387369363,PML IT,Vinay Singhal,PML,2025-12-01,0.0
+058264391305,pml-storefront,Vinay Singhal,PML,2025-12-01,0.0
+654654145181,pml-oauth-nonprod,Vinay Singhal,PML,2025-12-01,3000.0
+590183908249,pml-wiki-jira,Vinay Singhal,PML,2025-12-01,0.0
+807119641913,pm-bigdata,Vinay Singhal,PML,2025-12-01,0.0
+159245624542,leadsquared,Vinay Singhal,PML,2025-12-01,0.0
+907058949943,ppbloe-prod,Vishal Jangda,Nearbuy,2025-12-01,0.0
+905418158003,FInmate,Saurabh Gupta, OCIL ,2025-12-01,500.0
+767397877262,it-infra,Saurabh Gupta, PIBPL ,2025-12-01,500.0
+654654138046,it-infra,Saurabh Gupta, PAI ,2025-12-01,300.0
+318633126153,AWS SMS,Saurabh Gupta,OCL,2025-12-01,4100.0
+474140895141,Enterprise SMS,Saurabh Gupta,OCL,2025-12-01,7100.0
+367464822874,One97 IT,Saurabh Gupta,OCL,2025-12-01,200.0
+661338130494,telco-testing,Saurabh Gupta,OCL,2025-12-01,200.0
+072401294672,DMS AWS,Abhinav Gupta, OCL ,2026-01-01,12518.17211572
+901553615594,merchantdashboards,Abhinav Gupta, OCL ,2026-01-01,64793.49286734
+480732456233,dms-prod_ocl,Abhinav Gupta, OCL ,2026-01-01,8665.99345132
+182401677120,onboardingengine,Abhinav Gupta, OCL ,2026-01-01,34549.85208706
+389881277731,merchant-business,Abhinav Gupta, OCL ,2026-01-01,1041.02915969
+745098155683,merchant_automation,Abhinav Gupta, OCL ,2026-01-01,774.30972253
+997924011427,ckyc,Abhinav Gupta, OCL ,2026-01-01,5430.10373278
+630307967658,dms-nonprod_ocl,Abhinav Gupta, OCL ,2026-01-01,1360.14509854
+495419344110,incentive,Abhinav Gupta, OCL ,2026-01-01,12161.22672073
+761904723706,KYB/FSM/Chatbot,Abhinav Gupta, OCL ,2026-01-01,42915.5321719
+654654497161,ppsl-ump-prod,Abhinav Gupta,PPSL,2026-01-01,15362.69123834
+767397730150,ppsl-mo-prod,Abhinav Gupta,PPSL,2026-01-01,4036.28553621
+548411824430,pocketurmoney/oneview,Abhinav Gupta, OCL ,2026-01-01,395.0123573
+272415727726,Paytm Ads,Ajit Kumar, OCL ,2026-01-01,154313.90408629
+381491835802,uth-prod,Ajit Kumar, OCL ,2026-01-01,138201.10110676
+339712810712,tpap-nonprod,Ajit Kumar, OCL ,2026-01-01,6599.77199813
+211125458732,tpap-prod,Ajit Kumar, OCL ,2026-01-01,146853.37134516
+381492106076,YBL-TSP-AWS-UAT V1,Ajit Kumar, OCIL ,2026-01-01,3916.30470369
+992382754296,OCIL-AWS-UAT,Ajit Kumar, OCIL ,2026-01-01,2415.51655132
+891377131146,YBL-TSP-AWS-UAT V2,Ajit Kumar, OCIL ,2026-01-01,21864.38465261
+767398050080,YBL-TSP-AWS-prod,Ajit Kumar, OCIL ,2026-01-01,288511.68128899
+736384229724,cloudsecurity-logs,Amit Malhotra, OCL ,2026-01-01,3713.96267771
+252197745876,AWS InfoSec,Amit Malhotra, OCL ,2026-01-01,16006.15254552
+161115069565,infosec-soc,Amit Malhotra, OCL ,2026-01-01,19516.64679275
+264522784930,AWS DNS,Amit Malhotra, OCL ,2026-01-01,0.0
+647564693872,aml-prod,Akeshwar Jha, OCL ,2026-01-01,0.0
+359716425895,Travel Aws,Anil Kundu, OCL ,2026-01-01,90000.0
+135329050410,CityBus,anil Kundu, OCL ,2026-01-01,1700.0
+769263341944,hotels,Anil Kundu, OCL ,2026-01-01,0.0
+968032760053,Fraud AWS,Bhaskar Gopalan, Labs ,2026-01-01,174800.0
+546818093346,verifierAWS,Bhaskar Gopalan, OCL ,2026-01-01,0.0
+211125515568,risk-ocl-tpap,Bhaskar Gopalan, OCL ,2026-01-01,28600.0
+608146213544,ppblmaquettepa-prod,Bhaskar Gopalan, OCL ,2026-01-01,0.0
+439726107081,risk-verifier-nonprod,Bhaskar Gopalan, OCL ,2026-01-01,0.0
+885068115609,pai-sre,Bhaskar Gopalan, Labs ,2026-01-01,6500.0
+021891570382,Risk-Lending(new),Bhaskar Gopalan,OCL,2026-01-01,31900.0
+767397937234,PPSL- risk,Bhaskar Gopalan,PPSL,2026-01-01,79014.0
+017820698743,risk-devops-tools,Bhaskar Gopalan,OCL,2026-01-01,1500.0
+339712759199,feature-store-ocl,Bruno Meira,OCL,2026-01-01,0.0
+746682193773,cds-clm,Bhaskar Gopalan,OCL,2026-01-01,0.0
+130653941854,insurance-ds,Bhaskar Gopalan, PIBPL ,2026-01-01,0.0
+465354398947,aml-nonprod,Akeshwar Jha, OCL ,2026-01-01,0.0
+532041146482,aml-ppsl-nonprod,Deepanshu Jain, PPSL ,2026-01-01,0.0
+914516902729,finance_support_ocl,Dheerendra Mishra, OCL ,2026-01-01,6000.0
+625612021127,aoa-nonprod,Gagan Verma,OCL,2026-01-01,1700.0
+340677782776,aoa-prod,Gagan Verma,OCL,2026-01-01,11300.0
+541095382258,Card Tokenization,Gagan Verma,OCL,2026-01-01,2100.0
+611670160261,emi-nonprod,Gagan Verma,OCL,2026-01-01,2400.0
+068930846606,emi-prod_ocl,Gagan Verma,OCL,2026-01-01,5100.0
+424503791295,merchant-payments-api_prod_ocl,Gagan Verma,OCL,2026-01-01,188600.0
+929265682896,payment-non-prod,Gagan Verma,OCL,2026-01-01,31300.0
+233815244996,payment-platform_nonprod_ocl,Gagan Verma,OCL,2026-01-01,22700.0
+304016915943,payments-data-rtdd_prod_ocl,Gagan Verma,OCL,2026-01-01,205900.0
+352506242819,payments-platform_prod_ocl,Gagan Verma,OCL,2026-01-01,863400.0
+239103975135,QR,Gagan Verma,OCL,2026-01-01,11300.0
+128131020113,pa-nonprod,Gagan Verma,PPSL,2026-01-01,5800.0
+189893850600,pa-prod,Gagan Verma,PPSL,2026-01-01,106200.0
+471112548387,ppsl-affordability-prod,Gagan Verma,PPSL,2026-01-01,11600.0
+730335596554,ppsl-aml-prod,Gagan Verma,PPSL,2026-01-01,4000.0
+239937555916,ppsl-cardservice,Gagan Verma,PPSL,2026-01-01,1300.0
+905418390117,ppsl-pg2-nonprod,Gagan Verma,PPSL,2026-01-01,11500.0
+590183666588,ppsl-pg2-prod,Gagan Verma,PPSL,2026-01-01,378600.0
+590183673148,ppsl-rtdd-prod,Gagan Verma,PPSL,2026-01-01,64800.0
+913203018054,ppblpgpa-nonprod,Gagan Verma,OCL,2026-01-01,0.0
+658447621694,hrtech_ocl,Gaurav Chopra, OCL ,2026-01-01,0.0
+700271710604,labs-llm,Harinder Takhar,OCL,2026-01-01,0.0
+505767364771,Risk Anomaly,Bhaskar Gopalan,OCL,2026-01-01,0.0
+737499001343,call-centre-ivr,Lalit Mohan Pandey, OCL ,2026-01-01,0.0
+567423616371,parent account_ocl,Mukesh Meena, OCL ,2026-01-01,265000.0
+423969094700,push_notifications_ocl,Mukesh Meena, OCL ,2026-01-01,41000.0
+562921704166,paytm-ups,Mukesh Meena, OCL ,2026-01-01,4300.0
+698979518480,bitbucket_ocl,Mukesh Meena, OCL ,2026-01-01,9500.0
+654654315008,ondc-analytics,Mukesh Meena, PAI ,2026-01-01,0.0
+090436275138,Digital Channels,Mukesh Meena, OCL ,2026-01-01,6666.52513132
+131752971524,loyalitypoints/tocom,Mukesh Meena, OCL ,2026-01-01,16000.0
+023903256547,central tools,Mukesh Meena, OCL ,2026-01-01,0.0
+337158390682,commoninfra_ocl,Mukesh Meena, OCL ,2026-01-01,7500.0
+064619502227,CentralToolsPlatform,Mukesh Meena, OCL ,2026-01-01,4846.16125439
+054736913503,scp-mgv,Mukesh Meena, OCL ,2026-01-01,1690.2375452
+841860372390,fastag issuer_prod_ocl,Mukesh Meena, OCL ,2026-01-01,100.0
+127247839315,Sysops AWS,Mukesh Meena, OCL ,2026-01-01,3200.0
+492902601864,ncmc_acquirer_ocl,Mukesh Meena, OCL ,2026-01-01,800.0
+576911611801,infra_experiment_non_prod_ocl,Mukesh Meena, OCL ,2026-01-01,1000.0
+320811487590,dev-projects,Mukesh Meena, OCL ,2026-01-01,300.0
+116631508635,fastag_non prod_ocl,Mukesh Meena, OCL ,2026-01-01,100.0
+DROCL,DR - overall (to align with new contract),Mukesh Meena, PML ,2026-01-01,0.0
+New 3,Confluent Kafka,Mukesh Meena,OCL,2026-01-01,0.0
+678670235450,authoriser,Mukesh Meena,OCL,2026-01-01,0.0
+576218818919,tools-pa,Mukesh Meena,OCL,2026-01-01,0.0
+290310562512,Wallet-Nonprod,Mukesh Meena, OCL ,2026-01-01,0.0
+984308723723,digital_saas_ocl,Mukesh Meena, OCL ,2026-01-01,10500.0
+758230397644,Mall Bangalore,Mukesh Meena, PEPL ,2026-01-01,15000.0
+992382517474,ppsl-central-tools,Mukesh Meena,PPSL,2026-01-01,1200.0
+542832536672,Nearbuy Payer,Mukesh Meena,Nearbuy,2026-01-01,0.0
+798411736697,ncmc-acq-rupay-switch,Mukesh Meena, OCL ,2026-01-01,0.0
+445736908015,recharge bill payments_ocl,Nipun Arora, OCL ,2026-01-01,125000.0
+442447453008,Digital Gold,Nipun Arora, PML ,2026-01-01,11600.0
+176839215860,aws-omnicard-Prod,Nipun Arora,OCL,2026-01-01,0.0
+664526282133,Paytm Labs,Otto Mok, Labs ,2026-01-01,2600.0
+453914767997,risk-monitoring,Pankaj Kedia, OCL ,2026-01-01,0.0
+Premium Support,Premium Support,Parakh Agarwal, OCL ,2026-01-01,0.0
+469795226344,billing account_ocl,Parakh Agarwal, OCL ,2026-01-01,0.0
+015680176265,PPSL Payer,Parakh Agarwal, PPSL ,2026-01-01,0.0
+065278587813,rooter-io,Piyush Kumar (External),Rooter,2026-01-01,4815.58979071
+302399626617,ROOTER-DEV,Piyush Kumar (External),Rooter,2026-01-01,37.50273599
+919275210163,ROOTER-CLOUD-MANAGEMENT,Piyush Kumar (External),Rooter,2026-01-01,336.99649027
+477815026673,Rooter Payer,Piyush Kumar (External),Rooter,2026-01-01,130.29883412
+695745283037,ROOTER-CLOUD-LOGS,Piyush Kumar (External),Rooter,2026-01-01,4.30036576
+576349278157,ROOTER-CLOUD-SECURITY,Piyush Kumar (External),Rooter,2026-01-01,48.0994047
+271855570343,ROOTER-PROD-CDN,Piyush Kumar (External),Rooter,2026-01-01,760.9904516
+580053151223,ROOTER-PROD-TRANSCODING,Piyush Kumar (External),Rooter,2026-01-01,4181.02672613
+973103936838,ROOTER-STAGE,Piyush Kumar (External),Rooter,2026-01-01,559.72953441
+537598503159,ROOTER-PROD-ANALYTICS,Piyush Kumar (External),Rooter,2026-01-01,7270.69633816
+123964038738,ROOTER-PROD-APPS,Piyush Kumar (External),Rooter,2026-01-01,14830.31096299
+753168370952,hawkeye_ocl,Prashant Tiwari, OCL ,2026-01-01,30344.84079319
+522974168642,chat_ocl,Prashant Tiwari, OCL ,2026-01-01,21523.37346182
+722152247093,central_app_tech_ocl,Prashant Tiwari, OCL ,2026-01-01,2550.29
+066636274316,central_app_tech_web_ocl,Prashant Tiwari, OCL ,2026-01-01,3937.68894097
+824873459626,central_app_tech_mini_apps_ocl,Prashant Tiwari, OCL ,2026-01-01,1476.72
+475919677060,paytm_digital_content_ocl,Prashant Tiwari, OCL ,2026-01-01,0.0
+239666495852,health_ocl,Prashant Tiwari, OCL ,2026-01-01,591.89
+605458724602,content_ml_ocl,Prashant Tiwari, OCL ,2026-01-01,0.0
+663804405009,movies_ocl,Prashant Tiwari,Insider,2026-01-01,0.0
+155772818492,Insider (Events),Prashant Tiwari,Insider,2026-01-01,0.0
+368920154232,central app tech_ocl,Prashant Tiwari, OCL ,2026-01-01,1760.89
+985226307906,Insider Payer,Prashant Tiwari,Insider,2026-01-01,0.0
+538615689396,Pandora AWS,Sam Fang, Labs ,2026-01-01,0.0
+269350686318,AWS Pan 2,Sam Fang, Labs ,2026-01-01,0.0
+477161539263,ticketnewprod (Ram),Sasiraman Venkatesan (External),na,2026-01-01,0.0
+475804058290,Payer9,Sathyaseelan Murugesan,na,2026-01-01,0.0
+407648374860,IT_BACKUP,Saurabh Gupta, OCL ,2026-01-01,7900.0
+251917288737,IT Production,Saurabh Gupta, OCL ,2026-01-01,14000.0
+755560366148,SAP-HANA,Saurabh Gupta, OCL ,2026-01-01,64000.0
+002637409966,user-management-prod,Shrey Agarwal, OCL ,2026-01-01,200000.0
+210577074618,recon_prod_ocl,Shrey Agarwal, OCL ,2026-01-01,40000.0
+058264205572,cst-prod  ,Shrey Agarwal, OCL ,2026-01-01,2000.0
+752518464574,User Preferences System,Shrey Agarwal, OCL ,2026-01-01,24000.0
+518207312579,cst-ai,Shrey Agarwal, OCL ,2026-01-01,0.0
+615069360012,merchant-ra-automation,Shrey Agarwal, OCL ,2026-01-01,5000.0
+685585466397,recon_nonprod_ocl,Shrey Agarwal, OCL ,2026-01-01,5000.0
+952840895893,User Management,Shrey Agarwal, OCL ,2026-01-01,8000.0
+471112938013,tpap-oauth-dr,Shrey Agarwal, OCL ,2026-01-01,0.0
+337891198417,digital_cst,Shrey Agarwal, OCL ,2026-01-01,250000.0
+654654208887,ppsl-recon-prod,Shrey Agarwal,PPSL,2026-01-01,5000.0
+851725259328,ppsl-recon-nonprod,Shrey Agarwal,PPSL,2026-01-01,2500.0
+975050351452,ppsl-binary-prod,Shrey Agarwal,PPSL,2026-01-01,3000.0
+767397827620,ppsl-oauth-prod,Shrey Agarwal,PPSL,2026-01-01,2000.0
+654654394550,oauth-nonprod,Shrey Agarwal,OCL,2026-01-01,1000.0
+637423614657,pml-oauth,Shrey Agarwal,PML,2026-01-01,23000.0
+898496923608,games_pfg,Sudhanshu Gupta, PFG ,2026-01-01,109402.9575
+659606126372,URJA MONEY PVT LTD,Sunil Agrawal, Urjamoney ,2026-01-01,54400.0
+899249751508,PayTm DaaS ML,Sunil Agrawal, OCL ,2026-01-01,161900.0
+705108899578,daas-managed-services,Sunil Agrawal, OCL ,2026-01-01,58200.0
+479671683529,cdp risk_ocl,Sunil Agrawal, OCL ,2026-01-01,50900.0
+564188254156,Lending DataScience,Sunil Agrawal, OCL ,2026-01-01,99900.0
+340077773684,Paytm Financial Services,Sunil Agrawal, OCL ,2026-01-01,273200.0
+075790327284,cdp_growth marketing_ocl,Sunil Agrawal, OCL ,2026-01-01,145500.0
+576293063887,digital_insurance,Sunil Agrawal, PIBPL ,2026-01-01,19200.0
+718893572916,AaaS-nonprod,Sunil Agrawal, OCL ,2026-01-01,4188.69826941
+510772292268,cdo-dre,Sunil Agrawal, OCL ,2026-01-01,2000.0
+471112958605,lending-dwh,Sunil Agrawal, OCL ,2026-01-01,2700.0
+153518195166,cdo-non-prod,Sunil Agrawal, OCL ,2026-01-01,1700.0
+481935107677,DaaS-Apps,Sunil Agrawal, OCL ,2026-01-01,2600.0
+218943325897,devopscommon,Sunil Agrawal, OCL ,2026-01-01,700.0
+161282784430,cdp-ppbl-pa,Sunil Agrawal, OCL ,2026-01-01,0.0
+811134095225,AWS DaaS,Sunil Agrawal, OCL ,2026-01-01,67200.0
+975049957371,tpap-dwh,Sunil Agrawal, OCL ,2026-01-01,39800.0
+419830208690,AaaS-prod,Sunil Agrawal, OCL ,2026-01-01,29142.37017086
+628412515026,Datalake AWS,Sunil Agrawal, OCL ,2026-01-01,495400.0
+471112571211,ppsl-dwh-prod,Sunil Agrawal,PPSL,2026-01-01,299600.0
+863780864233,CreditMate Payer,Sunil Agrawal,Creditmate,2026-01-01,0.0
+442231926211,lending-vkyc,Sunil Agrawal,OCL,2026-01-01,0.0
+097001033170,paytm_smart_retail_ocl,Sunil Bansal, Ticketnew ,2026-01-01,3500.0
+003079193758,IOT Prod,Sunil Bansal, OCL ,2026-01-01,74000.0
+028914776520,edc_prod_ocl,Sunil Bansal, OCL ,2026-01-01,17500.0
+848332057417,mloyal_prod,Sunil Bansal, OCL ,2026-01-01,5000.0
+066548792077,IOT Core,Sunil Bansal, OCL ,2026-01-01,1700.0
+821240137883,edc_non prod_ocl,Sunil Bansal, OCL ,2026-01-01,2000.0
+494799526181,AWS_Paytm'Mloyal,Sunil Bansal,OCL,2026-01-01,1500.0
+906954799739,Nearbuy,Sunny Sharma,Nearbuy,2026-01-01,17074.05519403
+975049937880,mgc-sclp,Sunny Sharma, OCL ,2026-01-01,0.0
+851725259472,ppsl-app-sec,Surinder Kumar,PPSL,2026-01-01,25900.0
+860971823470,Video KYC,Suspended account,OCL,2026-01-01,0.0
+797142548187,ppblpgpa-prod,Suspended account,OCL,2026-01-01,0.0
+272968093320,legalapps,Urvashi Sahai, OCL ,2026-01-01,1300.0
+789596305652,regular_mf,Varun Shridhar, PSPL ,2026-01-01,14500.0
+656952484900,Paytm Money,Vinay Singhal, PML ,2026-01-01,0.0
+470060591194,edutech,Vinay Singhal, PML ,2026-01-01,0.0
+322263815270,PM-EduTech-Prod,Vinay Singhal, PML ,2026-01-01,0.0
+185774682289,pml-chat-dev,Vinay Singhal, PML ,2026-01-01,0.0
+762730909359,PM-Equities,Vinay Singhal,PML,2026-01-01,0.0
+011420223908,PM-DataLake,Vinay Singhal,PML,2026-01-01,0.0
+211125336551,pml-infosec,Vinay Singhal,PML,2026-01-01,0.0
+992382687474,pml-cst,Vinay Singhal,PML,2026-01-01,0.0
+381492193378,pml-datalake,Vinay Singhal,PML,2026-01-01,0.0
+339712912282,pml-core-poc,Vinay Singhal,PML,2026-01-01,0.0
+736121233725,Paytmmoney Ltd. Data Platform,Vinay Singhal,PML,2026-01-01,0.0
+851725496687,pml-oauth-dr,Vinay Singhal,PML,2026-01-01,9000.0
+370214104985,AMC Platform,Vinay Singhal,PML,2026-01-01,0.0
+582604545400,pm-chat,Vinay Singhal,PML,2026-01-01,0.0
+009124235587,Payer1,Vinay Singhal,PML,2026-01-01,0.0
+423387369363,PML IT,Vinay Singhal,PML,2026-01-01,0.0
+058264391305,pml-storefront,Vinay Singhal,PML,2026-01-01,0.0
+654654145181,pml-oauth-nonprod,Vinay Singhal,PML,2026-01-01,3000.0
+590183908249,pml-wiki-jira,Vinay Singhal,PML,2026-01-01,0.0
+807119641913,pm-bigdata,Vinay Singhal,PML,2026-01-01,0.0
+159245624542,leadsquared,Vinay Singhal,PML,2026-01-01,0.0
+907058949943,ppbloe-prod,Vishal Jangda,Nearbuy,2026-01-01,0.0
+905418158003,FInmate,Saurabh Gupta, OCIL ,2026-01-01,500.0
+767397877262,it-infra,Saurabh Gupta, PIBPL ,2026-01-01,500.0
+654654138046,it-infra,Saurabh Gupta, PAI ,2026-01-01,300.0
+318633126153,AWS SMS,Saurabh Gupta,OCL,2026-01-01,4100.0
+474140895141,Enterprise SMS,Saurabh Gupta,OCL,2026-01-01,7100.0
+367464822874,One97 IT,Saurabh Gupta,OCL,2026-01-01,200.0
+661338130494,telco-testing,Saurabh Gupta,OCL,2026-01-01,100.0
+072401294672,DMS AWS,Abhinav Gupta, OCL ,2026-02-01,12768.53555803
+901553615594,merchantdashboards,Abhinav Gupta, OCL ,2026-02-01,66089.36272469
+480732456233,dms-prod_ocl,Abhinav Gupta, OCL ,2026-02-01,8839.31332034
+182401677120,onboardingengine,Abhinav Gupta, OCL ,2026-02-01,35240.8491288
+389881277731,merchant-business,Abhinav Gupta, OCL ,2026-02-01,1061.84974289
+745098155683,merchant_automation,Abhinav Gupta, OCL ,2026-02-01,789.79591698
+997924011427,ckyc,Abhinav Gupta, OCL ,2026-02-01,5538.70580744
+630307967658,dms-nonprod_ocl,Abhinav Gupta, OCL ,2026-02-01,1387.34800051
+495419344110,incentive,Abhinav Gupta, OCL ,2026-02-01,12404.45125515
+761904723706,KYB/FSM/Chatbot,Abhinav Gupta, OCL ,2026-02-01,43773.84281534
+654654497161,ppsl-ump-prod,Abhinav Gupta,PPSL,2026-02-01,15669.94506311
+767397730150,ppsl-mo-prod,Abhinav Gupta,PPSL,2026-02-01,4117.01124693
+548411824430,pocketurmoney/oneview,Abhinav Gupta, OCL ,2026-02-01,402.91260444
+272415727726,Paytm Ads,Ajit Kumar, OCL ,2026-02-01,158943.32120888
+381491835802,uth-prod,Ajit Kumar, OCL ,2026-02-01,143729.14515103
+339712810712,tpap-nonprod,Ajit Kumar, OCL ,2026-02-01,6929.76059804
+211125458732,tpap-prod,Ajit Kumar, OCL ,2026-02-01,151258.97248551
+381492106076,YBL-TSP-AWS-UAT V1,Ajit Kumar, OCIL ,2026-02-01,4112.11993888
+992382754296,OCIL-AWS-UAT,Ajit Kumar, OCIL ,2026-02-01,2536.29237888
+891377131146,YBL-TSP-AWS-UAT V2,Ajit Kumar, OCIL ,2026-02-01,22957.60388524
+767398050080,YBL-TSP-AWS-prod,Ajit Kumar, OCIL ,2026-02-01,292839.35650832
+736384229724,cloudsecurity-logs,Amit Malhotra, OCL ,2026-02-01,3751.10230449
+252197745876,AWS InfoSec,Amit Malhotra, OCL ,2026-02-01,16166.21407098
+161115069565,infosec-soc,Amit Malhotra, OCL ,2026-02-01,19711.81326068
+264522784930,AWS DNS,Amit Malhotra, OCL ,2026-02-01,0.0
+647564693872,aml-prod,Akeshwar Jha, OCL ,2026-02-01,0.0
+359716425895,Travel Aws,Anil Kundu, OCL ,2026-02-01,92000.0
+135329050410,CityBus,anil Kundu, OCL ,2026-02-01,1700.0
+769263341944,hotels,Anil Kundu, OCL ,2026-02-01,0.0
+968032760053,Fraud AWS,Bhaskar Gopalan, Labs ,2026-02-01,177700.0
+546818093346,verifierAWS,Bhaskar Gopalan, OCL ,2026-02-01,0.0
+211125515568,risk-ocl-tpap,Bhaskar Gopalan, OCL ,2026-02-01,29000.0
+608146213544,ppblmaquettepa-prod,Bhaskar Gopalan, OCL ,2026-02-01,0.0
+439726107081,risk-verifier-nonprod,Bhaskar Gopalan, OCL ,2026-02-01,0.0
+885068115609,pai-sre,Bhaskar Gopalan, Labs ,2026-02-01,6500.0
+021891570382,Risk-Lending(new),Bhaskar Gopalan,OCL,2026-02-01,32800.0
+767397937234,PPSL- risk,Bhaskar Gopalan,PPSL,2026-02-01,80964.0
+017820698743,risk-devops-tools,Bhaskar Gopalan,OCL,2026-02-01,1500.0
+339712759199,feature-store-ocl,Bruno Meira,OCL,2026-02-01,0.0
+746682193773,cds-clm,Bhaskar Gopalan,OCL,2026-02-01,0.0
+130653941854,insurance-ds,Bhaskar Gopalan, PIBPL ,2026-02-01,0.0
+465354398947,aml-nonprod,Akeshwar Jha, OCL ,2026-02-01,0.0
+532041146482,aml-ppsl-nonprod,Deepanshu Jain, PPSL ,2026-02-01,0.0
+914516902729,finance_support_ocl,Dheerendra Mishra, OCL ,2026-02-01,6000.0
+625612021127,aoa-nonprod,Gagan Verma,OCL,2026-02-01,1700.0
+340677782776,aoa-prod,Gagan Verma,OCL,2026-02-01,11400.0
+541095382258,Card Tokenization,Gagan Verma,OCL,2026-02-01,2100.0
+611670160261,emi-nonprod,Gagan Verma,OCL,2026-02-01,2400.0
+068930846606,emi-prod_ocl,Gagan Verma,OCL,2026-02-01,5200.0
+424503791295,merchant-payments-api_prod_ocl,Gagan Verma,OCL,2026-02-01,192400.0
+929265682896,payment-non-prod,Gagan Verma,OCL,2026-02-01,31800.0
+233815244996,payment-platform_nonprod_ocl,Gagan Verma,OCL,2026-02-01,22900.0
+304016915943,payments-data-rtdd_prod_ocl,Gagan Verma,OCL,2026-02-01,209000.0
+352506242819,payments-platform_prod_ocl,Gagan Verma,OCL,2026-02-01,876300.0
+239103975135,QR,Gagan Verma,OCL,2026-02-01,11400.0
+128131020113,pa-nonprod,Gagan Verma,PPSL,2026-02-01,5800.0
+189893850600,pa-prod,Gagan Verma,PPSL,2026-02-01,108200.0
+471112548387,ppsl-affordability-prod,Gagan Verma,PPSL,2026-02-01,11700.0
+730335596554,ppsl-aml-prod,Gagan Verma,PPSL,2026-02-01,4000.0
+239937555916,ppsl-cardservice,Gagan Verma,PPSL,2026-02-01,1300.0
+905418390117,ppsl-pg2-nonprod,Gagan Verma,PPSL,2026-02-01,11600.0
+590183666588,ppsl-pg2-prod,Gagan Verma,PPSL,2026-02-01,383800.0
+590183673148,ppsl-rtdd-prod,Gagan Verma,PPSL,2026-02-01,66100.0
+913203018054,ppblpgpa-nonprod,Gagan Verma,OCL,2026-02-01,0.0
+658447621694,hrtech_ocl,Gaurav Chopra, OCL ,2026-02-01,0.0
+700271710604,labs-llm,Harinder Takhar,OCL,2026-02-01,0.0
+505767364771,Risk Anomaly,Bhaskar Gopalan,OCL,2026-02-01,0.0
+737499001343,call-centre-ivr,Lalit Mohan Pandey, OCL ,2026-02-01,0.0
+567423616371,parent account_ocl,Mukesh Meena, OCL ,2026-02-01,260000.0
+423969094700,push_notifications_ocl,Mukesh Meena, OCL ,2026-02-01,40000.0
+562921704166,paytm-ups,Mukesh Meena, OCL ,2026-02-01,4300.0
+698979518480,bitbucket_ocl,Mukesh Meena, OCL ,2026-02-01,9500.0
+654654315008,ondc-analytics,Mukesh Meena, PAI ,2026-02-01,0.0
+090436275138,Digital Channels,Mukesh Meena, OCL ,2026-02-01,6733.19038263
+131752971524,loyalitypoints/tocom,Mukesh Meena, OCL ,2026-02-01,16000.0
+023903256547,central tools,Mukesh Meena, OCL ,2026-02-01,0.0
+337158390682,commoninfra_ocl,Mukesh Meena, OCL ,2026-02-01,7500.0
+064619502227,CentralToolsPlatform,Mukesh Meena, OCL ,2026-02-01,4991.54609202
+054736913503,scp-mgv,Mukesh Meena, OCL ,2026-02-01,1707.13992065
+841860372390,fastag issuer_prod_ocl,Mukesh Meena, OCL ,2026-02-01,100.0
+127247839315,Sysops AWS,Mukesh Meena, OCL ,2026-02-01,3200.0
+492902601864,ncmc_acquirer_ocl,Mukesh Meena, OCL ,2026-02-01,700.0
+576911611801,infra_experiment_non_prod_ocl,Mukesh Meena, OCL ,2026-02-01,1000.0
+320811487590,dev-projects,Mukesh Meena, OCL ,2026-02-01,300.0
+116631508635,fastag_non prod_ocl,Mukesh Meena, OCL ,2026-02-01,100.0
+DROCL,DR - overall (to align with new contract),Mukesh Meena, PML ,2026-02-01,0.0
+New 3,Confluent Kafka,Mukesh Meena,OCL,2026-02-01,0.0
+678670235450,authoriser,Mukesh Meena,OCL,2026-02-01,0.0
+576218818919,tools-pa,Mukesh Meena,OCL,2026-02-01,0.0
+290310562512,Wallet-Nonprod,Mukesh Meena, OCL ,2026-02-01,0.0
+984308723723,digital_saas_ocl,Mukesh Meena, OCL ,2026-02-01,10500.0
+758230397644,Mall Bangalore,Mukesh Meena, PEPL ,2026-02-01,15000.0
+992382517474,ppsl-central-tools,Mukesh Meena,PPSL,2026-02-01,1200.0
+542832536672,Nearbuy Payer,Mukesh Meena,Nearbuy,2026-02-01,0.0
+798411736697,ncmc-acq-rupay-switch,Mukesh Meena, OCL ,2026-02-01,0.0
+445736908015,recharge bill payments_ocl,Nipun Arora, OCL ,2026-02-01,125000.0
+442447453008,Digital Gold,Nipun Arora, PML ,2026-02-01,11600.0
+176839215860,aws-omnicard-Prod,Nipun Arora,OCL,2026-02-01,0.0
+664526282133,Paytm Labs,Otto Mok, Labs ,2026-02-01,2600.0
+453914767997,risk-monitoring,Pankaj Kedia, OCL ,2026-02-01,0.0
+Premium Support,Premium Support,Parakh Agarwal, OCL ,2026-02-01,0.0
+469795226344,billing account_ocl,Parakh Agarwal, OCL ,2026-02-01,0.0
+015680176265,PPSL Payer,Parakh Agarwal, PPSL ,2026-02-01,0.0
+065278587813,rooter-io,Piyush Kumar (External),Rooter,2026-02-01,4815.59917234
+302399626617,ROOTER-DEV,Piyush Kumar (External),Rooter,2026-02-01,37.50523436
+919275210163,ROOTER-CLOUD-MANAGEMENT,Piyush Kumar (External),Rooter,2026-02-01,336.99934528
+477815026673,Rooter Payer,Piyush Kumar (External),Rooter,2026-02-01,130.29826508
+695745283037,ROOTER-CLOUD-LOGS,Piyush Kumar (External),Rooter,2026-02-01,4.29988686
+576349278157,ROOTER-CLOUD-SECURITY,Piyush Kumar (External),Rooter,2026-02-01,48.09956668
+271855570343,ROOTER-PROD-CDN,Piyush Kumar (External),Rooter,2026-02-01,760.99299928
+580053151223,ROOTER-PROD-TRANSCODING,Piyush Kumar (External),Rooter,2026-02-01,4180.99706076
+973103936838,ROOTER-STAGE,Piyush Kumar (External),Rooter,2026-02-01,559.70018204
+537598503159,ROOTER-PROD-ANALYTICS,Piyush Kumar (External),Rooter,2026-02-01,7270.18007431
+123964038738,ROOTER-PROD-APPS,Piyush Kumar (External),Rooter,2026-02-01,14830.33330956
+753168370952,hawkeye_ocl,Prashant Tiwari, OCL ,2026-02-01,31255.18601698
+522974168642,chat_ocl,Prashant Tiwari, OCL ,2026-02-01,22169.07466567
+722152247093,central_app_tech_ocl,Prashant Tiwari, OCL ,2026-02-01,2550.29
+066636274316,central_app_tech_web_ocl,Prashant Tiwari, OCL ,2026-02-01,3977.06583038
+824873459626,central_app_tech_mini_apps_ocl,Prashant Tiwari, OCL ,2026-02-01,1476.72
+475919677060,paytm_digital_content_ocl,Prashant Tiwari, OCL ,2026-02-01,0.0
+239666495852,health_ocl,Prashant Tiwari, OCL ,2026-02-01,591.89
+605458724602,content_ml_ocl,Prashant Tiwari, OCL ,2026-02-01,0.0
+663804405009,movies_ocl,Prashant Tiwari,Insider,2026-02-01,0.0
+155772818492,Insider (Events),Prashant Tiwari,Insider,2026-02-01,0.0
+368920154232,central app tech_ocl,Prashant Tiwari, OCL ,2026-02-01,1760.89
+985226307906,Insider Payer,Prashant Tiwari,Insider,2026-02-01,0.0
+538615689396,Pandora AWS,Sam Fang, Labs ,2026-02-01,0.0
+269350686318,AWS Pan 2,Sam Fang, Labs ,2026-02-01,0.0
+477161539263,ticketnewprod (Ram),Sasiraman Venkatesan (External),na,2026-02-01,0.0
+475804058290,Payer9,Sathyaseelan Murugesan,na,2026-02-01,0.0
+407648374860,IT_BACKUP,Saurabh Gupta, OCL ,2026-02-01,8000.0
+251917288737,IT Production,Saurabh Gupta, OCL ,2026-02-01,14100.0
+755560366148,SAP-HANA,Saurabh Gupta, OCL ,2026-02-01,64000.0
+002637409966,user-management-prod,Shrey Agarwal, OCL ,2026-02-01,200000.0
+210577074618,recon_prod_ocl,Shrey Agarwal, OCL ,2026-02-01,40000.0
+058264205572,cst-prod  ,Shrey Agarwal, OCL ,2026-02-01,2000.0
+752518464574,User Preferences System,Shrey Agarwal, OCL ,2026-02-01,24000.0
+518207312579,cst-ai,Shrey Agarwal, OCL ,2026-02-01,0.0
+615069360012,merchant-ra-automation,Shrey Agarwal, OCL ,2026-02-01,5000.0
+685585466397,recon_nonprod_ocl,Shrey Agarwal, OCL ,2026-02-01,5000.0
+952840895893,User Management,Shrey Agarwal, OCL ,2026-02-01,8000.0
+471112938013,tpap-oauth-dr,Shrey Agarwal, OCL ,2026-02-01,0.0
+337891198417,digital_cst,Shrey Agarwal, OCL ,2026-02-01,250000.0
+654654208887,ppsl-recon-prod,Shrey Agarwal,PPSL,2026-02-01,5000.0
+851725259328,ppsl-recon-nonprod,Shrey Agarwal,PPSL,2026-02-01,2500.0
+975050351452,ppsl-binary-prod,Shrey Agarwal,PPSL,2026-02-01,3000.0
+767397827620,ppsl-oauth-prod,Shrey Agarwal,PPSL,2026-02-01,2000.0
+654654394550,oauth-nonprod,Shrey Agarwal,OCL,2026-02-01,1000.0
+637423614657,pml-oauth,Shrey Agarwal,PML,2026-02-01,23000.0
+898496923608,games_pfg,Sudhanshu Gupta, PFG ,2026-02-01,109402.9575
+659606126372,URJA MONEY PVT LTD,Sunil Agrawal, Urjamoney ,2026-02-01,55500.0
+899249751508,PayTm DaaS ML,Sunil Agrawal, OCL ,2026-02-01,165200.0
+705108899578,daas-managed-services,Sunil Agrawal, OCL ,2026-02-01,59400.0
+479671683529,cdp risk_ocl,Sunil Agrawal, OCL ,2026-02-01,51900.0
+564188254156,Lending DataScience,Sunil Agrawal, OCL ,2026-02-01,101900.0
+340077773684,Paytm Financial Services,Sunil Agrawal, OCL ,2026-02-01,278600.0
+075790327284,cdp_growth marketing_ocl,Sunil Agrawal, OCL ,2026-02-01,149900.0
+576293063887,digital_insurance,Sunil Agrawal, PIBPL ,2026-02-01,19300.0
+718893572916,AaaS-nonprod,Sunil Agrawal, OCL ,2026-02-01,4272.4722348
+510772292268,cdo-dre,Sunil Agrawal, OCL ,2026-02-01,2000.0
+471112958605,lending-dwh,Sunil Agrawal, OCL ,2026-02-01,2800.0
+153518195166,cdo-non-prod,Sunil Agrawal, OCL ,2026-02-01,1700.0
+481935107677,DaaS-Apps,Sunil Agrawal, OCL ,2026-02-01,2700.0
+218943325897,devopscommon,Sunil Agrawal, OCL ,2026-02-01,700.0
+161282784430,cdp-ppbl-pa,Sunil Agrawal, OCL ,2026-02-01,0.0
+811134095225,AWS DaaS,Sunil Agrawal, OCL ,2026-02-01,68600.0
+975049957371,tpap-dwh,Sunil Agrawal, OCL ,2026-02-01,40600.0
+419830208690,AaaS-prod,Sunil Agrawal, OCL ,2026-02-01,29725.21757428
+628412515026,Datalake AWS,Sunil Agrawal, OCL ,2026-02-01,505400.0
+471112571211,ppsl-dwh-prod,Sunil Agrawal,PPSL,2026-02-01,302500.0
+863780864233,CreditMate Payer,Sunil Agrawal,Creditmate,2026-02-01,0.0
+442231926211,lending-vkyc,Sunil Agrawal,OCL,2026-02-01,0.0
+097001033170,paytm_smart_retail_ocl,Sunil Bansal, Ticketnew ,2026-02-01,3500.0
+003079193758,IOT Prod,Sunil Bansal, OCL ,2026-02-01,76000.0
+028914776520,edc_prod_ocl,Sunil Bansal, OCL ,2026-02-01,17500.0
+848332057417,mloyal_prod,Sunil Bansal, OCL ,2026-02-01,5000.0
+066548792077,IOT Core,Sunil Bansal, OCL ,2026-02-01,1700.0
+821240137883,edc_non prod_ocl,Sunil Bansal, OCL ,2026-02-01,2000.0
+494799526181,AWS_Paytm'Mloyal,Sunil Bansal,OCL,2026-02-01,1500.0
+906954799739,Nearbuy,Sunny Sharma,Nearbuy,2026-02-01,17415.53629791
+975049937880,mgc-sclp,Sunny Sharma, OCL ,2026-02-01,0.0
+851725259472,ppsl-app-sec,Surinder Kumar,PPSL,2026-02-01,26400.0
+860971823470,Video KYC,Suspended account,OCL,2026-02-01,0.0
+797142548187,ppblpgpa-prod,Suspended account,OCL,2026-02-01,0.0
+272968093320,legalapps,Urvashi Sahai, OCL ,2026-02-01,1300.0
+789596305652,regular_mf,Varun Shridhar, PSPL ,2026-02-01,14500.0
+656952484900,Paytm Money,Vinay Singhal, PML ,2026-02-01,0.0
+470060591194,edutech,Vinay Singhal, PML ,2026-02-01,0.0
+322263815270,PM-EduTech-Prod,Vinay Singhal, PML ,2026-02-01,0.0
+185774682289,pml-chat-dev,Vinay Singhal, PML ,2026-02-01,0.0
+762730909359,PM-Equities,Vinay Singhal,PML,2026-02-01,0.0
+011420223908,PM-DataLake,Vinay Singhal,PML,2026-02-01,0.0
+211125336551,pml-infosec,Vinay Singhal,PML,2026-02-01,0.0
+992382687474,pml-cst,Vinay Singhal,PML,2026-02-01,0.0
+381492193378,pml-datalake,Vinay Singhal,PML,2026-02-01,0.0
+339712912282,pml-core-poc,Vinay Singhal,PML,2026-02-01,0.0
+736121233725,Paytmmoney Ltd. Data Platform,Vinay Singhal,PML,2026-02-01,0.0
+851725496687,pml-oauth-dr,Vinay Singhal,PML,2026-02-01,9000.0
+370214104985,AMC Platform,Vinay Singhal,PML,2026-02-01,0.0
+582604545400,pm-chat,Vinay Singhal,PML,2026-02-01,0.0
+009124235587,Payer1,Vinay Singhal,PML,2026-02-01,0.0
+423387369363,PML IT,Vinay Singhal,PML,2026-02-01,0.0
+058264391305,pml-storefront,Vinay Singhal,PML,2026-02-01,0.0
+654654145181,pml-oauth-nonprod,Vinay Singhal,PML,2026-02-01,3000.0
+590183908249,pml-wiki-jira,Vinay Singhal,PML,2026-02-01,0.0
+807119641913,pm-bigdata,Vinay Singhal,PML,2026-02-01,0.0
+159245624542,leadsquared,Vinay Singhal,PML,2026-02-01,0.0
+907058949943,ppbloe-prod,Vishal Jangda,Nearbuy,2026-02-01,0.0
+905418158003,FInmate,Saurabh Gupta, OCIL ,2026-02-01,500.0
+767397877262,it-infra,Saurabh Gupta, PIBPL ,2026-02-01,500.0
+654654138046,it-infra,Saurabh Gupta, PAI ,2026-02-01,300.0
+318633126153,AWS SMS,Saurabh Gupta,OCL,2026-02-01,4100.0
+474140895141,Enterprise SMS,Saurabh Gupta,OCL,2026-02-01,7100.0
+367464822874,One97 IT,Saurabh Gupta,OCL,2026-02-01,200.0
+661338130494,telco-testing,Saurabh Gupta,OCL,2026-02-01,100.0
+072401294672,DMS AWS,Abhinav Gupta, OCL ,2026-03-01,13023.90626919
+901553615594,merchantdashboards,Abhinav Gupta, OCL ,2026-03-01,67411.14997919
+480732456233,dms-prod_ocl,Abhinav Gupta, OCL ,2026-03-01,9016.09958675
+182401677120,onboardingengine,Abhinav Gupta, OCL ,2026-03-01,35945.66611137
+389881277731,merchant-business,Abhinav Gupta, OCL ,2026-03-01,1083.08673775
+745098155683,merchant_automation,Abhinav Gupta, OCL ,2026-03-01,805.59183532
+997924011427,ckyc,Abhinav Gupta, OCL ,2026-03-01,5649.47992359
+630307967658,dms-nonprod_ocl,Abhinav Gupta, OCL ,2026-03-01,1415.09496052
+495419344110,incentive,Abhinav Gupta, OCL ,2026-03-01,12652.54028025
+761904723706,KYB/FSM/Chatbot,Abhinav Gupta, OCL ,2026-03-01,44649.31967165
+654654497161,ppsl-ump-prod,Abhinav Gupta,PPSL,2026-03-01,15983.34396437
+767397730150,ppsl-mo-prod,Abhinav Gupta,PPSL,2026-03-01,4199.35147187
+548411824430,pocketurmoney/oneview,Abhinav Gupta, OCL ,2026-03-01,410.97085653
+272415727726,Paytm Ads,Ajit Kumar, OCL ,2026-03-01,160000.0
+381491835802,uth-prod,Ajit Kumar, OCL ,2026-03-01,150000.0
+339712810712,tpap-nonprod,Ajit Kumar, OCL ,2026-03-01,7276.24862794
+211125458732,tpap-prod,Ajit Kumar, OCL ,2026-03-01,155796.74166008
+381492106076,YBL-TSP-AWS-UAT V1,Ajit Kumar, OCIL ,2026-03-01,4317.72593582
+992382754296,OCIL-AWS-UAT,Ajit Kumar, OCIL ,2026-03-01,2663.10699783
+891377131146,YBL-TSP-AWS-UAT V2,Ajit Kumar, OCIL ,2026-03-01,24105.4840795
+767398050080,YBL-TSP-AWS-prod,Ajit Kumar, OCIL ,2026-03-01,297231.94685594
+736384229724,cloudsecurity-logs,Amit Malhotra, OCL ,2026-03-01,3788.61332753
+252197745876,AWS InfoSec,Amit Malhotra, OCL ,2026-03-01,16327.87621169
+161115069565,infosec-soc,Amit Malhotra, OCL ,2026-03-01,19908.93139328
+264522784930,AWS DNS,Amit Malhotra, OCL ,2026-03-01,0.0
+647564693872,aml-prod,Akeshwar Jha, OCL ,2026-03-01,0.0
+359716425895,Travel Aws,Anil Kundu, OCL ,2026-03-01,95000.0
+135329050410,CityBus,anil Kundu, OCL ,2026-03-01,1700.0
+769263341944,hotels,Anil Kundu, OCL ,2026-03-01,0.0
+968032760053,Fraud AWS,Bhaskar Gopalan, Labs ,2026-03-01,180700.0
+546818093346,verifierAWS,Bhaskar Gopalan, OCL ,2026-03-01,0.0
+211125515568,risk-ocl-tpap,Bhaskar Gopalan, OCL ,2026-03-01,29500.0
+608146213544,ppblmaquettepa-prod,Bhaskar Gopalan, OCL ,2026-03-01,0.0
+439726107081,risk-verifier-nonprod,Bhaskar Gopalan, OCL ,2026-03-01,0.0
+885068115609,pai-sre,Bhaskar Gopalan, Labs ,2026-03-01,6500.0
+021891570382,Risk-Lending(new),Bhaskar Gopalan,OCL,2026-03-01,33700.0
+767397937234,PPSL- risk,Bhaskar Gopalan,PPSL,2026-03-01,82953.0
+017820698743,risk-devops-tools,Bhaskar Gopalan,OCL,2026-03-01,1500.0
+339712759199,feature-store-ocl,Bruno Meira,OCL,2026-03-01,0.0
+746682193773,cds-clm,Bhaskar Gopalan,OCL,2026-03-01,0.0
+130653941854,insurance-ds,Bhaskar Gopalan, PIBPL ,2026-03-01,0.0
+465354398947,aml-nonprod,Akeshwar Jha, OCL ,2026-03-01,0.0
+532041146482,aml-ppsl-nonprod,Deepanshu Jain, PPSL ,2026-03-01,0.0
+914516902729,finance_support_ocl,Dheerendra Mishra, OCL ,2026-03-01,6000.0
+625612021127,aoa-nonprod,Gagan Verma,OCL,2026-03-01,1800.0
+340677782776,aoa-prod,Gagan Verma,OCL,2026-03-01,11500.0
+541095382258,Card Tokenization,Gagan Verma,OCL,2026-03-01,2200.0
+611670160261,emi-nonprod,Gagan Verma,OCL,2026-03-01,2500.0
+068930846606,emi-prod_ocl,Gagan Verma,OCL,2026-03-01,5200.0
+424503791295,merchant-payments-api_prod_ocl,Gagan Verma,OCL,2026-03-01,196200.0
+929265682896,payment-non-prod,Gagan Verma,OCL,2026-03-01,32200.0
+233815244996,payment-platform_nonprod_ocl,Gagan Verma,OCL,2026-03-01,23100.0
+304016915943,payments-data-rtdd_prod_ocl,Gagan Verma,OCL,2026-03-01,212200.0
+352506242819,payments-platform_prod_ocl,Gagan Verma,OCL,2026-03-01,889500.0
+239103975135,QR,Gagan Verma,OCL,2026-03-01,11500.0
+128131020113,pa-nonprod,Gagan Verma,PPSL,2026-03-01,5900.0
+189893850600,pa-prod,Gagan Verma,PPSL,2026-03-01,110300.0
+471112548387,ppsl-affordability-prod,Gagan Verma,PPSL,2026-03-01,11800.0
+730335596554,ppsl-aml-prod,Gagan Verma,PPSL,2026-03-01,4100.0
+239937555916,ppsl-cardservice,Gagan Verma,PPSL,2026-03-01,1300.0
+905418390117,ppsl-pg2-nonprod,Gagan Verma,PPSL,2026-03-01,11700.0
+590183666588,ppsl-pg2-prod,Gagan Verma,PPSL,2026-03-01,389200.0
+590183673148,ppsl-rtdd-prod,Gagan Verma,PPSL,2026-03-01,67400.0
+913203018054,ppblpgpa-nonprod,Gagan Verma,OCL,2026-03-01,0.0
+658447621694,hrtech_ocl,Gaurav Chopra, OCL ,2026-03-01,0.0
+700271710604,labs-llm,Harinder Takhar,OCL,2026-03-01,0.0
+505767364771,Risk Anomaly,Bhaskar Gopalan,OCL,2026-03-01,0.0
+737499001343,call-centre-ivr,Lalit Mohan Pandey, OCL ,2026-03-01,0.0
+567423616371,parent account_ocl,Mukesh Meena, OCL ,2026-03-01,265000.0
+423969094700,push_notifications_ocl,Mukesh Meena, OCL ,2026-03-01,41000.0
+562921704166,paytm-ups,Mukesh Meena, OCL ,2026-03-01,4300.0
+698979518480,bitbucket_ocl,Mukesh Meena, OCL ,2026-03-01,9500.0
+654654315008,ondc-analytics,Mukesh Meena, PAI ,2026-03-01,0.0
+090436275138,Digital Channels,Mukesh Meena, OCL ,2026-03-01,6800.52228646
+131752971524,loyalitypoints/tocom,Mukesh Meena, OCL ,2026-03-01,16000.0
+023903256547,central tools,Mukesh Meena, OCL ,2026-03-01,0.0
+337158390682,commoninfra_ocl,Mukesh Meena, OCL ,2026-03-01,7500.0
+064619502227,CentralToolsPlatform,Mukesh Meena, OCL ,2026-03-01,5141.29247478
+054736913503,scp-mgv,Mukesh Meena, OCL ,2026-03-01,1724.21131986
+841860372390,fastag issuer_prod_ocl,Mukesh Meena, OCL ,2026-03-01,100.0
+127247839315,Sysops AWS,Mukesh Meena, OCL ,2026-03-01,3200.0
+492902601864,ncmc_acquirer_ocl,Mukesh Meena, OCL ,2026-03-01,800.0
+576911611801,infra_experiment_non_prod_ocl,Mukesh Meena, OCL ,2026-03-01,1000.0
+320811487590,dev-projects,Mukesh Meena, OCL ,2026-03-01,300.0
+116631508635,fastag_non prod_ocl,Mukesh Meena, OCL ,2026-03-01,100.0
+DROCL,DR - overall (to align with new contract),Mukesh Meena, PML ,2026-03-01,0.0
+New 3,Confluent Kafka,Mukesh Meena,OCL,2026-03-01,0.0
+678670235450,authoriser,Mukesh Meena,OCL,2026-03-01,0.0
+576218818919,tools-pa,Mukesh Meena,OCL,2026-03-01,0.0
+290310562512,Wallet-Nonprod,Mukesh Meena, OCL ,2026-03-01,0.0
+984308723723,digital_saas_ocl,Mukesh Meena, OCL ,2026-03-01,10500.0
+758230397644,Mall Bangalore,Mukesh Meena, PEPL ,2026-03-01,15000.0
+992382517474,ppsl-central-tools,Mukesh Meena,PPSL,2026-03-01,1200.0
+542832536672,Nearbuy Payer,Mukesh Meena,Nearbuy,2026-03-01,0.0
+798411736697,ncmc-acq-rupay-switch,Mukesh Meena, OCL ,2026-03-01,0.0
+445736908015,recharge bill payments_ocl,Nipun Arora, OCL ,2026-03-01,130000.0
+442447453008,Digital Gold,Nipun Arora, PML ,2026-03-01,11600.0
+176839215860,aws-omnicard-Prod,Nipun Arora,OCL,2026-03-01,0.0
+664526282133,Paytm Labs,Otto Mok, Labs ,2026-03-01,2600.0
+453914767997,risk-monitoring,Pankaj Kedia, OCL ,2026-03-01,0.0
+Premium Support,Premium Support,Parakh Agarwal, OCL ,2026-03-01,0.0
+469795226344,billing account_ocl,Parakh Agarwal, OCL ,2026-03-01,0.0
+015680176265,PPSL Payer,Parakh Agarwal, PPSL ,2026-03-01,0.0
+065278587813,rooter-io,Piyush Kumar (External),Rooter,2026-03-01,4815.60279582
+302399626617,ROOTER-DEV,Piyush Kumar (External),Rooter,2026-03-01,37.49962511
+919275210163,ROOTER-CLOUD-MANAGEMENT,Piyush Kumar (External),Rooter,2026-03-01,336.99958996
+477815026673,Rooter Payer,Piyush Kumar (External),Rooter,2026-03-01,130.29986782
+695745283037,ROOTER-CLOUD-LOGS,Piyush Kumar (External),Rooter,2026-03-01,4.29975905
+576349278157,ROOTER-CLOUD-SECURITY,Piyush Kumar (External),Rooter,2026-03-01,48.09997502
+271855570343,ROOTER-PROD-CDN,Piyush Kumar (External),Rooter,2026-03-01,760.99946227
+580053151223,ROOTER-PROD-TRANSCODING,Piyush Kumar (External),Rooter,2026-03-01,4180.82836423
+973103936838,ROOTER-STAGE,Piyush Kumar (External),Rooter,2026-03-01,559.68436436
+537598503159,ROOTER-PROD-ANALYTICS,Piyush Kumar (External),Rooter,2026-03-01,7269.88112408
+123964038738,ROOTER-PROD-APPS,Piyush Kumar (External),Rooter,2026-03-01,14830.3740666
+753168370952,hawkeye_ocl,Prashant Tiwari, OCL ,2026-03-01,32192.84159749
+522974168642,chat_ocl,Prashant Tiwari, OCL ,2026-03-01,22834.14690565
+722152247093,central_app_tech_ocl,Prashant Tiwari, OCL ,2026-03-01,2550.29
+066636274316,central_app_tech_web_ocl,Prashant Tiwari, OCL ,2026-03-01,4016.83648868
+824873459626,central_app_tech_mini_apps_ocl,Prashant Tiwari, OCL ,2026-03-01,1476.72
+475919677060,paytm_digital_content_ocl,Prashant Tiwari, OCL ,2026-03-01,0.0
+239666495852,health_ocl,Prashant Tiwari, OCL ,2026-03-01,591.89
+605458724602,content_ml_ocl,Prashant Tiwari, OCL ,2026-03-01,0.0
+663804405009,movies_ocl,Prashant Tiwari,Insider,2026-03-01,0.0
+155772818492,Insider (Events),Prashant Tiwari,Insider,2026-03-01,0.0
+368920154232,central app tech_ocl,Prashant Tiwari, OCL ,2026-03-01,1760.89
+985226307906,Insider Payer,Prashant Tiwari,Insider,2026-03-01,0.0
+538615689396,Pandora AWS,Sam Fang, Labs ,2026-03-01,0.0
+269350686318,AWS Pan 2,Sam Fang, Labs ,2026-03-01,0.0
+477161539263,ticketnewprod (Ram),Sasiraman Venkatesan (External),na,2026-03-01,0.0
+475804058290,Payer9,Sathyaseelan Murugesan,na,2026-03-01,0.0
+407648374860,IT_BACKUP,Saurabh Gupta, OCL ,2026-03-01,8100.0
+251917288737,IT Production,Saurabh Gupta, OCL ,2026-03-01,14200.0
+755560366148,SAP-HANA,Saurabh Gupta, OCL ,2026-03-01,64000.0
+002637409966,user-management-prod,Shrey Agarwal, OCL ,2026-03-01,200000.0
+210577074618,recon_prod_ocl,Shrey Agarwal, OCL ,2026-03-01,40000.0
+058264205572,cst-prod  ,Shrey Agarwal, OCL ,2026-03-01,2000.0
+752518464574,User Preferences System,Shrey Agarwal, OCL ,2026-03-01,24000.0
+518207312579,cst-ai,Shrey Agarwal, OCL ,2026-03-01,0.0
+615069360012,merchant-ra-automation,Shrey Agarwal, OCL ,2026-03-01,5000.0
+685585466397,recon_nonprod_ocl,Shrey Agarwal, OCL ,2026-03-01,5000.0
+952840895893,User Management,Shrey Agarwal, OCL ,2026-03-01,8000.0
+471112938013,tpap-oauth-dr,Shrey Agarwal, OCL ,2026-03-01,0.0
+337891198417,digital_cst,Shrey Agarwal, OCL ,2026-03-01,250000.0
+654654208887,ppsl-recon-prod,Shrey Agarwal,PPSL,2026-03-01,5000.0
+851725259328,ppsl-recon-nonprod,Shrey Agarwal,PPSL,2026-03-01,2500.0
+975050351452,ppsl-binary-prod,Shrey Agarwal,PPSL,2026-03-01,3000.0
+767397827620,ppsl-oauth-prod,Shrey Agarwal,PPSL,2026-03-01,2000.0
+654654394550,oauth-nonprod,Shrey Agarwal,OCL,2026-03-01,1000.0
+637423614657,pml-oauth,Shrey Agarwal,PML,2026-03-01,23000.0
+898496923608,games_pfg,Sudhanshu Gupta, PFG ,2026-03-01,109402.9575
+659606126372,URJA MONEY PVT LTD,Sunil Agrawal, Urjamoney ,2026-03-01,56600.0
+899249751508,PayTm DaaS ML,Sunil Agrawal, OCL ,2026-03-01,168500.0
+705108899578,daas-managed-services,Sunil Agrawal, OCL ,2026-03-01,60600.0
+479671683529,cdp risk_ocl,Sunil Agrawal, OCL ,2026-03-01,53000.0
+564188254156,Lending DataScience,Sunil Agrawal, OCL ,2026-03-01,103900.0
+340077773684,Paytm Financial Services,Sunil Agrawal, OCL ,2026-03-01,284200.0
+075790327284,cdp_growth marketing_ocl,Sunil Agrawal, OCL ,2026-03-01,154400.0
+576293063887,digital_insurance,Sunil Agrawal, PIBPL ,2026-03-01,19500.0
+718893572916,AaaS-nonprod,Sunil Agrawal, OCL ,2026-03-01,4357.92167949
+510772292268,cdo-dre,Sunil Agrawal, OCL ,2026-03-01,2100.0
+471112958605,lending-dwh,Sunil Agrawal, OCL ,2026-03-01,2800.0
+153518195166,cdo-non-prod,Sunil Agrawal, OCL ,2026-03-01,1700.0
+481935107677,DaaS-Apps,Sunil Agrawal, OCL ,2026-03-01,2800.0
+218943325897,devopscommon,Sunil Agrawal, OCL ,2026-03-01,700.0
+161282784430,cdp-ppbl-pa,Sunil Agrawal, OCL ,2026-03-01,0.0
+811134095225,AWS DaaS,Sunil Agrawal, OCL ,2026-03-01,70000.0
+975049957371,tpap-dwh,Sunil Agrawal, OCL ,2026-03-01,41400.0
+419830208690,AaaS-prod,Sunil Agrawal, OCL ,2026-03-01,30319.72192577
+628412515026,Datalake AWS,Sunil Agrawal, OCL ,2026-03-01,515500.0
+471112571211,ppsl-dwh-prod,Sunil Agrawal,PPSL,2026-03-01,305500.0
+863780864233,CreditMate Payer,Sunil Agrawal,Creditmate,2026-03-01,0.0
+442231926211,lending-vkyc,Sunil Agrawal,OCL,2026-03-01,0.0
+097001033170,paytm_smart_retail_ocl,Sunil Bansal, Ticketnew ,2026-03-01,3500.0
+003079193758,IOT Prod,Sunil Bansal, OCL ,2026-03-01,78000.0
+028914776520,edc_prod_ocl,Sunil Bansal, OCL ,2026-03-01,17000.0
+848332057417,mloyal_prod,Sunil Bansal, OCL ,2026-03-01,5000.0
+066548792077,IOT Core,Sunil Bansal, OCL ,2026-03-01,1700.0
+821240137883,edc_non prod_ocl,Sunil Bansal, OCL ,2026-03-01,2000.0
+494799526181,AWS_Paytm'Mloyal,Sunil Bansal,OCL,2026-03-01,1500.0
+906954799739,Nearbuy,Sunny Sharma,Nearbuy,2026-03-01,17763.84702387
+975049937880,mgc-sclp,Sunny Sharma, OCL ,2026-03-01,0.0
+851725259472,ppsl-app-sec,Surinder Kumar,PPSL,2026-03-01,27000.0
+860971823470,Video KYC,Suspended account,OCL,2026-03-01,0.0
+797142548187,ppblpgpa-prod,Suspended account,OCL,2026-03-01,0.0
+272968093320,legalapps,Urvashi Sahai, OCL ,2026-03-01,1300.0
+789596305652,regular_mf,Varun Shridhar, PSPL ,2026-03-01,15700.0
+656952484900,Paytm Money,Vinay Singhal, PML ,2026-03-01,0.0
+470060591194,edutech,Vinay Singhal, PML ,2026-03-01,0.0
+322263815270,PM-EduTech-Prod,Vinay Singhal, PML ,2026-03-01,0.0
+185774682289,pml-chat-dev,Vinay Singhal, PML ,2026-03-01,0.0
+762730909359,PM-Equities,Vinay Singhal,PML,2026-03-01,0.0
+011420223908,PM-DataLake,Vinay Singhal,PML,2026-03-01,0.0
+211125336551,pml-infosec,Vinay Singhal,PML,2026-03-01,0.0
+992382687474,pml-cst,Vinay Singhal,PML,2026-03-01,0.0
+381492193378,pml-datalake,Vinay Singhal,PML,2026-03-01,0.0
+339712912282,pml-core-poc,Vinay Singhal,PML,2026-03-01,0.0
+736121233725,Paytmmoney Ltd. Data Platform,Vinay Singhal,PML,2026-03-01,0.0
+851725496687,pml-oauth-dr,Vinay Singhal,PML,2026-03-01,9000.0
+370214104985,AMC Platform,Vinay Singhal,PML,2026-03-01,0.0
+582604545400,pm-chat,Vinay Singhal,PML,2026-03-01,0.0
+009124235587,Payer1,Vinay Singhal,PML,2026-03-01,0.0
+423387369363,PML IT,Vinay Singhal,PML,2026-03-01,0.0
+058264391305,pml-storefront,Vinay Singhal,PML,2026-03-01,0.0
+654654145181,pml-oauth-nonprod,Vinay Singhal,PML,2026-03-01,3000.0
+590183908249,pml-wiki-jira,Vinay Singhal,PML,2026-03-01,0.0
+807119641913,pm-bigdata,Vinay Singhal,PML,2026-03-01,0.0
+159245624542,leadsquared,Vinay Singhal,PML,2026-03-01,0.0
+907058949943,ppbloe-prod,Vishal Jangda,Nearbuy,2026-03-01,0.0
+905418158003,FInmate,Saurabh Gupta, OCIL ,2026-03-01,500.0
+767397877262,it-infra,Saurabh Gupta, PIBPL ,2026-03-01,500.0
+654654138046,it-infra,Saurabh Gupta, PAI ,2026-03-01,300.0
+318633126153,AWS SMS,Saurabh Gupta,OCL,2026-03-01,4100.0
+474140895141,Enterprise SMS,Saurabh Gupta,OCL,2026-03-01,7100.0
+367464822874,One97 IT,Saurabh Gupta,OCL,2026-03-01,200.0
+661338130494,telco-testing,Saurabh Gupta,OCL,2026-03-01,100.0
