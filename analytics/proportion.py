@@ -14,10 +14,10 @@ def calculate_proportions():
         # output_csv = input("Enter the path for the output CSV file (press Enter for default): ")
         
         # if not output_csv:
-        output_csv = 'output_proportions.csv'
+        output_csv = '../data_files/minimum_commitment_proportions_25-26.csv'
         
         # Read input CSV
-        input_csv = '../data_files/aop_budget.csv'
+        input_csv = '../data_files/AOP/AOP_25-26_transformed.csv'
         df = pd.read_csv(input_csv)
         
         # Keep only the required columns

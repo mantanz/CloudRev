@@ -1,0 +1,53 @@
+Analysis of Accounts with No Actual Spend Records
+=============================================
+
+Summary
+-------
+Total Accounts with No Spend: 120 accounts
+
+Breakdown by AOP Coverage
+------------------------
+1. Accounts with 24 months of AOP records (both FY24-25 and FY25-26): 57 accounts
+2. Accounts with 12 months of AOP records (only FY25-26): 63 accounts
+
+Key Observations
+---------------
+1. Account Types:
+   - Production accounts
+   - Non-production accounts (with -nonprod, -stage, -dev suffixes)
+   - Placeholder accounts
+   - Business unit specific accounts
+
+2. Business Units Identified:
+   - ROOTER (Streaming Platform)
+   - PML (Paytm Money Limited)
+   - PPSL (Paytm Payment Services Limited)
+   - Insurance
+   - Lending
+   - Equities
+   - Affiliate Services
+   - Payment Gateway
+   - Data Platform
+
+3. Notable Patterns:
+   - Many accounts are environment-specific (prod, nonprod, stage, dev)
+   - Several accounts are for specific services or products
+   - Some accounts appear to be new or planned for future use
+   - A few accounts are placeholders or for special purposes
+
+4. Potential Reasons for No Spend:
+   - New accounts not yet activated
+   - Planned accounts for future use
+   - Accounts using different IDs for actual spend
+   - Inactive or historical accounts
+   - Placeholder accounts for future allocation
+
+Recommendations
+--------------
+1. Review and validate each account's status
+2. Check for similar account names in spend tables
+3. Verify if any accounts are using different IDs
+4. Consider cleaning up placeholder accounts
+5. Update AOP allocations for inactive accounts
+
+Note: Detailed account information is available in the accompanying CSV file 'accounts_without_spend.csv'

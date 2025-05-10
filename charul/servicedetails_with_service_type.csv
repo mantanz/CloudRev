@@ -1,0 +1,110 @@
+service_id,service_name,service_type
+1,EC2-Other,Compute
+2,EC2-Instances,Compute
+3,Relational Database Service,db
+4,S3,Storage
+5,Elastic MapReduce,Compute
+6,Elastic Load Balancing,Network
+7,ElastiCache,db
+8,VPC,Network
+9,Bedrock,Others
+10,OpenSearch Service,db
+11,CloudWatch,Others
+12,Savings Plans for  Compute usage,Compute
+13,DynamoDB,db
+14,IoT,Others
+15,SageMaker,Others
+16,API Gateway,Network
+17,DocumentDB (with MongoDB compatibility),db
+18,Elastic Container Service for Kubernetes,Compute
+19,IoT Device Management,Others
+20,Elastic File System,Storage
+21,Managed Streaming for Apache Kafka,IOPS
+22,Direct Connect,Network
+23,EC2 Container Registry (ECR),Compute
+24,Route 53,Network
+25,Network Firewall,Network
+26,DynamoDB Accelerator (DAX),db
+27,SUSE Linux Enterprise Server for SAP Applications 15 SP1,Others
+28,QuickSight,Others
+29,Lambda,Compute
+30,Config,Others
+31,Textract,Others
+32,Transfer Family,Storage
+33,Athena,Others
+34,Rekognition,Others
+35,VM-Series Next-Gen Virtual Firewall w/Advanced Threat Prevention (PAYG),Others
+36,GuardDuty,Others
+37,WorkSpaces,Compute
+38,Systems Manager,Others
+39,Cost Explorer,Others
+40,Secrets Manager,Compute
+41,Kinesis Firehose,IOPS
+42,Backup,Storage
+43,Glue,IOPS
+44,Key Management Service,Others
+45,SES,Others
+46,SQS,Others
+47,CloudTrail,Others
+48,Kinesis,IOPS
+49,SUSE Linux Enterprise Server for SAP Applications 15 SP5,Others
+50,WAF,Others
+51,Directory Service,Others
+52,Step Functions,Others
+53,Savings Plans for  Machine Learning,Others
+54,Lightsail,Compute
+55,Service Catalog,Others
+56,Global Accelerator,Network
+57,Certificate Manager,Others
+58,Redshift,db
+59,Q,Others
+60,Resilience Hub,Others
+61,CloudFront,Network
+62,CloudWatch Events,Others
+63,DMS,db
+64,Identity and Access Management Access Analyzer,Others
+65,CentOS 7 (ARM) with Support by Supported Images,Others
+66,MongoDB Atlas (pay-as-you-go),Others
+67,Elastic Container Service,Compute
+68,SNS,Others
+69,End User Messaging,Others
+70,Elemental MediaLive,Others
+71,Websoft9 Applications Hosting Platform for Redash,Storage
+72,Ubuntu Linux Desktop with Web Interface,Others
+73,Claude 3 Haiku ( Bedrock Edition),Others
+74,Claude 3 Sonnet ( Bedrock Edition),Others
+75,Macie,Others
+76,MemoryDB,db
+77,Cloud Native Database for MariaDB 10.6 (Ubuntu),Others
+78,IoT Device Defender,Others
+79,Claude 3.5 Sonnet ( Bedrock Edition),Others
+80,Security Hub,Others
+81,Amplify,Others
+82,CodePipeline,Others
+83,OpenJDK 8 (Java 8) on CentOS 7,Others
+84,Claude 3.7 Sonnet ( Bedrock Edition),Others
+85,CodeBuild,Others
+86,FSx,Storage
+87,Compute Optimizer,Compute
+88,DevOps Guru,Others
+89,CodeArtifact,Others
+90,Polly,Others
+91,Keyspaces (for Apache Cassandra),db
+92,Transcribe,Others
+93,CentOS 7.9 (ARM) with support by Fleximg - Kernel 5.10,Others
+94,Claude 3.5 Haiku ( Bedrock Edition),Others
+95,Location Service,Others
+96,Simple Workflow Service,Others
+97,Budgets,Others
+98,Glacier,Storage
+99,IoT Analytics,Others
+100,CloudShell,Others
+101,Migration Hub Refactor Spaces,Others
+102,X-Ray,Others
+103,Cognito,Others
+104,SimpleDB,db
+105,CentOS 7.9 (X86-64) with support by Fleximg - Kernel 5.15,Others
+106,CloudFormation,Others
+107,CodeCommit,Others
+108,Elastic Container Registry Public,Compute
+109,Claude 3.5 Sonnet v2 ( Bedrock Edition),Others

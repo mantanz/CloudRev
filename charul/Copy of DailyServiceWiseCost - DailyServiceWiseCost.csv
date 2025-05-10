@@ -1,0 +1,2808 @@
+account_id,service_name,2025-04-23,2025-04-24,2025-04-25,total_cost
+2637409966,AWS Service Catalog,0.01,0.03,0.01,0.12
+2637409966,Amazon ElastiCache,615.62,618.03,619.83,4320.76
+2637409966,EC2 - Other,2229.21,2211.28,2202.5,15485.82
+2637409966,Amazon Simple Workflow Service,0,0,0,0
+2637409966,Amazon Elastic Load Balancing,78.94,79.95,80.34,558.12
+2637409966,AWS Cost Explorer,0.06,0.07,0.05,0.43
+2637409966,Amazon Simple Queue Service,0,0,0,0
+2637409966,Amazon Elastic Compute Cloud - Compute,1864.93,1869.72,1857.35,13027.32
+2637409966,AWS Key Management Service,0.21,0.21,0.21,1.47
+2637409966,Amazon Simple Notification Service,0,0,0,0
+2637409966,Amazon EC2 Container Registry (ECR),1.34,1.34,1.34,9.38
+2637409966,Amazon Virtual Private Cloud,56.27,56.32,56.38,392.8
+2637409966,CloudWatch Events,0,0,0,0
+2637409966,AWS Secrets Manager,1.25,1.29,1.26,8.99
+2637409966,Amazon Managed Streaming for Apache Kafka,12.94,12.94,12.94,90.57
+2637409966,Amazon Simple Storage Service,181.29,171.72,163.83,1188.08
+2637409966,AWS X-Ray,0,0,0,0
+2637409966,AWS CloudTrail,0,0,0,0
+2637409966,Amazon Elastic Container Service for Kubernetes,4.8,4.8,4.8,33.6
+2637409966,Amazon DynamoDB,1.79,1.79,1.79,12.53
+2637409966,Amazon Location Service,0,0,0,0
+2637409966,AmazonCloudWatch,116.04,115.25,104.58,799.48
+2637409966,Amazon Elastic File System,0.43,0.43,0.43,3.01
+2637409966,AWS Lambda,2.15,2.23,2.21,15.35
+2637409966,AWS Step Functions,0.06,0.06,0.05,0.41
+2637409966,Amazon Relational Database Service,5.1,5.1,5.1,35.7
+2637409966,AWS Glue,0,0,0,0
+3079193758,AWS Service Catalog,0,0.02,0.01,0.11
+3079193758,EC2 - Other,173.26,173.39,174.7,1216.94
+3079193758,Amazon Simple Workflow Service,0,0,0,0
+3079193758,AWS IoT,1013.84,1020.94,1020.01,7064.76
+3079193758,AWS IoT Device Defender,0,0,0,0
+3079193758,Amazon Elastic Load Balancing,16.71,16.61,16.88,116.74
+3079193758,AWS Cost Explorer,0.09,0.09,0.07,0.59
+3079193758,Amazon Simple Queue Service,1.83,1.8,1.87,12.76
+3079193758,Amazon Elastic Compute Cloud - Compute,134.06,133.8,133.82,938.68
+3079193758,AWS IoT Device Management,368.77,390.24,359.12,2525.83
+3079193758,AWS Key Management Service,0,0,0.01,0.01
+3079193758,Amazon Simple Notification Service,0,0,0,0
+3079193758,Amazon Virtual Private Cloud,16.91,16.77,16.93,117.19
+3079193758,CloudWatch Events,0,0,0,0
+3079193758,AWS Secrets Manager,0.15,0.16,0.15,1.06
+3079193758,Amazon Simple Storage Service,10.74,10.59,11.56,73.47
+3079193758,Amazon Kinesis Firehose,34.29,35.73,33.99,238.29
+3079193758,AWS CloudTrail,0,0,0,0
+3079193758,Amazon DynamoDB,16.15,15.97,16.47,113.98
+3079193758,AWS X-Ray,0,0,0,0
+3079193758,Amazon Location Service,0,0,0,0
+3079193758,AmazonCloudWatch,4.12,4.07,4.11,28.87
+3079193758,AWS Lambda,4.23,4.24,4.15,29.3
+3079193758,AWS Step Functions,0,0,0,0
+3079193758,AWS Glue,0,0,0,0
+17820698743,AWS Service Catalog,0,0.01,0,0.04
+17820698743,EC2 - Other,12.94,12.93,12.93,90.67
+17820698743,Amazon Simple Workflow Service,0,0,0,0
+17820698743,AWS Cost Explorer,0.02,0.03,0.01,0.15
+17820698743,Amazon Simple Queue Service,0,0,0,0
+17820698743,Amazon Elastic Compute Cloud - Compute,1.99,1.99,1.92,13.24
+17820698743,AWS Key Management Service,0.75,0.75,0.76,5.26
+17820698743,Amazon Simple Notification Service,0,0,0,0
+17820698743,Amazon EC2 Container Registry (ECR),0.05,0.05,0.05,0.32
+17820698743,Amazon Virtual Private Cloud,9.24,9.24,9.24,64.68
+17820698743,AWS Secrets Manager,0.08,0.08,0.08,0.56
+17820698743,Amazon Simple Storage Service,0,0,0.01,0.01
+17820698743,AWS CloudTrail,0,0,0,0
+17820698743,Amazon DynamoDB,0.43,0.43,0.43,3.01
+17820698743,Amazon Route 53,0,0,0,0
+17820698743,AmazonCloudWatch,0.05,0.05,0.05,0.35
+17820698743,AWS Step Functions,0,0,0,0
+17820698743,Amazon Relational Database Service,0.03,0.03,0.03,0.21
+17820698743,AWS Glue,0,0,0,0
+21891570382,AWS Service Catalog,0.01,0.01,0,0.05
+21891570382,Amazon ElastiCache,44.5,44.5,44.5,311.5
+21891570382,EC2 - Other,224.01,218.89,221.07,1567.97
+21891570382,Amazon Simple Workflow Service,0,0,0,0
+21891570382,Amazon Elastic Load Balancing,5.41,5.62,5.58,37.38
+21891570382,AWS Cost Explorer,0.02,0.03,0.01,0.15
+21891570382,Amazon Simple Queue Service,0,0,0,0
+21891570382,Amazon Elastic Compute Cloud - Compute,290.52,277.39,279.54,1968.94
+21891570382,AWS Key Management Service,0.21,0.21,0.21,1.47
+21891570382,Amazon Simple Notification Service,0,0,0,0
+21891570382,Amazon EC2 Container Registry (ECR),1.69,1.69,1.69,11.83
+21891570382,Amazon Virtual Private Cloud,14.01,14,13.96,97.87
+21891570382,AWS Secrets Manager,0.18,0.19,0.19,1.32
+21891570382,Amazon Elastic MapReduce,35.05,36.49,40.72,258.82
+21891570382,Amazon Simple Storage Service,0.8,0.82,0.72,9.08
+21891570382,AWS CloudTrail,0,0,0,0
+21891570382,Amazon DynamoDB,1.57,1.57,1.56,10.98
+21891570382,Amazon Elastic Container Service for Kubernetes,26.15,16.8,16.8,174.95
+21891570382,Amazon Route 53,0.18,0.18,0.18,1.24
+21891570382,AmazonCloudWatch,7.51,6.95,7.04,49.19
+21891570382,AWS Lambda,0,0,0,0
+21891570382,AWS Step Functions,0,0,0,0
+21891570382,Amazon Relational Database Service,62.67,62.67,62.67,438.69
+21891570382,AWS Glue,0,0,0,0
+28914776520,AWS Service Catalog,0.02,0.03,0.01,0.13
+28914776520,AWS Backup,0,0,0,1.49
+28914776520,EC2 - Other,151.28,147.18,140.98,1086.91
+28914776520,Amazon Simple Workflow Service,0,0,0,0
+28914776520,Amazon Elastic Load Balancing,28.2,28.68,29.89,200.76
+28914776520,AWS Cost Explorer,0.12,0.14,0.13,0.99
+28914776520,Amazon Simple Queue Service,0.95,0.92,1.01,6.6
+28914776520,Amazon Elastic Compute Cloud - Compute,169.28,169.2,175.93,1214.79
+28914776520,AWS Key Management Service,0.04,0.04,0.04,0.28
+28914776520,Amazon Simple Notification Service,0,0,0,0
+28914776520,Amazon EC2 Container Registry (ECR),0.14,0.14,0.14,0.98
+28914776520,Amazon Virtual Private Cloud,19.81,19.89,20.14,139.58
+28914776520,CloudWatch Events,0,0,0,0
+28914776520,AWS Secrets Manager,0.03,0.03,0.03,0.21
+28914776520,Amazon Simple Storage Service,25.33,25.39,25.46,174.76
+28914776520,AWS CloudTrail,0,0,0,0
+28914776520,Amazon DynamoDB,0.09,0.09,0.09,0.63
+28914776520,Amazon Elastic Container Service for Kubernetes,4.8,4.8,4.8,33.6
+28914776520,Amazon Route 53,0,0,0,0
+28914776520,AWS Config,2.52,2.15,2.57,14
+28914776520,AmazonCloudWatch,9.16,9.13,9.12,64.08
+28914776520,Amazon Elastic File System,0.01,0.01,0.01,0.07
+28914776520,AWS Lambda,0,0,0,0
+28914776520,AWS Step Functions,0,0,0,0
+28914776520,AWS Direct Connect,9.71,9.72,9.75,68.14
+28914776520,AWS Glue,0,0,0,0
+28914776520,AWS Network Firewall,37.98,37.98,37.98,265.85
+54736913503,AWS Service Catalog,0.01,0.01,0,0.06
+54736913503,AWS Backup,0,0,0,0
+54736913503,Amazon ElastiCache,2.01,2.01,2.01,14.08
+54736913503,EC2 - Other,11.68,11.61,11.66,81.12
+54736913503,Amazon Simple Workflow Service,0,0,0,0
+54736913503,Amazon Elastic Load Balancing,3.56,3.56,3.56,24.86
+54736913503,AWS Cost Explorer,0.04,0.07,0.05,0.42
+54736913503,Amazon Simple Queue Service,0,0,0,0
+54736913503,Amazon Elastic Compute Cloud - Compute,7.5,7.5,7.5,51.4
+54736913503,AWS Key Management Service,0.14,0.14,0.14,0.98
+54736913503,Amazon Simple Notification Service,0,0,0,0
+54736913503,Amazon EC2 Container Registry (ECR),2.86,2.86,2.86,20.02
+54736913503,Amazon Virtual Private Cloud,15.19,15.2,15.21,105.87
+54736913503,CloudWatch Events,0,0,0,0
+54736913503,AWS Secrets Manager,0,0,0,0
+54736913503,Amazon Simple Storage Service,0.04,0.04,0.05,0.27
+54736913503,AWS CloudTrail,0,0,0,0
+54736913503,Amazon DynamoDB,0.21,0.21,0.21,1.47
+54736913503,Amazon Elastic Container Service for Kubernetes,4.8,4.8,4.8,33.6
+54736913503,AmazonCloudWatch,0.11,0.11,0.11,0.77
+54736913503,Amazon Elastic File System,0,0,0,0
+54736913503,AWS Lambda,0,0,0,0
+54736913503,AWS Step Functions,0,0,0,0
+54736913503,AWS Glue,0,0,0,0
+54736913503,Amazon CloudFront,0,0,0,0
+64619502227,AWS Service Catalog,0.01,0.02,0.01,0.08
+64619502227,EC2 - Other,34.21,33.87,34.5,237.08
+64619502227,Amazon Simple Workflow Service,0,0,0,0
+64619502227,Amazon Elastic Load Balancing,7.57,7.59,7.58,52.64
+64619502227,AWS Cost Explorer,0.08,0.11,0.09,0.57
+64619502227,Amazon Simple Queue Service,0,0,0,0
+64619502227,Amazon Elastic Compute Cloud - Compute,23.76,23.63,23.46,164.59
+64619502227,AWS Key Management Service,0.24,0.24,0.24,1.68
+64619502227,Amazon Simple Notification Service,0,0,0,0
+64619502227,Amazon EC2 Container Registry (ECR),1.5,1.5,1.51,10.51
+64619502227,Amazon Virtual Private Cloud,21.37,21.3,21.3,149.05
+64619502227,CloudWatch Events,0,0,0,0
+64619502227,AWS Secrets Manager,1.1,1.15,1.16,8.01
+64619502227,Amazon Simple Storage Service,1.1,1.19,1.13,7.36
+64619502227,AWS CloudTrail,0,0,0,0
+64619502227,Amazon DynamoDB,0,0,0,0
+64619502227,Amazon Elastic Container Service for Kubernetes,4.8,4.8,4.8,33.6
+64619502227,Amazon Route 53,0,0,0,0
+64619502227,AmazonCloudWatch,10.75,10.79,11.07,72.32
+64619502227,Amazon Elastic File System,0.04,0.04,0.03,0.27
+64619502227,AWS Lambda,0,0,0,0
+64619502227,AWS Step Functions,0,0,0,0
+64619502227,AWS Glue,0.06,0.1,0.06,0.61
+66548792077,AWS Service Catalog,0.11,0.21,0.08,1.09
+66548792077,AWS Backup,0,0,0,0
+66548792077,EC2 - Other,7.17,7.26,7.18,50.05
+66548792077,Amazon Simple Workflow Service,0,0,0,0
+66548792077,AWS IoT,0.01,0.03,0.02,0.09
+66548792077,AWS IoT Device Defender,0.03,0.03,0.06,0.23
+66548792077,Amazon Glacier,0,0,0,0
+66548792077,Amazon Elastic Load Balancing,4.04,4.05,4.06,28.35
+66548792077,AWS Cost Explorer,0.09,0.09,0.07,0.59
+66548792077,AWS IoT Device Management,0.02,0.05,0.02,0.15
+66548792077,Amazon Elastic Compute Cloud - Compute,10.94,10.94,10.94,74.26
+66548792077,Amazon Simple Queue Service,0.99,0.99,0.99,6.92
+66548792077,AWS Key Management Service,0.07,0.07,0.07,0.49
+66548792077,Amazon Simple Notification Service,0,0,0,0
+66548792077,Amazon EC2 Container Registry (ECR),1.15,1.16,1.16,8.05
+66548792077,Amazon Virtual Private Cloud,12.94,12.9,12.83,90.4
+66548792077,CloudWatch Events,0,0,0,0
+66548792077,AWS IoT Analytics,0,0,0,0
+66548792077,AWS Secrets Manager,1.01,1.06,1.07,7.38
+66548792077,Amazon Simple Storage Service,0.27,0.28,0.28,1.93
+66548792077,AWS CloudTrail,0,0,0,0
+66548792077,Amazon DynamoDB,0.1,0.1,0.1,0.7
+66548792077,Amazon Elastic Container Service for Kubernetes,2.4,2.4,2.4,16.8
+66548792077,Amazon Kinesis Firehose,0,0,0,0
+66548792077,AmazonCloudWatch,0.23,0.23,0.23,1.59
+66548792077,Amazon Elastic File System,0,0,0,0
+66548792077,AWS Lambda,0,0,0,0
+66548792077,AWS Step Functions,0,0,0,0
+66548792077,AWS Glue,0,0,0,0
+66548792077,Amazon Bedrock,0,0.31,0,0.51
+66636274316,AWS Service Catalog,0.01,0.02,0.01,0.11
+66636274316,EC2 - Other,19.23,17.07,17.06,133.63
+66636274316,Amazon Simple Workflow Service,0,0,0,0
+66636274316,Amazon Elastic Load Balancing,6.21,6.12,6.07,43.02
+66636274316,AWS Cost Explorer,0.06,0.07,0.05,0.43
+66636274316,Amazon Simple Queue Service,0,0,0,0
+66636274316,Amazon Elastic Compute Cloud - Compute,29.08,26.66,26.45,186.5
+66636274316,AWS Key Management Service,0,0.01,0.01,0.02
+66636274316,Amazon Simple Notification Service,0,0,0,0
+66636274316,Amazon EC2 Container Registry (ECR),0.09,0.09,0.09,0.63
+66636274316,Amazon Virtual Private Cloud,11.72,11.72,11.72,82.04
+66636274316,CloudWatch Events,0,0,0,0
+66636274316,AWS Secrets Manager,0.01,0.01,0.01,0.07
+66636274316,Amazon Simple Storage Service,10.69,10.49,10.18,175.05
+66636274316,AWS CloudTrail,0,0,0,0
+66636274316,Amazon DynamoDB,0.16,0.16,0.16,1.12
+66636274316,Amazon Elastic Container Service for Kubernetes,2.4,2.4,2.4,16.8
+66636274316,Amazon Lightsail,8.32,8.32,8.32,58.24
+66636274316,AmazonCloudWatch,0.71,0.71,0.71,4.93
+66636274316,AWS Lambda,0,0,0,0
+66636274316,AWS Step Functions,0,0,0,0
+66636274316,AWS Glue,0,0,0,0
+66636274316,Amazon CloudFront,0,0.01,0,0.04
+68930846606,AWS Service Catalog,0.01,0.01,0,0.06
+68930846606,AWS Backup,0,0,0,0
+68930846606,EC2 - Other,43.49,43.53,43.5,304.7
+68930846606,Amazon Simple Workflow Service,0,0,0,0
+68930846606,Amazon Elastic Load Balancing,5.34,5.34,5.27,37.77
+68930846606,AWS Cost Explorer,0.04,0.07,0.05,0.42
+68930846606,Amazon Simple Email Service,0.75,1.09,0.64,6.08
+68930846606,Amazon Simple Queue Service,0,0,0,0
+68930846606,Amazon Elastic Compute Cloud - Compute,61.67,61.67,61.67,432.68
+68930846606,AWS Key Management Service,0,0,0.01,0.01
+68930846606,Amazon Simple Notification Service,0,0,0,0
+68930846606,Amazon EC2 Container Registry (ECR),0,0,0,0
+68930846606,Amazon Virtual Private Cloud,8.1,8.11,8.09,56.69
+68930846606,AWS Secrets Manager,0.3,0.31,0.31,2.08
+68930846606,Amazon API Gateway,0.06,0.05,0.04,0.4
+68930846606,Amazon Simple Storage Service,1.19,1.2,1.2,8.32
+68930846606,AWS CloudTrail,0,0,0,0
+68930846606,Amazon DynamoDB,0.02,0.02,0.02,0.14
+68930846606,Amazon Elastic Container Service for Kubernetes,2.4,2.4,2.4,16.8
+68930846606,Amazon Route 53,0.01,0.01,0.01,0.07
+68930846606,AmazonCloudWatch,0.68,0.66,0.64,4.67
+68930846606,Amazon Elastic File System,0,0,0,0
+68930846606,AWS Step Functions,0,0,0,0
+68930846606,AWS Glue,0,0,0,0
+72401294672,AWS Service Catalog,0.01,0.01,0,0.06
+72401294672,AWS Backup,7.62,7.62,7.62,53.34
+72401294672,Amazon ElastiCache,0.06,0.06,0.06,0.42
+72401294672,Amazon Simple Workflow Service,0,0,0,0
+72401294672,AWS Cost Explorer,0.05,0.07,0.05,0.43
+72401294672,Amazon Simple Queue Service,0,0,0,0
+72401294672,AWS Key Management Service,0.51,0.52,0.53,3.6
+72401294672,Amazon Simple Notification Service,0,0,0,0
+72401294672,Amazon Virtual Private Cloud,7.21,7.21,7.21,50.47
+72401294672,AWS Secrets Manager,0,0,0,0
+72401294672,Amazon Simple Storage Service,203.51,203.4,203.47,1423.19
+72401294672,AWS CloudTrail,0,0,0,0
+72401294672,Amazon DynamoDB,0.11,0.11,0.11,0.77
+72401294672,Amazon Route 53,0,0,0,0
+72401294672,AWS Config,0.02,0.02,0.03,0.14
+72401294672,AmazonCloudWatch,2.21,2.21,2.21,15.47
+72401294672,AWS Lambda,0,0,0,0
+72401294672,AWS Step Functions,0,0,0,0
+72401294672,Amazon Relational Database Service,0,0,0,0
+72401294672,AWS Glue,0,0,0,0
+75790327284,AWS Service Catalog,0.01,0.01,0,0.05
+75790327284,Amazon ElastiCache,0.35,0.35,0.35,2.45
+75790327284,EC2 - Other,820.34,797.97,829.67,5639.03
+75790327284,Amazon Simple Workflow Service,0,0,0,0
+75790327284,Amazon Elastic Load Balancing,188.81,189.51,191.64,1364.27
+75790327284,AWS Cost Explorer,0.25,0.16,0.13,1.87
+75790327284,Amazon Simple Queue Service,0.01,0.01,0.01,0.05
+75790327284,Amazon Elastic Compute Cloud - Compute,1214.16,1165.87,1241.41,8564.3
+75790327284,AWS Key Management Service,3.57,3.58,3.59,25.04
+75790327284,Amazon Simple Notification Service,0,0,0,0
+75790327284,Amazon EC2 Container Registry (ECR),15.72,15.72,15.72,110.04
+75790327284,Amazon Virtual Private Cloud,32.83,32.85,32.84,231.08
+75790327284,CloudWatch Events,0,0,0,0
+75790327284,AWS Secrets Manager,0.69,0.72,0.73,5.02
+75790327284,Amazon Elastic MapReduce,475.49,456.42,495.88,3422.44
+75790327284,Amazon QuickSight,3.2,3.2,3.2,22.4
+75790327284,AWS CloudTrail,0,0,0,0
+75790327284,Amazon DynamoDB,7.33,7.33,7.33,51.31
+75790327284,Amazon Elastic Container Service for Kubernetes,4.8,4.8,4.8,33.6
+75790327284,Amazon Simple Storage Service,706.69,718.24,713.01,4956.36
+75790327284,Amazon Route 53,0.17,0.14,0.18,1.15
+75790327284,Amazon Redshift,0.03,0.03,0.03,0.21
+75790327284,Amazon Location Service,0,0,0,0
+75790327284,AmazonCloudWatch,4.84,4.83,4.81,33.84
+75790327284,Amazon Elastic File System,0.51,0.51,0.51,3.57
+75790327284,AWS Lambda,3.04,3.59,3.63,13.17
+75790327284,AWS Step Functions,0,0,0,0
+75790327284,AWS CodeArtifact,0,0,0,0
+75790327284,Amazon Relational Database Service,33.29,33.29,33.29,233.03
+75790327284,AWS Glue,1.59,1.6,1.66,11.28
+90436275138,AWS Service Catalog,0.01,0.01,0,0.06
+90436275138,EC2 - Other,50.02,46.98,48.3,337.51
+90436275138,Amazon Simple Workflow Service,0,0,0,0
+90436275138,AWS WAF,0.3,0.33,0.33,1.29
+90436275138,Amazon Elastic Load Balancing,11.49,11.54,11.49,80.94
+90436275138,AWS Cost Explorer,0.07,0.06,0.05,0.44
+90436275138,Amazon Simple Queue Service,0,0,0,0
+90436275138,Amazon Elastic Compute Cloud - Compute,55.96,56.53,56.89,378.96
+90436275138,AWS Key Management Service,0,0,0.01,0.01
+90436275138,Amazon Simple Notification Service,0,0,0,0
+90436275138,Amazon EC2 Container Registry (ECR),2.3,2.31,2.31,16.12
+90436275138,Amazon Virtual Private Cloud,39.66,39.57,39.57,276.86
+90436275138,CloudWatch Events,0,0,0,0
+90436275138,AWS Secrets Manager,1.34,1.41,1.42,9.77
+90436275138,Amazon Simple Storage Service,2.2,2.72,1.74,16.22
+90436275138,AWS CloudTrail,0,0,0,0
+90436275138,Amazon Elastic Container Service for Kubernetes,7.2,7.2,7.2,50.4
+90436275138,Amazon DevOps Guru,0,0,0,0
+90436275138,AmazonCloudWatch,1.66,1.66,1.66,11.05
+90436275138,AWS Lambda,0,0,0,0
+90436275138,AWS Step Functions,0,0,0,0
+90436275138,Amazon Relational Database Service,0.08,0.08,0.08,0.56
+90436275138,AWS Glue,0,0,0,0
+90436275138,Amazon CloudFront,0.02,0.02,0.02,0.16
+97001033170,AWS Service Catalog,0.02,0.02,0.01,0.13
+97001033170,EC2 - Other,43.87,44.31,43.89,315.19
+97001033170,Amazon Simple Workflow Service,0,0,0,0
+97001033170,Amazon Elastic Load Balancing,4.74,4.81,4.71,33.31
+97001033170,AWS Cost Explorer,0.07,0.07,0.05,0.45
+97001033170,Amazon Simple Queue Service,0,0,0,0
+97001033170,Amazon Elastic Compute Cloud - Compute,49.28,50.33,49.12,315
+97001033170,AWS Key Management Service,0.1,0.11,0.11,0.72
+97001033170,Amazon Simple Notification Service,0,0,0,0
+97001033170,Amazon Virtual Private Cloud,10.32,10.32,10.34,72.49
+97001033170,CloudWatch Events,0,0,0,0
+97001033170,AWS Secrets Manager,0,0,0,0
+97001033170,Amazon Simple Storage Service,1.31,1.65,1.63,16.54
+97001033170,AWS CloudTrail,0,0,0,0
+97001033170,Amazon DynamoDB,0.21,0.21,0.21,1.47
+97001033170,Amazon Route 53,0,0,0,0
+97001033170,AmazonCloudWatch,0.42,0.42,0.43,2.97
+97001033170,AWS Lambda,0,0,0,0
+97001033170,AWS Step Functions,0,0,0,0
+97001033170,Amazon Relational Database Service,0.32,0.32,0.32,2.24
+97001033170,AWS Glue,0,0,0,0
+116631508635,AWS Key Management Service,0.14,0.14,0.14,0.98
+116631508635,Amazon Route 53,0,0,0,0
+116631508635,AWS Service Catalog,0,0.01,0,0.04
+116631508635,Amazon Simple Notification Service,0,0,0,0
+116631508635,Amazon EC2 Container Registry (ECR),0.07,0.07,0.07,0.49
+116631508635,Amazon Virtual Private Cloud,0.12,0.12,0.12,0.84
+116631508635,AmazonCloudWatch,0.06,0.06,0.06,0.42
+116631508635,EC2 - Other,1.12,1.12,1.12,7.84
+116631508635,Amazon Simple Workflow Service,0,0,0,0
+116631508635,AWS Step Functions,0,0,0,0
+116631508635,Amazon Relational Database Service,0.14,0.14,0.14,0.98
+116631508635,Amazon Simple Storage Service,0.01,0.01,0.01,0.07
+116631508635,AWS Secrets Manager,0.08,0.08,0.08,0.56
+116631508635,AWS Glue,0,0,0,0
+116631508635,AWS Systems Manager,0.1,0.1,0.1,0.7
+116631508635,AWS Cost Explorer,0.04,0.06,0.05,0.41
+116631508635,Amazon Simple Queue Service,0,0,0,0
+116631508635,AWS CloudTrail,0,0,0,0
+127247839315,AWS Service Catalog,0.01,0.01,0,0.06
+127247839315,AWS Backup,9.25,9.26,9.27,64.74
+127247839315,EC2 - Other,22.71,23.06,22.96,157.62
+127247839315,Amazon Simple Workflow Service,0,0,0,0
+127247839315,Amazon Elastic Load Balancing,3.73,3.68,3.45,23.47
+127247839315,AWS Cost Explorer,0.04,0.06,0.05,0.41
+127247839315,Amazon Simple Email Service,4.21,3.83,3.62,21.73
+127247839315,Amazon Simple Queue Service,0,0,0,0
+127247839315,Amazon Elastic Compute Cloud - Compute,37.66,36.4,37.03,260.25
+127247839315,AWS Key Management Service,0,0.01,0.01,0.02
+127247839315,Amazon Simple Notification Service,0,0,0,0
+127247839315,Amazon Virtual Private Cloud,6.01,6.02,6.01,42.08
+127247839315,AWS Secrets Manager,0,0,0,0
+127247839315,Amazon Simple Storage Service,0,0,0.01,0.01
+127247839315,AWS CloudTrail,0,0,0,0
+127247839315,AmazonCloudWatch,0.08,0.08,0.08,0.56
+127247839315,Amazon Elastic File System,8.24,8.24,8.24,57.42
+127247839315,AWS Lambda,0.01,0.01,0.01,0.07
+127247839315,AWS Step Functions,0,0,0,0
+127247839315,Amazon Relational Database Service,0,0,0,0
+127247839315,AWS Glue,0,0,0,0
+130653941854,AWS Key Management Service,0,0.01,0.01,0.02
+130653941854,AWS Service Catalog,0.01,0.01,0,0.06
+130653941854,Amazon Simple Notification Service,0,0,0,0
+130653941854,AWS Backup,0.13,0.13,0.13,0.91
+130653941854,Amazon EC2 Container Registry (ECR),0,0,0,0.47
+130653941854,Amazon Virtual Private Cloud,0.48,0.48,0.48,3.36
+130653941854,AmazonCloudWatch,0.01,0.01,0.01,0.07
+130653941854,AWS Lambda,0,0,0,0
+130653941854,Amazon Simple Workflow Service,0,0,0,0
+130653941854,AWS Step Functions,0,0,0,0
+130653941854,Amazon Simple Storage Service,0.61,0.61,0.62,5
+130653941854,AWS Glue,0,0,0,0
+130653941854,AWS Secrets Manager,0.06,0.07,0.07,0.48
+130653941854,AWS Cost Explorer,0.04,0.06,0.05,0.41
+130653941854,Amazon Simple Queue Service,0,0,0,0
+130653941854,AWS CloudTrail,0,0,0,0
+131752971524,AWS Service Catalog,0,0.01,0,0.05
+131752971524,AWS Backup,0.34,0.34,0.34,2.38
+131752971524,EC2 - Other,26.27,26.82,26.73,177.7
+131752971524,Amazon Simple Workflow Service,0,0,0,0
+131752971524,Amazon Elastic Load Balancing,2.37,2.35,2.36,16.53
+131752971524,AWS Cost Explorer,0.08,0.12,0.11,0.79
+131752971524,Amazon Simple Queue Service,0,0,0,0
+131752971524,Amazon Elastic Compute Cloud - Compute,59.74,61.63,59.64,407.32
+131752971524,AWS Key Management Service,0,0.01,0.01,0.02
+131752971524,Amazon Simple Notification Service,0,0,0,0
+131752971524,Amazon EC2 Container Registry (ECR),0.07,0.07,0.07,0.49
+131752971524,Amazon Virtual Private Cloud,19.11,19.1,19.09,133.59
+131752971524,CloudWatch Events,0,0,0,0
+131752971524,AWS Secrets Manager,0.13,0.13,0.14,0.92
+131752971524,Amazon Simple Storage Service,0.08,0.08,0.08,0.53
+131752971524,AWS CloudTrail,0,0,0,0
+131752971524,AmazonCloudWatch,1.38,1.4,1.37,9.26
+131752971524,Amazon Elastic File System,0.28,0.28,0.27,1.9
+131752971524,AWS Lambda,0,0,0,0
+131752971524,AWS Step Functions,0,0,0,0
+131752971524,AWS Glue,0,0,0,0
+135329050410,AWS Service Catalog,0.01,0.01,0,0.06
+135329050410,EC2 - Other,13.88,13.43,13.29,96.29
+135329050410,Amazon Simple Workflow Service,0,0,0,0
+135329050410,Amazon Elastic Load Balancing,3.48,3.48,3.48,24.34
+135329050410,AWS Cost Explorer,0.07,0.08,0.07,0.54
+135329050410,Amazon Simple Queue Service,0,0,0,0
+135329050410,Amazon Elastic Compute Cloud - Compute,9.28,8.84,8.84,61.76
+135329050410,AWS Key Management Service,0,0,0.01,0.01
+135329050410,Amazon Simple Notification Service,0,0,0,0
+135329050410,Amazon EC2 Container Registry (ECR),0.02,0.02,0.02,0.14
+135329050410,Amazon Virtual Private Cloud,17.96,17.96,17.96,125.7
+135329050410,CloudWatch Events,0,0,0,0
+135329050410,AWS Secrets Manager,0.04,0.04,0.04,0.28
+135329050410,Amazon Simple Storage Service,1.34,1.35,1.35,9.3
+135329050410,AWS CloudTrail,0,0,0,0
+135329050410,Amazon DynamoDB,0.21,0.21,0.21,1.47
+135329050410,Amazon Route 53,0,0,0,0
+135329050410,AmazonCloudWatch,0.37,0.36,0.36,2.51
+135329050410,AWS Lambda,0,0,0,0
+135329050410,AWS Step Functions,0,0,0,0
+135329050410,AWS Glue,0,0,0,0
+153518195166,AWS Service Catalog,0.01,0.01,0,0.06
+153518195166,EC2 - Other,6.08,6.08,6.08,42.56
+153518195166,Amazon Simple Workflow Service,0,0,0,0
+153518195166,AWS Cost Explorer,0.04,0.05,0.03,0.3
+153518195166,Amazon Simple Queue Service,0,0,0,0
+153518195166,Amazon Elastic Compute Cloud - Compute,0,0,0,0
+153518195166,AWS Key Management Service,0.41,0.41,0.41,2.87
+153518195166,Amazon Simple Notification Service,0,0,0,0
+153518195166,Amazon EC2 Container Registry (ECR),0.05,0.05,0.05,0.35
+153518195166,Amazon Virtual Private Cloud,14.16,14.16,14.16,99.12
+153518195166,AWS Secrets Manager,0.05,0.05,0.05,0.35
+153518195166,Amazon Simple Storage Service,0.13,0.13,0.13,0.91
+153518195166,AWS X-Ray,0,0,0,0
+153518195166,AWS CloudTrail,0,0,0,0
+153518195166,Amazon DynamoDB,0,0,0,0
+153518195166,Amazon Route 53,11.99,12,12,83.98
+153518195166,AWS Systems Manager,0,0,0,0
+153518195166,AmazonCloudWatch,0,0,0,0
+153518195166,AWS Lambda,0.01,0.01,0.01,0.07
+153518195166,AWS CloudFormation,0,0,0,0
+153518195166,AWS Step Functions,0,0,0,0
+153518195166,Amazon Relational Database Service,0.03,0.03,0.03,0.21
+153518195166,AWS Glue,0,0,0,0
+153518195166,Amazon Macie,0.07,0.07,0.07,0.49
+161115069565,AWS Key Management Service,0.3,0.31,0.31,2.12
+161115069565,AWS Service Catalog,0.01,0.01,0,0.06
+161115069565,Amazon Simple Notification Service,0,0,0,0
+161115069565,Amazon Virtual Private Cloud,41.48,41.46,41.45,290.12
+161115069565,AmazonCloudWatch,0,0,0,0
+161115069565,EC2 - Other,382.79,382.74,382.43,2679.09
+161115069565,Amazon Simple Workflow Service,0,0,0,0
+161115069565,AWS Step Functions,0,0,0,0
+161115069565,Amazon Macie,0.03,0.03,0.03,0.21
+161115069565,Amazon Elastic Compute Cloud - Compute,144.77,145.01,145.11,1014.24
+161115069565,Amazon Simple Storage Service,3.01,3.01,2.99,21.07
+161115069565,AWS Glue,0,0,0,0
+161115069565,AWS Secrets Manager,0,0,0,0
+161115069565,Amazon Elastic Load Balancing,1.15,1.15,1.15,8.05
+161115069565,AWS Config,0.08,0.08,0.08,0.56
+161115069565,AWS Cost Explorer,0.01,0.07,0.05,0.36
+161115069565,Amazon Simple Queue Service,0.01,0.01,0.01,0.07
+161115069565,AWS CloudTrail,0,0,0,0
+182401677120,AWS Service Catalog,0.01,0.02,0.01,0.08
+182401677120,Amazon ElastiCache,26.31,26.39,26.98,185.01
+182401677120,EC2 - Other,673.01,652.17,638.71,4647.65
+182401677120,Amazon Simple Workflow Service,0,0,0,0
+182401677120,Amazon Elastic Load Balancing,16.2,16.6,15.74,103.7
+182401677120,AWS Cost Explorer,0.2,0.21,0.14,1.4
+182401677120,Amazon Simple Queue Service,2.08,2.08,2.05,14.62
+182401677120,Amazon Elastic Compute Cloud - Compute,147.67,151.74,152.79,1052.23
+182401677120,AWS Key Management Service,0.47,0.48,0.48,3.31
+182401677120,Amazon Simple Notification Service,0,0,0,0
+182401677120,Amazon EC2 Container Registry (ECR),0.97,0.98,1,6.8
+182401677120,Amazon Virtual Private Cloud,35.74,35.96,35.92,250.76
+182401677120,CloudWatch Events,0,0,0,0
+182401677120,AWS Secrets Manager,0,0,0,0
+182401677120,Amazon Simple Storage Service,52.75,56.39,44.03,299.78
+182401677120,AWS CloudTrail,0,0,0,0
+182401677120,Amazon DynamoDB,0.7,0.7,0.7,4.9
+182401677120,Amazon Elastic Container Service for Kubernetes,4.8,4.8,4.8,33.6
+182401677120,AWS X-Ray,0,0,0,0
+182401677120,Amazon Route 53,0.02,0.02,0.02,0.13
+182401677120,AmazonCloudWatch,6.68,7.1,7.13,48.18
+182401677120,AWS Lambda,0,0,0,0
+182401677120,AWS Step Functions,0,0,0,0
+182401677120,AWS Glue,0,0,0,0
+182401677120,Amazon CloudFront,2.19,2.76,2.19,14.26
+185774682289,AWS Key Management Service,0,0,0.01,0.01
+185774682289,AWS Service Catalog,0.01,0.01,0,0.06
+185774682289,Amazon Simple Notification Service,0,0,0,0
+185774682289,Amazon ElastiCache,0,0,0,0
+185774682289,Amazon Simple Workflow Service,0,0,0,0
+185774682289,AWS Step Functions,0,0,0,0
+185774682289,Amazon Simple Storage Service,0,0,0.01,0.01
+185774682289,AWS Secrets Manager,0,0,0,0
+185774682289,AWS Glue,0,0,0,0
+185774682289,AWS Cost Explorer,0.04,0.06,0.05,0.41
+185774682289,Amazon Simple Queue Service,0,0,0,0
+185774682289,AWS CloudTrail,0,0,0,0
+210577074618,AWS Service Catalog,0.01,0.01,0,0.06
+210577074618,AWS Backup,20.48,20.61,20.53,142.11
+210577074618,EC2 - Other,183.6,178.88,190.89,1277.06
+210577074618,Amazon Simple Workflow Service,0,0,0,0
+210577074618,Amazon Elastic Load Balancing,2.31,2.33,2.3,16.19
+210577074618,AWS Cost Explorer,0.04,0.06,0.05,0.41
+210577074618,Amazon Simple Email Service,0.01,0.01,0.01,0.08
+210577074618,Amazon Simple Queue Service,0.1,0.2,0.53,1.57
+210577074618,Amazon Elastic Compute Cloud - Compute,222.23,217.12,241.8,1528.17
+210577074618,AWS Key Management Service,0.07,0.07,0.07,0.49
+210577074618,Amazon Simple Notification Service,0.02,0.05,0.14,0.39
+210577074618,Amazon Virtual Private Cloud,13.02,13.14,12.89,91.25
+210577074618,CloudWatch Events,0,0,0,0
+210577074618,AWS Secrets Manager,0.14,0.15,0.15,1.04
+210577074618,Amazon Simple Storage Service,168.11,168.71,170.97,1175.98
+210577074618,AWS CloudTrail,0,0,0,0
+210577074618,Amazon DynamoDB,0.02,0.02,0.02,0.14
+210577074618,Amazon Elastic Container Service for Kubernetes,2.4,2.4,2.4,16.8
+210577074618,Amazon Route 53,0,0,0.01,0.01
+210577074618,AmazonCloudWatch,1.37,1.37,1.37,9.59
+210577074618,Amazon Elastic File System,392.62,394.74,385.71,2785.89
+210577074618,Amazon OpenSearch Service,557.14,542.65,551.81,3889.47
+210577074618,AWS Step Functions,0,0,0,0
+210577074618,Amazon Relational Database Service,17.53,17.51,18.47,124.37
+210577074618,AWS Glue,0,0,0,0
+211125458732,AWS Service Catalog,0.01,0.01,0,0.06
+211125458732,EC2 - Other,1608.12,1624.25,1612.51,11193.71
+211125458732,Amazon Simple Workflow Service,0,0,0,0
+211125458732,Amazon Elastic Load Balancing,74.32,76.26,74.22,524.57
+211125458732,AWS Cost Explorer,0.01,0.07,0.05,0.34
+211125458732,Amazon Simple Queue Service,0.75,0.76,0.76,5.14
+211125458732,Amazon Elastic Compute Cloud - Compute,1042.29,1041.12,961.76,7027.95
+211125458732,AWS Key Management Service,0,0,0,0
+211125458732,Amazon Simple Notification Service,0,0,0,0
+211125458732,Amazon Virtual Private Cloud,35.94,35.91,36,251.57
+211125458732,CloudWatch Events,0,0,0,0
+211125458732,AWS Secrets Manager,0.84,0.85,0.79,5.79
+211125458732,Amazon Simple Storage Service,142.93,143.97,141.99,997.98
+211125458732,AWS CloudTrail,0,0,0,0
+211125458732,Amazon DynamoDB,0.02,0.02,0.02,0.14
+211125458732,Amazon Elastic Container Service for Kubernetes,2.4,2.4,2.4,16.8
+211125458732,AmazonCloudWatch,1.6,1.61,1.6,11.19
+211125458732,AWS Lambda,0,0,0,0
+211125458732,AWS Step Functions,0,0,0,0
+211125458732,AWS Glue,0,0,0,0
+211125515568,AWS Service Catalog,0.01,0.01,0,0.06
+211125515568,Amazon ElastiCache,6.77,6.91,6.91,48.23
+211125515568,EC2 - Other,460.18,462.34,467.5,3192.4
+211125515568,Amazon Simple Workflow Service,0,0,0,0
+211125515568,Amazon Elastic Load Balancing,7.52,7.52,7.53,50.77
+211125515568,AWS Cost Explorer,0.01,0.02,0.02,0.13
+211125515568,Amazon Simple Queue Service,0,0,0,0
+211125515568,Amazon Elastic Compute Cloud - Compute,699.83,692.94,698.28,4709.61
+211125515568,AWS Key Management Service,0.41,0.41,0.41,2.87
+211125515568,Amazon Simple Notification Service,0,0,0,0
+211125515568,Amazon EC2 Container Registry (ECR),0.11,0.11,0.11,0.7
+211125515568,Amazon Virtual Private Cloud,17.21,17.21,17.21,120.47
+211125515568,AWS Secrets Manager,0.15,0.16,0.16,1
+211125515568,Amazon Elastic MapReduce,83.53,83.53,85.69,562.11
+211125515568,Amazon Simple Storage Service,45.52,40.73,37.03,270.64
+211125515568,AWS CloudTrail,0,0,0,0
+211125515568,Amazon DynamoDB,1.17,1.18,1.18,8.21
+211125515568,Amazon Elastic Container Service for Kubernetes,19.2,19.2,19.2,128.52
+211125515568,Amazon Route 53,0.16,0.17,0.17,1.14
+211125515568,AWS CloudShell,0,0,0,0
+211125515568,AmazonCloudWatch,7.91,8.07,8.24,55.51
+211125515568,AWS Lambda,0,0,0,0
+211125515568,AWS Step Functions,0,0,0,0
+211125515568,Amazon Relational Database Service,30.06,30.89,30.89,250.69
+211125515568,AWS Glue,0,0,0,0
+218943325897,AWS Service Catalog,0.01,0.01,0,0.06
+218943325897,EC2 - Other,4.26,4.26,4.26,30.26
+218943325897,Amazon Simple Workflow Service,0,0,0,0
+218943325897,Amazon Elastic Load Balancing,0.57,0.57,0.57,3.99
+218943325897,AWS Cost Explorer,0.22,0.11,0.07,0.7
+218943325897,Amazon Simple Queue Service,0,0,0,0
+218943325897,Amazon Elastic Compute Cloud - Compute,0,0,0,0.88
+218943325897,AWS Key Management Service,0.1,0.1,0.11,0.71
+218943325897,Amazon Simple Notification Service,0,0,0,0
+218943325897,Amazon EC2 Container Registry (ECR),0.01,0.01,0.01,0.07
+218943325897,Amazon Virtual Private Cloud,6.48,6.48,6.48,45.8
+218943325897,AWS Secrets Manager,0.01,0.01,0.01,0.07
+218943325897,Amazon Simple Storage Service,0,0,0.01,0.01
+218943325897,AWS CloudTrail,0,0,0,0
+218943325897,Amazon DynamoDB,0.13,0.13,0.13,0.91
+218943325897,AmazonCloudWatch,0,0,0,0
+218943325897,AWS Lambda,0,0,0,0
+218943325897,AWS Step Functions,0,0,0,0
+218943325897,AWS Glue,0,0,0,0
+233815244996,AWS Service Catalog,0.1,0.19,0.07,0.96
+233815244996,AWS Backup,0,0,0,0
+233815244996,Amazon ElastiCache,8.15,8.15,8.16,57.08
+233815244996,EC2 - Other,102.79,100.1,102.6,653.06
+233815244996,Amazon Simple Workflow Service,0,0,0,0
+233815244996,Amazon Glacier,0,0,0,0
+233815244996,Amazon Elastic Load Balancing,11.08,11.11,11.16,77.67
+233815244996,AWS Cost Explorer,0.04,0.08,0.07,0.51
+233815244996,Amazon Simple Queue Service,0.01,0.01,0.01,0.05
+233815244996,Amazon Elastic Compute Cloud - Compute,251.44,255.32,257.68,1481.61
+233815244996,AWS Key Management Service,0.21,0.21,0.22,1.48
+233815244996,Amazon Simple Notification Service,0,0,0,0
+233815244996,Amazon EC2 Container Registry (ECR),18.72,18.77,18.82,130.72
+233815244996,Amazon SageMaker,0.7,0.7,0.7,4.9
+233815244996,Amazon Virtual Private Cloud,13.54,14.23,13.52,93.3
+233815244996,CloudWatch Events,0,0,0,0
+233815244996,Amazon MemoryDB,0,0,0,0
+233815244996,AWS Secrets Manager,0.97,1.02,1.03,7.04
+233815244996,Amazon API Gateway,2.47,7.55,12.5,31.85
+233815244996,Amazon Simple Storage Service,0.96,0.98,0.97,6.44
+233815244996,AWS CloudTrail,0,0,0,0
+233815244996,Amazon DynamoDB,16.31,16.31,16.32,111.61
+233815244996,Amazon Elastic Container Service for Kubernetes,2.4,2.4,2.4,16.8
+233815244996,AWS X-Ray,0,0,0,0
+233815244996,Amazon Route 53,0.02,0.03,0.03,0.17
+233815244996,AmazonCloudWatch,14.99,14.91,14.94,101.01
+233815244996,Amazon Elastic File System,0,0,0,0
+233815244996,AWS Lambda,1.53,1.53,1.54,10.74
+233815244996,Amazon OpenSearch Service,42.82,42.41,42.67,297.74
+233815244996,AWS Step Functions,0,0,0,0
+233815244996,DynamoDB Accelerator (DAX),18.19,18.19,18.19,127.33
+233815244996,Amazon Relational Database Service,84.38,85.74,93.53,490.96
+233815244996,Amazon DocumentDB (with MongoDB compatibility),30.15,30.14,30.14,173.89
+233815244996,AWS Direct Connect,7.2,7.2,7.2,50.4
+233815244996,AWS Glue,0,0,0,0
+239103975135,AWS Key Management Service,0.1,0.1,0.11,0.71
+239103975135,AWS Service Catalog,0.01,0.01,0,0.06
+239103975135,Amazon Simple Notification Service,0,0,0,0
+239103975135,AWS Lambda,0,0,0,0
+239103975135,Amazon Virtual Private Cloud,17.71,17.61,17.69,123.64
+239103975135,AmazonCloudWatch,0.67,0.67,0.68,4.66
+239103975135,CloudWatch Events,0,0,0,0
+239103975135,EC2 - Other,33.99,34.02,34.04,238.09
+239103975135,Amazon Simple Workflow Service,0,0,0,0
+239103975135,AWS Step Functions,0,0,0,0
+239103975135,Amazon Elastic Compute Cloud - Compute,94.74,94.02,93.81,619.52
+239103975135,Amazon Simple Storage Service,9.86,9.86,9.72,69.11
+239103975135,AWS Glue,0,0,0,0
+239103975135,AWS Secrets Manager,0,0,0,0
+239103975135,Amazon Elastic Load Balancing,3.31,3.31,3.31,23.37
+239103975135,AWS Cost Explorer,0.07,0.08,0.07,0.54
+239103975135,Amazon Simple Queue Service,0,0,0,0
+239103975135,AWS CloudTrail,0,0,0,0
+239666495852,AWS Service Catalog,0.01,0.01,0,0.06
+239666495852,EC2 - Other,6.2,6.2,6.22,43.43
+239666495852,Amazon Simple Workflow Service,0,0,0,0
+239666495852,Amazon Elastic Load Balancing,0.57,0.57,0.57,3.99
+239666495852,AWS Cost Explorer,0.04,0.06,0.05,0.41
+239666495852,Amazon Simple Queue Service,0.03,0.03,0.03,0.21
+239666495852,Amazon Elastic Compute Cloud - Compute,0.13,0.13,0.13,0.91
+239666495852,AWS Key Management Service,0.07,0.07,0.07,0.49
+239666495852,Amazon Simple Notification Service,0,0,0,0
+239666495852,Amazon EC2 Container Registry (ECR),0.01,0.01,0.01,0.07
+239666495852,Amazon Virtual Private Cloud,6.72,6.72,6.72,47.04
+239666495852,CloudWatch Events,0,0,0,0
+239666495852,AWS Secrets Manager,0,0,0,0
+239666495852,Amazon Simple Storage Service,0,0.01,0.01,0.02
+239666495852,AWS CloudTrail,0,0,0,0
+239666495852,Amazon DynamoDB,0.85,0.85,0.85,5.95
+239666495852,Amazon Elastic Container Service for Kubernetes,2.4,2.4,2.4,16.8
+239666495852,AmazonCloudWatch,0.01,0.01,0.01,0.07
+239666495852,AWS Lambda,0,0,0,0
+239666495852,AWS Step Functions,0,0,0,0
+239666495852,AWS Glue,0,0,0,0
+251917288737,AWS Direct Connect,7.2,7.2,7.2,50.4
+251917288737,Amazon Simple Queue Service,0,0,0,0
+251917288737,AWS Cost Explorer,0.01,0.07,0.05,0.35
+251917288737,Amazon Simple Storage Service,196.46,196.64,196.69,1372.57
+251917288737,Amazon Simple Workflow Service,0,0,0,0
+251917288737,Amazon Simple Notification Service,0,0,0,0
+251917288737,AWS Secrets Manager,0,0,0,0
+251917288737,AmazonCloudWatch,0,0,0,0
+251917288737,AWS CloudTrail,0,0,0,0
+251917288737,AWS Key Management Service,0,0,0.01,0.01
+251917288737,AWS Lambda,0,0,0,0
+251917288737,EC2 - Other,46.18,46.66,47.81,323.48
+251917288737,AWS Glue,0,0,0,0
+251917288737,AWS Step Functions,0,0,0,0
+251917288737,Amazon Elastic Compute Cloud - Compute,73.84,73.74,74.94,517.83
+251917288737,Amazon WorkSpaces,9.66,8.4,8.4,52.05
+251917288737,Amazon Virtual Private Cloud,36.02,36.07,36.01,248.36
+251917288737,Amazon Elastic Load Balancing,0.57,0.57,0.57,3.99
+251917288737,AWS Service Catalog,0.01,0.01,0,0.06
+252197745876,Amazon Simple Queue Service,0,0,0,0
+252197745876,AWS Cost Explorer,0.04,0.07,0.05,0.42
+252197745876,Amazon Simple Storage Service,8.63,8.63,8.64,60.41
+252197745876,Amazon Simple Workflow Service,0,0,0,0
+252197745876,Amazon Simple Notification Service,0,0,0,0
+252197745876,AWS Secrets Manager,0.59,0.62,0.62,4.27
+252197745876,AmazonCloudWatch,0.18,0.18,0.18,1.26
+252197745876,AWS CloudTrail,0,0,0,0
+252197745876,AWS Key Management Service,0.07,0.08,0.08,0.51
+252197745876,EC2 - Other,82.58,82.48,82.32,573.83
+252197745876,Amazon EC2 Container Registry (ECR),0,0,0,0
+252197745876,AWS Glue,0,0,0,0
+252197745876,Amazon Relational Database Service,16.74,16.74,16.75,117.14
+252197745876,AWS Step Functions,0,0,0,0
+252197745876,Amazon Elastic Compute Cloud - Compute,249.09,248.94,250.71,1742.92
+252197745876,Amazon Virtual Private Cloud,25.46,25.64,25.57,178.23
+252197745876,Amazon Elastic Load Balancing,7.66,7.65,7.63,53.25
+252197745876,Amazon Glacier,0,0,0,0
+252197745876,AWS Service Catalog,0.13,0.17,0.07,1.03
+264522784930,Amazon DynamoDB,0.11,0.11,0.11,0.77
+264522784930,Amazon Simple Workflow Service,0,0,0,0
+264522784930,AWS Lambda,0,0,0,0
+264522784930,AWS Step Functions,0,0,0,0
+264522784930,Amazon Simple Storage Service,0.02,0.02,0.03,0.15
+264522784930,Amazon Simple Queue Service,0,0,0,0
+264522784930,Amazon Simple Notification Service,0,0,0,0
+264522784930,AWS Secrets Manager,0.01,0.01,0.01,0.07
+264522784930,Amazon Route 53,1.35,1,0.97,7.25
+264522784930,AmazonCloudWatch,0,0,0,0
+264522784930,AWS CloudTrail,0,0,0,0
+264522784930,AWS Cost Explorer,0.02,0.07,0.05,0.4
+264522784930,AWS Glue,0,0,0,0
+264522784930,AWS Service Catalog,0.01,0.01,0,0.06
+264522784930,AWS Key Management Service,0.1,0.1,0.11,0.71
+272415727726,Amazon Athena,22.83,20.5,26.4,138.62
+272415727726,Amazon CloudFront,0.01,0.01,0.01,0.09
+272415727726,Amazon Simple Queue Service,0,0,0,0
+272415727726,Amazon Elastic Container Service for Kubernetes,19.2,19.2,19.2,134.4
+272415727726,Amazon DevOps Guru,0,0,0,0
+272415727726,AWS Cost Explorer,0.07,0.07,0.05,0.45
+272415727726,AWS WAF,0.23,0.23,0.23,1.61
+272415727726,Amazon Elastic Container Service,0,0,0,0
+272415727726,Amazon Simple Storage Service,1033.74,996.53,1029.13,7040.55
+272415727726,Amazon Simple Workflow Service,0,0,0,0
+272415727726,Amazon Simple Notification Service,0.04,0.03,0.05,0.23
+272415727726,Amazon ElastiCache,237.71,239.6,240.26,1687.05
+272415727726,AWS Secrets Manager,1.02,1.07,1.07,7.4
+272415727726,Amazon Elastic File System,0.02,0.02,0.02,0.14
+272415727726,AWS CloudTrail,1.16,1.03,1.04,7.3
+272415727726,AmazonCloudWatch,24.55,24.47,24.6,169.49
+272415727726,AWS Key Management Service,0.71,0.71,0.72,4.98
+272415727726,Amazon DynamoDB,40.6,41.41,40.21,295.13
+272415727726,Amazon Elastic MapReduce,408.25,407.93,426.93,3080.74
+272415727726,CloudWatch Events,0,0,0,0
+272415727726,AWS Lambda,0.07,0.07,0.07,0.44
+272415727726,CodeBuild,0,0.08,0.1,0.18
+272415727726,EC2 - Other,306.26,286.11,296.37,2164.24
+272415727726,Amazon EC2 Container Registry (ECR),57.27,57.31,57.37,400.84
+272415727726,Amazon Keyspaces (for Apache Cassandra),0,0,0,0
+272415727726,Amazon DocumentDB (with MongoDB compatibility),0,0,0,0
+272415727726,AWS Transfer Family,14.4,14.4,14.4,101.13
+272415727726,AWS Glue,1.56,1.27,1.23,9.3
+272415727726,Amazon Relational Database Service,173.42,173.44,173.43,1213.95
+272415727726,AWS Systems Manager,98.02,65.32,67.34,531.91
+272415727726,AWS Amplify,0,0,0,0
+272415727726,AWS Step Functions,0,0,0,0
+272415727726,Amazon Elastic Compute Cloud - Compute,988.69,965.81,979.4,7061.09
+272415727726,Amazon API Gateway,0.01,0.01,0.01,0.07
+272415727726,AWS Backup,0.02,0.02,0.02,0.14
+272415727726,Amazon Virtual Private Cloud,15.92,15.87,15.86,111.76
+272415727726,Amazon Managed Streaming for Apache Kafka,38.72,38.69,38.75,271.21
+272415727726,Amazon Elastic Load Balancing,79.82,80.54,82.54,554.1
+272415727726,AWS CloudFormation,0,0,0,0
+272415727726,Amazon Route 53,0.18,0.08,0.09,1.18
+272415727726,AWS Service Catalog,0.01,0.01,0,0.06
+272968093320,Amazon Simple Workflow Service,0,0,0,0
+272968093320,AWS Lambda,0,0,0,0
+272968093320,AWS Step Functions,0,0,0,0
+272968093320,Amazon Simple Storage Service,0.08,0.08,0.09,0.57
+272968093320,EC2 - Other,5.71,5.7,5.7,38.88
+272968093320,Amazon Elastic Compute Cloud - Compute,33.19,33.21,33.86,235.17
+272968093320,Amazon Simple Queue Service,0,0,0,0
+272968093320,Amazon Simple Notification Service,0,0,0,0
+272968093320,Amazon Virtual Private Cloud,1.56,1.56,1.56,10.93
+272968093320,AWS Secrets Manager,0,0,0,0
+272968093320,AmazonCloudWatch,0.01,0.01,0.01,0.07
+272968093320,AWS CloudTrail,0,0,0,0
+272968093320,AWS Cost Explorer,0.03,0.07,0.05,0.4
+272968093320,Amazon Elastic Load Balancing,0.57,0.57,0.57,3.99
+272968093320,AWS Glue,0,0,0,0
+272968093320,AWS Service Catalog,0.01,0.01,0,0.06
+272968093320,AWS Key Management Service,0,0,0,0
+304016915943,Amazon Simple Queue Service,0,0,0,0
+304016915943,AWS Cost Explorer,0.04,0.07,0.05,0.42
+304016915943,Amazon Simple Storage Service,157.05,156.96,157.07,1096.88
+304016915943,Amazon Simple Workflow Service,0,0,0,0
+304016915943,Amazon Simple Notification Service,0,0,0,0
+304016915943,Amazon ElastiCache,10.09,10.63,10.28,71.98
+304016915943,AWS Secrets Manager,0.04,0.04,0.04,0.28
+304016915943,AmazonCloudWatch,53.12,53.57,54.84,374.67
+304016915943,AWS CloudTrail,0,0,0,0
+304016915943,AWS Key Management Service,0.07,0.07,0.08,0.5
+304016915943,Amazon DynamoDB,0.06,0.06,0.06,0.42
+304016915943,CloudWatch Events,0,0,0,0
+304016915943,AWS Lambda,0.03,0.03,0.03,0.21
+304016915943,EC2 - Other,878.96,866.22,880.7,6100.97
+304016915943,AWS Glue,0,0,0,0
+304016915943,Amazon Relational Database Service,4394.73,4469.73,4529.06,30853.11
+304016915943,AWS Step Functions,0,0,0,0
+304016915943,Amazon Elastic Compute Cloud - Compute,474.91,472.13,471.37,3277.51
+304016915943,Amazon API Gateway,160.81,162.3,166.78,1136.16
+304016915943,Amazon Virtual Private Cloud,26.71,26.79,27.55,187.75
+304016915943,Amazon Elastic Load Balancing,26.65,26.86,28.04,188.77
+304016915943,Amazon Route 53,0,0,0.01,0.01
+304016915943,AWS Service Catalog,0.01,0.01,0,0.06
+318633126153,Amazon Simple Workflow Service,0,0,0,0
+318633126153,AWS Global Accelerator,1.2,1.2,1.2,8.4
+318633126153,AWS Step Functions,0,0,0,0
+318633126153,Amazon Simple Storage Service,0,0,0.01,0.01
+318633126153,EC2 - Other,114.07,113.95,113.74,797.53
+318633126153,Amazon Elastic Compute Cloud - Compute,69.81,69.66,69.67,488.38
+318633126153,Amazon Simple Queue Service,0,0,0,0
+318633126153,Amazon Simple Notification Service,0,0,0,0
+318633126153,AWS Secrets Manager,0,0,0,0
+318633126153,Amazon Virtual Private Cloud,15.64,15.64,15.61,109.47
+318633126153,AmazonCloudWatch,0.71,0.71,0.71,4.97
+318633126153,AWS CloudTrail,0,0,0,0
+318633126153,AWS Cost Explorer,0.04,0.07,0.05,0.42
+318633126153,Amazon Elastic Load Balancing,2.33,2.37,2.33,16.3
+318633126153,AWS Glue,0,0,0,0
+318633126153,AWS Service Catalog,0.01,0.01,0,0.06
+318633126153,AWS Key Management Service,0,0,0.01,0.01
+320811487590,Amazon Simple Queue Service,0,0,0,0
+320811487590,Amazon QuickSight,0,0,0,0
+320811487590,AWS Cost Explorer,0.04,0.06,0.05,0.41
+320811487590,Amazon Simple Storage Service,0,0,0.01,0.01
+320811487590,Amazon Simple Workflow Service,0,0,0,0
+320811487590,Amazon Simple Notification Service,0,0,0,0
+320811487590,AWS Secrets Manager,0,0,0,0
+320811487590,AmazonCloudWatch,0.21,0.21,0.2,1.32
+320811487590,AWS CloudTrail,0,0,0,0
+320811487590,AWS Key Management Service,0,0,0.01,0.01
+320811487590,AWS Lambda,0.18,0.19,0.16,1.19
+320811487590,EC2 - Other,2.48,2.48,2.48,17.38
+320811487590,AWS Glue,0,0,0,0
+320811487590,Amazon Relational Database Service,0,0,0,0
+320811487590,AWS Step Functions,0,0,0,0
+320811487590,Amazon Elastic Compute Cloud - Compute,1.03,1.03,1.03,7.2
+320811487590,Amazon API Gateway,0.13,0.13,0.12,0.82
+320811487590,Amazon Virtual Private Cloud,2.04,2.04,2.04,14.28
+320811487590,Amazon Elastic Load Balancing,1.15,1.15,1.15,8.05
+320811487590,Amazon Glacier,0,0,0,0
+320811487590,AWS Service Catalog,0.11,0.21,0.07,1.07
+322263815270,Amazon Simple Workflow Service,0,0,0,0
+322263815270,AWS Step Functions,0,0,0,0
+322263815270,Amazon Simple Storage Service,0,0,0.01,0.01
+322263815270,Amazon Simple Queue Service,0,0,0,0
+322263815270,Amazon Simple Notification Service,0,0,0,0
+322263815270,Amazon ElastiCache,0,0,0,0
+322263815270,AWS Secrets Manager,0,0,0,0
+322263815270,AWS CloudTrail,0,0,0,0
+322263815270,AWS Cost Explorer,0.02,0.07,0.05,0.37
+322263815270,AWS Glue,0,0,0,0
+322263815270,AWS Service Catalog,0,0.01,0,0.04
+322263815270,AWS Key Management Service,0,0,0.01,0.01
+337158390682,Amazon Simple Queue Service,0,0,0,0
+337158390682,AWS Cost Explorer,0.06,0.08,0.06,0.5
+337158390682,Amazon Simple Storage Service,1.35,1.35,1.36,9.48
+337158390682,Amazon Simple Workflow Service,0,0,0,0
+337158390682,Amazon Simple Notification Service,0,0,0,0
+337158390682,AWS Secrets Manager,0.04,0.04,0.04,0.28
+337158390682,AmazonCloudWatch,1.27,1.24,1.23,8.6
+337158390682,AWS CloudTrail,0,0,0,0
+337158390682,CloudWatch Events,0,0,0,0
+337158390682,Amazon DynamoDB,0.43,0.43,0.43,3.01
+337158390682,AWS Key Management Service,0,0.01,0.01,0.02
+337158390682,AWS Lambda,0,0,0,0
+337158390682,EC2 - Other,24.18,23.4,23.54,167.57
+337158390682,AWS Glue,0,0,0,0
+337158390682,AWS Step Functions,0,0,0,0
+337158390682,Amazon Elastic Compute Cloud - Compute,17.37,17.18,16.85,117.73
+337158390682,Amazon Virtual Private Cloud,13.36,13.22,13.27,93.38
+337158390682,Amazon Elastic Load Balancing,87.5,76.92,77.13,597.66
+337158390682,AWS Service Catalog,0.02,0.02,0.01,0.12
+337891198417,AWS Direct Connect,14.4,14.4,14.4,100.8
+337891198417,Amazon Simple Queue Service,0.01,0.01,0.01,0.07
+337891198417,Amazon Elastic Container Service for Kubernetes,7.2,7.2,7.2,50.4
+337891198417,AWS Cost Explorer,0.08,0.09,0.07,0.57
+337891198417,AWS WAF,0.17,0.17,0.17,1.19
+337891198417,AWS X-Ray,0,0,0,0
+337891198417,Amazon Simple Storage Service,43.24,43.08,43.19,296.47
+337891198417,Amazon Simple Workflow Service,0,0,0,0
+337891198417,Amazon Elastic Container Registry Public,0,0,0,0
+337891198417,Amazon Simple Notification Service,0,0,0,0
+337891198417,Amazon ElastiCache,2.01,2,2,14.04
+337891198417,AWS Secrets Manager,1.26,1.33,1.34,9.14
+337891198417,Amazon Elastic File System,0,0,0,0
+337891198417,AWS CloudTrail,0,0,0,0
+337891198417,AmazonCloudWatch,8.16,8.37,8.17,56.62
+337891198417,Amazon Bedrock,120.74,111.96,102.3,557.69
+337891198417,AWS Key Management Service,0.14,0.15,0.15,1
+337891198417,Amazon DynamoDB,0,0,0,0
+337891198417,Amazon SageMaker,0.43,0.43,0.43,3.01
+337891198417,CloudWatch Events,0.6,0.62,0.59,4.06
+337891198417,Amazon Kinesis Firehose,1.17,1.22,1.19,7.97
+337891198417,AWS Lambda,0.72,0.75,0.72,4.87
+337891198417,EC2 - Other,178.56,182.49,172.59,1183.6
+337891198417,Amazon EC2 Container Registry (ECR),2.4,2.42,2.44,16.72
+337891198417,AWS Glue,0,0,0,0
+337891198417,AWS Systems Manager,0.01,0.01,0.01,0.07
+337891198417,AWS Step Functions,0,0,0,0
+337891198417,Amazon Elastic Compute Cloud - Compute,344.36,446.52,404.54,2541.91
+337891198417,AWS Backup,0,0,0,0
+337891198417,Amazon Virtual Private Cloud,36.74,36.56,36.46,255.72
+337891198417,Amazon Elastic Load Balancing,15.29,15.74,15.24,106.5
+337891198417,Amazon Glacier,0,0,0,0
+337891198417,AWS Service Catalog,0.15,0.2,0.08,1.09
+339712759199,Amazon Simple Queue Service,0,0,0,0
+339712759199,Amazon Elastic Container Service for Kubernetes,14.4,14.4,4.86,91.26
+339712759199,AWS Cost Explorer,0.01,0.02,0.01,0.12
+339712759199,Amazon Simple Storage Service,17.22,17.3,17.38,120.05
+339712759199,Amazon Simple Workflow Service,0,0,0,0
+339712759199,Amazon Simple Notification Service,0,0,0,0
+339712759199,AWS Secrets Manager,0.05,0.05,0.05,0.35
+339712759199,AmazonCloudWatch,2.27,2.26,2.34,15.93
+339712759199,AWS CloudTrail,0,0,0,0
+339712759199,AWS Key Management Service,0.14,0.14,0.14,0.98
+339712759199,Amazon DynamoDB,0.21,0.21,0.21,1.47
+339712759199,Amazon Elastic MapReduce,9.08,9.32,9.11,66.18
+339712759199,EC2 - Other,15.56,15.75,15.57,111.08
+339712759199,AWS Glue,0,0,0,0
+339712759199,Amazon Relational Database Service,15.89,15.89,15.89,111.23
+339712759199,AWS Step Functions,0,0,0,0
+339712759199,Amazon Elastic Compute Cloud - Compute,42.48,42.76,42.43,300.28
+339712759199,Amazon Virtual Private Cloud,6.12,6.12,6.12,42.84
+339712759199,Amazon Elastic Load Balancing,3,3,3,21
+339712759199,Amazon Route 53,0,0,0,0
+339712759199,AWS Service Catalog,0.01,0.01,0,0.06
+339712810712,Amazon Simple Queue Service,0,0,0,0
+339712810712,Amazon Elastic Container Service for Kubernetes,2.4,2.4,2.4,16.8
+339712810712,AWS Cost Explorer,0.01,0.03,0.01,0.15
+339712810712,Amazon Simple Storage Service,6.62,6.61,5.53,31.99
+339712810712,Amazon Simple Workflow Service,0,0,0,0
+339712810712,Amazon Kinesis,1.26,1.26,1.26,8.82
+339712810712,Amazon Simple Notification Service,0,0,0,0
+339712810712,AWS Secrets Manager,0.64,0.65,0.64,4.19
+339712810712,Amazon Elastic File System,0,0,0,0
+339712810712,AWS CloudTrail,0,0,0,0
+339712810712,AmazonCloudWatch,0.96,0.96,0.96,5.8
+339712810712,AWS Key Management Service,0,0,0.01,0.01
+339712810712,Amazon DynamoDB,0.51,0.51,0.51,3.57
+339712810712,CloudWatch Events,0,0,0,0
+339712810712,AWS Lambda,0,0,0,0
+339712810712,EC2 - Other,81.66,82.2,79.35,540.6
+339712810712,Amazon EC2 Container Registry (ECR),13.03,13.08,13.13,90.81
+339712810712,AWS Glue,0.06,0.11,0.11,0.68
+339712810712,AWS Step Functions,0,0,0,0
+339712810712,Amazon Elastic Compute Cloud - Compute,134.1,134.02,126.6,835.47
+339712810712,Amazon Virtual Private Cloud,17.01,17.05,16.96,116.95
+339712810712,AWS CloudFormation,0,0,0,0
+339712810712,Amazon Elastic Load Balancing,2.95,2.95,2.95,20.59
+339712810712,AWS Service Catalog,0.01,0.01,0,0.06
+340077773684,Amazon Athena,0,0,0,0
+340077773684,Amazon Simple Queue Service,4.49,3.9,3.66,28.96
+340077773684,Amazon QuickSight,46.4,46.4,46.4,324.8
+340077773684,Amazon Elastic Container Service for Kubernetes,34.93,26.4,26.4,241.33
+340077773684,AWS Cost Explorer,5.02,2.32,1.81,16.91
+340077773684,Amazon Simple Storage Service,426.15,426.98,427.81,2996.77
+340077773684,Amazon Simple Workflow Service,0,0,0,0
+340077773684,Amazon Kinesis,13.87,13.87,13.87,97.09
+340077773684,Amazon Simple Email Service,0,0,0,0
+340077773684,Amazon Simple Notification Service,0.01,0.01,0.01,0.07
+340077773684,Amazon ElastiCache,27.4,26.79,27.34,191.31
+340077773684,AWS Secrets Manager,3.27,3.43,3.45,23.59
+340077773684,Amazon Elastic File System,0.01,0.01,0.01,0.07
+340077773684,AWS CloudTrail,0,0,0,0
+340077773684,AmazonCloudWatch,168.38,345.8,434.18,1557.27
+340077773684,Amazon GuardDuty,35.96,35.89,35.34,267.16
+340077773684,AWS Key Management Service,5.97,6.24,6.2,41.14
+340077773684,Amazon DynamoDB,2.28,2.28,2.28,15.96
+340077773684,Amazon Elastic MapReduce,30.24,30.24,30.24,211.7
+340077773684,Amazon SageMaker,455.3,483.36,376.14,2961.3
+340077773684,Amazon Kinesis Firehose,0.15,0.15,0.15,1
+340077773684,CloudWatch Events,0.01,0.01,0.01,0.05
+340077773684,AWS Lambda,0.72,0.69,0.69,4.99
+340077773684,EC2 - Other,3778.08,3745.16,3711.77,26606.88
+340077773684,Amazon EC2 Container Registry (ECR),44.41,44.48,44.54,310.56
+340077773684,AWS Glue,23.27,23.47,23.48,161.72
+340077773684,Amazon Relational Database Service,34.75,34.75,34.93,243.43
+340077773684,AWS Step Functions,0,0,0,0
+340077773684,Amazon Elastic Compute Cloud - Compute,1353.72,1359.5,1349.13,9295.58
+340077773684,AWS Config,68.92,84.53,71.65,436.59
+340077773684,AWS Backup,0,0,0,0
+340077773684,Amazon Virtual Private Cloud,105.68,105.54,105.04,735.42
+340077773684,AWS CloudShell,0,0,0,0
+340077773684,Amazon Managed Streaming for Apache Kafka,138.61,138.18,137.93,967.52
+340077773684,Amazon Elastic Load Balancing,95.89,104.89,100.34,689.12
+340077773684,Amazon Route 53,1.27,1.22,1.29,8.8
+340077773684,AWS Service Catalog,0.02,0.03,0.01,0.15
+340677782776,Amazon Simple Queue Service,0.1,0.09,0.09,0.64
+340677782776,Amazon Elastic Container Service for Kubernetes,2.4,2.4,2.4,16.8
+340677782776,AWS Network Firewall,30.85,31.49,31.03,217.56
+340677782776,AWS Cost Explorer,0.03,0.07,0.05,0.4
+340677782776,Amazon Simple Storage Service,8.09,6.87,6.66,48.79
+340677782776,Amazon Simple Workflow Service,0,0,0,0
+340677782776,Amazon Simple Notification Service,0,0,0,0
+340677782776,AWS Secrets Manager,0.31,0.32,0.33,2.24
+340677782776,Amazon Elastic File System,0.01,0.01,0.01,0.07
+340677782776,AWS CloudTrail,0,0,0,0
+340677782776,AmazonCloudWatch,4.71,5.49,5.03,35.42
+340677782776,AWS Key Management Service,0.04,0.04,0.04,0.28
+340677782776,CloudWatch Events,0,0,0,0
+340677782776,AWS Lambda,0,0,0,0
+340677782776,EC2 - Other,67.78,69.33,68.46,478.82
+340677782776,Amazon EC2 Container Registry (ECR),0.23,0.23,0.23,1.61
+340677782776,AWS Glue,0,0,0,0
+340677782776,AWS Step Functions,0,0,0,0
+340677782776,Amazon Elastic Compute Cloud - Compute,122.16,123.93,121.63,854.31
+340677782776,AWS Backup,0,0,0,0
+340677782776,Amazon Virtual Private Cloud,9.28,9.29,9.36,64.86
+340677782776,Amazon Elastic Load Balancing,2.72,2.81,2.74,19.44
+340677782776,AWS Service Catalog,0.01,0.01,0,0.06
+352506242819,Amazon Athena,0,0,0,3.8
+352506242819,Amazon Simple Queue Service,0.01,0.01,0.01,0.07
+352506242819,Amazon Elastic Container Service for Kubernetes,2.4,2.4,2.4,16.8
+352506242819,AWS Cost Explorer,0.03,0.09,0.07,0.49
+352506242819,AWS X-Ray,0,0,0,0
+352506242819,Amazon Simple Storage Service,109.48,107,104.91,743.35
+352506242819,Amazon Simple Workflow Service,0,0,0,0
+352506242819,Amazon Simple Email Service,0.02,0.01,0.01,0.12
+352506242819,Amazon Simple Notification Service,0,0,0,0
+352506242819,AWS Secrets Manager,0.28,0.29,0.29,2.02
+352506242819,AmazonCloudWatch,95.91,97.86,97.78,683.63
+352506242819,AWS CloudTrail,0,0,0,0
+352506242819,Amazon OpenSearch Service,260.12,274.61,265.92,1832.13
+352506242819,AWS Key Management Service,0.04,0.04,0.04,0.28
+352506242819,Amazon DynamoDB,394.43,437.97,420.28,2952.52
+352506242819,CloudWatch Events,0,0,0,0
+352506242819,AWS Lambda,45.73,47,47.07,327.35
+352506242819,EC2 - Other,2720.55,2734.8,2738.95,19129.81
+352506242819,Amazon EC2 Container Registry (ECR),0.01,0.01,0.01,0.07
+352506242819,Amazon DocumentDB (with MongoDB compatibility),383.06,383.04,383.05,2681.37
+352506242819,AWS Glue,0,0,0,0
+352506242819,Amazon Relational Database Service,13631.24,13642.56,13655.06,95039.98
+352506242819,DynamoDB Accelerator (DAX),88.13,88.13,88.13,616.91
+352506242819,AWS Step Functions,0,0,0,0
+352506242819,Amazon Elastic Compute Cloud - Compute,2032.11,2033.85,2017.01,14113.24
+352506242819,Amazon API Gateway,456.05,469.26,470.55,3269.43
+352506242819,AWS Backup,0.18,0.18,0.18,1.26
+352506242819,Amazon Virtual Private Cloud,20.38,20.94,20.8,144.52
+352506242819,Amazon Elastic Load Balancing,94.84,96.05,98.25,694.35
+352506242819,Amazon Route 53,0.11,0.11,0.1,0.73
+352506242819,AWS Service Catalog,0.01,0.02,0.01,0.11
+359716425895,Amazon Athena,10.21,14.99,10.51,64
+359716425895,Amazon CloudFront,0.01,0.01,0.02,0.07
+359716425895,Amazon Simple Queue Service,0,0,0,0
+359716425895,Amazon QuickSight,0,0,0,0
+359716425895,Amazon Elastic Container Service for Kubernetes,12,12,12,84
+359716425895,AWS Cost Explorer,0.02,0.06,0.05,0.37
+359716425895,AWS WAF,0.2,0.2,0.22,1.42
+359716425895,Amazon Simple Storage Service,165.19,176.95,166.58,1146.04
+359716425895,Amazon Simple Workflow Service,0,0,0,0
+359716425895,Amazon Simple Email Service,1.29,1.24,1.28,9.27
+359716425895,Amazon Simple Notification Service,0,0,0,0
+359716425895,Amazon ElastiCache,0,0,0,0
+359716425895,AWS Secrets Manager,1.29,1.29,1.31,9
+359716425895,Amazon Elastic File System,0.17,0.17,0.17,1.19
+359716425895,AWS CloudTrail,0,0,0,0
+359716425895,AmazonCloudWatch,2.01,2.06,2.03,13.92
+359716425895,AWS Key Management Service,0.11,0.12,0.12,0.79
+359716425895,Amazon DynamoDB,0.23,0.23,0.23,1.61
+359716425895,Amazon Elastic MapReduce,7.18,15.64,6.76,56.77
+359716425895,CloudWatch Events,0,0,0,0
+359716425895,AWS Lambda,0,0,0,0
+359716425895,EC2 - Other,971.42,954.8,844.53,6570.66
+359716425895,Amazon EC2 Container Registry (ECR),5.21,5.22,5.23,36.53
+359716425895,AWS Transfer Family,7.21,7.21,7.21,50.46
+359716425895,AWS Glue,0.04,0.04,0.05,0.29
+359716425895,Amazon Relational Database Service,0.03,0.03,0.03,0.21
+359716425895,AWS Step Functions,0,0,0,0
+359716425895,Amazon Elastic Compute Cloud - Compute,622.22,653.05,624.42,4335.3
+359716425895,Amazon API Gateway,0,0,0,0
+359716425895,AWS Backup,0.06,0.06,0.06,0.42
+359716425895,Amazon Virtual Private Cloud,15.91,15.83,15.99,111.63
+359716425895,Amazon Elastic Load Balancing,87.81,82.39,75.96,613.98
+359716425895,Amazon Route 53,0.02,0.01,0.01,0.09
+359716425895,Amazon Glacier,0,0,0,0
+359716425895,AWS Service Catalog,0.19,0.2,0.07,1.15
+367464822874,Amazon Simple Queue Service,0,0,0,0
+367464822874,AWS Cost Explorer,0.04,0.07,0.05,0.42
+367464822874,Amazon Simple Storage Service,0,0,0.01,0.01
+367464822874,Amazon Simple Workflow Service,0,0,0,0
+367464822874,Amazon Simple Notification Service,0,0,0,0
+367464822874,AWS Secrets Manager,0,0,0,0
+367464822874,Amazon Elastic File System,0,0,0,0
+367464822874,AWS CloudTrail,0,0,0,0
+367464822874,AmazonCloudWatch,0,0,0,0
+367464822874,AWS Key Management Service,0,0,0.01,0.01
+367464822874,EC2 - Other,3.34,3.34,3.34,23.38
+367464822874,Amazon EC2 Container Registry (ECR),0.01,0.01,0.01,0.07
+367464822874,AWS Glue,0,0,0,0
+367464822874,Amazon Relational Database Service,0.01,0.01,0.01,0.07
+367464822874,AWS Step Functions,0,0,0,0
+367464822874,Amazon Elastic Compute Cloud - Compute,0,0,0,0
+367464822874,AWS Backup,0,0,0,0
+367464822874,Amazon Virtual Private Cloud,4.56,4.56,4.56,31.92
+367464822874,AWS Service Catalog,0,0.01,0,0.05
+368920154232,Amazon Simple Queue Service,0.3,0.3,0.29,1.89
+368920154232,Amazon Elastic Container Service for Kubernetes,4.8,4.8,4.8,33.6
+368920154232,AWS Cost Explorer,0.02,0.07,0.05,0.4
+368920154232,Amazon Simple Storage Service,0.01,0.01,0.02,0.08
+368920154232,Amazon Simple Workflow Service,0,0,0,0
+368920154232,Amazon Simple Email Service,0.02,0,0,0.03
+368920154232,Amazon Simple Notification Service,0,0,0,0
+368920154232,AWS Secrets Manager,0.01,0.01,0.01,0.07
+368920154232,Amazon Elastic File System,0.03,0.03,0.02,0.17
+368920154232,AWS CloudTrail,0,0,0,0
+368920154232,AmazonCloudWatch,1.13,1.17,1.06,6.77
+368920154232,AWS Key Management Service,0,0,0.01,0.01
+368920154232,Amazon DynamoDB,0.04,0.04,0.04,0.28
+368920154232,AWS Lambda,8.39,8.44,8.35,57.32
+368920154232,EC2 - Other,9.86,9.82,9.81,68.68
+368920154232,Amazon EC2 Container Registry (ECR),0.55,0.55,0.55,3.85
+368920154232,AWS Glue,0,0,0,0
+368920154232,Amazon Relational Database Service,0,0,0,0
+368920154232,AWS Step Functions,0,0,0,0
+368920154232,Amazon Elastic Compute Cloud - Compute,3.99,4,4.01,27.73
+368920154232,Amazon API Gateway,1.39,1.96,1.12,7.24
+368920154232,AWS Backup,0,0,0,0
+368920154232,Amazon Virtual Private Cloud,15.96,15.96,15.96,111.69
+368920154232,Amazon Elastic Load Balancing,1.85,1.85,1.85,12.95
+368920154232,AWS Service Catalog,0.01,0.02,0.01,0.1
+381491835802,Amazon Athena,0,0.61,0,0.61
+381491835802,Amazon Simple Queue Service,0,0,0,0
+381491835802,Amazon Elastic Container Service for Kubernetes,2.4,2.4,2.4,16.8
+381491835802,AWS Cost Explorer,0.04,0.08,0.06,0.51
+381491835802,Amazon Simple Storage Service,255.38,309.63,118.09,1158.38
+381491835802,Amazon Simple Workflow Service,0,0,0,0
+381491835802,Amazon Kinesis,0.42,0.42,0.42,2.94
+381491835802,Amazon Simple Email Service,0,0,0,0
+381491835802,Amazon Simple Notification Service,0,0,0,0
+381491835802,AWS Secrets Manager,0.56,0.56,0.57,3.88
+381491835802,AmazonCloudWatch,3.89,3.89,3.89,24.56
+381491835802,AWS CloudTrail,0,0,0,0
+381491835802,AWS Key Management Service,0,0,0,0
+381491835802,Amazon DynamoDB,0.2,0.2,0.2,1.4
+381491835802,CloudWatch Events,0,0,0,0
+381491835802,AWS Lambda,0,0,0,0
+381491835802,EC2 - Other,1221.26,1311.53,1371.49,8226.28
+381491835802,AWS Glue,0,0,0,0
+381491835802,AWS Step Functions,0,0,0,0
+381491835802,Amazon Elastic Compute Cloud - Compute,1364.86,1369.51,1368.87,9213.03
+381491835802,Amazon Virtual Private Cloud,16.85,16.82,16.61,117.23
+381491835802,Amazon Elastic Load Balancing,47.88,48.57,48.32,334.73
+381491835802,AWS Service Catalog,0.01,0.01,0,0.06
+389881277731,Amazon Simple Workflow Service,0,0,0,0
+389881277731,AWS Lambda,0,0,0,0
+389881277731,AWS Step Functions,0,0,0,0
+389881277731,Amazon Simple Storage Service,0.05,0.05,0.05,0.33
+389881277731,EC2 - Other,8.03,8.03,8.03,56.25
+389881277731,Amazon Elastic Compute Cloud - Compute,5.05,5.05,5.05,35.35
+389881277731,Amazon Simple Queue Service,0,0,0,0
+389881277731,Amazon Simple Notification Service,0,0,0,0
+389881277731,Amazon Virtual Private Cloud,11.28,11.28,11.2,78.72
+389881277731,AWS Secrets Manager,0,0,0,0
+389881277731,AmazonCloudWatch,0.07,0.07,0.07,0.49
+389881277731,AWS CloudTrail,0,0,0,0
+389881277731,AWS Cost Explorer,0.15,0.16,0.12,0.89
+389881277731,Amazon Elastic Load Balancing,2.06,2.05,2.04,14.18
+389881277731,AWS Glue,0,0,0,0
+389881277731,AWS Service Catalog,0.01,0.01,0,0.06
+389881277731,AWS Key Management Service,0,0,0.01,0.01
+407648374860,AWS Systems Manager,0,0,0,0
+407648374860,Amazon Simple Workflow Service,0,0,0,0
+407648374860,AWS Step Functions,0,0,0,0
+407648374860,Amazon Simple Storage Service,235.01,226.73,227.1,1594.1
+407648374860,EC2 - Other,3.47,3.47,3.7,24.73
+407648374860,Amazon Elastic Compute Cloud - Compute,0,0,0.92,0.92
+407648374860,Amazon Simple Queue Service,0,0,0,0
+407648374860,Amazon Simple Notification Service,0,0,0,0
+407648374860,AWS Secrets Manager,0,0,0,0
+407648374860,Amazon Route 53,0,0,0,0
+407648374860,Amazon Virtual Private Cloud,1.56,1.56,1.56,10.92
+407648374860,AWS CloudTrail,0,0,0,0
+407648374860,AWS Cost Explorer,0.02,0.07,0.05,0.4
+407648374860,AmazonCloudWatch,0,0,0,0
+407648374860,AWS Glue,0,0,0,0
+407648374860,AWS Service Catalog,0.01,0.01,0,0.06
+407648374860,AWS Key Management Service,0,0,0,0
+419830208690,Amazon Simple Queue Service,0,0,0,0
+419830208690,AWS Cost Explorer,0.2,0.15,0.1,0.87
+419830208690,Amazon Simple Storage Service,12.84,13.1,13.05,90.59
+419830208690,Amazon Simple Workflow Service,0,0,0,0
+419830208690,Amazon Simple Notification Service,0,0,0,0
+419830208690,Amazon ElastiCache,5.68,6.66,6.46,44.64
+419830208690,AWS Secrets Manager,0,0,0,0
+419830208690,AmazonCloudWatch,2.36,2.36,2.36,16.52
+419830208690,AWS CloudTrail,0,0,0,0
+419830208690,Amazon GuardDuty,2.86,2.9,2.98,21.91
+419830208690,AWS Key Management Service,0.11,0.11,0.11,0.77
+419830208690,Amazon DynamoDB,0.21,0.21,0.21,1.47
+419830208690,CloudWatch Events,0,0,0,0
+419830208690,AWS Lambda,0.01,0,0.01,0.06
+419830208690,EC2 - Other,502.44,502.66,502.72,3518.28
+419830208690,AWS Glue,0.13,0.13,0.13,0.69
+419830208690,AWS Step Functions,0,0,0,0
+419830208690,Amazon Elastic Compute Cloud - Compute,114.98,115.38,114.73,803.63
+419830208690,Amazon Virtual Private Cloud,13.96,13.98,13.98,97.83
+419830208690,Amazon Elastic Load Balancing,14.67,14.88,14.86,103.87
+419830208690,Amazon Route 53,0.12,0.12,0.12,0.84
+419830208690,AWS Service Catalog,0.02,0.02,0.01,0.12
+423969094700,Amazon Simple Queue Service,0,0,0,0
+423969094700,Amazon Elastic Container Service for Kubernetes,9.6,9.6,9.6,67.2
+423969094700,AWS Cost Explorer,0.1,0.13,0.11,0.84
+423969094700,Amazon Simple Storage Service,7.59,7.46,7.81,52.96
+423969094700,Amazon Simple Workflow Service,0,0,0,0
+423969094700,Amazon Simple Notification Service,0,0,0,0
+423969094700,AWS CodeArtifact,0,0,0,0
+423969094700,AWS Secrets Manager,0.24,0.25,0.26,1.75
+423969094700,Amazon ElastiCache,1.01,1.01,1.01,7.07
+423969094700,Amazon Elastic File System,0,0.01,0,0.01
+423969094700,AWS CloudTrail,0,0,0,0
+423969094700,AmazonCloudWatch,3.42,3.43,3.38,23.74
+423969094700,AWS Key Management Service,0.91,0.91,0.92,6.38
+423969094700,Amazon DynamoDB,0.91,0.91,0.91,6.37
+423969094700,CloudWatch Events,0,0,0,0
+423969094700,AWS Lambda,0,0,0,0
+423969094700,EC2 - Other,342.81,359.35,337.04,2375.43
+423969094700,Amazon EC2 Container Registry (ECR),0.81,0.81,0.81,5.67
+423969094700,AWS Glue,2.9,2.97,2.92,20.17
+423969094700,Amazon Relational Database Service,23.05,23.05,23.05,161.35
+423969094700,AWS Step Functions,0,0,0,0
+423969094700,Amazon Elastic Compute Cloud - Compute,731.61,747.42,729.61,5102.41
+423969094700,Amazon Virtual Private Cloud,24.46,23.81,24.94,170.93
+423969094700,AWS CloudFormation,0,0,0,0
+423969094700,Amazon Elastic Load Balancing,48.79,67,48.95,423.57
+423969094700,Amazon Route 53,0.1,0.1,0.13,0.76
+423969094700,AWS Service Catalog,0.01,0.01,0,0.06
+424503791295,AWS Direct Connect,5.59,5.19,5.3,39.1
+424503791295,Amazon Simple Queue Service,1.31,2.16,1.29,12.18
+424503791295,Amazon QuickSight,3.2,3.2,3.2,22.4
+424503791295,Amazon Elastic Container Service for Kubernetes,4.8,4.8,4.8,33.6
+424503791295,AWS Network Firewall,22.09,21.6,22.04,154.19
+424503791295,AWS Cost Explorer,0.09,0.1,0.09,0.68
+424503791295,AWS WAF,0.2,0.2,0.2,1.4
+424503791295,AWS X-Ray,0,0,0,0
+424503791295,Amazon Simple Storage Service,253.31,255.94,251.69,1779.2
+424503791295,Amazon Simple Workflow Service,0,0,0,0
+424503791295,Amazon Simple Notification Service,0,0,0,0
+424503791295,Amazon ElastiCache,44.64,44.64,44.64,312.48
+424503791295,AWS Secrets Manager,0.44,0.46,0.47,3.21
+424503791295,Amazon Elastic File System,82.89,81.01,79.94,558.66
+424503791295,AWS CloudTrail,0,0,0,0
+424503791295,AmazonCloudWatch,96.65,95.69,99.71,671.93
+424503791295,Amazon OpenSearch Service,20.47,20.47,20.47,143.29
+424503791295,AWS Key Management Service,1.35,1.35,1.36,9.46
+424503791295,Amazon DynamoDB,8.13,8.13,8.12,56.96
+424503791295,CloudWatch Events,0.01,0.01,0.01,0.07
+424503791295,AWS Lambda,2.35,2.22,3.34,17.87
+424503791295,EC2 - Other,2117.23,2066.8,2046.03,14673.2
+424503791295,Amazon EC2 Container Registry (ECR),0.56,0.57,0.58,3.87
+424503791295,AWS Glue,0,0,0,0
+424503791295,Amazon Relational Database Service,0,0,0,0
+424503791295,AWS Global Accelerator,0.6,0.6,0.6,4.2
+424503791295,AWS Step Functions,0,0,0,0
+424503791295,Amazon Elastic Compute Cloud - Compute,1677.42,1685.05,1661.47,11785.13
+424503791295,AWS Config,0,0,0,0
+424503791295,AWS Backup,5.46,5.46,5.47,37.08
+424503791295,Amazon Virtual Private Cloud,54.96,56.13,57.42,380.39
+424503791295,Amazon Elastic Load Balancing,100,100.78,100.1,702.34
+424503791295,Amazon Route 53,0,0,0,0
+424503791295,AWS Service Catalog,0.01,0.02,0.01,0.09
+439726107081,Amazon Simple Queue Service,0,0,0,0
+439726107081,Amazon Elastic Container Service for Kubernetes,2.4,2.4,2.4,56.62
+439726107081,AWS Cost Explorer,0.04,0.07,0.05,0.42
+439726107081,Amazon Simple Storage Service,0.02,0.01,0.01,0.2
+439726107081,Amazon Simple Workflow Service,0,0,0,0
+439726107081,Amazon Simple Notification Service,0,0,0,0
+439726107081,Amazon ElastiCache,2.25,2.28,2.1,15.32
+439726107081,AWS Secrets Manager,0.14,0.15,0.15,1.04
+439726107081,Amazon Elastic File System,0,0,0,0
+439726107081,AWS CloudTrail,0,0,0,0
+439726107081,AmazonCloudWatch,0.04,0.04,0.04,0.28
+439726107081,AWS Key Management Service,0.07,0.07,0.07,0.49
+439726107081,Amazon DynamoDB,0.02,0.02,0.02,0.14
+439726107081,CloudWatch Events,0,0,0,0
+439726107081,AWS Lambda,0.98,0.98,0.98,6.86
+439726107081,EC2 - Other,10,10.38,10.19,70.54
+439726107081,Amazon EC2 Container Registry (ECR),0.99,1,1.01,6.96
+439726107081,AWS Glue,0,0,0,0
+439726107081,AWS Step Functions,0,0,0,0
+439726107081,Amazon Elastic Compute Cloud - Compute,19.25,20.24,20.01,112.82
+439726107081,AWS Backup,0,0,0,0
+439726107081,Amazon Virtual Private Cloud,6.96,6.97,6.96,48.74
+439726107081,Amazon Managed Streaming for Apache Kafka,2.74,2.74,2.74,19.18
+439726107081,Amazon Elastic Load Balancing,4.02,4.02,4.02,28.14
+439726107081,Amazon Route 53,6,6,6,42
+439726107081,AWS Service Catalog,0.01,0.01,0,0.06
+442447453008,Amazon Simple Queue Service,0,0,0,0
+442447453008,AWS Cost Explorer,0.02,0.06,0.05,0.37
+442447453008,Amazon Simple Storage Service,9.36,8.53,9.73,64.13
+442447453008,Amazon Simple Workflow Service,0,0,0,0
+442447453008,Amazon Simple Notification Service,0,0,0,0
+442447453008,Amazon ElastiCache,5.62,5.62,5.47,39.29
+442447453008,AWS Secrets Manager,0.08,0.08,0.08,0.56
+442447453008,Amazon Elastic File System,0,0,0,0
+442447453008,AWS CloudTrail,0,0,0,0
+442447453008,AmazonCloudWatch,0.2,0.2,0.2,1.41
+442447453008,AWS Key Management Service,0,0.01,0.01,0.02
+442447453008,Amazon DynamoDB,0.3,0.3,0.3,2.1
+442447453008,CloudWatch Events,0,0,0,0
+442447453008,AWS Lambda,0,0,0,0
+442447453008,EC2 - Other,47.11,46.9,47.31,329.38
+442447453008,Amazon EC2 Container Registry (ECR),0.06,0.06,0.06,0.42
+442447453008,AWS Glue,0,0,0,0
+442447453008,Amazon Relational Database Service,40.25,39.81,36.49,255.88
+442447453008,AWS Step Functions,0,0,0,0
+442447453008,Amazon Elastic Compute Cloud - Compute,48.1,48.08,47.91,335.43
+442447453008,AWS Backup,0,0,0,0
+442447453008,Amazon Virtual Private Cloud,18.3,18.29,18.27,127.9
+442447453008,Amazon Managed Streaming for Apache Kafka,18.34,18.34,18.34,128.39
+442447453008,Amazon Elastic Load Balancing,8.47,8.38,8.45,59.02
+442447453008,AWS Service Catalog,0.01,0.01,0,0.06
+445736908015,AWS Direct Connect,1.44,1.44,1.44,10.08
+445736908015,Amazon Simple Queue Service,0.12,0.34,0.36,1.31
+445736908015,AWS Cost Explorer,0.06,0.09,0.07,0.53
+445736908015,AWS WAF,0.31,0.31,0.3,2.14
+445736908015,Amazon Simple Storage Service,67.98,68.22,68.74,476.84
+445736908015,Amazon Simple Workflow Service,0,0,0,0
+445736908015,Amazon Simple Email Service,0,0,0,0
+445736908015,Amazon Simple Notification Service,0.01,0.01,0.01,0.07
+445736908015,AWS Secrets Manager,0.38,0.4,0.4,2.74
+445736908015,AmazonCloudWatch,54.75,54.83,54.9,383.34
+445736908015,AWS CloudTrail,0,0,0,0
+445736908015,AWS Key Management Service,0.14,0.14,0.14,0.98
+445736908015,Amazon DynamoDB,0.43,0.43,0.43,3.01
+445736908015,CloudWatch Events,0.01,0.01,0.01,0.07
+445736908015,AWS Lambda,0.01,0.01,0.01,0.06
+445736908015,EC2 - Other,1570.27,1562.07,1559.4,10928.96
+445736908015,Amazon EC2 Container Registry (ECR),0,0,0,0
+445736908015,AWS Glue,0,0,0,0
+445736908015,AWS Step Functions,0,0,0,0
+445736908015,Amazon Elastic Compute Cloud - Compute,1143.66,1133.96,1116.13,7902.91
+445736908015,Amazon Virtual Private Cloud,36.02,35.88,35.89,251.31
+445736908015,Amazon Elastic Load Balancing,42.56,43.18,43.21,299.19
+445736908015,Amazon Route 53,6,6,6,42
+445736908015,AWS Service Catalog,0.01,0.02,0.01,0.11
+453914767997,Amazon Simple Workflow Service,0,0,0,0
+453914767997,AWS Lambda,0,0,0,0
+453914767997,AWS Step Functions,0,0,0,0
+453914767997,Amazon Simple Storage Service,0.09,0.09,0.09,0.63
+453914767997,EC2 - Other,4.81,4.81,4.81,33.67
+453914767997,Amazon Elastic Compute Cloud - Compute,0,0,0,0
+453914767997,Amazon Simple Queue Service,0,0,0,0
+453914767997,Amazon Simple Notification Service,0,0,0,0
+453914767997,AWS Secrets Manager,0.06,0.07,0.07,0.48
+453914767997,Amazon Virtual Private Cloud,0.24,0.24,0.24,1.68
+453914767997,AmazonCloudWatch,0,0,0,0
+453914767997,AWS CloudTrail,0,0,0,0
+453914767997,AWS Cost Explorer,0.01,0.07,0.05,0.35
+453914767997,AWS Glue,0,0,0,0
+453914767997,AWS Service Catalog,0.01,0.01,0,0.06
+453914767997,AWS Key Management Service,0,0,0.01,0.01
+463470958933,Amazon Simple Workflow Service,0,0,0,0
+463470958933,AWS Step Functions,0,0,0,0
+463470958933,Amazon Simple Storage Service,0,0,0,0
+463470958933,Amazon Simple Queue Service,0,0,0,0
+463470958933,Amazon Simple Notification Service,0,0,0,0
+463470958933,Amazon DevOps Guru,0,0,0,0
+463470958933,AWS Secrets Manager,0,0,0,0
+463470958933,AWS CloudTrail,0,0,0,0
+463470958933,AWS Cost Explorer,0.01,0,0,0.09
+463470958933,AWS Glue,0,0,0,0
+463470958933,Amazon Relational Database Service,0.02,0,0,0.1
+463470958933,AWS Service Catalog,0,0,0,0.03
+463470958933,AWS Key Management Service,0,0,0,0
+465354398947,AWS Service Catalog,0.01,0.01,0,0.06
+465354398947,EC2 - Other,17.68,17.73,17.67,123.8
+465354398947,Amazon Simple Workflow Service,0,0,0,0
+465354398947,Amazon Elastic Load Balancing,1.15,1.15,1.15,8.05
+465354398947,AWS Cost Explorer,0.04,0.1,0.06,0.54
+465354398947,Amazon Simple Queue Service,0,0,0,0
+465354398947,Amazon Elastic Compute Cloud - Compute,8.16,8.19,8.04,56.12
+465354398947,AWS Key Management Service,0,0,0.01,0.01
+465354398947,Amazon Simple Notification Service,0,0,0,0
+465354398947,Amazon Virtual Private Cloud,5.52,5.52,5.52,38.64
+465354398947,AWS Secrets Manager,0,0,0,0
+465354398947,Amazon Simple Storage Service,0.15,0.16,0.16,1.07
+465354398947,AWS CloudTrail,0,0,0,0
+465354398947,Amazon DynamoDB,0.11,0.11,0.11,0.77
+465354398947,AmazonCloudWatch,0.25,0.24,0.24,1.69
+465354398947,AWS Lambda,0,0,0,0
+465354398947,Amazon OpenSearch Service,8.62,8.62,8.62,60.34
+465354398947,AWS Step Functions,0,0,0,0
+465354398947,AWS Glue,0,0,0,0
+469795226344,AWS Service Catalog,0.12,0.2,0.07,1.05
+469795226344,Savings Plans for AWS Machine Learning,0,0,0,0
+469795226344,Amazon Simple Workflow Service,0,0,0,0
+469795226344,Amazon Glacier,0,0,0,0
+469795226344,AWS Cost Explorer,16.21,14.9,24.12,156.8
+469795226344,Amazon Simple Queue Service,0,0,0,0
+469795226344,Savings Plans for AWS Compute usage,30.73,26.72,0.27,117.88
+469795226344,AWS Key Management Service,0,0,0,0
+469795226344,Amazon Simple Notification Service,0,0,0,0
+469795226344,AWS Secrets Manager,0,0,0,0
+469795226344,Amazon API Gateway,0,0,0,0
+469795226344,Amazon Simple Storage Service,3.31,3.25,3.25,23.08
+469795226344,Amazon QuickSight,20.51,20.51,20.51,143.57
+469795226344,AWS CloudTrail,0,0,0,0
+469795226344,Claude 3.5 Sonnet v2 (Amazon Bedrock Edition),0.06,0.01,0,0.2
+469795226344,Claude 3.7 Sonnet (Amazon Bedrock Edition),0.04,0,0,0.27
+469795226344,Amazon Athena,3.91,3.6,3.52,25.96
+469795226344,AWS Config,0.02,0.02,0.02,0.14
+469795226344,AmazonCloudWatch,0.06,0.06,0.06,0.42
+469795226344,AWS Lambda,0.21,0.06,0.01,0.81
+469795226344,Amazon OpenSearch Service,5.93,5.93,5.93,41.51
+469795226344,AWS Step Functions,0,0,0,0
+469795226344,AWS Glue,1.54,1.36,1.84,11.28
+469795226344,Amazon Bedrock,0.59,0.19,0.01,2.03
+470060591194,AWS Key Management Service,0,0,0.01,0.01
+470060591194,AWS Service Catalog,0.01,0.01,0,0.06
+470060591194,Amazon Simple Notification Service,0,0,0,0
+470060591194,Amazon ElastiCache,0,0,0,0
+470060591194,CloudWatch Events,0,0,0,0
+470060591194,AmazonCloudWatch,0,0,0,0
+470060591194,Amazon Simple Workflow Service,0,0,0,0
+470060591194,AWS Step Functions,0,0,0,0
+470060591194,Amazon Simple Storage Service,0,0.01,0.01,0.02
+470060591194,AWS Secrets Manager,0,0,0,0
+470060591194,AWS Glue,0,0,0,0
+470060591194,AWS Cost Explorer,0.02,0.07,0.05,0.37
+470060591194,Amazon Simple Queue Service,0,0,0,0
+470060591194,AWS CloudTrail,0,0,0,0
+471112958605,AWS Service Catalog,0.01,0.01,0,0.06
+471112958605,EC2 - Other,54.28,45.46,31.83,651.79
+471112958605,Amazon Simple Workflow Service,0,0,0,0
+471112958605,Amazon Elastic Load Balancing,0.57,0.57,0.57,3.99
+471112958605,AWS Cost Explorer,0.17,0.1,0.05,0.48
+471112958605,Amazon Simple Email Service,0,0,0,0
+471112958605,Amazon Simple Queue Service,0,0,0,0
+471112958605,Amazon Elastic Compute Cloud - Compute,28.78,26.29,23.2,221.37
+471112958605,AWS Key Management Service,0,0,0,0
+471112958605,Amazon Simple Notification Service,0,0,0,0
+471112958605,Amazon Virtual Private Cloud,6.37,6.37,6.37,44.65
+471112958605,AWS Secrets Manager,0,0,0,0
+471112958605,Amazon Elastic MapReduce,15.77,14.34,12.18,126.19
+471112958605,Amazon Simple Storage Service,41.59,27.91,9.42,498.95
+471112958605,AWS CloudTrail,0,0,0,0
+471112958605,Amazon Athena,0,0,0,0
+471112958605,AmazonCloudWatch,0.11,0.11,0.11,0.77
+471112958605,AWS Lambda,0,0,0,0
+471112958605,AWS Step Functions,0,0,0,0
+471112958605,AWS Glue,0,0,0,0
+474140895141,AWS Key Management Service,0,0,0.01,0.01
+474140895141,Amazon Route 53,0.21,0.21,0.22,1.46
+474140895141,AWS Service Catalog,0.01,0.01,0,0.06
+474140895141,Amazon Simple Notification Service,0,0,0,0
+474140895141,Amazon Virtual Private Cloud,31.72,31.72,31.72,222.04
+474140895141,AmazonCloudWatch,0.72,0.72,0.72,5.04
+474140895141,EC2 - Other,128.22,128.21,128.26,897.13
+474140895141,Amazon Simple Workflow Service,0,0,0,0
+474140895141,AWS Step Functions,0,0,0,0
+474140895141,Amazon Elastic Compute Cloud - Compute,107.29,107.77,107.03,750.42
+474140895141,AWS Direct Connect,7.92,7.92,7.92,55.44
+474140895141,AWS Glue,0,0,0,0
+474140895141,AWS Secrets Manager,0,0,0,0
+474140895141,Amazon Simple Storage Service,23.91,24.51,23.4,164.36
+474140895141,Amazon Elastic Load Balancing,4.06,4.06,4.06,28.39
+474140895141,AWS Cost Explorer,0.03,0.07,0.05,0.4
+474140895141,Amazon Simple Queue Service,0,0,0,0
+474140895141,AWS CloudTrail,0,0,0,0
+479671683529,AWS Service Catalog,0.01,0.01,0,0.06
+479671683529,EC2 - Other,144.66,155.48,173.92,1063.62
+479671683529,Amazon Simple Workflow Service,0,0,0,0
+479671683529,Amazon Elastic Load Balancing,0.64,0.64,0.64,4.48
+479671683529,AWS Cost Explorer,0.24,0.15,0.13,1.48
+479671683529,Amazon Simple Queue Service,0,0,0,0
+479671683529,Amazon Elastic Compute Cloud - Compute,569.8,686.42,589.09,3980.58
+479671683529,AWS Key Management Service,0,0,0.01,0.01
+479671683529,Amazon Simple Notification Service,0,0,0,0
+479671683529,Amazon EC2 Container Registry (ECR),0,0,0,0
+479671683529,Amazon Virtual Private Cloud,10.8,10.82,10.81,75.57
+479671683529,AWS Secrets Manager,0,0,0,0
+479671683529,AWS Transfer Family,7.2,7.2,7.2,50.4
+479671683529,Amazon Elastic MapReduce,385.8,418.37,398.83,2639.1
+479671683529,Amazon Simple Storage Service,179.69,171.3,176.76,1189.15
+479671683529,AWS CloudTrail,0,0,0,0
+479671683529,AWS Systems Manager,34.17,34.44,34.5,231.37
+479671683529,AmazonCloudWatch,1.58,1.59,1.59,11.06
+479671683529,AWS Step Functions,0,0,0,0
+479671683529,Amazon Relational Database Service,12.61,12.61,12.61,88.27
+479671683529,AWS Glue,0,0,0,0
+480732456233,AWS Service Catalog,0.02,0.03,0.01,0.13
+480732456233,Amazon ElastiCache,24.75,25.31,24.46,173.79
+480732456233,EC2 - Other,95.22,96.62,96.65,670.75
+480732456233,Amazon Simple Workflow Service,0,0,0,0
+480732456233,Amazon Elastic Load Balancing,32.58,32.27,30.97,200.52
+480732456233,AWS Cost Explorer,0.07,0.13,0.11,0.77
+480732456233,Amazon Simple Queue Service,0,0,0,0
+480732456233,Amazon Elastic Compute Cloud - Compute,42.97,42.94,42.96,300.7
+480732456233,AWS Key Management Service,0.17,0.17,0.17,1.19
+480732456233,Amazon Simple Notification Service,0,0,0,0
+480732456233,Amazon EC2 Container Registry (ECR),0.32,0.32,0.32,2.24
+480732456233,Amazon Virtual Private Cloud,12.29,12.23,12.25,85.92
+480732456233,AWS Secrets Manager,0,0,0,0
+480732456233,Amazon Managed Streaming for Apache Kafka,10.99,11,11,76.95
+480732456233,Amazon Simple Storage Service,26.86,27.67,26.88,179.82
+480732456233,AWS CloudTrail,0,0,0,0
+480732456233,Amazon DynamoDB,0.02,0.02,0.02,0.14
+480732456233,Amazon Elastic Container Service for Kubernetes,2.4,2.4,2.4,16.8
+480732456233,AmazonCloudWatch,2.55,2.52,2.53,17.7
+480732456233,AWS Lambda,0,0,0,0
+480732456233,AWS Step Functions,0,0,0,0
+480732456233,AWS Glue,0,0,0,0
+481935107677,AWS Service Catalog,0.01,0.01,0,0.06
+481935107677,EC2 - Other,5.69,5.71,5.68,39.91
+481935107677,Amazon Simple Workflow Service,0,0,0,0
+481935107677,Amazon Elastic Load Balancing,1.21,1.21,1.21,8.47
+481935107677,AWS Cost Explorer,0.1,0.08,0.07,0.59
+481935107677,Amazon Simple Queue Service,0,0,0,0
+481935107677,Amazon Elastic Compute Cloud - Compute,8.04,8.13,7.97,56.1
+481935107677,AWS Key Management Service,0.27,0.27,0.28,1.9
+481935107677,Amazon Simple Notification Service,0,0,0,0
+481935107677,Amazon EC2 Container Registry (ECR),0.01,0.01,0.01,0.07
+481935107677,Amazon Virtual Private Cloud,10.87,11.39,11.39,75.45
+481935107677,AWS Secrets Manager,0.04,0.04,0.04,0.28
+481935107677,Amazon Simple Storage Service,1.54,1.54,1.54,10.77
+481935107677,Amazon QuickSight,2,2,2,14
+481935107677,AWS CloudTrail,0,0,0,0
+481935107677,Amazon Route 53,0,0,0,0
+481935107677,AWS Config,0.23,0.13,0.12,0.99
+481935107677,AmazonCloudWatch,0.09,0.09,0.08,0.59
+481935107677,AWS Lambda,0,0,0,0
+481935107677,AWS Step Functions,0,0,0,0
+481935107677,Amazon Relational Database Service,0.87,0.87,0.87,6.09
+481935107677,AWS Glue,0,0,0,0
+492902601864,AWS Service Catalog,0.01,0.01,0,0.06
+492902601864,EC2 - Other,5.48,5.48,5.43,37.27
+492902601864,Amazon Simple Workflow Service,0,0,0,0
+492902601864,Amazon Elastic Load Balancing,1.15,1.15,1.15,8.05
+492902601864,AWS Cost Explorer,0.09,0.12,0.11,0.83
+492902601864,Amazon Simple Queue Service,0,0,0,0
+492902601864,Amazon Elastic Compute Cloud - Compute,1.25,1.3,1.25,6.82
+492902601864,AWS Key Management Service,0.34,0.34,0.34,2.38
+492902601864,Amazon Simple Notification Service,0,0,0,0
+492902601864,Amazon Virtual Private Cloud,11.71,11.71,11.71,81.83
+492902601864,CloudWatch Events,0,0,0,0
+492902601864,AWS Secrets Manager,0,0,0,0
+492902601864,Amazon Simple Storage Service,0.05,0.05,0.1,0.36
+492902601864,AWS CloudTrail,0,0,0,0
+492902601864,Amazon DynamoDB,0.13,0.13,0.13,0.91
+492902601864,Amazon Route 53,0.01,0,0,0.05
+492902601864,AmazonCloudWatch,0.23,0.23,0.22,1.5
+492902601864,AWS Step Functions,0,0,0,0
+492902601864,AWS Glue,0,0,0,0
+494799526181,AWS Service Catalog,0.02,0.02,0.01,0.13
+494799526181,AWS Backup,0,0,0,0
+494799526181,EC2 - Other,7.88,7.89,7.89,53.93
+494799526181,Amazon Simple Workflow Service,0,0,0,0
+494799526181,Amazon Elastic Load Balancing,1.75,1.74,1.75,12.16
+494799526181,AWS Cost Explorer,0.01,0.02,0.01,0.12
+494799526181,Amazon Simple Email Service,0,0,0,0
+494799526181,Amazon Simple Queue Service,0,0,0,0
+494799526181,Amazon Elastic Compute Cloud - Compute,11.95,11.94,11.95,80.29
+494799526181,AWS Key Management Service,0,0,0.01,0.01
+494799526181,Amazon Simple Notification Service,0,0,0,0
+494799526181,Amazon EC2 Container Registry (ECR),0.01,0.01,0.01,0.07
+494799526181,Amazon Virtual Private Cloud,9.62,9.76,9.76,67.12
+494799526181,CloudWatch Events,0,0,0,0
+494799526181,AWS Secrets Manager,0.1,0.11,0.11,0.76
+494799526181,Amazon Simple Storage Service,0.11,0.11,0.12,0.76
+494799526181,AWS CloudTrail,0,0,0,0
+494799526181,Amazon DynamoDB,0.02,0.02,0.02,0.14
+494799526181,AmazonCloudWatch,0.22,0.22,0.22,1.5
+494799526181,Amazon Elastic File System,0,0,0,0
+494799526181,AWS Lambda,0,0,0,0
+494799526181,AWS CloudFormation,0,0,0,0
+494799526181,AWS Step Functions,0,0,0,0
+494799526181,Amazon Relational Database Service,0.01,0.01,0.01,0.07
+494799526181,AWS Glue,0,0,0,0
+495419344110,AWS Service Catalog,0.01,0.01,0,0.06
+495419344110,EC2 - Other,37.59,66.09,63.81,315.12
+495419344110,Amazon Simple Workflow Service,0,0,0,0
+495419344110,Amazon Elastic Load Balancing,3.46,3.46,3.46,24.21
+495419344110,AWS Cost Explorer,0.14,0.18,0.12,1
+495419344110,Amazon Simple Queue Service,0,0,0,0
+495419344110,Amazon Elastic Compute Cloud - Compute,102.61,180.75,185.33,858.79
+495419344110,AWS Key Management Service,0,0,0.01,0.01
+495419344110,Amazon Simple Notification Service,0,0,0,0
+495419344110,Amazon Virtual Private Cloud,13.71,13.73,13.74,95.84
+495419344110,CloudWatch Events,0,0,0,0
+495419344110,AWS Secrets Manager,0.03,0.03,0.03,0.21
+495419344110,Amazon Elastic MapReduce,50.45,105,105.15,447.37
+495419344110,Amazon Simple Storage Service,83.04,86.3,85.96,586.4
+495419344110,AWS CloudTrail,0,0,0,0
+495419344110,Amazon DynamoDB,0.15,0.15,0.15,1.05
+495419344110,Amazon Route 53,0,0,0,0
+495419344110,AmazonCloudWatch,0.29,0.29,0.29,2.03
+495419344110,AWS Lambda,0,0,0,0
+495419344110,AWS Step Functions,0,0,0,0
+495419344110,AWS Glue,0,0,0,0
+505767364771,AWS Service Catalog,0,0.01,0,0.04
+505767364771,EC2 - Other,16.18,16.18,16.18,113.25
+505767364771,Amazon Simple Workflow Service,0,0,0,0
+505767364771,Amazon Elastic Load Balancing,1.15,1.15,1.15,8.05
+505767364771,AWS Cost Explorer,0.01,0.03,0.01,0.15
+505767364771,Amazon Simple Queue Service,0,0,0,0
+505767364771,Amazon Elastic Compute Cloud - Compute,153.63,153.63,153.63,1080.99
+505767364771,AWS Key Management Service,0.14,0.14,0.14,0.98
+505767364771,Amazon Simple Notification Service,0,0,0,0
+505767364771,Amazon Virtual Private Cloud,6.24,6.24,6.24,43.68
+505767364771,AWS Secrets Manager,0.01,0.01,0.01,0.07
+505767364771,Amazon Simple Storage Service,0.02,0.02,0.02,0.14
+505767364771,AWS CloudTrail,0,0,0,0
+505767364771,Amazon DynamoDB,0.21,0.21,0.21,1.47
+505767364771,Amazon Elastic Container Service for Kubernetes,2.4,2.4,2.4,16.8
+505767364771,Amazon Route 53,0,0,0,0
+505767364771,AmazonCloudWatch,4.3,4.2,4.19,29.61
+505767364771,AWS Step Functions,0,0,0,0
+505767364771,Amazon Relational Database Service,0.01,0.01,0.01,0.07
+505767364771,AWS Glue,0,0,0,0
+510772292268,AWS Service Catalog,0.01,0.01,0,0.06
+510772292268,EC2 - Other,3.63,3.6,3.6,25.24
+510772292268,Amazon Simple Workflow Service,0,0,0,0
+510772292268,Amazon Elastic Load Balancing,1.21,1.2,1.2,8.41
+510772292268,AWS Cost Explorer,0.04,0.05,0.03,0.27
+510772292268,Amazon Simple Queue Service,0,0,0,0
+510772292268,Amazon Elastic Compute Cloud - Compute,7.1,7.38,7.1,50.26
+510772292268,AWS Key Management Service,0,0,0,0
+510772292268,Amazon Simple Notification Service,0,0,0,0
+510772292268,Amazon Virtual Private Cloud,4.93,4.92,4.92,34.46
+510772292268,AWS Secrets Manager,0,0,0,0
+510772292268,Amazon Simple Storage Service,0.02,0.02,0.03,0.15
+510772292268,AWS CloudTrail,0,0,0,0
+510772292268,Amazon DynamoDB,0.02,0.02,0.02,0.14
+510772292268,Amazon Elastic Container Service for Kubernetes,2.4,2.4,2.4,16.8
+510772292268,AmazonCloudWatch,0.11,0.11,0.11,0.77
+510772292268,AWS CloudFormation,0,0,0,0
+510772292268,AWS Step Functions,0,0,0,0
+510772292268,AWS Glue,0,0,0,0
+522974168642,AWS Service Catalog,0.02,0.02,0.01,0.13
+522974168642,EC2 - Other,264.38,264.45,264.71,2080.75
+522974168642,Amazon Simple Workflow Service,0,0,0,0
+522974168642,Amazon Elastic Load Balancing,32.25,32.18,32.61,227.7
+522974168642,AWS Cost Explorer,0.08,0.1,0.08,0.64
+522974168642,Amazon Simple Queue Service,0,0,0,0
+522974168642,Amazon Elastic Compute Cloud - Compute,139.46,141.99,139.07,962.55
+522974168642,AWS Key Management Service,0,0.01,0.01,0.02
+522974168642,Amazon Simple Notification Service,0,0,0,0
+522974168642,Amazon Virtual Private Cloud,14.71,14.72,14.71,102.98
+522974168642,CloudWatch Events,0,0,0,0
+522974168642,AWS Secrets Manager,0.05,0.05,0.05,0.35
+522974168642,Amazon Simple Storage Service,6.57,6.56,6.54,46.24
+522974168642,AWS CloudTrail,0,0,0,0
+522974168642,Amazon DynamoDB,0.22,0.22,0.22,1.54
+522974168642,AmazonCloudWatch,1.21,1.21,1.21,8.47
+522974168642,AWS Lambda,0.03,0.03,0.03,0.21
+522974168642,AWS Step Functions,0,0,0,0
+522974168642,AWS Glue,0,0,0,0
+541095382258,AWS Key Management Service,0.07,0.07,0.07,0.49
+541095382258,AWS Service Catalog,0.01,0.01,0,0.06
+541095382258,Amazon Simple Notification Service,0,0,0,0
+541095382258,Amazon Virtual Private Cloud,6,6,6,42
+541095382258,AmazonCloudWatch,0.46,0.46,0.46,3.22
+541095382258,EC2 - Other,2.69,2.69,2.69,18.83
+541095382258,Amazon Simple Workflow Service,0,0,0,0
+541095382258,AWS Step Functions,0,0,0,0
+541095382258,Amazon CloudFront,0.03,0.05,0.03,0.26
+541095382258,Amazon Elastic Compute Cloud - Compute,0,0,0,0
+541095382258,Amazon Simple Storage Service,0.44,0.27,0.03,1.71
+541095382258,AWS Secrets Manager,0.19,0.2,0.2,1.39
+541095382258,AWS Glue,0,0,0,0
+541095382258,AWS Cost Explorer,0.06,0.06,0.05,0.41
+541095382258,Amazon Simple Queue Service,0,0,0,0
+541095382258,AWS CloudTrail,0,0,0,0
+546818093346,AWS Service Catalog,0.01,0.02,0.01,0.11
+546818093346,Amazon ElastiCache,6.99,6.84,6.91,62.22
+546818093346,EC2 - Other,96.24,96.89,97.64,675.42
+546818093346,Amazon Simple Workflow Service,0,0,0,0
+546818093346,Amazon Elastic Load Balancing,9.72,9.77,9.73,68.18
+546818093346,AWS Cost Explorer,0.02,0.07,0.05,0.4
+546818093346,Amazon Simple Queue Service,0,0,0,0
+546818093346,Amazon Elastic Compute Cloud - Compute,193.03,194.01,191.98,1345.69
+546818093346,AWS Key Management Service,0.1,0.11,0.11,0.72
+546818093346,Amazon Simple Notification Service,0,0,0,0
+546818093346,Amazon EC2 Container Registry (ECR),3.07,3.07,3.08,21.5
+546818093346,Amazon Virtual Private Cloud,27.2,27.21,27.21,190.5
+546818093346,CloudWatch Events,0,0,0,0
+546818093346,AWS Secrets Manager,0.19,0.19,0.19,1.33
+546818093346,Amazon Managed Streaming for Apache Kafka,48.84,48.85,48.84,341.92
+546818093346,Amazon Simple Storage Service,7.92,7.76,7.87,55.93
+546818093346,AWS CloudTrail,0,0,0,0
+546818093346,Amazon DynamoDB,23.09,23.09,23.09,161.63
+546818093346,Amazon Elastic Container Service for Kubernetes,14.4,14.4,14.4,100.8
+546818093346,Amazon Route 53,0,0,0,0
+546818093346,Amazon DevOps Guru,0,0,0,0
+546818093346,AmazonCloudWatch,3.33,3.34,3.33,23.3
+546818093346,Amazon Elastic File System,3.74,3.73,3.74,26.12
+546818093346,AWS Lambda,0.82,0.82,0.82,5.74
+546818093346,Amazon OpenSearch Service,24.25,24.09,23.93,168.8
+546818093346,AWS Step Functions,0,0,0,0
+546818093346,AWS Direct Connect,0,0,0,0
+546818093346,AWS Glue,0,0,0,0
+548411824430,AWS Service Catalog,0.02,0.02,0.01,0.13
+548411824430,AWS Backup,0.02,0.02,0.02,0.14
+548411824430,Amazon ElastiCache,0,0,0,0
+548411824430,EC2 - Other,2.76,2.76,2.76,19.36
+548411824430,Amazon Simple Workflow Service,0,0,0,0
+548411824430,Amazon Elastic Load Balancing,0.57,0.57,0.57,3.99
+548411824430,AWS Cost Explorer,0.04,0.06,0.05,0.41
+548411824430,Amazon Simple Queue Service,0.04,0.04,0.04,0.28
+548411824430,Amazon Elastic Compute Cloud - Compute,2.97,2.97,2.97,20.79
+548411824430,AWS Key Management Service,0,0,0.01,0.01
+548411824430,Amazon Simple Notification Service,0,0,0,0
+548411824430,Amazon Virtual Private Cloud,3.24,3.24,3.24,22.69
+548411824430,AWS Secrets Manager,0.07,0.07,0.07,0.49
+548411824430,Amazon Simple Storage Service,0.01,0.01,0.01,0.07
+548411824430,AWS CloudTrail,0,0,0,0
+548411824430,Amazon DynamoDB,0.04,0.04,0.04,0.28
+548411824430,AmazonCloudWatch,0.07,0.07,0.07,0.49
+548411824430,Amazon Elastic File System,0.08,0.08,0.08,0.56
+548411824430,AWS Step Functions,0,0,0,0
+548411824430,Amazon Relational Database Service,0.01,0.01,0.01,0.07
+548411824430,AWS Glue,0,0,0,0
+562921704166,AWS Key Management Service,0,0,0.01,0.01
+562921704166,AWS Service Catalog,0,0.02,0.01,0.06
+562921704166,Amazon Simple Notification Service,0,0,0,0
+562921704166,Amazon Virtual Private Cloud,12.93,12.92,12.92,90.46
+562921704166,AmazonCloudWatch,0.05,0.05,0.05,0.35
+562921704166,EC2 - Other,83.23,83.26,83.05,581.47
+562921704166,Amazon Simple Workflow Service,0,0,0,0
+562921704166,AWS Step Functions,0,0,0,0
+562921704166,Amazon Elastic Compute Cloud - Compute,20.1,20.1,20.1,140.7
+562921704166,Amazon Simple Storage Service,0.01,0.01,0.01,0.07
+562921704166,AWS Secrets Manager,0,0,0,0
+562921704166,AWS Glue,0,0,0,0
+562921704166,Amazon Elastic Load Balancing,1.94,1.97,1.96,12.86
+562921704166,AWS Cost Explorer,0.02,0.07,0.05,0.4
+562921704166,Amazon Simple Queue Service,0,0,0,0
+562921704166,AWS CloudTrail,0,0,0,0
+562921704166,Amazon DynamoDB,0.02,0.02,0.02,0.14
+564188254156,AWS Service Catalog,0.01,0.01,0.01,0.07
+564188254156,EC2 - Other,559.12,497.92,491.4,3851.47
+564188254156,Amazon Simple Workflow Service,0,0,0,0
+564188254156,Amazon Elastic Load Balancing,1.15,1.15,1.15,8.05
+564188254156,AWS Cost Explorer,0.22,0.14,0.09,0.79
+564188254156,Amazon Simple Queue Service,0,0,0,0
+564188254156,Amazon Elastic Compute Cloud - Compute,1020.06,890.01,852.43,7005.02
+564188254156,AWS Key Management Service,0.65,0.65,0.66,4.54
+564188254156,Amazon Simple Notification Service,0,0,0,0
+564188254156,Amazon EC2 Container Registry (ECR),0.17,0.17,0.17,1.19
+564188254156,Amazon SageMaker,0.02,0.02,0.02,0.14
+564188254156,Amazon Virtual Private Cloud,47.23,47.02,47.14,328.8
+564188254156,CloudWatch Events,0.01,0.01,0.01,0.05
+564188254156,AWS Secrets Manager,0.09,0.09,0.09,0.63
+564188254156,Amazon Elastic MapReduce,620.48,520.11,487.6,4249.27
+564188254156,Amazon QuickSight,4.8,4.8,4.8,33.6
+564188254156,AWS CloudTrail,0,0,0,0
+564188254156,Amazon DynamoDB,0.47,0.47,0.47,3.29
+564188254156,Amazon Elastic Container Service for Kubernetes,28.8,21.67,16.8,182.47
+564188254156,Amazon Simple Storage Service,764.68,785.51,748.34,5271.47
+564188254156,Amazon Location Service,0,0,0,0
+564188254156,AWS Config,0.08,0.1,0.08,0.87
+564188254156,AmazonCloudWatch,25.11,24.79,24.41,175.25
+564188254156,Amazon Elastic File System,0.14,0.14,0.14,0.98
+564188254156,AWS Lambda,0,0,0,0
+564188254156,AWS Step Functions,0,0,0,0
+564188254156,Amazon Relational Database Service,7.09,7.09,7.09,49.64
+564188254156,AWS Glue,0.1,0.14,0.1,0.91
+567423616371,AWS Service Catalog,0.02,0.02,0.01,0.13
+567423616371,AWS Backup,0.01,0.01,0.01,0.07
+567423616371,EC2 - Other,2976.09,2971.16,2975.87,21205.43
+567423616371,Amazon Simple Workflow Service,0,0,0,0
+567423616371,AWS WAF,0.7,0.7,0.7,4.9
+567423616371,Amazon SimpleDB,0,0,0,0
+567423616371,Amazon Elastic Load Balancing,288.61,290.95,292.99,2037.55
+567423616371,AWS Cost Explorer,0.26,0.27,0.25,1.83
+567423616371,Amazon Simple Queue Service,0.08,0.08,0.08,0.56
+567423616371,Amazon Elastic Compute Cloud - Compute,1908.27,1878.59,1878.15,13093.05
+567423616371,AWS Key Management Service,0.21,0.21,0.22,1.48
+567423616371,Amazon Simple Notification Service,0.01,0.01,0.01,0.04
+567423616371,Amazon EC2 Container Registry (ECR),0.81,0.81,0.81,5.67
+567423616371,Amazon SageMaker,1.74,2.95,4.13,14.3
+567423616371,Amazon Virtual Private Cloud,61.65,62.99,61.98,430.29
+567423616371,CloudWatch Events,0,0,0,0
+567423616371,AWS Secrets Manager,0.09,0.09,0.09,0.63
+567423616371,Amazon Elastic MapReduce,9.62,9.74,14.17,95.48
+567423616371,Amazon QuickSight,0.8,0.8,0.8,5.6
+567423616371,AWS CloudTrail,0,0,0,0
+567423616371,Amazon DynamoDB,12.61,12.61,12.61,88.27
+567423616371,Amazon Elastic Container Service,0.55,1.25,0.59,4.28
+567423616371,Amazon Simple Storage Service,360.23,361.78,361.21,2523.14
+567423616371,Amazon FSx,0.01,0.01,0.01,0.07
+567423616371,Amazon Route 53,80.14,57.37,58.17,452.54
+567423616371,Amazon Location Service,0,0,0,0
+567423616371,AmazonCloudWatch,16.95,16.32,16.23,114.61
+567423616371,Amazon Elastic File System,0,0,0,0
+567423616371,AWS Lambda,0.02,0.02,0.02,0.14
+567423616371,AWS Step Functions,0.34,0.35,0.33,2.51
+567423616371,AWS Direct Connect,2.88,2.88,2.88,20.16
+567423616371,AWS Glue,0.17,0.17,0.17,1.19
+567423616371,Amazon CloudFront,0.06,0.08,0.08,0.5
+576293063887,AWS Service Catalog,0.01,0.02,0.01,0.11
+576293063887,Amazon ElastiCache,18.31,17.38,17.62,124.55
+576293063887,EC2 - Other,89.94,88,87.99,624.45
+576293063887,Amazon Simple Workflow Service,0,0,0,0
+576293063887,Amazon Elastic Load Balancing,8.08,8.06,8.06,56.38
+576293063887,AWS Cost Explorer,0.05,0.07,0.05,0.43
+576293063887,Amazon Simple Queue Service,0,0,0,0
+576293063887,Amazon Elastic Compute Cloud - Compute,69.43,66.87,67.86,487.24
+576293063887,AWS Key Management Service,0.41,0.41,0.41,2.87
+576293063887,Amazon Simple Notification Service,0,0,0,0
+576293063887,Amazon EC2 Container Registry (ECR),1.01,1.01,1.01,7.04
+576293063887,Amazon Virtual Private Cloud,24.89,24.88,24.88,174.19
+576293063887,CloudWatch Events,0,0,0,0
+576293063887,AWS Secrets Manager,1.32,1.33,1.34,9.27
+576293063887,Amazon Managed Streaming for Apache Kafka,15.72,15.73,15.73,110.1
+576293063887,Amazon Simple Storage Service,8.55,8.58,8.6,59.92
+576293063887,AWS CloudTrail,0,0,0,0
+576293063887,Amazon DynamoDB,0.43,0.43,0.43,3.01
+576293063887,Amazon Elastic Container Service for Kubernetes,28.8,28.8,28.8,201.6
+576293063887,Amazon Route 53,0.01,0.01,0.01,0.07
+576293063887,Amazon Keyspaces (for Apache Cassandra),0,0,0,0
+576293063887,AmazonCloudWatch,1.77,1.68,1.7,12.39
+576293063887,Amazon Elastic File System,0,0,0,0
+576293063887,AWS Lambda,0,0,0,0
+576293063887,AWS Step Functions,0,0,0,0
+576293063887,Amazon Relational Database Service,196.07,190.01,194.09,1344.65
+576293063887,AWS Glue,0,0,0,0
+576911611801,AWS Key Management Service,0.01,0.01,0.01,0.06
+576911611801,AWS Service Catalog,0.01,0.02,0.01,0.09
+576911611801,Amazon Elastic File System,0,0,0,0
+576911611801,AWS Lambda,0,0,0,0
+576911611801,Amazon Simple Notification Service,0,0,0,0
+576911611801,Amazon Virtual Private Cloud,1.68,1.68,1.68,11.76
+576911611801,AmazonCloudWatch,0.13,0.13,0.13,0.91
+576911611801,EC2 - Other,2.85,2.85,2.85,19.95
+576911611801,Amazon Simple Workflow Service,0,0,0,0
+576911611801,AWS Step Functions,0,0,0,0
+576911611801,Amazon Elastic Compute Cloud - Compute,0,0,0,0
+576911611801,Amazon Simple Storage Service,0,0,0.01,0.01
+576911611801,AWS Glue,0,0,0,0
+576911611801,AWS Secrets Manager,0.08,0.08,0.08,0.56
+576911611801,AWS Cost Explorer,0.11,0.12,0.11,0.82
+576911611801,Amazon Simple Queue Service,0,0,0,0
+576911611801,AWS CloudTrail,0,0,0,0
+576911611801,Amazon DynamoDB,0.26,0.26,0.26,1.82
+611670160261,AWS Service Catalog,0,0.01,0,0.05
+611670160261,AWS Backup,0,0,0,0
+611670160261,EC2 - Other,23.41,23.33,22.65,163.98
+611670160261,Amazon Simple Workflow Service,0,0,0,0
+611670160261,Amazon Elastic Load Balancing,1.15,1.15,1.15,8.05
+611670160261,AWS Cost Explorer,0.01,0.07,0.05,0.35
+611670160261,Amazon Simple Queue Service,0,0,0,0
+611670160261,Amazon Elastic Compute Cloud - Compute,25.4,25.98,25.9,187
+611670160261,AWS Key Management Service,0,0,0.01,0.01
+611670160261,Amazon Simple Notification Service,0,0,0,0
+611670160261,Amazon EC2 Container Registry (ECR),2.5,2.5,2.51,17.51
+611670160261,Amazon Virtual Private Cloud,9.68,9.7,9.68,61.16
+611670160261,CloudWatch Events,0,0,0,0
+611670160261,AWS Secrets Manager,1.7,1.71,1.72,11.9
+611670160261,Amazon Simple Storage Service,0.01,0.01,0.01,0.06
+611670160261,AWS CloudTrail,0,0,0,0
+611670160261,Amazon DynamoDB,0.02,0.02,0.02,0.14
+611670160261,Amazon Elastic Container Service for Kubernetes,2.4,2.4,2.4,16.8
+611670160261,Amazon Route 53,0.01,0.01,0.02,0.08
+611670160261,AmazonCloudWatch,0.35,0.35,0.35,2.45
+611670160261,Amazon Elastic File System,0,0,0,0
+611670160261,AWS Step Functions,0,0,0,0
+611670160261,AWS Glue,0,0,0,0
+615069360012,AWS Service Catalog,0.02,0.02,0.01,0.12
+615069360012,AWS Backup,0,0,0.01,0.01
+615069360012,EC2 - Other,68.31,68.16,68.18,477.14
+615069360012,Amazon Simple Workflow Service,0,0,0,0
+615069360012,Amazon Elastic Load Balancing,2.89,2.88,2.88,20.17
+615069360012,AWS Cost Explorer,0.02,0.07,0.05,0.4
+615069360012,Amazon Simple Queue Service,0,0,0,0
+615069360012,Amazon Elastic Compute Cloud - Compute,54.68,54.59,54.24,376.99
+615069360012,AWS Key Management Service,0,0,0.01,0.01
+615069360012,Amazon Simple Notification Service,0,0,0,0
+615069360012,Amazon Virtual Private Cloud,21.1,21.28,21.28,147.82
+615069360012,AWS Secrets Manager,0.1,0.11,0.11,0.76
+615069360012,Amazon Simple Storage Service,5.96,6.08,6.41,41.82
+615069360012,AWS CloudTrail,0,0,0,0
+615069360012,Amazon DynamoDB,0.02,0.02,0.02,0.14
+615069360012,AmazonCloudWatch,0.14,0.14,0.14,0.98
+615069360012,Amazon Elastic File System,1.05,0.86,0.03,2.33
+615069360012,AWS Step Functions,0,0,0,0
+615069360012,AWS Glue,0,0,0,0
+625612021127,AWS Service Catalog,0.01,0.01,0,0.05
+625612021127,AWS Backup,0.01,0.01,0.01,0.07
+625612021127,EC2 - Other,10.73,10.58,10.45,76.55
+625612021127,Amazon Simple Workflow Service,0,0,0,0
+625612021127,Amazon Elastic Load Balancing,1.73,1.73,1.73,12.21
+625612021127,AWS Cost Explorer,0.02,0.07,0.05,0.4
+625612021127,Amazon Simple Queue Service,0.01,0.01,0.02,0.09
+625612021127,Amazon Elastic Compute Cloud - Compute,20.64,20.62,20.59,149.74
+625612021127,AWS Key Management Service,0,0,0.01,0.03
+625612021127,Amazon Simple Notification Service,0,0,0,0
+625612021127,Amazon EC2 Container Registry (ECR),0.42,0.42,0.42,2.93
+625612021127,Amazon Virtual Private Cloud,9.57,9.61,9.55,66.89
+625612021127,CloudWatch Events,0,0,0,0
+625612021127,AWS Secrets Manager,1.21,1.27,1.28,8.86
+625612021127,Amazon Simple Storage Service,0.02,0.02,0.02,0.14
+625612021127,AWS CloudTrail,0,0,0,0
+625612021127,Amazon DynamoDB,0.02,0.02,0.02,0.14
+625612021127,Amazon Elastic Container Service for Kubernetes,2.4,2.4,2.4,16.8
+625612021127,AmazonCloudWatch,0.03,0.03,0.03,0.21
+625612021127,Amazon Elastic File System,0.01,0.01,0.01,0.07
+625612021127,AWS Lambda,0,0,0,0
+625612021127,AWS Step Functions,0,0,0,0
+625612021127,AWS Glue,0,0,0,0
+628412515026,AWS Service Catalog,0.01,0.01,0,0.06
+628412515026,Amazon ElastiCache,1.15,1.15,1.15,8.05
+628412515026,EC2 - Other,792.53,846.66,892.21,5824.28
+628412515026,Amazon Simple Workflow Service,0,0,0,0
+628412515026,Amazon Elastic Load Balancing,13.41,13.4,13.42,93.83
+628412515026,AWS Cost Explorer,1.22,0.66,0.65,5.24
+628412515026,Amazon Simple Email Service,6.93,6.67,7.05,46.06
+628412515026,Amazon Simple Queue Service,0.01,0.01,0.01,0.07
+628412515026,Amazon Elastic Compute Cloud - Compute,5974.83,6232.15,6215.13,42260.94
+628412515026,AWS Key Management Service,0.98,0.97,0.97,6.86
+628412515026,Amazon Simple Notification Service,0.02,0.02,0.02,0.12
+628412515026,Amazon EC2 Container Registry (ECR),0.62,0.62,0.62,4.34
+628412515026,Amazon Virtual Private Cloud,137.29,138.65,140.98,967.13
+628412515026,CloudWatch Events,0,0,0,0
+628412515026,AWS Secrets Manager,0.41,0.43,0.43,2.99
+628412515026,Amazon API Gateway,0.38,0.36,0.36,2.6
+628412515026,Amazon Elastic MapReduce,3371.66,3479.62,3561.81,23883.84
+628412515026,Amazon Simple Storage Service,5366.39,5397.7,5377.68,36675.95
+628412515026,AWS X-Ray,0,0,0,0
+628412515026,AWS CloudTrail,0,0,0,0
+628412515026,Amazon Elastic Container Service for Kubernetes,2.4,2.4,2.4,16.8
+628412515026,Amazon DynamoDB,15.62,15.62,15.63,109.35
+628412515026,AmazonCloudWatch,25.61,25.82,25.21,178.43
+628412515026,Amazon Elastic File System,27.06,26.19,25.95,186.61
+628412515026,AWS Lambda,1.23,1.24,1.22,8.57
+628412515026,AWS CloudFormation,0,0,0,0
+628412515026,Amazon OpenSearch Service,2.65,2.65,2.65,18.55
+628412515026,AWS Step Functions,0,0,0,0
+628412515026,Amazon Relational Database Service,48.71,48.71,48.72,341.02
+628412515026,AWS Glue,1.79,1.69,1.71,12.04
+630307967658,AWS Service Catalog,0.01,0.01,0,0.06
+630307967658,AWS Backup,0.02,0.02,0.02,0.14
+630307967658,Amazon ElastiCache,0.67,0.67,0.67,4.69
+630307967658,EC2 - Other,4.45,4.46,4.42,30.64
+630307967658,Amazon Simple Workflow Service,0,0,0,0
+630307967658,Amazon Elastic Load Balancing,1.15,1.15,1.15,8.05
+630307967658,AWS Cost Explorer,0.08,0.13,0.11,0.84
+630307967658,Amazon Simple Queue Service,0,0,0,0
+630307967658,Amazon Elastic Compute Cloud - Compute,2.23,2.23,2.24,15.19
+630307967658,AWS Key Management Service,0.24,0.24,0.24,1.68
+630307967658,Amazon Simple Notification Service,0,0,0,0
+630307967658,Amazon EC2 Container Registry (ECR),0.43,0.43,0.43,2.98
+630307967658,Amazon Virtual Private Cloud,8.16,8.16,8.16,57.13
+630307967658,AWS Secrets Manager,0,0,0,0
+630307967658,Amazon Simple Storage Service,0.02,0.03,0.03,0.14
+630307967658,AWS CloudTrail,0,0,0,0
+630307967658,Amazon DynamoDB,0.02,0.02,0.02,0.14
+630307967658,Amazon Elastic Container Service for Kubernetes,2.4,2.4,2.4,16.8
+630307967658,AmazonCloudWatch,1.62,1.53,1.6,9.49
+630307967658,Amazon Elastic File System,0.01,0.01,0.01,0.07
+630307967658,AWS Step Functions,0,0,0,0
+630307967658,AWS Glue,0,0,0,0
+647564693872,AWS Service Catalog,0.01,0.01,0,0.06
+647564693872,EC2 - Other,8.3,8.31,8.31,58.18
+647564693872,Amazon Simple Workflow Service,0,0,0,0
+647564693872,Amazon Elastic Load Balancing,1.77,1.78,1.76,12.34
+647564693872,AWS Cost Explorer,0.02,0.06,0.05,0.38
+647564693872,Amazon Simple Queue Service,0,0,0,0
+647564693872,Amazon Elastic Compute Cloud - Compute,17.59,17.72,17.56,122.79
+647564693872,AWS Key Management Service,0.1,0.1,0.11,0.71
+647564693872,Amazon Simple Notification Service,0,0,0,0
+647564693872,Amazon Virtual Private Cloud,7.33,7.32,7.32,51.26
+647564693872,AWS Secrets Manager,0,0,0,0
+647564693872,Amazon Simple Storage Service,2.93,2.93,2.96,20.51
+647564693872,AWS CloudTrail,0,0,0,0
+647564693872,Amazon DynamoDB,0.11,0.11,0.11,0.77
+647564693872,AmazonCloudWatch,1.23,1.29,1.26,7.49
+647564693872,AWS Lambda,0,0,0,0
+647564693872,Amazon OpenSearch Service,25.25,25.25,25.25,176.75
+647564693872,AWS Step Functions,0,0,0,0
+647564693872,Amazon Relational Database Service,322,322.42,322.54,2253.12
+647564693872,AWS Glue,0,0,0,0
+658447621694,AWS Service Catalog,0.01,0.01,0,0.06
+658447621694,EC2 - Other,3.86,3.83,3.83,26.85
+658447621694,Amazon Simple Workflow Service,0,0,0,0
+658447621694,Amazon Elastic Load Balancing,1.72,1.72,1.72,12.04
+658447621694,AWS Cost Explorer,0.02,0.06,0.05,0.37
+658447621694,Amazon Simple Email Service,0,0.01,0,0.12
+658447621694,Amazon Simple Queue Service,0,0,0,0
+658447621694,Amazon Elastic Compute Cloud - Compute,2.1,2.1,2.1,14.7
+658447621694,AWS Key Management Service,0,0,0,0
+658447621694,Amazon Simple Notification Service,0,0,0,0
+658447621694,Amazon Virtual Private Cloud,3.87,3.86,3.87,27.05
+658447621694,AWS Secrets Manager,0.09,0.09,0.09,0.63
+658447621694,Amazon API Gateway,0,0,0,0
+658447621694,Amazon Simple Storage Service,0.03,0.03,0.04,0.22
+658447621694,AWS CloudTrail,0,0,0,0
+658447621694,Amazon DynamoDB,0.04,0.04,0.04,0.28
+658447621694,AmazonCloudWatch,0.02,0.02,0.02,0.14
+658447621694,AWS Lambda,0,0,0,0
+658447621694,AWS Step Functions,0,0,0,0
+658447621694,AWS Glue,0,0,0,0
+661338130494,AWS Key Management Service,0,0,0,0
+661338130494,AWS Service Catalog,0.01,0.01,0,0.06
+661338130494,Amazon Elastic File System,0,0,0,0
+661338130494,Amazon Simple Notification Service,0,0,0,0
+661338130494,Amazon Virtual Private Cloud,3.22,3.25,3.3,22.98
+661338130494,AmazonCloudWatch,0,0,0,0
+661338130494,EC2 - Other,0.91,0.91,0.91,6.38
+661338130494,Amazon Simple Workflow Service,0,0,0,0
+661338130494,AWS Step Functions,0,0,0,0
+661338130494,Amazon Elastic Compute Cloud - Compute,3.14,3.17,3.03,21.5
+661338130494,Amazon Simple Storage Service,0,0,0.01,0.01
+661338130494,AWS Glue,0,0,0,0
+661338130494,AWS Secrets Manager,0,0,0,0
+661338130494,AWS Cost Explorer,0.04,0.07,0.05,0.42
+661338130494,Amazon Simple Queue Service,0,0,0,0
+661338130494,AWS CloudTrail,0,0,0,0
+664526282133,Amazon CloudFront,0.04,0.09,0.05,0.42
+664526282133,Amazon Simple Queue Service,0,0,0,0
+664526282133,Amazon QuickSight,0,0,0,0
+664526282133,AWS Cost Explorer,0.03,0.03,0.01,0.17
+664526282133,Amazon Simple Storage Service,1.07,1.07,1.07,7.49
+664526282133,Amazon Simple Workflow Service,0,0,0,0
+664526282133,VM-Series Next-Gen Virtual Firewall w/Advanced Threat Prevention (PAYG),51.84,51.84,51.84,362.88
+664526282133,Amazon Simple Notification Service,0,0,0,0
+664526282133,Amazon ElastiCache,0.02,0.02,0.02,0.14
+664526282133,AWS Secrets Manager,0.03,0.03,0.03,0.21
+664526282133,AmazonCloudWatch,0.01,0.01,0.01,0.07
+664526282133,AWS CloudTrail,0,0,0,0
+664526282133,Amazon SimpleDB,0,0,0,0
+664526282133,Amazon GuardDuty,0.14,0.16,0.22,1.06
+664526282133,AWS Key Management Service,0.21,0.21,0.22,1.48
+664526282133,EC2 - Other,4.52,4.5,4.5,31.52
+664526282133,Amazon EC2 Container Registry (ECR),0.01,0.01,0.01,0.07
+664526282133,AWS Glue,0,0,0,0
+664526282133,Amazon Relational Database Service,0.73,0.73,0.73,5.11
+664526282133,Amazon Lightsail,0.03,0.03,0.03,0.21
+664526282133,AWS Step Functions,0,0,0,0
+664526282133,Amazon Elastic Compute Cloud - Compute,15.07,14.65,14.89,105.49
+664526282133,AWS Config,0.01,0.01,0.01,0.07
+664526282133,Amazon Virtual Private Cloud,6,6,6.01,42.02
+664526282133,Amazon Route 53,0.05,9.1,0.05,9.72
+664526282133,Amazon Glacier,0,0,0,0
+664526282133,AWS Service Catalog,0.17,0.19,0.07,1.12
+685585466397,Amazon Simple Queue Service,0.73,0.54,0.93,4.66
+685585466397,Amazon Elastic Container Service for Kubernetes,2.4,2.4,2.4,16.8
+685585466397,AWS Cost Explorer,0.02,0.06,0.05,0.37
+685585466397,Amazon Simple Storage Service,8.54,7.92,8.76,58.51
+685585466397,Amazon Simple Workflow Service,0,0,0,0
+685585466397,Amazon Simple Notification Service,0.2,0.15,0.26,1.3
+685585466397,AWS Secrets Manager,0.64,0.67,0.67,4.66
+685585466397,Amazon Elastic File System,0.03,0.03,0.03,0.21
+685585466397,AWS CloudTrail,0,0,0,0
+685585466397,AmazonCloudWatch,0.76,0.76,0.76,5.1
+685585466397,Amazon OpenSearch Service,22.44,23.37,22.9,161.11
+685585466397,AWS Key Management Service,0.2,0.21,0.21,1.42
+685585466397,Amazon DynamoDB,0.02,0.02,0.02,0.14
+685585466397,CloudWatch Events,0,0,0,0
+685585466397,EC2 - Other,42.83,42.38,43.53,298.29
+685585466397,Amazon EC2 Container Registry (ECR),1.62,1.62,1.62,11.31
+685585466397,Amazon DocumentDB (with MongoDB compatibility),5.37,5.37,5.38,37.6
+685585466397,AWS Glue,0,0,0,0
+685585466397,Amazon Relational Database Service,9.52,9.47,10.11,67.59
+685585466397,AWS Step Functions,0,0,0,0
+685585466397,Amazon Elastic Compute Cloud - Compute,80.02,78.15,78.06,530.56
+685585466397,AWS Backup,0.05,0.05,0.05,0.35
+685585466397,Amazon Virtual Private Cloud,9.81,9.81,9.83,68.75
+685585466397,Amazon Elastic Load Balancing,2.87,2.88,2.88,20.13
+685585466397,Amazon Route 53,0,0,0,0
+685585466397,AWS Service Catalog,0.01,0.01,0,0.06
+698979518480,Amazon Simple Queue Service,0.03,0.03,0.03,0.19
+698979518480,AWS Cost Explorer,0.05,0.07,0.05,0.43
+698979518480,Amazon Simple Storage Service,0.01,0.01,0.01,0.05
+698979518480,Amazon Simple Workflow Service,0,0,0,0
+698979518480,Amazon Simple Notification Service,0,0,0,0
+698979518480,AWS Secrets Manager,0.06,0.06,0.06,0.38
+698979518480,AmazonCloudWatch,0.11,0.11,0.11,0.73
+698979518480,AWS CloudTrail,0,0,0,0
+698979518480,AWS Key Management Service,0,0,0.01,0.01
+698979518480,AWS Lambda,0.06,0.05,0.05,0.34
+698979518480,EC2 - Other,94.82,103.78,92.3,526.64
+698979518480,Amazon EC2 Container Registry (ECR),0.18,0.18,0.18,1.26
+698979518480,AWS Glue,0,0,0,0
+698979518480,AWS Systems Manager,0.11,0.09,0.09,0.58
+698979518480,AWS Step Functions,0,0,0,0
+698979518480,Amazon Elastic Compute Cloud - Compute,119.16,87.68,70.31,530.78
+698979518480,Amazon API Gateway,0.01,0.01,0.01,0.05
+698979518480,Amazon Virtual Private Cloud,7.93,7.93,7.93,55.51
+698979518480,Amazon Elastic Load Balancing,2.79,2.68,2.27,15.62
+698979518480,AWS Service Catalog,0.01,0.01,0,0.06
+705108899578,Amazon Simple Queue Service,0,0,0,0
+705108899578,AWS Cost Explorer,0.38,0.26,0.24,2.28
+705108899578,AWS X-Ray,0,0,0,0
+705108899578,Amazon Simple Storage Service,639.42,643.88,640.92,4445.89
+705108899578,Amazon Simple Workflow Service,0,0,0,0
+705108899578,Amazon Simple Notification Service,0,0,0,0
+705108899578,AWS Secrets Manager,0.32,0.33,0.34,2.31
+705108899578,AmazonCloudWatch,3.04,3.34,2.94,20.19
+705108899578,AWS CloudTrail,0,0,0,0
+705108899578,AWS Key Management Service,0.1,0.11,0.11,0.72
+705108899578,Amazon DynamoDB,0.13,0.13,0.13,0.91
+705108899578,Amazon Elastic MapReduce,752.4,785.09,649.55,4201.96
+705108899578,CloudWatch Events,0,0,0,0
+705108899578,AWS Lambda,0.01,0.01,0.01,0.07
+705108899578,EC2 - Other,310.21,354.76,285.1,1999.52
+705108899578,AWS Glue,0,0,0,0
+705108899578,Amazon Relational Database Service,0.04,0.04,0.04,0.28
+705108899578,AWS Step Functions,0,0,0,0
+705108899578,Amazon Elastic Compute Cloud - Compute,1260.44,1356.37,1053.61,7154.57
+705108899578,Amazon Virtual Private Cloud,20.03,20.05,20.02,140.12
+705108899578,Amazon Elastic Load Balancing,2.36,2.36,2.36,16.52
+705108899578,AWS Service Catalog,0.01,0.01,0,0.06
+718893572916,Amazon Simple Queue Service,0,0,0,0
+718893572916,AWS Cost Explorer,0.23,0.14,0.09,0.83
+718893572916,Amazon Simple Storage Service,0.01,0.01,0.02,0.08
+718893572916,Amazon Simple Workflow Service,0,0,0,0
+718893572916,Amazon Simple Notification Service,0,0,0,0
+718893572916,Amazon ElastiCache,1.34,1.34,1.34,9.38
+718893572916,AWS Secrets Manager,0,0,0,0
+718893572916,AmazonCloudWatch,0.13,0.13,0.13,0.75
+718893572916,AWS CloudTrail,0,0,0,0
+718893572916,CloudWatch Events,0,0,0,0
+718893572916,Amazon DynamoDB,0.23,0.23,0.23,1.61
+718893572916,AWS Key Management Service,0.07,0.07,0.07,0.49
+718893572916,AWS Lambda,0,0,0,0
+718893572916,EC2 - Other,73.53,73.43,73.47,514.17
+718893572916,AWS Glue,0,0,0,0
+718893572916,AWS Step Functions,0,0,0,0
+718893572916,Amazon Elastic Compute Cloud - Compute,5.81,5.72,5.78,35.8
+718893572916,Amazon Virtual Private Cloud,19.21,19.21,19.21,134.47
+718893572916,Amazon Elastic Load Balancing,1.15,1.15,1.15,8.05
+718893572916,AWS Service Catalog,0.01,0.01,0,0.06
+722152247093,Amazon DynamoDB,0.02,0.02,0.02,0.14
+722152247093,Amazon Simple Workflow Service,0,0,0,0
+722152247093,AWS Lambda,0,0,0,0
+722152247093,AWS Step Functions,0,0,0,0
+722152247093,Amazon Simple Storage Service,0.79,0.76,0.9,13.72
+722152247093,EC2 - Other,60.1,64.06,69.2,346.63
+722152247093,Amazon Elastic Compute Cloud - Compute,25.5,27.79,28.95,158.04
+722152247093,Amazon Simple Queue Service,0,0,0,0
+722152247093,Amazon Simple Notification Service,0,0,0,0
+722152247093,AWS Secrets Manager,0.01,0.01,0.01,0.07
+722152247093,Amazon Virtual Private Cloud,9.72,9.72,9.78,67.27
+722152247093,AmazonCloudWatch,0.94,0.94,0.6,5.98
+722152247093,AWS CloudTrail,0,0,0,0
+722152247093,AWS Cost Explorer,0.04,0.07,0.05,0.39
+722152247093,Amazon Elastic Load Balancing,1.25,1.27,1.27,8.54
+722152247093,AWS Glue,0,0,0,0
+722152247093,AWS Service Catalog,0.01,0.01,0,0.06
+722152247093,AWS Key Management Service,0,0,0.01,0.01
+736384229724,Amazon Simple Workflow Service,0,0,0,0
+736384229724,AWS Step Functions,0,0,0,0
+736384229724,Amazon Simple Storage Service,133.94,91.17,95.48,661.33
+736384229724,Amazon Simple Queue Service,0.86,0.86,0.84,5.88
+736384229724,Amazon Simple Notification Service,0,0,0,0
+736384229724,AWS Secrets Manager,0,0,0,0
+736384229724,AWS CloudTrail,0,0,0,0
+736384229724,AWS Cost Explorer,0.01,0.02,0.01,0.12
+736384229724,AWS Glue,0,0,0,0
+736384229724,AWS Service Catalog,0.01,0.01,0,0.06
+736384229724,AWS Key Management Service,0,0,0,0
+737499001343,Amazon Simple Workflow Service,0,0,0,0
+737499001343,AWS Step Functions,0,0,0,0
+737499001343,Amazon Simple Storage Service,3.93,3.93,3.94,27.52
+737499001343,Amazon Simple Queue Service,0,0,0,0
+737499001343,Amazon Simple Notification Service,0,0,0,0
+737499001343,AWS Secrets Manager,0,0,0,0
+737499001343,AWS CloudTrail,0,0,0,0
+737499001343,AWS Cost Explorer,0.04,0.07,0.05,0.42
+737499001343,AWS Glue,0,0,0,0
+737499001343,AWS Service Catalog,0.01,0.01,0,0.06
+737499001343,AWS Key Management Service,0,0,0,0
+745098155683,Amazon Simple Queue Service,0,0,0,0
+745098155683,AWS Cost Explorer,0.16,0.17,0.12,0.95
+745098155683,Amazon Simple Storage Service,0.01,0.01,0.02,0.08
+745098155683,Amazon Simple Workflow Service,0,0,0,0
+745098155683,Amazon Simple Notification Service,0,0,0,0
+745098155683,AWS Secrets Manager,0.01,0.01,0.01,0.07
+745098155683,AmazonCloudWatch,0.08,0.08,0.08,0.56
+745098155683,AWS CloudTrail,0,0,0,0
+745098155683,CloudWatch Events,0,0,0,0
+745098155683,Amazon DynamoDB,0.11,0.11,0.11,0.77
+745098155683,AWS Key Management Service,0,0,0.01,0.01
+745098155683,AWS Lambda,0,0,0,0
+745098155683,EC2 - Other,8.89,8.86,8.85,60.83
+745098155683,AWS Glue,0,0,0,0
+745098155683,AWS Step Functions,0,0,0,0
+745098155683,Amazon Elastic Compute Cloud - Compute,4.25,4.25,4.25,29.6
+745098155683,Amazon Virtual Private Cloud,6.32,6.32,6.32,44.08
+745098155683,Amazon Elastic Load Balancing,1.75,1.75,1.74,12.15
+745098155683,AWS Service Catalog,0.01,0.01,0,0.06
+746682193773,Amazon Athena,0,0,0.01,0.01
+746682193773,Amazon Simple Queue Service,0,0,0,0
+746682193773,AWS Cost Explorer,0.24,0.29,0.27,3.48
+746682193773,Amazon Simple Storage Service,456.56,251.66,253.06,3203.6
+746682193773,Amazon Simple Workflow Service,0,0,0,0
+746682193773,Amazon Simple Email Service,0,0,0,0
+746682193773,Amazon Simple Notification Service,0,0,0,0
+746682193773,AWS Secrets Manager,0.1,0.11,0.11,0.76
+746682193773,Amazon Elastic File System,1.06,1.06,1.06,7.42
+746682193773,AWS CloudTrail,0,0,0,0
+746682193773,AmazonCloudWatch,1.46,1.49,1.48,10.36
+746682193773,AWS Key Management Service,0,0,0.01,0.01
+746682193773,Amazon DynamoDB,0.04,0.04,0.04,0.28
+746682193773,Amazon Elastic MapReduce,232.69,231.24,211.12,1731.6
+746682193773,Amazon SageMaker,0.45,0.45,0.45,3.15
+746682193773,AWS Lambda,0,0,0,0
+746682193773,EC2 - Other,76.51,78.42,72.3,580.97
+746682193773,Amazon EC2 Container Registry (ECR),0.04,0.04,0.04,0.28
+746682193773,AWS Glue,0.13,0.13,0.71,1.33
+746682193773,AWS Step Functions,0,0,0,0
+746682193773,Amazon Elastic Compute Cloud - Compute,416.33,426.98,365.94,2945.47
+746682193773,Amazon Virtual Private Cloud,19.71,19.37,19.43,136.17
+746682193773,Amazon Elastic Load Balancing,1.72,1.72,1.72,12.04
+746682193773,AWS Service Catalog,0,0.01,0,0.04
+752518464574,Amazon Simple Queue Service,0.03,0.03,0.03,0.18
+752518464574,Amazon Elastic Container Service for Kubernetes,16.8,16.8,16.8,117.6
+752518464574,AWS Cost Explorer,0.11,0.11,0.09,0.59
+752518464574,Amazon Simple Storage Service,24.94,24.88,25.06,176.33
+752518464574,Amazon Simple Workflow Service,0,0,0,0
+752518464574,Amazon Simple Notification Service,0,0,0,0
+752518464574,Amazon ElastiCache,78.4,78.12,77.57,545.21
+752518464574,AWS Secrets Manager,0,0,0,0
+752518464574,Amazon Elastic File System,0.05,0.06,0.03,0.34
+752518464574,AWS CloudTrail,0,0,0,0
+752518464574,AmazonCloudWatch,6,6,6,42.3
+752518464574,Amazon OpenSearch Service,51.75,49.27,50.93,339.92
+752518464574,AWS Key Management Service,0,0.01,0.01,0.02
+752518464574,Amazon DynamoDB,24.21,24.21,24.21,169.47
+752518464574,CloudWatch Events,0,0,0,0
+752518464574,AWS Lambda,0,0,0,0
+752518464574,EC2 - Other,216.72,214.5,212.62,1503.97
+752518464574,Amazon EC2 Container Registry (ECR),1.63,1.63,1.63,11.41
+752518464574,AWS Glue,0,0,0,0
+752518464574,Amazon Relational Database Service,137.15,137.13,137.49,960.96
+752518464574,AWS Step Functions,0,0,0,0
+752518464574,Amazon Elastic Compute Cloud - Compute,239.79,237.69,238.61,1678.32
+752518464574,AWS Backup,0.07,0.07,0.07,0.49
+752518464574,Amazon Virtual Private Cloud,18.74,18.74,18.74,132
+752518464574,Amazon Managed Streaming for Apache Kafka,5.55,5.55,5.55,38.85
+752518464574,Amazon Elastic Load Balancing,22.56,22.43,22.68,168.26
+752518464574,AWS Service Catalog,0.01,0.02,0.01,0.09
+753168370952,Amazon DynamoDB,0,0,0,0
+753168370952,Amazon Simple Workflow Service,0,0,0,0
+753168370952,CloudWatch Events,0,0,0,0
+753168370952,AWS Step Functions,0,0,0,0
+753168370952,Amazon Simple Storage Service,0.36,0.36,0.35,2.51
+753168370952,EC2 - Other,239.11,238.87,238.36,2535.28
+753168370952,Amazon Elastic Compute Cloud - Compute,140.33,142.13,138.3,977.56
+753168370952,Amazon Simple Queue Service,0,0,0,0
+753168370952,Amazon Simple Notification Service,0,0,0,0
+753168370952,AWS Secrets Manager,0,0,0,0
+753168370952,Amazon Virtual Private Cloud,3.06,2.88,3.22,22.99
+753168370952,AmazonCloudWatch,1.13,1.13,1.09,7.91
+753168370952,AWS CloudTrail,0,0,0,0
+753168370952,AWS Cost Explorer,0.04,0.06,0.05,0.41
+753168370952,Amazon Elastic Load Balancing,211.16,210.32,209.12,1487.38
+753168370952,AWS Glue,0,0,0,0
+753168370952,AWS Service Catalog,0.01,0.02,0.01,0.11
+753168370952,AWS Key Management Service,0,0,0.01,0.01
+755560366148,AWS Direct Connect,7.2,7.2,7.2,50.4
+755560366148,Amazon Simple Queue Service,0,0,0,0
+755560366148,AWS Cost Explorer,0.05,0.07,0.05,0.43
+755560366148,Amazon Simple Storage Service,96.39,96.79,96.86,676.9
+755560366148,Amazon Simple Workflow Service,0,0,0,0
+755560366148,Amazon Simple Email Service,0,0,0,0
+755560366148,Amazon Simple Notification Service,0,0,0,0
+755560366148,SUSE Linux Enterprise Server for SAP Applications 15 SP1,81.74,81.74,81.74,572.18
+755560366148,AWS Secrets Manager,0.03,0.03,0.03,0.21
+755560366148,Amazon Elastic File System,9.85,9.86,9.86,88.24
+755560366148,AWS CloudTrail,0,0,0,0
+755560366148,AmazonCloudWatch,0.6,0.6,0.59,3.95
+755560366148,AWS Key Management Service,0.01,0.01,0.01,0.05
+755560366148,AWS Lambda,0,0,0,0
+755560366148,SUSE Linux Enterprise Server for SAP Applications 15 SP5,12.24,12.24,12.24,85.68
+755560366148,EC2 - Other,444.92,448.06,445.92,3102.04
+755560366148,AWS Glue,0,0,0,0
+755560366148,AWS Step Functions,0,0,0,0
+755560366148,Amazon Elastic Compute Cloud - Compute,1214.87,1217.08,1202.78,8061.04
+755560366148,AWS Backup,0,0,0.18,0.72
+755560366148,Amazon Virtual Private Cloud,21.97,21.97,21.99,153.72
+755560366148,Amazon Elastic Load Balancing,1.72,1.72,1.72,12.04
+755560366148,AWS Service Catalog,0,0.01,0,0.04
+758230397644,Amazon CloudFront,0,0,0,0
+758230397644,Amazon Simple Queue Service,0,0,0,0
+758230397644,Amazon Elastic Container Service for Kubernetes,4.8,4.8,4.8,33.6
+758230397644,AWS Cost Explorer,0.07,0.13,0.11,0.77
+758230397644,Amazon Simple Storage Service,0.5,0.41,0.38,9.69
+758230397644,Amazon Simple Workflow Service,0,0,0,0
+758230397644,Amazon Simple Email Service,0.01,0.01,0.01,0.07
+758230397644,Amazon Simple Notification Service,0,0,0,0
+758230397644,Amazon ElastiCache,0,0,0,0
+758230397644,AWS Secrets Manager,0,0,0,0
+758230397644,AmazonCloudWatch,0.67,0.67,0.67,4.69
+758230397644,AWS CloudTrail,0,0,0,0
+758230397644,AWS Key Management Service,0,0.01,0.01,0.02
+758230397644,Amazon DynamoDB,0,0,0,0
+758230397644,CloudWatch Events,0,0,0,0
+758230397644,AWS Lambda,0,0,0,0
+758230397644,EC2 - Other,54.06,53.37,48.29,381.01
+758230397644,Amazon EC2 Container Registry (ECR),12.71,12.75,12.78,88.87
+758230397644,AWS Glue,0,0,0,0
+758230397644,AWS Step Functions,0,0,0,0
+758230397644,Amazon Elastic Compute Cloud - Compute,350.6,343.3,343.29,2519.86
+758230397644,Amazon Virtual Private Cloud,7.84,7.72,7.78,53.65
+758230397644,Amazon Elastic Load Balancing,12.35,12.41,12.31,87.78
+758230397644,Amazon Route 53,12,12,12,84
+758230397644,AWS Service Catalog,0,0.01,0,0.05
+761904723706,Amazon Simple Queue Service,0,0,0,0
+761904723706,Amazon Elastic Container Service for Kubernetes,9.6,9.6,9.6,67.2
+761904723706,AWS Cost Explorer,0.3,0.3,0.14,1.92
+761904723706,AWS X-Ray,0,0,0,0
+761904723706,Amazon Simple Storage Service,31.72,30.88,31.02,214.51
+761904723706,Amazon Simple Workflow Service,0,0,0,0
+761904723706,Amazon Simple Notification Service,0,0,0,0
+761904723706,Amazon ElastiCache,24.36,24.95,24.68,171.5
+761904723706,AWS Secrets Manager,0.01,0.01,0.01,0.07
+761904723706,Amazon Elastic File System,0,0,0,0
+761904723706,AWS CloudTrail,0,0,0,0
+761904723706,AmazonCloudWatch,7.03,7.25,7.2,49.46
+761904723706,Amazon OpenSearch Service,275.13,278.03,276.53,1951.42
+761904723706,AWS Key Management Service,0.57,0.57,0.58,4
+761904723706,Amazon DynamoDB,1.02,1.02,1.02,7.14
+761904723706,CloudWatch Events,0,0,0,0
+761904723706,AWS Lambda,0,0,0,0
+761904723706,EC2 - Other,553.56,552.1,541.48,3792.68
+761904723706,Amazon EC2 Container Registry (ECR),1.92,1.93,1.94,13.22
+761904723706,AWS Glue,0,0.01,0.01,0.02
+761904723706,AWS Step Functions,0,0,0,0
+761904723706,Amazon Elastic Compute Cloud - Compute,188.83,187.6,189.34,1307.61
+761904723706,Amazon API Gateway,0,0,0,0
+761904723706,AWS Backup,0,0,0,0
+761904723706,Amazon Virtual Private Cloud,45.16,45.17,45.18,315.71
+761904723706,Amazon Elastic Load Balancing,78.34,72.05,77.41,484.74
+761904723706,Amazon Route 53,0,0,0,0
+761904723706,AWS Service Catalog,0.02,0.02,0.01,0.12
+789596305652,Amazon Simple Queue Service,0.26,0.19,0.19,2.1
+789596305652,Amazon Elastic Container Service for Kubernetes,28.8,28.8,28.8,201.6
+789596305652,Amazon DevOps Guru,0,0,0,0
+789596305652,AWS Cost Explorer,0.03,0.02,0.01,0.16
+789596305652,Amazon Simple Storage Service,33.43,33.6,24.1,236.83
+789596305652,Amazon Simple Workflow Service,0,0,0,0
+789596305652,Amazon Simple Notification Service,0,0,0,0
+789596305652,Amazon ElastiCache,32.62,32.86,32.9,227.18
+789596305652,AWS Secrets Manager,0.23,0.24,0.24,1.67
+789596305652,AmazonCloudWatch,0.88,0.86,0.85,5.97
+789596305652,AWS CloudTrail,0,0,0,0
+789596305652,AWS Key Management Service,0,0,0.01,0.01
+789596305652,AWS Lambda,0,0,0,0
+789596305652,EC2 - Other,39.62,39.79,39.08,274.53
+789596305652,Amazon EC2 Container Registry (ECR),0.73,0.73,0.73,5.11
+789596305652,AWS Glue,0,0,0,0
+789596305652,Amazon Relational Database Service,65.2,62.13,66.41,437.16
+789596305652,AWS Step Functions,0,0,0,0
+789596305652,Amazon Elastic Compute Cloud - Compute,64.34,63.54,65.64,453.94
+789596305652,Amazon Virtual Private Cloud,28.69,28.69,28.61,200.01
+789596305652,Amazon Elastic Load Balancing,7,6.98,6.85,48.72
+789596305652,AWS Service Catalog,0.01,0.01,0,0.06
+811134095225,Amazon Simple Queue Service,0,0,0,0
+811134095225,Amazon Elastic Container Service for Kubernetes,4.8,4.8,4.8,33.6
+811134095225,AWS Cost Explorer,0.28,0.17,0.15,1.65
+811134095225,AWS X-Ray,0,0,0,0
+811134095225,Amazon Simple Storage Service,973.83,1001.14,914.55,6350.63
+811134095225,Amazon Simple Workflow Service,0,0,0,0
+811134095225,Amazon Simple Notification Service,0,0,0,0
+811134095225,AWS Secrets Manager,0.05,0.05,0.05,0.35
+811134095225,Amazon Elastic File System,3.31,3.47,3.33,25.25
+811134095225,AWS CloudTrail,0,0,0,0
+811134095225,AmazonCloudWatch,2.03,1.93,1.97,12.99
+811134095225,AWS Key Management Service,0.38,0.38,0.38,2.66
+811134095225,Amazon DynamoDB,0.02,0.02,0.02,0.14
+811134095225,CloudWatch Events,0,0,0,0
+811134095225,AWS Lambda,0.01,0.01,0.01,0.07
+811134095225,EC2 - Other,47.26,45.72,46.37,316.4
+811134095225,Amazon EC2 Container Registry (ECR),0.06,0.06,0.06,0.42
+811134095225,AWS Glue,0,0,0,0
+811134095225,Amazon Relational Database Service,172.27,172.41,172.62,1204.82
+811134095225,AWS Step Functions,0,0,0,0
+811134095225,Amazon Elastic Compute Cloud - Compute,834.86,827.11,778.38,5220.39
+811134095225,AWS Config,1.12,1.12,1.12,7.84
+811134095225,AWS Backup,0.17,0.17,0.17,1.19
+811134095225,Amazon Virtual Private Cloud,31.2,30.7,30.82,209.89
+811134095225,Amazon Elastic Load Balancing,8.05,7.97,8,54.73
+811134095225,AWS Service Catalog,0.01,0.01,0,0.06
+821240137883,AWS Direct Connect,0,0,0,0
+821240137883,Amazon Simple Queue Service,0,0,0,0
+821240137883,Amazon Elastic Container Service for Kubernetes,7.2,7.2,7.2,50.4
+821240137883,AWS Cost Explorer,0.02,0.06,0.05,0.37
+821240137883,Amazon Simple Storage Service,0.09,0.11,0.11,0.68
+821240137883,Amazon Simple Workflow Service,0,0,0,0
+821240137883,Amazon Simple Notification Service,0,0,0,0
+821240137883,AWS Secrets Manager,0.04,0.04,0.04,0.28
+821240137883,Amazon Elastic File System,0.01,0.01,0.01,0.07
+821240137883,AWS CloudTrail,0,0,0,0
+821240137883,AmazonCloudWatch,0.13,0.13,0.13,0.91
+821240137883,AWS Key Management Service,0,0,0.01,0.01
+821240137883,Amazon DynamoDB,0.18,0.18,0.18,1.26
+821240137883,CloudWatch Events,0,0,0,0
+821240137883,AWS Lambda,0,0,0,0
+821240137883,EC2 - Other,15.55,15.68,14.37,98.66
+821240137883,Amazon EC2 Container Registry (ECR),2.87,2.9,2.91,19.6
+821240137883,AWS Glue,0,0,0,0
+821240137883,AWS Step Functions,0,0,0,0
+821240137883,Amazon Elastic Compute Cloud - Compute,25.73,25.73,25.78,144.58
+821240137883,AWS Backup,0,0,0,0
+821240137883,Amazon Virtual Private Cloud,14.3,14.3,14.2,99.77
+821240137883,Amazon Elastic Load Balancing,4.72,4.72,4.78,31.03
+821240137883,AWS Service Catalog,0.01,0.02,0.01,0.11
+824873459626,Amazon Simple Queue Service,0.08,0.08,0.09,0.56
+824873459626,AWS Cost Explorer,0.07,0.06,0.05,0.44
+824873459626,Amazon Simple Storage Service,4.57,4.58,4.59,32.03
+824873459626,Amazon Simple Workflow Service,0,0,0,0
+824873459626,Amazon Simple Notification Service,0,0,0,0
+824873459626,AWS Secrets Manager,0.02,0.02,0.02,0.14
+824873459626,AmazonCloudWatch,0.65,0.87,0.72,4.75
+824873459626,AWS CloudTrail,0,0,0,0
+824873459626,AWS Key Management Service,0.08,0.08,0.09,0.56
+824873459626,Amazon DynamoDB,0.85,0.85,0.85,5.95
+824873459626,CloudWatch Events,0,0,0,0
+824873459626,AWS Lambda,0.08,0.11,0.09,0.61
+824873459626,EC2 - Other,19.48,19.49,19.47,136.39
+824873459626,Amazon EC2 Container Registry (ECR),0.01,0.01,0.01,0.07
+824873459626,AWS Glue,0,0,0,0
+824873459626,AWS Step Functions,0,0,0,0
+824873459626,Amazon Elastic Compute Cloud - Compute,6.66,6.69,6.69,46.33
+824873459626,Amazon API Gateway,0.04,0.05,0.05,0.33
+824873459626,Amazon Virtual Private Cloud,11.86,11.86,11.86,82.88
+824873459626,Amazon Elastic Load Balancing,2.35,2.35,2.35,16.44
+824873459626,AWS Service Catalog,0.02,0.02,0.01,0.12
+841860372390,Amazon DynamoDB,0.43,0.43,0.43,3.01
+841860372390,Amazon Simple Workflow Service,0,0,0,0
+841860372390,AWS Lambda,0,0,0,0
+841860372390,AWS Step Functions,0,0,0,0
+841860372390,Amazon Simple Storage Service,0.14,0.14,0.15,0.99
+841860372390,EC2 - Other,0.71,0.71,0.71,4.97
+841860372390,Amazon Simple Queue Service,0,0,0,0
+841860372390,Amazon Simple Notification Service,0,0,0,0
+841860372390,AWS Secrets Manager,0,0,0,0
+841860372390,AmazonCloudWatch,0.09,0.09,0.09,0.63
+841860372390,AWS CloudTrail,0,0,0,0
+841860372390,AWS Cost Explorer,0.04,0.07,0.05,0.42
+841860372390,Amazon GuardDuty,0.12,0.13,0.18,0.9
+841860372390,AWS Glue,0,0,0,0
+841860372390,AWS Service Catalog,0.01,0.01,0,0.06
+841860372390,AWS Key Management Service,0.04,0.04,0.04,0.28
+848332057417,Amazon Simple Queue Service,0,0,0,0
+848332057417,AWS Cost Explorer,0.04,0.06,0.05,0.41
+848332057417,Amazon Simple Storage Service,5.66,5.72,5.48,38.58
+848332057417,Amazon Simple Workflow Service,0,0,0,0
+848332057417,Amazon Simple Email Service,0,0,0,0
+848332057417,Amazon Simple Notification Service,0,0,0,0
+848332057417,AWS Secrets Manager,0.07,0.07,0.07,0.49
+848332057417,Amazon Elastic File System,0.21,0.2,0.19,1.4
+848332057417,AWS CloudTrail,0,0,0,0
+848332057417,AmazonCloudWatch,0.19,0.19,0.19,1.33
+848332057417,AWS Key Management Service,0,0,0.01,0.01
+848332057417,Amazon DynamoDB,0,0,0,0
+848332057417,CloudWatch Events,0,0,0,0
+848332057417,AWS Lambda,0,0,0,0
+848332057417,EC2 - Other,25.81,25.88,25.78,181.79
+848332057417,Amazon EC2 Container Registry (ECR),0,0,0,0
+848332057417,AWS Glue,0,0,0,0
+848332057417,AWS Step Functions,0,0,0,0
+848332057417,Amazon Elastic Compute Cloud - Compute,44.42,44.42,44.39,318.52
+848332057417,AWS Backup,0.2,0.2,0.2,1.4
+848332057417,Amazon Virtual Private Cloud,10.36,10.45,10.37,72.14
+848332057417,Amazon Elastic Load Balancing,8.72,9.06,7.45,52.99
+848332057417,AWS Service Catalog,0.01,0.01,0,0.04
+850995531967,Amazon Simple Workflow Service,0,0,0,0
+850995531967,AWS Step Functions,0,0,0,0
+850995531967,Amazon Simple Storage Service,0,0,0.01,0.01
+850995531967,Amazon Simple Queue Service,0,0,0,0
+850995531967,Amazon Simple Notification Service,0,0,0,0
+850995531967,AWS Secrets Manager,0,0,0,0
+850995531967,AWS CloudTrail,0,0,0,0
+850995531967,AWS Cost Explorer,0.01,0.03,0.01,0.15
+850995531967,AWS Budgets,0,0,0,0.01
+850995531967,AWS Glue,0,0,0,0
+850995531967,Amazon Glacier,0,0,0,0
+850995531967,AWS Service Catalog,0.1,0.18,0.07,0.95
+850995531967,AWS Key Management Service,0,0,0,0
+885068115609,Amazon Simple Queue Service,0,0,0,0
+885068115609,Amazon Elastic Container Service for Kubernetes,2.4,2.4,2.4,43.4
+885068115609,AWS Cost Explorer,0.02,0.07,0.05,0.4
+885068115609,Amazon Simple Storage Service,3.54,3.51,3.59,24.67
+885068115609,Amazon Simple Workflow Service,0,0,0,0
+885068115609,Amazon Simple Notification Service,0,0,0,0
+885068115609,AWS CodeArtifact,0,0,0,0
+885068115609,AWS Secrets Manager,0.24,0.26,0.26,1.76
+885068115609,Amazon Elastic File System,0,0,0,0
+885068115609,AWS CloudTrail,5.01,5.08,5.44,34.75
+885068115609,AmazonCloudWatch,6.31,6.62,6.27,44.76
+885068115609,AWS Key Management Service,1.11,1.11,1.12,7.78
+885068115609,Amazon DynamoDB,0.32,0.32,0.32,2.24
+885068115609,CloudWatch Events,0,0,0,0
+885068115609,AWS Lambda,0,0,0,0
+885068115609,EC2 - Other,62.11,69.95,58.09,440.76
+885068115609,Amazon EC2 Container Registry (ECR),0.62,0.45,0.31,2.89
+885068115609,AWS Glue,0,0,0,0
+885068115609,AWS Step Functions,0,0,0,0
+885068115609,Amazon Elastic Compute Cloud - Compute,75.25,74.55,73.27,518.62
+885068115609,Amazon Virtual Private Cloud,13.68,13.79,13.61,95.66
+885068115609,Amazon Elastic Load Balancing,2.91,2.93,2.9,20.36
+885068115609,Amazon Route 53,4.04,4.05,4.35,29.17
+885068115609,Amazon Glacier,0,0,0,0
+885068115609,AWS Service Catalog,0.15,0.18,0.08,1.11
+898496923608,AWS Elemental MediaLive,0.24,0.24,0.24,1.68
+898496923608,Amazon CloudFront,0.05,0.06,0.04,0.33
+898496923608,Amazon Simple Queue Service,0,0,0,0
+898496923608,Amazon Elastic Container Service for Kubernetes,24,24,24,168
+898496923608,AWS Cost Explorer,0.21,0.25,0.24,1.71
+898496923608,AWS Directory Service,9.92,10,10.38,70.56
+898496923608,Amazon Simple Storage Service,391.18,391.91,394.46,2862.8
+898496923608,Amazon Simple Workflow Service,0,0,0,0
+898496923608,Amazon Simple Email Service,1.66,1.66,1.66,11.62
+898496923608,Amazon Simple Notification Service,0,0,0,0
+898496923608,Amazon ElastiCache,227.43,224,221.92,1579.55
+898496923608,AWS Secrets Manager,0.38,0.39,0.4,2.73
+898496923608,Amazon Elastic File System,13.59,13.59,13.81,94.48
+898496923608,AWS CloudTrail,0,0,0,0
+898496923608,AmazonCloudWatch,16.75,16.46,16.28,116.88
+898496923608,AWS Key Management Service,0.24,0.24,0.25,1.69
+898496923608,Amazon DynamoDB,0.02,0.02,0.02,0.14
+898496923608,AWS Lambda,0,0,0,0
+898496923608,EC2 - Other,1054.93,1056.3,1054.01,7453.8
+898496923608,Amazon EC2 Container Registry (ECR),0.04,0.04,0.04,0.28
+898496923608,AWS Transfer Family,7.2,7.2,7.2,50.4
+898496923608,AWS Glue,0.17,0.17,0.18,1.2
+898496923608,Amazon Relational Database Service,55.18,55.18,55.18,386.22
+898496923608,AWS Global Accelerator,0.6,0.6,0.6,4.2
+898496923608,AWS Step Functions,0,0,0,0
+898496923608,Amazon Elastic Compute Cloud - Compute,1093.02,1112.89,1080.31,7547.58
+898496923608,AWS Config,0.39,0.46,0.42,3.11
+898496923608,AWS Backup,0.5,0.5,0.5,3.49
+898496923608,Amazon Virtual Private Cloud,26.83,26.99,26.55,188.06
+898496923608,Amazon Elastic Load Balancing,101.38,102.72,101.8,720.48
+898496923608,Amazon Route 53,3.91,1.96,1.85,16.26
+898496923608,Amazon Glacier,0,0,0,0
+898496923608,AWS Service Catalog,0.12,0.18,0.07,1.02
+899249751508,Amazon Simple Queue Service,0,0,0,0
+899249751508,Amazon Elastic Container Service for Kubernetes,9.6,9.6,9.6,67.2
+899249751508,AWS Cost Explorer,0.28,0.15,0.13,1.57
+899249751508,AWS X-Ray,0,0,0,0
+899249751508,Amazon Simple Storage Service,383.47,376.01,392.03,2657.53
+899249751508,Amazon Simple Workflow Service,0,0,0,0
+899249751508,Amazon Simple Notification Service,0.09,0.1,0.1,0.67
+899249751508,Amazon ElastiCache,90.24,90.24,90.24,631.68
+899249751508,AWS Secrets Manager,0.06,0.07,0.07,0.48
+899249751508,Amazon Elastic File System,3.43,3.43,3.43,24.01
+899249751508,AWS CloudTrail,0,0,0,0
+899249751508,AmazonCloudWatch,27.42,27.39,27.79,192.73
+899249751508,AWS Key Management Service,0.14,0.14,0.15,0.99
+899249751508,Amazon DynamoDB,0.17,0.17,0.17,1.19
+899249751508,Amazon Elastic MapReduce,45.24,48.22,54.08,241.85
+899249751508,Amazon SageMaker,3.04,3.04,3.04,21.28
+899249751508,CloudWatch Events,0,0,0,0
+899249751508,AWS Lambda,0.02,0.02,0.02,0.14
+899249751508,EC2 - Other,1011.9,1008.84,1004.22,7032.69
+899249751508,Amazon EC2 Container Registry (ECR),5.68,5.68,5.68,39.73
+899249751508,Amazon Rekognition,35.84,57.16,49.03,234.54
+899249751508,AWS Glue,0.01,0.01,0.02,0.08
+899249751508,Amazon Relational Database Service,69.88,69.88,69.88,489.16
+899249751508,AWS Step Functions,0,0,0,0
+899249751508,Amazon Elastic Compute Cloud - Compute,2432.88,2449.38,2488.02,16965.42
+899249751508,Amazon Textract,45.66,49.56,42.93,287.42
+899249751508,Amazon Virtual Private Cloud,113.86,115.59,117.24,802.62
+899249751508,AWS CloudShell,0,0,0,0
+899249751508,Amazon Elastic Load Balancing,98.61,100.4,104.52,709.44
+899249751508,AWS Service Catalog,0.01,0.01,0,0.06
+901553615594,Amazon Simple Queue Service,0,0,0,0
+901553615594,Amazon QuickSight,1.2,1.2,1.2,8.4
+901553615594,Amazon Elastic Container Service for Kubernetes,9.6,9.6,9.6,67.2
+901553615594,AWS Cost Explorer,0.47,0.48,0.16,2.87
+901553615594,Amazon Simple Storage Service,90.85,90.53,91.3,621.53
+901553615594,Amazon Simple Workflow Service,0,0,0,0
+901553615594,Amazon Simple Notification Service,0,0,0,0
+901553615594,Amazon ElastiCache,38.6,36.39,36.94,258.68
+901553615594,AWS Secrets Manager,0.47,0.47,0.47,3.29
+901553615594,Amazon Elastic File System,23.42,23.41,23.44,160.71
+901553615594,AWS CloudTrail,0,0,0,0
+901553615594,AmazonCloudWatch,7.1,7.46,7.43,48.76
+901553615594,AWS Key Management Service,0.1,0.11,0.11,0.72
+901553615594,Amazon DynamoDB,0.48,0.48,0.48,3.36
+901553615594,CloudWatch Events,0,0,0,0
+901553615594,AWS Lambda,0,0,0,0
+901553615594,EC2 - Other,751.17,753,751.48,5250.81
+901553615594,Amazon EC2 Container Registry (ECR),4.97,4.99,4.99,34.8
+901553615594,AWS Transfer Family,21.6,21.6,21.6,151.2
+901553615594,Amazon Rekognition,5.45,6.02,5.36,42.38
+901553615594,AWS Glue,0.03,0.03,0.03,0.2
+901553615594,Amazon Relational Database Service,0,0,0,0
+901553615594,AWS Step Functions,0,0,0,0
+901553615594,Amazon Elastic Compute Cloud - Compute,487.19,483.69,484.95,3388.33
+901553615594,AWS Backup,0.06,0.06,0.06,0.42
+901553615594,Amazon Virtual Private Cloud,42.99,43.02,43.07,299.42
+901553615594,Amazon Elastic Load Balancing,240.5,248.26,239.88,1622.36
+901553615594,Amazon Route 53,0,0,0,0
+901553615594,AWS Service Catalog,0.01,0.03,0.01,0.12
+914516902729,Amazon Simple Workflow Service,0,0,0,0
+914516902729,AWS Lambda,0,0,0,0
+914516902729,AWS Step Functions,0,0,0,0
+914516902729,Amazon Simple Storage Service,1.32,1.44,1.6,5.79
+914516902729,EC2 - Other,64.28,64.71,64.72,458.18
+914516902729,Amazon Elastic Compute Cloud - Compute,23.14,23.14,23.38,162.6
+914516902729,Amazon Simple Queue Service,0,0,0,0
+914516902729,Amazon Simple Notification Service,0,0,0,0
+914516902729,AWS Secrets Manager,0.01,0.01,0.01,0.07
+914516902729,Amazon Virtual Private Cloud,8.69,29.24,8.77,82.36
+914516902729,AmazonCloudWatch,0,0,0,0
+914516902729,AWS CloudTrail,0,0,0,0
+914516902729,AWS Cost Explorer,0.02,0.07,0.05,0.4
+914516902729,AWS Glue,0,0,0,0
+914516902729,AWS Service Catalog,0.01,0.01,0,0.06
+914516902729,AWS Key Management Service,0,0,0,0
+929265682896,AWS Direct Connect,21.61,21.61,21.61,151.25
+929265682896,Amazon Simple Queue Service,0.05,0.05,0.05,0.33
+929265682896,Amazon Elastic Container Service for Kubernetes,7.2,7.2,7.2,50.4
+929265682896,AWS Cost Explorer,0.07,0.07,0.05,0.45
+929265682896,Amazon Simple Storage Service,3.33,3.31,3.29,22.02
+929265682896,Amazon Simple Workflow Service,0,0,0,0
+929265682896,Amazon Simple Notification Service,0,0,0,0
+929265682896,Amazon ElastiCache,4.44,4.44,4.44,31.08
+929265682896,AWS Secrets Manager,3.68,3.69,3.72,25.81
+929265682896,Amazon Elastic File System,0.47,0.4,0.38,2.8
+929265682896,AWS CloudTrail,0,0,0,0
+929265682896,AmazonCloudWatch,1.81,1.8,1.73,12.48
+929265682896,Amazon OpenSearch Service,10.81,10.03,9.77,70.62
+929265682896,AWS Key Management Service,6.18,6.18,6.2,43.25
+929265682896,Amazon DynamoDB,5.75,5.72,5.67,40.89
+929265682896,CloudWatch Events,0,0,0,0
+929265682896,AWS Lambda,0.02,0.02,0.02,0.13
+929265682896,EC2 - Other,282.38,285.92,279.62,1936.1
+929265682896,Amazon EC2 Container Registry (ECR),14.85,14.89,14.89,103.77
+929265682896,AWS Glue,0,0,0,0
+929265682896,AWS Security Hub,0.03,0.03,0.03,0.21
+929265682896,AWS Step Functions,0,0,0,0
+929265682896,Amazon Elastic Compute Cloud - Compute,228.06,230.76,229.63,1442.09
+929265682896,Amazon API Gateway,0.02,0.02,0.02,0.16
+929265682896,AWS Backup,0.2,0.2,0.2,1.4
+929265682896,Amazon Virtual Private Cloud,33.08,33.18,33.11,230.73
+929265682896,Amazon Elastic Load Balancing,14.44,14.46,14.68,98.58
+929265682896,AWS Service Catalog,0.02,0.02,0.01,0.12
+952840895893,Amazon Simple Queue Service,0,0,0,0
+952840895893,Amazon Elastic Container Service for Kubernetes,2.4,2.4,2.4,16.8
+952840895893,Amazon DevOps Guru,0,0,0,0
+952840895893,AWS Cost Explorer,0.04,0.07,0.05,0.38
+952840895893,Amazon Simple Storage Service,2.78,2.78,2.77,19.43
+952840895893,Amazon Simple Workflow Service,0,0,0,0
+952840895893,Amazon Simple Notification Service,0,0,0,0
+952840895893,Amazon ElastiCache,4.13,4.13,4.13,28.91
+952840895893,AWS Secrets Manager,3.27,3.15,3.15,21.87
+952840895893,Amazon Elastic File System,1.66,1.66,1.66,11.62
+952840895893,AWS CloudTrail,0,0,0,0
+952840895893,AmazonCloudWatch,5.52,5.29,5.27,36.69
+952840895893,AWS Key Management Service,0.21,0.21,0.21,1.46
+952840895893,Amazon DynamoDB,0.81,0.81,0.81,5.67
+952840895893,CloudWatch Events,0,0,0,0
+952840895893,AWS Lambda,0,0,0,0
+952840895893,EC2 - Other,38.33,38.08,37.2,267.24
+952840895893,Amazon EC2 Container Registry (ECR),13.69,13.7,13.7,95.85
+952840895893,AWS Glue,0,0,0,0
+952840895893,Amazon Relational Database Service,10.73,10.72,10.73,75.08
+952840895893,AWS Step Functions,0,0,0,0
+952840895893,Amazon Elastic Compute Cloud - Compute,85.32,85.31,84.88,563.74
+952840895893,AWS Backup,0,0,0,0
+952840895893,Amazon Virtual Private Cloud,18.92,18.94,18.93,132.45
+952840895893,Amazon Elastic Load Balancing,2.41,2.41,2.39,16.74
+952840895893,AWS Service Catalog,0.02,0.02,0.01,0.12
+954976288980,Amazon Simple Queue Service,0.26,0.25,0.26,1.63
+954976288980,AWS CodePipeline,0.08,0.07,0.04,0.41
+954976288980,AWS Cost Explorer,0.03,0.02,0.01,0.16
+954976288980,AWS WAF,1.33,1.33,1.33,9.31
+954976288980,Amazon Simple Storage Service,0.01,0.01,0.01,0.07
+954976288980,Amazon Simple Workflow Service,0,0,0,0
+954976288980,Amazon Simple Notification Service,0,0,0,0
+954976288980,Amazon ElastiCache,6.05,6.05,6.05,42.35
+954976288980,AWS Secrets Manager,0,0,0,0
+954976288980,AmazonCloudWatch,1.08,1.07,1.08,7.53
+954976288980,AWS CloudTrail,0,0,0,0
+954976288980,AWS Key Management Service,0,0,0,0
+954976288980,AWS Lambda,2.25,2.25,2.27,15.81
+954976288980,CodeBuild,0.1,0.16,0.06,0.82
+954976288980,EC2 - Other,5.08,5.05,5.07,35.54
+954976288980,Amazon EC2 Container Registry (ECR),0.01,0.01,0.01,0.07
+954976288980,Amazon MemoryDB,2.93,2.93,2.93,20.51
+954976288980,AWS Glue,0,0,0,0
+954976288980,AWS Amplify,1.89,1.66,1.67,11.93
+954976288980,AWS Step Functions,0,0,0,0
+954976288980,Amazon Elastic Compute Cloud - Compute,3.03,3.03,3.03,21.22
+954976288980,Amazon Virtual Private Cloud,7.07,7.07,7.07,49.49
+954976288980,AWS CloudFormation,0,0,0,0
+954976288980,Amazon Elastic Load Balancing,1.72,1.72,1.72,12.04
+954976288980,MongoDB Atlas (pay-as-you-go),14,7,19,90
+954976288980,Amazon Glacier,0,0,0,0
+954976288980,AWS Service Catalog,0.08,0.15,0.07,0.64
+968032760053,AWS Service Catalog,0.18,0.19,0.07,1.1
+968032760053,AWS Backup,0.09,0.09,0.09,0.63
+968032760053,Amazon ElastiCache,69.72,69.73,69.85,552.17
+968032760053,EC2 - Other,1660.08,1668.32,1672.66,11710.45
+968032760053,Amazon Simple Workflow Service,0,0,0,0
+968032760053,Amazon Glacier,0,0,0,0
+968032760053,Amazon SimpleDB,0,0,0,0
+968032760053,Amazon Elastic Load Balancing,49.12,49.47,49.04,345.7
+968032760053,AWS Cost Explorer,0.96,0.99,0.97,7
+968032760053,Amazon Simple Queue Service,0.08,0.1,0.1,0.6
+968032760053,Amazon Elastic Compute Cloud - Compute,1840.45,1847.99,1774.41,12823.37
+968032760053,AWS Key Management Service,2.83,2.84,2.85,19.84
+968032760053,Amazon Simple Notification Service,0,0,0,0
+968032760053,Amazon EC2 Container Registry (ECR),11.07,11.96,9.27,73.61
+968032760053,Amazon SageMaker,132.86,134.08,130.28,907.23
+968032760053,Amazon Virtual Private Cloud,61.52,61.58,61.57,430.7
+968032760053,CloudWatch Events,0,0,0,0
+968032760053,AWS Identity and Access Management Access Analyzer,0.2,0,0.2,0.4
+968032760053,AWS Secrets Manager,0.67,0.7,0.71,4.88
+968032760053,Amazon Elastic MapReduce,441.7,444.72,445.36,3091.84
+968032760053,Amazon QuickSight,10.4,10.4,10.4,72.8
+968032760053,AWS CloudTrail,0,0,0,0
+968032760053,Amazon DynamoDB,3.99,3.99,3.98,28.25
+968032760053,Amazon Elastic Container Service for Kubernetes,52.8,52.8,52.8,414.6
+968032760053,Amazon Simple Storage Service,390.25,346.79,249.83,2028.2
+968032760053,Amazon FSx,0,0,0,0
+968032760053,Amazon Route 53,0.6,0.6,0.61,4.17
+968032760053,Amazon Athena,0.02,0.3,0.07,0.44
+968032760053,Amazon Location Service,0,0,0,0
+968032760053,AWS Systems Manager,0,0,0,0
+968032760053,AmazonCloudWatch,103.69,103.58,103.48,732.87
+968032760053,Amazon Elastic File System,11.99,11.99,11.99,83.93
+968032760053,AWS Lambda,0,0,0.01,0.03
+968032760053,AWS CloudFormation,0,0,0,0
+968032760053,AWS Step Functions,0,0,0,0
+968032760053,AWS CodeArtifact,0,0,0,0
+968032760053,Amazon Relational Database Service,93.52,93.71,97.69,775.14
+968032760053,AWS Glue,1.49,1.34,1.38,9.76
+975049957371,AWS Service Catalog,0.01,0.01,0,0.06
+975049957371,EC2 - Other,41.4,45.39,44.35,334.83
+975049957371,Amazon Simple Workflow Service,0,0,0,0
+975049957371,AWS Cost Explorer,0.22,0.1,0.09,1.22
+975049957371,Amazon Simple Queue Service,0,0,0,0
+975049957371,Amazon Elastic Compute Cloud - Compute,324.01,343.75,320.62,2488.99
+975049957371,AWS Key Management Service,0,0,0,0
+975049957371,Amazon Simple Notification Service,0,0,0,0
+975049957371,Amazon Virtual Private Cloud,3.95,3.95,3.95,27.67
+975049957371,CloudWatch Events,0,0,0,0
+975049957371,AWS Secrets Manager,0,0,0,0
+975049957371,Amazon Elastic MapReduce,179.28,184.8,180.2,1346.92
+975049957371,Amazon Simple Storage Service,251.87,240.06,225.84,1586.88
+975049957371,AWS CloudTrail,0,0,0,0
+975049957371,Amazon DynamoDB,0.02,0.02,0.02,0.14
+975049957371,AmazonCloudWatch,0.1,0.1,0.1,0.7
+975049957371,AWS CloudFormation,0,0,0,0
+975049957371,AWS Step Functions,0,0,0,0
+975049957371,AWS Glue,0,0,0,0
+984308723723,AWS Service Catalog,0.01,0.02,0.01,0.09
+984308723723,AWS Backup,1.03,1.03,1.03,7.18
+984308723723,Amazon ElastiCache,1.67,1.67,1.68,11.72
+984308723723,AWS End User Messaging,0.31,0.07,0.07,1.37
+984308723723,EC2 - Other,77.12,77.13,77.15,540.1
+984308723723,Amazon Simple Workflow Service,0,0,0,0
+984308723723,Amazon Elastic Load Balancing,12.15,12.27,12.41,85.68
+984308723723,AWS Cost Explorer,0.07,0.07,0.05,0.44
+984308723723,Amazon Simple Email Service,4.49,4.7,3.94,25.39
+984308723723,Amazon Simple Queue Service,0.21,0.22,0.22,1.46
+984308723723,Amazon Elastic Compute Cloud - Compute,70.71,70.57,69.63,483.43
+984308723723,AWS Key Management Service,0.01,0.01,0.01,0.06
+984308723723,Amazon Simple Notification Service,0.07,0.08,0.07,0.47
+984308723723,Amazon EC2 Container Registry (ECR),0.02,0.02,0.02,0.14
+984308723723,Amazon Virtual Private Cloud,17.32,17.32,17.35,121.21
+984308723723,AWS Secrets Manager,0.26,0.27,0.27,1.88
+984308723723,Amazon Simple Storage Service,1.26,1.26,1.25,8.84
+984308723723,AWS CloudTrail,0,0,0,0
+984308723723,Amazon DynamoDB,0.63,0.64,0.64,4.43
+984308723723,Amazon Elastic Container Service for Kubernetes,4.8,4.8,4.8,33.6
+984308723723,Amazon Route 53,7.32,16.04,7.33,59.91
+984308723723,Amazon DevOps Guru,0,0,0,0
+984308723723,AmazonCloudWatch,2.59,2.58,2.63,18.07
+984308723723,Amazon Elastic File System,1.16,1.14,1.14,7.9
+984308723723,AWS Lambda,0.26,0.22,0.22,1.59
+984308723723,AWS Step Functions,0,0,0,0
+984308723723,Amazon Relational Database Service,16.3,16.38,16.27,114.24
+984308723723,AWS Glue,0,0,0,0
+984308723723,Amazon CloudFront,0,0,0,0
+997924011427,AWS Service Catalog,0.01,0.01,0,0.06
+997924011427,Amazon ElastiCache,1.01,1.01,1.01,7.07
+997924011427,EC2 - Other,85.07,85.03,84.81,592.4
+997924011427,Amazon Simple Workflow Service,0,0,0,0
+997924011427,Amazon Elastic Load Balancing,3.66,3.69,3.65,25.48
+997924011427,AWS Cost Explorer,0.11,0.13,0.11,0.87
+997924011427,Amazon Simple Queue Service,0,0,0,0
+997924011427,Amazon Elastic Compute Cloud - Compute,29.45,29.45,29.48,202.19
+997924011427,AWS Key Management Service,0.27,0.27,0.28,1.9
+997924011427,Amazon Simple Notification Service,0,0,0,0
+997924011427,Amazon EC2 Container Registry (ECR),0.8,0.81,0.82,5.67
+997924011427,Amazon Virtual Private Cloud,18.55,18.55,18.61,129.81
+997924011427,CloudWatch Events,0,0,0,0
+997924011427,AWS Secrets Manager,0,0,0,0
+997924011427,Amazon Simple Storage Service,0.88,0.99,0.98,6.68
+997924011427,AWS CloudTrail,0,0,0,0
+997924011427,Amazon DynamoDB,0.26,0.26,0.26,1.82
+997924011427,Amazon Elastic Container Service for Kubernetes,4.8,4.8,4.8,33.6
+997924011427,Amazon Route 53,0.09,0.09,0.09,0.63
+997924011427,AmazonCloudWatch,1.91,2.24,1.9,13.53
+997924011427,AWS Lambda,0,0,0,0
+997924011427,AWS Step Functions,0,0,0,0
+997924011427,AWS Glue,0,0,0,0

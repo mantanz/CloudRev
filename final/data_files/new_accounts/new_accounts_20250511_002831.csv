@@ -1,0 +1,18 @@
+account_id,account_name,hod_id,entity,source_file,added_date,status
+352506242820,payments-platform_prod_ocl,00000001,,transformed_OCL_2024-04-01_2025-05-05.csv,2025-05-11 00:28:31,New Account Added
+2637409966,user-management-prod,00000001,,transformed_OCL_2024-04-01_2025-05-05.csv,2025-05-11 00:28:31,New Account Added
+75790327284,cdp_growth marketing_ocl,00000001,,transformed_OCL_2024-04-01_2025-05-05.csv,2025-05-11 00:28:31,New Account Added
+3079193758,IOT Prod,00000001,,transformed_OCL_2024-04-01_2025-05-05.csv,2025-05-11 00:28:31,New Account Added
+28914776520,edc_prod_ocl,00000001,,transformed_OCL_2024-04-01_2025-05-05.csv,2025-05-11 00:28:31,New Account Added
+72401294672,Oauth AWS,00000001,,transformed_OCL_2024-04-01_2025-05-05.csv,2025-05-11 00:28:31,New Account Added
+21891570382,risk-lending,00000001,,transformed_OCL_2024-04-01_2025-05-05.csv,2025-05-11 00:28:31,New Account Added
+90436275138,Digital Channels,00000001,,transformed_OCL_2024-04-01_2025-05-05.csv,2025-05-11 00:28:31,New Account Added
+68930846606,emi-prod_ocl,00000001,,transformed_OCL_2024-04-01_2025-05-05.csv,2025-05-11 00:28:31,New Account Added
+66636274316,webnmweb_ocl,00000001,,transformed_OCL_2024-04-01_2025-05-05.csv,2025-05-11 00:28:31,New Account Added
+64619502227,CentralToolsPlatform,00000001,,transformed_OCL_2024-04-01_2025-05-05.csv,2025-05-11 00:28:31,New Account Added
+97001033170,smartretail_ocl,00000001,,transformed_OCL_2024-04-01_2025-05-05.csv,2025-05-11 00:28:31,New Account Added
+54736913503,scp-mgv,00000001,,transformed_OCL_2024-04-01_2025-05-05.csv,2025-05-11 00:28:31,New Account Added
+66548792077,IOT Core,00000001,,transformed_OCL_2024-04-01_2025-05-05.csv,2025-05-11 00:28:31,New Account Added
+17820698743,risk-devops-tools,00000001,,transformed_OCL_2024-04-01_2025-05-05.csv,2025-05-11 00:28:31,New Account Added
+23903256547,central tools,00000001,,transformed_OCL_2024-04-01_2025-05-05.csv,2025-05-11 00:28:31,New Account Added
+880170353725,pi-ml-ds,00000001,,transformed_OCL_2024-04-01_2025-05-05.csv,2025-05-11 00:28:31,New Account Added
