@@ -69,13 +69,13 @@ def validate_and_update_single_account(account_id, account_name, entity):
         existing_account = cursor.fetchone()
         
         if not existing_account:
-            # Insert new account
+            # Insert new account with default HOD ID
             cursor.execute("""
                 INSERT INTO account_details (
                     account_id, account_name, hod_id, entity, 
                     account_type, account_status, account_owner,
                     cost_center, business_unit, region, country
-                ) VALUES (?, ?, NULL, ?, NULL, NULL, NULL, NULL, NULL, NULL, NULL)
+                ) VALUES (?, ?, '00000001', ?, NULL, NULL, NULL, NULL, NULL, NULL, NULL)
             """, (account_id, account_name, entity))
             
             print(f"Added new account: {account_id} - {account_name}")
@@ -125,7 +125,7 @@ def validate_and_update_accounts_from_file(transformed_file):
             
             if not existing_account:
                 # Get HOD details if available
-                hod_id = None
+                hod_id = '00000001'  # Default HOD ID
                 if has_hod_entity:
                     hod_name = df[df['account_id'] == account_id]['hod_name'].iloc[0]
                     entity = df[df['account_id'] == account_id]['entity'].iloc[0]
@@ -154,6 +154,7 @@ def validate_and_update_accounts_from_file(transformed_file):
         
         # Save new HOD entries to CSV if any
         if new_hod_entries:
+            current_dir = os.path.dirname(os.path.abspath(__file__))
             output_dir = os.path.join(os.path.dirname(os.path.dirname(current_dir)), 'final', 'data_files', 'new_hod_entries')
             os.makedirs(output_dir, exist_ok=True)
             
@@ -165,6 +166,7 @@ def validate_and_update_accounts_from_file(transformed_file):
         
         # Save new accounts to CSV if any
         if new_accounts:
+            current_dir = os.path.dirname(os.path.abspath(__file__))
             output_dir = os.path.join(os.path.dirname(os.path.dirname(current_dir)), 'final', 'data_files', 'new_accounts')
             os.makedirs(output_dir, exist_ok=True)
             
