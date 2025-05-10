@@ -37,6 +37,10 @@ def transform_monthly_spend(df):
             # Remove ($) from account name
             account_name = account_name.replace(' ($)', '')
             
+            # Skip if account_name is empty or contains only numbers
+            if not account_name or account_name.replace('.', '').isdigit():
+                continue
+            
             # Process each date for this account
             for j in range(len(dates)):
                 date = str(dates[j]).strip()
