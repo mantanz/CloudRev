@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import re
+import traceback
 
 def extract_account_details_from_filename(filename):
     """Extract account name and ID from filename."""
@@ -25,34 +26,86 @@ def extract_account_details_from_filename(filename):
 def validate_pre_transpose(df, file_type, filename=None):
     """Validate data before transformation."""
     try:
+        # Convert all null/NaN values to 0 first
+        df = df.fillna(0)
+        
         if file_type == 3:  # Monthly spend
             # Remove total rows before validation
             df = df[~df.iloc[:, 0].isin(['Linked account total', 'Total costs ($)'])]
+            df = df.reset_index(drop=True)
+            # print(f"[DEBUG] DataFrame shape after removing total rows: {df.shape}")
+            # print("[DEBUG] DataFrame preview after removing total rows:")
+            # print(df.head(10))
             
-            # Calculate column sums
-            col_sums = df.iloc[3:, 1:-1].astype(float).sum()  # Exclude last column
+            # Check that there are at least 4 rows (header + at least 1 month)
+            if df.shape[0] < 4:
+                print("[ERROR] DataFrame does not have enough rows after removing total rows.")
+                return False, "Not enough rows after removing total rows", {}, {}
+            
+            # Check that there are at least 3 columns (date + at least 1 account + total)
+            if df.shape[1] < 3:
+                print("[ERROR] DataFrame does not have enough columns after removing total rows.")
+                return False, "Not enough columns after removing total rows", {}, {}
+            
+            # Calculate column sums (account_id-wise totals)
+            try:
+                col_sums = df.iloc[2:, 1:-1].astype(float).sum()  # Exclude last column
+            except Exception as e:
+                print(f"[ERROR] Failed to calculate column sums: {e}")
+                print(df.iloc[2:, 1:-1].head())
+                return False, f"Failed to calculate column sums: {e}", {}, {}
             
             # Store account-wise monthly totals for post-validation
             account_totals = {}
+            month_totals = {}
+            
+            # Debug: Print DataFrame shape and column count
+            # print(f"[DEBUG] Processing DataFrame with shape: {df.shape}")
+            # print(f"[DEBUG] Number of columns to process: {len(df.columns)-2}")
+            
             for i in range(len(df.columns)-2):  # Exclude first and last columns
-                account_id = str(df.iloc[0, i+1]).strip()  # First row has account IDs
-                account_name = str(df.iloc[1, i+1]).strip()  # Second row has account names
+                try:
+                    account_id = str(df.iloc[0, i+1]).strip()  # First row has account IDs
+                    account_name = str(df.iloc[1, i+1]).strip()  # Second row has account names
+                    # print(f"[DEBUG] Processing column {i+1}: account_id={account_id}, account_name={account_name}")
+                except Exception as e:
+                    print(f"[ERROR] Failed to access account_id/account_name at column {i+1}: {e}")
+                    continue
                 
                 if account_id and account_id != 'Total costs ($)':
                     # Remove ($) from account name
                     account_name = account_name.replace(' ($)', '')
-                    
                     # Extract numeric part from account_id if it contains non-numeric characters
                     account_id = ''.join(filter(str.isdigit, account_id))
+                    
                     if len(account_id) == 12:  # Only store if account_id is valid
-                        # Store monthly totals for this account
                         account_totals[account_id] = {}
-                        for j, date in enumerate(df.iloc[3:, 0]):
-                            spend = float(df.iloc[j+3, i+1])
+                        for j, date in enumerate(df.iloc[2:, 0]):
+                            # Debug: Print current iteration details
+                            # print(f"[DEBUG] Processing row {j+2}, column {i+1}")
+                            # print(f"[DEBUG] DataFrame shape: {df.shape}")
+                            # print(f"[DEBUG] Current date: {date}")
+                            
+                            # Bounds check before accessing DataFrame
+                            if j+2 >= df.shape[0] or i+1 >= df.shape[1]:
+                                print(f"[ERROR] Index out of bounds: j+2={j+2}, i+1={i+1}, shape={df.shape}")
+                                continue
+                            
+                            try:
+                                spend = float(df.iloc[j+2, i+1])
+                                # print(f"[DEBUG] Retrieved spend value: {spend}")
+                            except Exception as e:
+                                print(f"[ERROR] Failed to access spend at row {j+2}, col {i+1}: {e}")
+                                continue
+                            
                             if pd.notna(spend) and spend > 0:
                                 account_totals[account_id][str(date).strip()] = spend
+                                # Update month-wise totals
+                                if str(date).strip() not in month_totals:
+                                    month_totals[str(date).strip()] = 0
+                                month_totals[str(date).strip()] += spend
             
-            return True, "Pre-transpose validation successful", account_totals
+            return True, "Pre-transpose validation successful", account_totals, month_totals
                 
         else:  # Daily or service monthly spend
             # Remove total rows before validation
@@ -73,107 +126,117 @@ def validate_pre_transpose(df, file_type, filename=None):
                             
                             # Get spend values for each date/month
                             for col in df.columns[3:]:  # Skip first 3 columns (account_id, account_name, service_name)
-                                spend = float(row[col])
+                                try:
+                                    spend = float(row[col])
+                                except Exception as e:
+                                    print(f"[ERROR] Failed to access spend for service {service_name}, col {col}: {e}")
+                                    continue
                                 if pd.notna(spend) and spend > 0:
                                     account_totals[account_id][service_name][str(col).strip()] = spend
             
-            return True, "Pre-transpose validation successful", account_totals
+            return True, "Pre-transpose validation successful", account_totals, {}
         
     except Exception as e:
-        return False, f"Pre-transpose validation error: {str(e)}", {}
+        print(f"[ERROR] Exception in validate_pre_transpose: {e}")
+        return False, f"Pre-transpose validation error: {str(e)}", {}, {}
 
-def validate_post_transpose(df: pd.DataFrame, file_type: str, pre_totals: dict = None, filename: str = None) -> bool:
-    """Validate data after transpose operation."""
+def validate_post_transpose(df, file_type, pre_validation_data=None):
+    """Validate data after transformation."""
     try:
-        # Determine the correct date column name
-        if file_type == 'daily' or file_type == 1:
-            date_col = 'day'
-        elif file_type == 'monthly' or file_type == 3:
-            date_col = 'month'
-        else:
-            date_col = 'month'  # For service monthly, still 'month'
-
-        # Check required columns
-        required_columns = ['account_id', date_col, 'spend']
-        if file_type == 1 or file_type == 2:  # Service Daily or Service Monthly
-            required_columns.append('service_name')
+        # print("[DEBUG] Entered validate_post_transpose")
+        # print(f"[DEBUG] DataFrame columns: {df.columns.tolist()}")
+        # print(f"[DEBUG] DataFrame shape: {df.shape}")
+        # print("[DEBUG] DataFrame head:")
+        # print(df.head())
+        if file_type == 3:  # Monthly spend
+            # print("[DEBUG] Starting post-transpose validation")
+            # print(f"[DEBUG] DataFrame shape: {df.shape}")
+            # print("[DEBUG] DataFrame preview:")
+            # print(df.head())
             
-        if not all(col in df.columns for col in required_columns):
-            print(f"Missing required columns after transpose: {required_columns}")
-            print(f"Found columns: {df.columns.tolist()}")
-            return False
-
-        # Remove rows with null or zero spend values
-        df = df[df['spend'].notna() & (df['spend'] != 0)]
-
-        # Check for negative spend values
-        if (df['spend'] < 0).any():
-            print("Found negative spend values")
-            return False
-
-        # Validate account IDs
-        def process_account_id(acc_id):
-            if pd.isna(acc_id):
-                return None
-            acc_id = str(acc_id).strip()
-            numeric_id = ''.join(filter(str.isdigit, acc_id))
-            if numeric_id and numeric_id.isdigit():
-                return numeric_id.zfill(12)
-            return acc_id
-
-        # For Service Daily and Service Monthly files, get account_id from filename
-        if file_type == 1 or file_type == 2:  # Service Daily or Service Monthly
-            if not filename:
-                print("Filename required for Service Daily and Service Monthly files")
-                return False
-            account_id, _ = extract_account_details_from_filename(filename)
-            if not account_id:
-                print("Could not extract account ID from filename")
-                return False
-            # Set all rows to have the same account_id from filename
-            df['account_id'] = account_id
-        else:  # Account Monthly
-            # For Account Monthly, process account IDs from the data
-            df['account_id'] = df['account_id'].apply(process_account_id)
-            # Remove rows with invalid account IDs
-            df = df[df['account_id'].notna()]
-
-        # Validate date format based on file type
-        if date_col == 'day':
-            date_format = '%Y-%m-%d'
-        else:
-            date_format = '%Y-%m'
-        try:
-            # Just verify the dates are valid, but don't modify them
-            pd.to_datetime(df[date_col])
-        except ValueError:
-            print(f"Invalid date format in {date_col} column")
-            return False
-
-        # Validate spend totals match pre-transpose totals
-        if pre_totals:
-            for account_id in pre_totals:
-                account_df = df[df['account_id'] == account_id]
-                if file_type == 1 or file_type == 2:  # Service Daily or Service Monthly
-                    # Group by service and date
-                    post_totals = account_df.groupby(['service_name', date_col])['spend'].sum()
-                    for (service, date), spend in post_totals.items():
-                        if service in pre_totals[account_id] and date in pre_totals[account_id][service]:
-                            expected_total = pre_totals[account_id][service][date]
-                            if not np.isclose(spend, expected_total, rtol=1e-5):
-                                print(f"Total spend mismatch for account {account_id}, service {service}, {date_col} {date}. Expected: {expected_total}, Got: {spend}")
-                                return False
-                else:  # Account Monthly
-                    post_totals = account_df.groupby('month')['spend'].sum().to_dict()
-                    for month, expected_total in pre_totals[account_id].items():
-                        if month in post_totals:
-                            actual_total = post_totals[month]
-                            if not np.isclose(actual_total, expected_total, rtol=1e-5):
-                                print(f"Total spend mismatch for account {account_id}, month {month}. Expected: {expected_total}, Got: {actual_total}")
-                                return False
-
-        return True
-
+            if pre_validation_data is None:
+                print("[ERROR] Pre-validation data is required for post-transpose validation")
+                return False, "Pre-validation data is required for post-transpose validation"
+            
+            account_totals, month_totals = pre_validation_data
+            
+            # Validate account-wise totals
+            # print("[DEBUG] Validating account-wise totals")
+            for account_id in account_totals:
+                # print(f"[DEBUG] Processing account_id: {account_id}")
+                account_data = df[df['account_id'] == account_id]
+                if account_data.empty:
+                    print(f"[WARNING] No data found for account_id: {account_id}")
+                    continue
+                
+                for month, expected_spend in account_totals[account_id].items():
+                    # print(f"[DEBUG] Checking month: {str(month)}, expected spend: {expected_spend}")
+                    month_data = account_data[account_data['month'] == month]
+                    # print(f"[DEBUG] month_data for account_id={account_id}, month={str(month)}:")
+                    # print(month_data)
+                    if month_data.empty:
+                        print(f"[WARNING] No data found for month: {str(month)} for account_id: {account_id}")
+                        continue
+                    
+                    # Bounds check before accessing iloc[0]
+                    if len(month_data['spend']) == 0:
+                        print(f"[ERROR] month_data['spend'] is empty for account_id={account_id}, month={month}")
+                        continue
+                    actual_spend = float(month_data['spend'].iloc[0])  # Convert to float
+                    # print(f"[DEBUG] Actual spend: {actual_spend}")
+                    if abs(actual_spend - expected_spend) > 0.01:  # Allow for small floating point differences
+                        print(f"[ERROR] Mismatch for account {account_id}, month {str(month)}: expected {expected_spend}, got {actual_spend}")
+                        return False, f"Account-wise total mismatch for account {str(account_id)}, month {str(month)}"
+            
+            # Validate month-wise totals
+            # print("[DEBUG] Validating month-wise totals")
+            for month in month_totals:
+                # print(f"[DEBUG] Processing month: {str(month)}")
+                month_data = df[df['month'] == month]
+                if month_data.empty:
+                    print(f"[WARNING] No data found for month: {str(month)}")
+                    continue
+                
+                expected_total = month_totals[month]
+                # Ensure spend column is numeric before summing
+                spend_numeric = pd.to_numeric(month_data['spend'], errors='coerce')
+                actual_total = float(spend_numeric.sum())  # Convert to float
+                # print(f"[DEBUG] Month {str(month)}: expected total {expected_total}, actual total {actual_total}")
+                if abs(actual_total - expected_total) > 0.01:  # Allow for small floating point differences
+                    print(f"[ERROR] Mismatch for month {str(month)}: expected {expected_total}, got {actual_total}")
+                    return False, f"Month-wise total mismatch for month {str(month)}"
+            
+            return True, "Post-transpose validation successful"
+                
+        else:  # Daily or service monthly spend
+            if pre_validation_data is None:
+                return False, "Pre-validation data is required for post-transpose validation"
+            
+            account_totals, _ = pre_validation_data
+            
+            # Validate account and service-wise totals
+            for account_id in account_totals:
+                account_data = df[df['account_id'] == account_id]
+                if account_data.empty:
+                    continue
+                
+                for service_name, service_data in account_totals[account_id].items():
+                    service_rows = account_data[account_data['service_name'] == service_name]
+                    if service_rows.empty:
+                        continue
+                    
+                    for date, expected_spend in service_data.items():
+                        date_data = service_rows[service_rows['day' if file_type == 1 else 'month'] == date]
+                        if date_data.empty:
+                            continue
+                        
+                        actual_spend = float(date_data['spend'].iloc[0])  # Convert to float
+                        if abs(actual_spend - expected_spend) > 0.01:
+                            return False, f"Service-wise total mismatch for account {account_id}, service {service_name}, date {date}"
+            
+            return True, "Post-transpose validation successful"
+            
     except Exception as e:
-        print(f"Error in post-transpose validation: {str(e)}")
-        return False 
+        print(f"[ERROR] Exception in validate_post_transpose: {e}")
+        traceback.print_exc()
+        return False, f"Post-transpose validation error: {str(e)}" 

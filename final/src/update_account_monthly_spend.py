@@ -4,12 +4,15 @@ from transform_spend import transform_monthly_spend
 from update_spend import update_monthly_spend
 from update_account_details import validate_and_update_single_account
 from validate_spend import validate_pre_transpose, validate_post_transpose
+import sqlite3
+from datetime import datetime
+import numpy as np
 
 def update_account_monthly_spend(file_path, entity):
     """Update account monthly spend data."""
     try:
-        # Read input file
-        df = pd.read_csv(file_path)
+        # Read input file with header=None to treat first row as data
+        df = pd.read_csv(file_path, header=None)
         
         # Pre-transpose validation
         is_valid, message, pre_totals = validate_pre_transpose(df, 3)  # 3 for monthly spend
@@ -61,6 +64,79 @@ def update_account_monthly_spend(file_path, entity):
             
     except Exception as e:
         print(f"Error processing file {file_path}: {str(e)}")
+        return False
+
+def update_account_monthly_spend(transformed_file):
+    """Update as_acct_monthly table with transformed spend data.
+    
+    Args:
+        transformed_file (str): Path to the transformed CSV file
+        
+    Returns:
+        bool: True if successful, False otherwise
+    """
+    try:
+        # Read the transformed file
+        df = pd.read_csv(transformed_file)
+        
+        # Convert month to datetime
+        df['month'] = pd.to_datetime(df['month'])
+        
+        # Connect to database
+        db_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'sqlite', 'mydatabase.db')
+        conn = sqlite3.connect(db_path)
+        cursor = conn.cursor()
+        
+        # Track statistics
+        updated_records = 0
+        inserted_records = 0
+        
+        # Process each record
+        for _, row in df.iterrows():
+            account_id = row['account_id']
+            month = row['month'].strftime('%Y-%m-%d')
+            spend = float(row['spend'])
+            
+            # Check if record exists
+            cursor.execute("""
+                SELECT spend FROM as_acct_monthly 
+                WHERE account_id = ? AND month = ?
+            """, (account_id, month))
+            
+            result = cursor.fetchone()
+            
+            if result:
+                # Update existing record if spend is different
+                existing_spend = float(result[0])
+                if not np.isclose(existing_spend, spend, rtol=1e-5):
+                    cursor.execute("""
+                        UPDATE as_acct_monthly 
+                        SET spend = ? 
+                        WHERE account_id = ? AND month = ?
+                    """, (spend, account_id, month))
+                    updated_records += 1
+            else:
+                # Insert new record
+                cursor.execute("""
+                    INSERT INTO as_acct_monthly (account_id, month, spend)
+                    VALUES (?, ?, ?)
+                """, (account_id, month, spend))
+                inserted_records += 1
+        
+        # Commit changes and close connection
+        conn.commit()
+        conn.close()
+        
+        print(f"\nDatabase update completed:")
+        print(f"- {updated_records} records updated")
+        print(f"- {inserted_records} new records inserted")
+        
+        return True
+        
+    except Exception as e:
+        print(f"Error updating monthly spend: {str(e)}")
+        if 'conn' in locals():
+            conn.close()
         return False
 
 if __name__ == "__main__":

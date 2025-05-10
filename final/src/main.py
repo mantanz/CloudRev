@@ -1,9 +1,14 @@
 import os
 import pandas as pd
+import traceback
 from update_account_details import validate_and_update_accounts_from_file
 from update_account_service_daily_spend import update_account_service_daily_spend
 from update_account_service_monthly_spend import update_account_service_monthly_spend
 from update_account_monthly_spend import update_account_monthly_spend
+from transform_aop import transform_aop_data
+from update_aop_budget import update_aop_budget_monthly
+from validate_spend import validate_pre_transpose, validate_post_transpose
+from transform_spend import transform_spend_data
 
 def get_user_choice():
     """Get user's choice of operation"""
@@ -54,54 +59,92 @@ def get_file_type_choice():
         print("Invalid choice. Please enter 1, 2, or 3.")
 
 def main():
-    """Main function to handle user interaction"""
+    """Main function to process files."""
     print("\nWelcome to CloudRev Data Processing Tool")
     
-    while True:
-        choice = get_user_choice()
-        
-        if choice == 3:  # Exit
-            print("\nThank you for using CloudRev Data Processing Tool. Goodbye!")
-            break
-            
-        elif choice == 1:  # AOP
-            file_path = input("\nEnter file or directory path: ").strip()
-            if os.path.exists(file_path):
-                if os.path.isfile(file_path):
-                    validate_and_update_accounts_from_file(file_path)
-                else:
-                    for file in os.listdir(file_path):
-                        if file.endswith('.csv'):
-                            full_path = os.path.join(file_path, file)
-                            validate_and_update_accounts_from_file(full_path)
+    choice = get_user_choice()
+    if choice == 3:
+        print("Exiting.")
+        return
+    
+    entity = get_entity_choice()
+    
+    if choice == 1:
+        # AOP
+        file_path = input("\nEnter path to AOP file: ").strip()
+        if not os.path.isfile(file_path):
+            print(f"File not found: {file_path}")
+            return
+        try:
+            transformed_file = transform_aop_data(file_path)
+            if not transformed_file:
+                print("Error transforming AOP data")
+                return
+            if update_aop_budget_monthly(transformed_file):
+                print("AOP budget updated successfully")
             else:
-                print(f"Path does not exist: {file_path}")
-                
-        elif choice == 2:  # Spend
-            entity = get_entity_choice()
-            file_type = get_file_type_choice()
-            file_path = input("\nEnter file or directory path: ").strip()
-            
-            if os.path.exists(file_path):
-                if os.path.isfile(file_path):
-                    if file_type == 1:
-                        update_account_service_daily_spend(file_path, entity)
-                    elif file_type == 2:
-                        update_account_service_monthly_spend(file_path, entity)
-                    else:
-                        update_account_monthly_spend(file_path, entity)
-                else:
-                    for file in os.listdir(file_path):
-                        if file.endswith('.csv'):
-                            full_path = os.path.join(file_path, file)
-                            if file_type == 1:
-                                update_account_service_daily_spend(full_path, entity)
-                            elif file_type == 2:
-                                update_account_service_monthly_spend(full_path, entity)
-                            else:
-                                update_account_monthly_spend(full_path, entity)
+                print("Failed to update AOP budget")
+        except Exception as e:
+            print(f"Error processing AOP file {file_path}: {str(e)}")
+            traceback.print_exc()
+        return
+    elif choice == 2:
+        # Spend
+        file_type = get_file_type_choice()
+        file_path = input("\nEnter path to Spend file: ").strip()
+        if not os.path.isfile(file_path):
+            print(f"File not found: {file_path}")
+            return
+        try:
+            # Read the file
+            df = pd.read_csv(file_path, header=None)
+            # Validate pre-transpose
+            is_valid, message, account_totals, month_totals = validate_pre_transpose(df, file_type)
+            if not is_valid:
+                print(f"Pre-transpose validation failed: {message}")
+                return
+            # Transform the data
+            transformed_df = transform_spend_data(file_path, file_type)
+            if transformed_df is None:
+                print("Error transforming data")
+                return
+            # Debug: Print before post-transpose validation
+            print("[DEBUG] About to call validate_post_transpose")
+            print(f"[DEBUG] transformed_df columns: {transformed_df.columns.tolist()}")
+            print(f"[DEBUG] transformed_df shape: {transformed_df.shape}")
+            print(transformed_df.head())
+            print(f"[DEBUG] account_totals keys: {list(account_totals.keys())}")
+            print(f"[DEBUG] month_totals keys: {list(month_totals.keys())}")
+            # Validate post-transpose
+            result = validate_post_transpose(transformed_df, file_type, (account_totals, month_totals))
+            print(f"[DEBUG] validate_post_transpose result: {result}")
+            if isinstance(result, tuple):
+                is_valid_post, message_post = result
             else:
-                print(f"Path does not exist: {file_path}")
+                is_valid_post = result
+                message_post = ''
+            if not is_valid_post:
+                print(f"Post-transpose validation failed: {message_post}")
+                return
+            # Save the transformed data
+            output_file = os.path.join(os.path.dirname(file_path), f"transformed_{os.path.basename(file_path)}")
+            transformed_df.to_csv(output_file, index=False)
+            print(f"Transformed data saved to: {output_file}")
+            # Update account details
+            if validate_and_update_accounts_from_file(output_file, entity):
+                print("Account details updated successfully")
+            else:
+                print("Failed to update account details")
+            # Update monthly spend
+            if update_account_monthly_spend(output_file):
+                print("Monthly spend updated successfully")
+            else:
+                print("Failed to update monthly spend")
+            print(f"Successfully processed file: {file_path}")
+        except Exception as e:
+            print(f"Error processing file {file_path}: {str(e)}")
+            traceback.print_exc()
+        return
 
 if __name__ == "__main__":
     main() 

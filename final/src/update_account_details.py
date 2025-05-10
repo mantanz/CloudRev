@@ -92,7 +92,7 @@ def validate_and_update_single_account(account_id, account_name, entity):
             conn.close()
         return False
 
-def validate_and_update_accounts_from_file(transformed_file):
+def validate_and_update_accounts_from_file(transformed_file, selected_entity):
     """Validate accounts and update the database from a transformed file"""
     try:
         # Read the transformed data
@@ -112,44 +112,58 @@ def validate_and_update_accounts_from_file(transformed_file):
         # Get unique accounts
         unique_accounts = df[['account_id', 'account_name']].drop_duplicates()
         
-        # Check if we have HOD and entity columns
-        has_hod_entity = all(col in df.columns for col in ['hod_name', 'entity'])
+        # Check if we have HOD column
+        has_hod = 'hod_name' in df.columns
         
         for _, row in unique_accounts.iterrows():
             account_id = row['account_id']
             account_name = row['account_name']
             
-            # Check if account exists
-            cursor.execute("SELECT * FROM account_details WHERE account_id = ?", (account_id,))
+            # Skip if the input account_name contains 'Redacted'
+            if 'Redacted' in account_name:
+                continue
+                
+            # Check if account exists based only on account_id
+            cursor.execute("SELECT account_name FROM account_details WHERE account_id = ?", (account_id,))
             existing_account = cursor.fetchone()
             
-            if not existing_account:
+            if existing_account:
+                # If account exists and name is different, update the account_name
+                if existing_account['account_name'] != account_name:
+                    cursor.execute("""
+                        UPDATE account_details 
+                        SET account_name = ? 
+                        WHERE account_id = ?
+                    """, (account_name, account_id))
+                    print(f"Updated account_name for account_id {account_id} from {existing_account['account_name']} to {account_name}")
+            else:
                 # Get HOD details if available
                 hod_id = '00000001'  # Default HOD ID
-                if has_hod_entity:
+                if has_hod:
                     hod_name = df[df['account_id'] == account_id]['hod_name'].iloc[0]
-                    entity = df[df['account_id'] == account_id]['entity'].iloc[0]
-                    hod_id = handle_hod_details(cursor, hod_name, entity)
+                    hod_id = handle_hod_details(cursor, hod_name, selected_entity)
                     new_hod_entries.append({
                         'hod_id': hod_id,
                         'hod_name': hod_name,
-                        'entity': entity
+                        'entity': selected_entity
                     })
-                
-                # Insert new account
+                # Insert only if account_id does not exist (INSERT OR IGNORE for extra safety)
                 cursor.execute("""
-                    INSERT INTO account_details (
+                    INSERT OR IGNORE INTO account_details (
                         account_id, account_name, hod_id, entity, 
                         cloud_id, business_id, percentage, prod_flg,
                         account_creation_date, cls_flg, cls_date
                     ) VALUES (?, ?, ?, ?, NULL, NULL, NULL, NULL, NULL, NULL, NULL)
-                """, (account_id, account_name, hod_id, entity if has_hod_entity else None))
-                
+                """, (account_id, account_name, hod_id, selected_entity))
+                # Add more details to new_accounts for better tracking
                 new_accounts.append({
                     'account_id': account_id,
                     'account_name': account_name,
                     'hod_id': hod_id,
-                    'entity': entity if has_hod_entity else None
+                    'entity': selected_entity,
+                    'source_file': os.path.basename(transformed_file),
+                    'added_date': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+                    'status': 'New Account Added'
                 })
         
         # Save new HOD entries to CSV if any
@@ -173,8 +187,12 @@ def validate_and_update_accounts_from_file(transformed_file):
             timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
             output_file = os.path.join(output_dir, f'new_accounts_{timestamp}.csv')
             
-            pd.DataFrame(new_accounts).to_csv(output_file, index=False)
+            # Create DataFrame and save with detailed information
+            new_accounts_df = pd.DataFrame(new_accounts)
+            new_accounts_df.to_csv(output_file, index=False)
             print(f"\nNew accounts saved to {output_file}")
+            print("\nNew accounts added:")
+            print(new_accounts_df[['account_id', 'account_name', 'entity', 'added_date']].to_string())
         
         # Commit changes and close connection
         conn.commit()

@@ -2,70 +2,45 @@ import pandas as pd
 import numpy as np
 
 def transform_monthly_spend(df):
-    """Transform monthly spend data from wide to long format."""
-    try:
-        # Remove total rows
-        df = df[~df.iloc[:, 0].isin(['Linked account total', 'Total costs ($)'])]
-        
-        # Get account IDs and names from first two rows
-        account_ids = df.iloc[0, 1:-1].values  # Exclude last column (Total)
-        account_names = df.iloc[1, 1:-1].values  # Exclude last column (Total)
-        
-        # Get spend data from remaining rows
-        spend_data = df.iloc[3:, 1:-1]  # Exclude last column (Total)
-        dates = df.iloc[3:, 0].values
-        
-        # Create list to store transformed data
-        transformed_data = []
-        
-        # Process each account
-        for i in range(len(account_ids)):
-            account_id = str(account_ids[i]).strip()
-            account_name = str(account_names[i]).strip()
-            
-            # Skip if account_id is empty or is a total row
-            if not account_id or account_id == 'Total costs ($)':
-                continue
-                
-            # Extract numeric part from account_id
-            numeric_id = ''.join(filter(str.isdigit, account_id))
-            
-            # If we have a numeric ID, pad it with leading zeros to make it 12 digits
-            if numeric_id:
-                account_id = numeric_id.zfill(12)
-            
-            # Remove ($) from account name
-            account_name = account_name.replace(' ($)', '')
-            
-            # Skip if account_name is empty or contains only numbers
-            if not account_name or account_name.replace('.', '').isdigit():
-                continue
-            
-            # Process each date for this account
-            for j in range(len(dates)):
-                date = str(dates[j]).strip()
-                spend = spend_data.iloc[j, i]
-                
-                # Skip if spend is null or zero
-                if pd.notna(spend) and float(spend) > 0:
-                    transformed_data.append({
-                        'account_id': account_id,
-                        'account_name': account_name,
-                        'month': date,  # Keep original date format
-                        'spend': float(spend)
-                    })
-        
-        # Convert to DataFrame
-        df_transformed = pd.DataFrame(transformed_data)
-        
-        # Sort by account_id and month
-        df_transformed = df_transformed.sort_values(['account_id', 'month'])
-        
-        return df_transformed
-        
-    except Exception as e:
-        print(f"Error transforming monthly spend data: {str(e)}")
-        return None
+    """
+    Transform monthly spend data from wide to long format.
+    Args:
+        df (pd.DataFrame): Input DataFrame with monthly spend data
+    Returns:
+        pd.DataFrame: Transformed DataFrame with columns: account_id, account_name, month, spend
+    """
+    # Show the DataFrame as read from the CSV before any processing
+    print("\nOriginal DataFrame as read from CSV (header=None):")
+    print(df.head(10))
+    
+    # Ignore the last column (totals)
+    df = df.iloc[:, :-1]
+    # Extract account_id and account_name from the first two rows
+    account_ids = df.iloc[0].values[1:]
+    account_names = df.iloc[1].values[1:]
+    # Extract month rows (from row 3 onwards, skipping 'Linked account total')
+    months = df.iloc[3:, 0].values
+    # Extract spend values (from row 3 onwards, columns 1:)
+    spend_data = df.iloc[3:, 1:].values
+    # Build long DataFrame
+    records = []
+    for i, account_id in enumerate(account_ids):
+        for j, month in enumerate(months):
+            spend = spend_data[j, i]
+            records.append({
+                'account_id': account_id,
+                'account_name': account_names[i],
+                'month': month,
+                'spend': spend
+            })
+    df_long = pd.DataFrame(records)
+    # Replace NaN spend values with 0
+    df_long['spend'] = df_long['spend'].fillna(0)
+    # Remove ' ($)' suffix from account_name
+    df_long['account_name'] = df_long['account_name'].str.replace(' ($)', '')
+    print("\nTransformed DataFrame (first 10 rows):")
+    print(df_long.head(10))
+    return df_long
 
 def transform_daily_spend(df):
     """Transform daily spend data."""
@@ -173,17 +148,7 @@ def transform_spend_data(input_file, file_type):
     """Main function to transform spend data."""
     try:
         # Read input file
-        df = pd.read_csv(input_file)
-        
-        # Validate data based on file type
-        if file_type == 3:  # Monthly spend
-            is_valid, message = validate_monthly_spend(df)
-        else:  # Daily or service monthly spend
-            is_valid, message = validate_service_data(df)
-            
-        if not is_valid:
-            print(f"Validation failed: {message}")
-            return None
+        df = pd.read_csv(input_file,header=None)
             
         # Transform data based on file type
         if file_type == 1:  # Daily spend
