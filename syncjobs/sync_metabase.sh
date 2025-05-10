@@ -29,4 +29,4 @@ for SERVER in "${DEST_SERVERS[@]}"; do
     fi
 done
 
-echo "✅ All servers have been synced!"
+echo "✅ All servers are been synced!"
