@@ -1,69 +1,107 @@
 import os
-from transform_aop import transform_aop_data
-from update_account_details import validate_and_update_accounts
-from update_aop_budget import update_aop_budget_monthly
+import pandas as pd
+from update_account_details import validate_and_update_accounts_from_file
+from update_account_service_daily_spend import update_account_service_daily_spend
+from update_account_service_monthly_spend import update_account_service_monthly_spend
+from update_account_monthly_spend import update_account_monthly_spend
 
 def get_user_choice():
-    """Get user's choice for file type"""
+    """Get user's choice of operation"""
+    print("\nPlease select the type of file to process:")
+    print("1. AOP (Annual Operating Plan)")
+    print("2. Spend")
+    print("3. Exit")
+    
     while True:
-        print("\nPlease select the type of file to process:")
-        print("1. AOP (Annual Operating Plan)")
-        print("2. Spend")
-        print("3. Exit")
-        
         choice = input("\nEnter your choice (1-3): ").strip()
-        
         if choice in ['1', '2', '3']:
-            return choice
-        else:
-            print("Invalid choice. Please enter 1, 2, or 3.")
+            return int(choice)
+        print("Invalid choice. Please enter 1, 2, or 3.")
 
-def get_input_file():
-    """Get input file path from user"""
+def get_entity_choice():
+    """Get user's choice of entity"""
+    print("\nSelect entity:")
+    print("1. OCL")
+    print("2. PPSL")
+    print("3. PIBPL")
+    print("4. Nearbuy")
+    print("5. PML")
+    print("6. Creditmate")
+    print("7. PaiPai")
+    
     while True:
-        file_path = input("\nEnter the path to your input file: ").strip()
-        
-        if os.path.isfile(file_path):
-            return file_path
-        else:
-            print("File not found. Please enter a valid file path.")
+        choice = input("Enter option (default: 1): ").strip()
+        if not choice:
+            return "OCL"
+        if choice in ['1', '2', '3', '4', '5', '6', '7']:
+            entities = ["OCL", "PPSL", "PIBPL", "Nearbuy", "PML", "Creditmate", "PaiPai"]
+            return entities[int(choice) - 1]
+        print("Invalid choice. Please enter a number between 1 and 7.")
 
-def process_aop():
-    """Process AOP file"""
-    # Step 1: Transform AOP data
-    input_file = get_input_file()
-    transformed_file = transform_aop_data(input_file)
+def get_file_type_choice():
+    """Get user's choice of file type"""
+    print("\nSelect file type:")
+    print("1. Account Service Daily")
+    print("2. Account Service Monthly")
+    print("3. Account Monthly")
     
-    if not transformed_file:
-        print("AOP transformation failed. Please check the input file and try again.")
-        return
-    
-    # Step 2: Validate and update account details
-    if not validate_and_update_accounts(transformed_file):
-        print("Account validation and update failed. Please check the database connection.")
-        return
-    
-    # Step 3: Update AOP budget monthly table
-    if not update_aop_budget_monthly(transformed_file):
-        print("AOP budget monthly table update failed. Please check the database connection.")
-        return
-    
-    print("\nAOP processing completed successfully!")
+    while True:
+        choice = input("Enter option (default: 1): ").strip()
+        if not choice:
+            return 1
+        if choice in ['1', '2', '3']:
+            return int(choice)
+        print("Invalid choice. Please enter 1, 2, or 3.")
 
 def main():
-    """Main function"""
-    print("Welcome to CloudRev Data Processing Tool")
+    """Main function to handle user interaction"""
+    print("\nWelcome to CloudRev Data Processing Tool")
     
     while True:
         choice = get_user_choice()
         
-        if choice == '1':
-            process_aop()
-        elif choice == '2':
-            print("\nSpend processing not implemented yet.")
-        else:
+        if choice == 3:  # Exit
             print("\nThank you for using CloudRev Data Processing Tool. Goodbye!")
             break
+            
+        elif choice == 1:  # AOP
+            file_path = input("\nEnter file or directory path: ").strip()
+            if os.path.exists(file_path):
+                if os.path.isfile(file_path):
+                    validate_and_update_accounts_from_file(file_path)
+                else:
+                    for file in os.listdir(file_path):
+                        if file.endswith('.csv'):
+                            full_path = os.path.join(file_path, file)
+                            validate_and_update_accounts_from_file(full_path)
+            else:
+                print(f"Path does not exist: {file_path}")
+                
+        elif choice == 2:  # Spend
+            entity = get_entity_choice()
+            file_type = get_file_type_choice()
+            file_path = input("\nEnter file or directory path: ").strip()
+            
+            if os.path.exists(file_path):
+                if os.path.isfile(file_path):
+                    if file_type == 1:
+                        update_account_service_daily_spend(file_path, entity)
+                    elif file_type == 2:
+                        update_account_service_monthly_spend(file_path, entity)
+                    else:
+                        update_account_monthly_spend(file_path, entity)
+                else:
+                    for file in os.listdir(file_path):
+                        if file.endswith('.csv'):
+                            full_path = os.path.join(file_path, file)
+                            if file_type == 1:
+                                update_account_service_daily_spend(full_path, entity)
+                            elif file_type == 2:
+                                update_account_service_monthly_spend(full_path, entity)
+                            else:
+                                update_account_monthly_spend(full_path, entity)
+            else:
+                print(f"Path does not exist: {file_path}")
 
 if __name__ == "__main__":
     main() 

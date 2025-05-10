@@ -54,8 +54,46 @@ def handle_hod_details(cursor, hod_name, entity):
     
     return new_hod_id
 
-def validate_and_update_accounts(transformed_file):
-    """Validate accounts and update the database"""
+def validate_and_update_single_account(account_id, account_name, entity):
+    """Validate and update a single account in the database"""
+    try:
+        # Get database connection
+        conn = get_db_connection()
+        if not conn:
+            return False
+        
+        cursor = conn.cursor()
+        
+        # Check if account exists
+        cursor.execute("SELECT * FROM account_details WHERE account_id = ?", (account_id,))
+        existing_account = cursor.fetchone()
+        
+        if not existing_account:
+            # Insert new account
+            cursor.execute("""
+                INSERT INTO account_details (
+                    account_id, account_name, hod_id, entity, 
+                    account_type, account_status, account_owner,
+                    cost_center, business_unit, region, country
+                ) VALUES (?, ?, NULL, ?, NULL, NULL, NULL, NULL, NULL, NULL, NULL)
+            """, (account_id, account_name, entity))
+            
+            print(f"Added new account: {account_id} - {account_name}")
+        
+        # Commit changes and close connection
+        conn.commit()
+        conn.close()
+        
+        return True
+        
+    except Exception as e:
+        print(f"Error updating account {account_id}: {str(e)}")
+        if 'conn' in locals():
+            conn.close()
+        return False
+
+def validate_and_update_accounts_from_file(transformed_file):
+    """Validate accounts and update the database from a transformed file"""
     try:
         # Read the transformed data
         df = pd.read_csv(transformed_file)
