@@ -73,8 +73,8 @@ def validate_and_update_single_account(account_id, account_name, entity):
             cursor.execute("""
                 INSERT INTO account_details (
                     account_id, account_name, hod_id, entity, 
-                    account_type, account_status, account_owner,
-                    cost_center, business_unit, region, country
+                    cloud_id, business_id, percentage, prod_flg,
+                    account_creation_date, cls_flg, cls_date
                 ) VALUES (?, ?, '00000001', ?, NULL, NULL, NULL, NULL, NULL, NULL, NULL)
             """, (account_id, account_name, entity))
             
@@ -140,8 +140,8 @@ def validate_and_update_accounts_from_file(transformed_file):
                 cursor.execute("""
                     INSERT INTO account_details (
                         account_id, account_name, hod_id, entity, 
-                        account_type, account_status, account_owner,
-                        cost_center, business_unit, region, country
+                        cloud_id, business_id, percentage, prod_flg,
+                        account_creation_date, cls_flg, cls_date
                     ) VALUES (?, ?, ?, ?, NULL, NULL, NULL, NULL, NULL, NULL, NULL)
                 """, (account_id, account_name, hod_id, entity if has_hod_entity else None))
                 
